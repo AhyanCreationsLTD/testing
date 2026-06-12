@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ATV.be" tvg-logo="None" group-title="Belgium - General",ATV
+https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8
+#EXTINF:-1 tvg-id="Matele.be" tvg-logo="None" group-title="Belgium - General",Matele
+https://live.matele.be/hls/live.m3u8
+#EXTINF:-1 tvg-id="Notele.be" tvg-logo="None" group-title="Belgium - General",Notele
+https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BelRTL.be" tvg-logo="None" group-title="Belgium - Music",Bel RTL
+https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
+#EXTINF:-1 tvg-id="RadioContact.be" tvg-logo="None" group-title="Belgium - Music",Radio Contact
+https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
+#EXTINF:-1 tvg-id="BX1.be" tvg-logo="None" group-title="Belgium - Other",BX1
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="None" group-title="Belgium - Other",RTL-TVI
+https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
+#EXTINF:-1 tvg-id="JapanimTV.be" tvg-logo="None" group-title="Belgium - Animation",JapanimTV
+https://foxkidstv.be:3369/stream/play.m3u8

@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BalatonTV.hu" tvg-logo="None" group-title="Hungary - Other",Balaton TV
+https://stream.iptvservice.eu/hls/balatontv.m3u8
+#EXTINF:-1 tvg-id="DTV.hu" tvg-logo="None" group-title="Hungary - Other",DTV
+http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
+#EXTINF:-1 tvg-id="RTL.hu" tvg-logo="None" group-title="Hungary - Other",RTL
+http://46.149.191.217:9005/play/a018
+#EXTINF:-1 tvg-id="RTLHarom.hu" tvg-logo="None" group-title="Hungary - Other",RTL Harom
+http://46.149.191.217:9005/play/a01t
+#EXTINF:-1 tvg-id="RTLKetto.hu" tvg-logo="None" group-title="Hungary - Other",RTL Ketto
+http://46.149.191.217:9005/play/a01r
+#EXTINF:-1 tvg-id="TV2.hu" tvg-logo="None" group-title="Hungary - Other",TV2
+http://46.149.191.217:9005/play/a01q
+#EXTINF:-1 tvg-id="TVEger.hu" tvg-logo="None" group-title="Hungary - Other",TV Eger
+http://stream.tveger.hu:8010/live.m3u8
+#EXTINF:-1 tvg-id="ZalaegerszegiTV.hu" tvg-logo="None" group-title="Hungary - Other",Zalaegerszegi TV
+https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
