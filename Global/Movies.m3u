@@ -29,6 +29,8 @@ https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8
 http://31.148.48.15/Amedia_HIT_HD/index.m3u8
 #EXTINF:-1 tvg-id="AmediaPremium.ru" tvg-logo="https://i.imgur.com/UUjehw9.png" group-title="Russian Federation - Movies",Amedia Premium
 http://31.148.48.15/Amedia_Premium_HD/index.m3u8
+#EXTINF:-1 tvg-id="AmericanHorrors.us" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png" group-title="United States - Movies",American Horrors
+http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 #EXTINF:-1 tvg-id="AnmolCinema.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA/images/LOGO_HD/LOGO_HD_image.png" group-title="India - Movies",Anmol Cinema
 http://103.175.73.12:8080/live/271/271_0.m3u8
 #EXTINF:-1 tvg-id="AnmolCinema2.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2/images/LOGO_HD/LOGO_HD_image.png" group-title="India - Movies",Anmol Cinema 2
@@ -37,8 +39,6 @@ http://103.175.73.12:8080/live/257/257_0.m3u8
 https://amogonetworx-artflix-1-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AuroraMediaFilms.gt" tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="Guatemala - Movies",Aurora Media Films
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
-#EXTINF:-1 tvg-id="B4UMovies.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/b4u_movies.png" group-title="India - Movies",B4U Movies
-https://mumt02.tangotv.in/B4UMOVIES/index.m3u8
 #EXTINF:-1 tvg-id="BhojpuriCinema.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHOJPURI_CINEMA/images/LOGO_HD/image.png" group-title="India - Movies",Bhojpuri Cinema
 https://cdn-4.pishow.tv/live/1033/master.m3u8
 #EXTINF:-1 tvg-id="BIZCinema.uz" tvg-logo="https://biztv.uz/static/media/biz-cinema.286b83dc.png" group-title="Uzbekistan - Movies",BIZ Cinema
@@ -57,6 +57,8 @@ http://198.204.240.250:82/live/cctv6.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTVTheFirstTheater.cn" tvg-logo="https://i.imgur.com/eFxD3hq.png" group-title="China - Movies",CCTV-The First Theater
 http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-logo="https://i.imgur.com/Mb5ssnu.png" group-title="Hong Kong - Movies",Celestial Movies
+http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
 #EXTINF:-1 tvg-id="Charge.us" tvg-logo="https://i.imgur.com/1rxmu2u.png" group-title="United States - Movies",Charge!
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 #EXTINF:-1 tvg-id="CineAdrenalina.us" tvg-logo="https://i.imgur.com/njCKaMv.png" group-title="United States - Movies",Cine Adrenalina
@@ -71,6 +73,8 @@ https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8
 http://catchup.videoline.ru/cinema/playlist.m3u8
 #EXTINF:-1 tvg-id="CinemaHausa.za" tvg-logo="https://i.imgur.com/uV5cHDW.png" group-title="South Africa - Movies",Cinema Hausa
 https://streamdot.broadpeak.io/cff02a74da64d1459eeb779df71f0511/afxpstr/CinemaHausa/index.m3u8
+#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="Malaysia - Movies",CinemaWorld
+http://103.58.160.157:8278/720-CINEMAWORLD/playlist.m3u8
 #EXTINF:-1 tvg-id="CineNanar.fr" tvg-logo="https://i.imgur.com/YnUZd3W.png" group-title="France - Movies",Cine Nanar
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CinePremiere.us" tvg-logo="https://i.imgur.com/PdhWTO6.png" group-title="United States - Movies",Cine Premiere
@@ -103,8 +107,6 @@ https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-
 http://31.148.48.15/Evrokino/index.m3u8
 #EXTINF:-1 tvg-id="FeniksplusKino.ru" tvg-logo="https://i.imgur.com/S9OPMLE.png" group-title="Russian Federation - Movies",Feniks plus Kino
 http://31.148.48.15/Feniks_plus_kino/index.m3u8
-#EXTINF:-1 tvg-id="Filmax.pk" tvg-logo="https://i.imgur.com/eLmdZ6k.png" group-title="Pakistan - Movies",Filmax
-https://s3.ideationtec.live/Filmax/Filmax.m3u8
 #EXTINF:-1 tvg-id="FilmBoxArthouse.nl" tvg-logo="https://i.imgur.com/hDg35ne.png" group-title="Netherlands - Movies",FilmBox Arthouse
 https://iptv.prosto.tv/ch63/index.m3u8
 #EXTINF:-1 tvg-id="FilmBoxBaltics.nl" tvg-logo="https://i.imgur.com/gXu36aD.png" group-title="Netherlands - Movies",FilmBox Baltics
@@ -335,8 +337,6 @@ https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 http://31.148.48.15/Rodnoe_kino/index.m3u8
 #EXTINF:-1 tvg-id="RojaMovies.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png" group-title="India - Movies",Roja Movies
 https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
-#EXTINF:-1 tvg-id="RomedyNow.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/TIMESPLAY/LIVECHANNEL/6904ba3839f3b175376a61d9/images/LOGO_HD/LOGO_HD_pZo0YIZKB_RomedyNow1_1.png" group-title="India - Movies",Romedy Now
-http://103.157.248.140:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="Runtime.us" tvg-logo="https://i.imgur.com/2USCMvP.png" group-title="United States - Movies",Runtime
 https://jmp2.uk/plu-62c5d80dc6de440007e033eb.m3u8
 #EXTINF:-1 tvg-id="RuntimeEspanol.us" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="United States - Movies",Runtime Espanol

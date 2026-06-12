@@ -1,5 +1,13 @@
 [
     {
+        "id": "CelestialMovies.hk",
+        "name": "Celestial Movies",
+        "logo": "https://i.imgur.com/Mb5ssnu.png",
+        "category": "Movies",
+        "country": "Hong Kong",
+        "url": "http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8"
+    },
+    {
         "id": "NewsWorld.hk",
         "name": "NewsWorld",
         "logo": "https://provider-static.plex.tv/epg/cms/production/2e3bf0d9-3ca6-4f65-b1d4-f180ef725d96/NewsWorld_logo_dark_-_Angela_Chan.png",
@@ -14,13 +22,5 @@
         "category": "Entertainment",
         "country": "Hong Kong",
         "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8"
-    },
-    {
-        "id": "RTHKTV31.hk",
-        "name": "RTHK TV 31",
-        "logo": "https://i.imgur.com/kf818kM.png",
-        "category": "Other",
-        "country": "Hong Kong",
-        "url": "https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8"
     }
 ]

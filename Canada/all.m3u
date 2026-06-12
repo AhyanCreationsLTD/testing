@@ -43,6 +43,8 @@ https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8
 https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8
 #EXTINF:-1 tvg-id="SohailTV.ca" tvg-logo="https://i.ibb.co/dtzjKfT/Sohail-TV.png" group-title="Canada - General",Sohail TV
 https://iptv.sohailtv.com/sohail/playlist/index.m3u8
+#EXTINF:-1 tvg-id="WataneMaaTV.ca" tvg-logo="https://i.ibb.co/1rDrKJG/Watan-E-Maa-Tv-Logo-300-Dpi.png" group-title="Canada - General",Watan-e-Maa TV
+https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 #EXTINF:-1 tvg-id="CanadaOne.ca" tvg-logo="" group-title="Canada - Other",Canada One
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Homeful.ca" tvg-logo="https://www.homefultv.com/wp-content/uploads/2023/03/Homeful_Logo_MintWhite.png" group-title="Canada - Other",Homeful
@@ -59,8 +61,6 @@ http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="Toronto360TV.ca" tvg-logo="https://i.imgur.com/YJYdHKO.png" group-title="Canada - Other",Toronto 360 TV
 http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="TV5QuebecCanada.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV5_%28logo%29.svg/960px-TV5_%28logo%29.svg.png" group-title="Canada - Other",TV5 Quebec Canada
-http://23.133.220.149/TV5/index.m3u8
 #EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="Canada - News",CBC News Network
 https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id="ChannelY.ca" tvg-logo="https://i.imgur.com/OqSl2Qf.png" group-title="Canada - News",Channel Y
@@ -125,8 +125,6 @@ https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
 #EXTINF:-1 tvg-id="StingrayCMusic.ca" tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="Canada - Music",Stingray CMusic
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayDJAZZ.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/960px-Stingray_Djazz.png" group-title="Canada - Music",Stingray DJAZZ
-https://jmp2.uk/plu-696689d13b9ce349c9be3a18.m3u8
 #EXTINF:-1 tvg-id="StingrayEasyListening.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="Canada - Music",Stingray Easy Listening
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayEuroHits.ca" tvg-logo="https://i.imgur.com/FyhO9U5.png" group-title="Canada - Music",Stingray Euro Hits

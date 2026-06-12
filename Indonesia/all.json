@@ -1,11 +1,83 @@
 [
     {
-        "id": "AFBTVKupang.id",
-        "name": "AFBTV Kupang",
-        "logo": "https://i.postimg.cc/bJpyzPbB/afbtv.png",
-        "category": "General",
+        "id": "AlBahjahTV.id",
+        "name": "Al-Bahjah TV",
+        "logo": "https://i.imgur.com/52dlDZk.png",
+        "category": "Religious",
         "country": "Indonesia",
-        "url": "https://afbtv.siar.us/live/afbtv.m3u8"
+        "url": "http://202.150.161.117:8000/play/AlBahjahTV"
+    },
+    {
+        "id": "AlImanTV.id",
+        "name": "Al-Iman TV",
+        "logo": "https://i.imgur.com/Qj1EFf1.png",
+        "category": "Religious",
+        "country": "Indonesia",
+        "url": "https://tv.aliman.id/aliman/live.m3u8"
+    },
+    {
+        "id": "AlWafaTarim.id",
+        "name": "Al Wafa Tarim",
+        "logo": "https://i.ibb.co/3yfMjmf/logo-3.png",
+        "category": "Religious",
+        "country": "Indonesia",
+        "url": "https://ammedia.siar.us/ammedia/live/playlist.m3u8"
+    },
+    {
+        "id": "AshiilTV.id",
+        "name": "Ashiil TV",
+        "logo": "https://i.imgur.com/bTktkcr.png",
+        "category": "Religious",
+        "country": "Indonesia",
+        "url": "https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8"
+    },
+    {
+        "id": "DhammaTV.id",
+        "name": "Dhamma TV",
+        "logo": "https://dhammaweb.tv/wp-content/uploads/2018/08/cropped-dhammatv-3.png",
+        "category": "Religious",
+        "country": "Indonesia",
+        "url": "https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8"
+    },
+    {
+        "id": "DMITV.id",
+        "name": "DMI TV",
+        "logo": "https://static.promediateknologi.id/promedia/network/1167/desktop/images/logo.png",
+        "category": "Religious",
+        "country": "Indonesia",
+        "url": "https://tvstreamcast.com/tawaftv.m3u8"
+    },
+    {
+        "id": "IAmChannel.id",
+        "name": "I Am Channel",
+        "logo": "https://i.imgur.com/Gg6OcGT.png",
+        "category": "Religious",
+        "country": "Indonesia",
+        "url": "https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8"
+    },
+    {
+        "id": "IzzahTV.id",
+        "name": "Izzah TV",
+        "logo": "https://i.imgur.com/my7aqLc.png",
+        "category": "Religious",
+        "country": "Indonesia",
+        "url": "https://streaming.radiosalamjambi.com/izzahtv.m3u8"
+    },
+    {
+        "id": "MadaniTV.id",
+        "name": "Madani TV",
+        "logo": "https://i.imgur.com/8aonQ0v.png",
+        "category": "Religious",
+        "country": "Indonesia",
+        "url": "https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8"
+    },
+    {
+        "id": "NabawiTV.id",
+        "name": "Nabawi TV",
+        "logo": "https://i.imgur.com/O8WONFB.png",
+        "category": "Religious",
+        "country": "Indonesia",
+        "url": "http://202.150.161.117:8000/play/NabawiTV"
     },
     {
         "id": "Allegro.id",
@@ -14,6 +86,14 @@
         "category": "General",
         "country": "Indonesia",
         "url": "https://vodcdn.bamboo-cloud.com/livehls/68c525e1063044539b09c253/master.m3u8"
+    },
+    {
+        "id": "ANTV.id",
+        "name": "ANTV",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png",
+        "category": "General",
+        "country": "Indonesia",
+        "url": "http://103.58.160.157:8278/720-ANTV/playlist.m3u8"
     },
     {
         "id": "AstroBlitarTV.id",
@@ -104,28 +184,12 @@
         "url": "http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8"
     },
     {
-        "id": "JekTV.id",
-        "name": "Jek TV",
-        "logo": "https://i.imgur.com/wh75d1f.png",
-        "category": "General",
-        "country": "Indonesia",
-        "url": "http://27.124.81.245:1935/jektv/myStream/playlist.m3u8"
-    },
-    {
         "id": "JogjaIstimewaTV.id",
         "name": "Jogja Istimewa TV",
         "logo": "https://i.imgur.com/VEqQfTu.png",
         "category": "General",
         "country": "Indonesia",
         "url": "http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8"
-    },
-    {
-        "id": "JogjaTV.id",
-        "name": "Jogja TV",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/40/Jogjatvnew.png",
-        "category": "General",
-        "country": "Indonesia",
-        "url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8"
     },
     {
         "id": "JTV.id",
@@ -160,14 +224,6 @@
         "url": "http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8"
     },
     {
-        "id": "SampitTV.id",
-        "name": "Sampit TV",
-        "logo": "https://i.imgur.com/8cFJa8G.png",
-        "category": "General",
-        "country": "Indonesia",
-        "url": "https://sampit-tv.siar.us/live/sampit-tv.m3u8"
-    },
-    {
         "id": "Trans7.id",
         "name": "Trans7",
         "logo": "https://i.imgur.com/fAbGImS.png",
@@ -190,86 +246,6 @@
         "category": "General",
         "country": "Indonesia",
         "url": "https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8"
-    },
-    {
-        "id": "AlBahjahTV.id",
-        "name": "Al-Bahjah TV",
-        "logo": "https://i.imgur.com/52dlDZk.png",
-        "category": "Religious",
-        "country": "Indonesia",
-        "url": "http://202.150.161.117:8000/play/AlBahjahTV"
-    },
-    {
-        "id": "AlImanTV.id",
-        "name": "Al-Iman TV",
-        "logo": "https://i.imgur.com/Qj1EFf1.png",
-        "category": "Religious",
-        "country": "Indonesia",
-        "url": "https://tv.aliman.id/aliman/live.m3u8"
-    },
-    {
-        "id": "AlWafaTarim.id",
-        "name": "Al Wafa Tarim",
-        "logo": "https://i.ibb.co/3yfMjmf/logo-3.png",
-        "category": "Religious",
-        "country": "Indonesia",
-        "url": "https://ammedia.siar.us/ammedia/live/playlist.m3u8"
-    },
-    {
-        "id": "AshiilTV.id",
-        "name": "Ashiil TV",
-        "logo": "https://i.imgur.com/bTktkcr.png",
-        "category": "Religious",
-        "country": "Indonesia",
-        "url": "https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8"
-    },
-    {
-        "id": "DhammaTV.id",
-        "name": "Dhamma TV",
-        "logo": "https://dhammaweb.tv/wp-content/uploads/2018/08/cropped-dhammatv-3.png",
-        "category": "Religious",
-        "country": "Indonesia",
-        "url": "https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8"
-    },
-    {
-        "id": "DMITV.id",
-        "name": "DMI TV",
-        "logo": "https://static.promediateknologi.id/promedia/network/1167/desktop/images/logo.png",
-        "category": "Religious",
-        "country": "Indonesia",
-        "url": "https://tvstreamcast.com/tawaftv.m3u8"
-    },
-    {
-        "id": "IAmChannel.id",
-        "name": "I Am Channel",
-        "logo": "https://i.imgur.com/Gg6OcGT.png",
-        "category": "Religious",
-        "country": "Indonesia",
-        "url": "https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8"
-    },
-    {
-        "id": "IzzahTV.id",
-        "name": "Izzah TV",
-        "logo": "https://i.imgur.com/my7aqLc.png",
-        "category": "Religious",
-        "country": "Indonesia",
-        "url": "https://streaming.radiosalamjambi.com/izzahtv.m3u8"
-    },
-    {
-        "id": "MadaniTV.id",
-        "name": "Madani TV",
-        "logo": "https://i.imgur.com/8aonQ0v.png",
-        "category": "Religious",
-        "country": "Indonesia",
-        "url": "https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8"
-    },
-    {
-        "id": "NabawiTV.id",
-        "name": "Nabawi TV",
-        "logo": "https://i.imgur.com/O8WONFB.png",
-        "category": "Religious",
-        "country": "Indonesia",
-        "url": "http://202.150.161.117:8000/play/NabawiTV"
     },
     {
         "id": "Ananda.id",
@@ -360,6 +336,14 @@
         "url": "https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8"
     },
     {
+        "id": "MatrixTVYogyakarta.id",
+        "name": "Matrix TV Yogyakarta",
+        "logo": "https://stream.matrixtv.id/logo",
+        "category": "Other",
+        "country": "Indonesia",
+        "url": "https://stream.matrixtv.id/hls/0/stream.m3u8"
+    },
+    {
         "id": "PKTV.id",
         "name": "PKTV",
         "logo": "https://i.imgur.com/mldv8Sf.png",
@@ -416,36 +400,12 @@
         "url": "https://saktitv.siar.us/saktitv/live/playlist.m3u8"
     },
     {
-        "id": "SalamTV.id",
-        "name": "Salam TV",
-        "logo": "https://i.imgur.com/00Ifzgo.png",
-        "category": "Other",
-        "country": "Indonesia",
-        "url": "https://salamtv.siar.us/live/salamtv.m3u8"
-    },
-    {
-        "id": "SemarangTV.id",
-        "name": "Semarang TV",
-        "logo": "https://i.imgur.com/KFC2WSB.png",
-        "category": "Other",
-        "country": "Indonesia",
-        "url": "http://116.254.112.74/hls/cakralive.m3u8"
-    },
-    {
         "id": "SMTV.id",
         "name": "SMTV",
         "logo": "https://upload.wikimedia.org/wikipedia/id/6/6e/Logo_SMTV_Sumedang.png",
         "category": "Other",
         "country": "Indonesia",
         "url": "https://e.siar.us/live/smtv.m3u8"
-    },
-    {
-        "id": "SriwijayaTV.id",
-        "name": "Sriwijaya TV",
-        "logo": "https://upload.wikimedia.org/wikipedia/id/7/75/SriwijayaTV_2014.png",
-        "category": "Other",
-        "country": "Indonesia",
-        "url": "https://sriwijayatv.siar.us/live/sriwijayatv.m3u8"
     },
     {
         "id": "StaraTV.id",

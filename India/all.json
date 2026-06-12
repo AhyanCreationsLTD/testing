@@ -256,6 +256,14 @@
         "url": "https://cdn-2.pishow.tv/live/1463/master.m3u8"
     },
     {
+        "id": "Ind24.in",
+        "name": "Ind 24",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/IND_24.png",
+        "category": "News",
+        "country": "India",
+        "url": "https://mumt02.tangotv.in/IND24/index.m3u8"
+    },
+    {
         "id": "IndiaDailyLive.in",
         "name": "India Daily Live",
         "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/IndiaDaily24x7_2025_transparent.png",
@@ -304,14 +312,6 @@
         "url": "https://stream.logichost.in/kannurvision/live/playlist.m3u8"
     },
     {
-        "id": "KNewsIndia.in",
-        "name": "K News India",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/K_News_India.png",
-        "category": "News",
-        "country": "India",
-        "url": "https://mumt02.tangotv.in/KNEWSINDIA/index.m3u8"
-    },
-    {
         "id": "MadhimugamTV.in",
         "name": "Madhimugam TV",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Madhimugam_TV.png",
@@ -342,14 +342,6 @@
         "category": "News",
         "country": "India",
         "url": "https://mumt02.tangotv.in/MANTAVYA24X7NEWS/index.m3u8"
-    },
-    {
-        "id": "MathrubhumiNews.in",
-        "name": "Mathrubhumi News",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MATHRUBHUMI_NEWS/images/LOGO_HD/image.png",
-        "category": "News",
-        "country": "India",
-        "url": "https://mumt02.tangotv.in/MATHRUBHUMINEWS/index.m3u8"
     },
     {
         "id": "MediaOne.in",
@@ -672,14 +664,6 @@
         "url": "https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8"
     },
     {
-        "id": "PrimeNews.in",
-        "name": "Prime News",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Prime_News.png",
-        "category": "News",
-        "country": "India",
-        "url": "https://mumt02.tangotv.in/PRIMENEWS/index.m3u8"
-    },
-    {
         "id": "PrudentMedia.in",
         "name": "Prudent Media",
         "logo": "https://i.imgur.com/DG0x4UD.png",
@@ -710,6 +694,14 @@
         "category": "News",
         "country": "India",
         "url": "https://cdn-3.pishow.tv/live/1261/master.m3u8"
+    },
+    {
+        "id": "RDXGoa.in",
+        "name": "RDX Goa",
+        "logo": "https://rdxgoa.com/news/wp-content/uploads/2018/07/cropped-RDX-NW-LOGO-8-1.png",
+        "category": "News",
+        "country": "India",
+        "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
     },
     {
         "id": "RealNewsKerala.in",
@@ -774,6 +766,14 @@
         "category": "News",
         "country": "India",
         "url": "https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8"
+    },
+    {
+        "id": "SalaamTV.in",
+        "name": "Salaam TV",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SALAAM_TV/images/LOGO_HD/image.png",
+        "category": "News",
+        "country": "India",
+        "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/426c6db7-595e-4aa8-859c-7e86ed2811d0/af896be5-4743-41fc-8b6a-eb05e44f3a6e/3.m3u8"
     },
     {
         "id": "SamacharPlus.in",
@@ -1520,14 +1520,6 @@
         "url": "https://cdn-3.pishow.tv/live/230/master.m3u8"
     },
     {
-        "id": "SiriKannada.in",
-        "name": "Siri Kannada",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sirikannada.png",
-        "category": "Entertainment",
-        "country": "India",
-        "url": "https://mumt02.tangotv.in/SIRIKANNADAALLTIME/index.m3u8"
-    },
-    {
         "id": "SubinTV.in",
         "name": "Subin TV",
         "logo": "https://www.subintv.in/SUBINLOGO.png",
@@ -1582,6 +1574,14 @@
         "category": "Entertainment",
         "country": "India",
         "url": "https://cdn-3.pishow.tv/live/1271/master.m3u8"
+    },
+    {
+        "id": "VissaTV.in",
+        "name": "Vissa TV",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VISSA_TV/images/LOGO_HD/image.png",
+        "category": "Entertainment",
+        "country": "India",
+        "url": "https://mumt02.tangotv.in/VISSATV/index.m3u8"
     },
     {
         "id": "AaseervathamTV.in",
@@ -1758,14 +1758,6 @@
         "category": "Religious",
         "country": "India",
         "url": "https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8"
-    },
-    {
-        "id": "MadhaTV.in",
-        "name": "Madha TV",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MADHA_TV/images/LOGO_HD/image.png",
-        "category": "Religious",
-        "country": "India",
-        "url": "https://mumt02.tangotv.in/MADHATV/index.m3u8"
     },
     {
         "id": "MercyTV.in",
@@ -2016,14 +2008,6 @@
         "url": "http://103.175.73.12:8080/live/257/257_0.m3u8"
     },
     {
-        "id": "B4UMovies.in",
-        "name": "B4U Movies",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/b4u_movies.png",
-        "category": "Movies",
-        "country": "India",
-        "url": "https://mumt02.tangotv.in/B4UMOVIES/index.m3u8"
-    },
-    {
         "id": "BhojpuriCinema.in",
         "name": "Bhojpuri Cinema",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHOJPURI_CINEMA/images/LOGO_HD/image.png",
@@ -2078,14 +2062,6 @@
         "category": "Movies",
         "country": "India",
         "url": "https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8"
-    },
-    {
-        "id": "RomedyNow.in",
-        "name": "Romedy Now",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/TIMESPLAY/LIVECHANNEL/6904ba3839f3b175376a61d9/images/LOGO_HD/LOGO_HD_pZo0YIZKB_RomedyNow1_1.png",
-        "category": "Movies",
-        "country": "India",
-        "url": "http://103.157.248.140:8000/play/a015/index.m3u8"
     },
     {
         "id": "ShemarooJosh.in",
@@ -2694,14 +2670,6 @@
         "category": "Sports",
         "country": "India",
         "url": "http://103.253.18.58:8000/play/a03o"
-    },
-    {
-        "id": "StarSports2Hindi.in",
-        "name": "Star Sports 2 Hindi",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SPORTS18_SYMHYP_1_HD/images/LOGO_HD/image.png",
-        "category": "Sports",
-        "country": "India",
-        "url": "http://103.157.248.140:8000/play/a01m/index.m3u8"
     },
     {
         "id": "Travelxp.in",

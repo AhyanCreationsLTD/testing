@@ -8,6 +8,14 @@
         "url": "https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8"
     },
     {
+        "id": "COMBrasil.br",
+        "name": "COM Brasil",
+        "logo": "https://i.imgur.com/GrjGwKM.png",
+        "category": "General",
+        "country": "Brazil",
+        "url": "https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8"
+    },
+    {
         "id": "ConecTVBrasil.br",
         "name": "ConecTV Brasil",
         "logo": "https://i.imgur.com/XN6jjMR.png",
@@ -134,14 +142,6 @@
         "category": "General",
         "country": "Brazil",
         "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
-    },
-    {
-        "id": "TVBrasilOeste.br",
-        "name": "TV Brasil Oeste",
-        "logo": "https://i.imgur.com/noqGfuy.png",
-        "category": "General",
-        "country": "Brazil",
-        "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     },
     {
         "id": "TVBRICSPortuguese.br",
@@ -432,6 +432,14 @@
         "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8"
     },
     {
+        "id": "TVFronteira.br",
+        "name": "TV Fronteira",
+        "logo": "https://i.imgur.com/NtcoW6G.png",
+        "category": "Other",
+        "country": "Brazil",
+        "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
+    },
+    {
         "id": "TVGuara.br",
         "name": "TV Guara",
         "logo": "https://i.imgur.com/8PErNBT.png",
@@ -454,6 +462,14 @@
         "category": "Other",
         "country": "Brazil",
         "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
+    },
+    {
+        "id": "TVSulBahia.br",
+        "name": "TV Sul Bahia",
+        "logo": "https://i.imgur.com/qM6nMWm.png",
+        "category": "Other",
+        "country": "Brazil",
+        "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
     },
     {
         "id": "TVVilaReal.br",
@@ -520,14 +536,6 @@
         "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8"
     },
     {
-        "id": "TCM10HD.br",
-        "name": "TCM 10 HD",
-        "logo": "https://i.imgur.com/aMuMVvB.png",
-        "category": "News",
-        "country": "Brazil",
-        "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
-    },
-    {
         "id": "TVAFolha.br",
         "name": "TV A Folha",
         "logo": "https://i.imgur.com/I7XGMhj.png",
@@ -550,6 +558,14 @@
         "category": "News",
         "country": "Brazil",
         "url": "https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8"
+    },
+    {
+        "id": "TVSimCachoeiro.br",
+        "name": "TV Sim Cachoeiro",
+        "logo": "https://i.imgur.com/t5oUK3C.png",
+        "category": "News",
+        "country": "Brazil",
+        "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
     },
     {
         "id": "TVSimColatina.br",
@@ -808,6 +824,22 @@
         "url": "https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8"
     },
     {
+        "id": "KpopTVPlay.br",
+        "name": "KpopTV Play",
+        "logo": "https://i.imgur.com/Tf0vweF.png",
+        "category": "Music",
+        "country": "Brazil",
+        "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
+    },
+    {
+        "id": "TikTokRadioBrasil.br",
+        "name": "TikTok Radio Brasil",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/f/f4/TikTok_Radio.svg",
+        "category": "Music",
+        "country": "Brazil",
+        "url": "https://jmp2.uk/plu-63dac32bda711800088a2ba3.m3u8"
+    },
+    {
         "id": "NickOnline.br",
         "name": "NickOnline",
         "logo": "https://x1co.com.br/logo.png",
@@ -822,14 +854,6 @@
         "category": "Kids",
         "country": "Brazil",
         "url": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8"
-    },
-    {
-        "id": "TikTokRadioBrasil.br",
-        "name": "TikTok Radio Brasil",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/f/f4/TikTok_Radio.svg",
-        "category": "Music",
-        "country": "Brazil",
-        "url": "https://jmp2.uk/plu-63dac32bda711800088a2ba3.m3u8"
     },
     {
         "id": "TVERS.br",
@@ -862,5 +886,13 @@
         "category": "Series",
         "country": "Brazil",
         "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
+    },
+    {
+        "id": "TVUFOP.br",
+        "name": "TV UFOP",
+        "logo": "https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png",
+        "category": "Public",
+        "country": "Brazil",
+        "url": "https://app.tvufop.com.br/hls/tvufop.m3u8"
     }
 ]

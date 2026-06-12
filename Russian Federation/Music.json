@@ -128,12 +128,12 @@
         "url": "http://31.148.48.15/RU_TV/index.m3u8"
     },
     {
-        "id": "SONGTVRussia.ru",
-        "name": "SONGTV Russia",
-        "logo": "https://i.imgur.com/nM7LbmV.png",
+        "id": "ShansonTV.ru",
+        "name": "Shanson TV",
+        "logo": "https://i.imgur.com/Fk4sd8t.png",
         "category": "Music",
         "country": "Russian Federation",
-        "url": "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8"
+        "url": "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8"
     },
     {
         "id": "StranaFM.ru",
@@ -142,6 +142,14 @@
         "category": "Music",
         "country": "Russian Federation",
         "url": "https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8"
+    },
+    {
+        "id": "VIVARussia.ru",
+        "name": "VIVA Russia",
+        "logo": "https://i.imgur.com/OFhQQCD.png",
+        "category": "Music",
+        "country": "Russian Federation",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8"
     },
     {
         "id": "Zhara.ru",

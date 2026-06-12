@@ -968,14 +968,6 @@
         "url": "https://iptv.prosto.tv/ch2/index.m3u8"
     },
     {
-        "id": "IERTBCSCanal82.mx",
-        "name": "IERTBCS Canal 8.2",
-        "logo": "https://i.imgur.com/R3icGuG.png",
-        "category": "Entertainment",
-        "country": "Mexico",
-        "url": "https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8"
-    },
-    {
         "id": "IlBancodeiPugni.us",
         "name": "Il Banco dei Pugni",
         "logo": "https://i.imgur.com/NZDUlME.png",
@@ -1270,6 +1262,14 @@
         "category": "Entertainment",
         "country": "Ecuador",
         "url": "http://iptv.makrodigitaltv.makrodigital.com:8081/makrodigitaltelevision/iptv/playlist.m3u8"
+    },
+    {
+        "id": "MaLive.nl",
+        "name": "MaLive",
+        "logo": "https://i.imgur.com/0Vzg2OR.png",
+        "category": "Entertainment",
+        "country": "Netherlands",
+        "url": "https://live.salto.nl/hls/malive_high.m3u8"
     },
     {
         "id": "MangoMobileTV.in",
@@ -2000,6 +2000,14 @@
         "url": "https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/2103d417/index.m3u8"
     },
     {
+        "id": "SASTV.gt",
+        "name": "SAS TV",
+        "logo": "https://i.imgur.com/VShjB3o.png",
+        "category": "Entertainment",
+        "country": "Guatemala",
+        "url": "https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8"
+    },
+    {
         "id": "SBS6Classics.nl",
         "name": "SBS6 Classics",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8d/SBS_6_logo_2013.png",
@@ -2040,14 +2048,6 @@
         "url": "https://cdn-3.pishow.tv/live/230/master.m3u8"
     },
     {
-        "id": "SiriKannada.in",
-        "name": "Siri Kannada",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sirikannada.png",
-        "category": "Entertainment",
-        "country": "India",
-        "url": "https://mumt02.tangotv.in/SIRIKANNADAALLTIME/index.m3u8"
-    },
-    {
         "id": "Smotrim100Prazdnik.ru",
         "name": "Smotrim 100% Prazdnik",
         "logo": "https://i.imgur.com/NEcqFse.png",
@@ -2086,14 +2086,6 @@
         "category": "Entertainment",
         "country": "Greece",
         "url": "http://livestar.siliconweb.com/starvod/star4/star4.m3u8"
-    },
-    {
-        "id": "StarChannelInternational.gr",
-        "name": "Star Channel International",
-        "logo": "https://i.imgur.com/6NUpxhr.png",
-        "category": "Entertainment",
-        "country": "Greece",
-        "url": "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8"
     },
     {
         "id": "STEuropeChannel.it",
@@ -2368,14 +2360,6 @@
         "url": "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8"
     },
     {
-        "id": "TVCanalSur.do",
-        "name": "TV Canal Sur",
-        "logo": "",
-        "category": "Entertainment",
-        "country": "Dominican Republic",
-        "url": "https://streamtvs.tvcanalsur.com.do/hls/stream/index.m3u8"
-    },
-    {
         "id": "TVCARiBLatino.sx",
         "name": "TVCARiB Latino",
         "logo": "https://i.imgur.com/fvGlwKo.png",
@@ -2558,6 +2542,14 @@
         "category": "Entertainment",
         "country": "Dominican Republic",
         "url": "https://soportedvb.click:3891/live/visionndvlive.m3u8"
+    },
+    {
+        "id": "VissaTV.in",
+        "name": "Vissa TV",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VISSA_TV/images/LOGO_HD/image.png",
+        "category": "Entertainment",
+        "country": "India",
+        "url": "https://mumt02.tangotv.in/VISSATV/index.m3u8"
     },
     {
         "id": "VIVOTV.uy",

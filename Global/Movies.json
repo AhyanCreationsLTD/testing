@@ -120,6 +120,14 @@
         "url": "http://31.148.48.15/Amedia_Premium_HD/index.m3u8"
     },
     {
+        "id": "AmericanHorrors.us",
+        "name": "American Horrors",
+        "logo": "https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png",
+        "category": "Movies",
+        "country": "United States",
+        "url": "http://107.167.7.162:8081/playlist/amhor/playlist.m3u8"
+    },
+    {
         "id": "AnmolCinema.in",
         "name": "Anmol Cinema",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
@@ -150,14 +158,6 @@
         "category": "Movies",
         "country": "Guatemala",
         "url": "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8"
-    },
-    {
-        "id": "B4UMovies.in",
-        "name": "B4U Movies",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/b4u_movies.png",
-        "category": "Movies",
-        "country": "India",
-        "url": "https://mumt02.tangotv.in/B4UMOVIES/index.m3u8"
     },
     {
         "id": "BhojpuriCinema.in",
@@ -232,6 +232,14 @@
         "url": "http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub"
     },
     {
+        "id": "CelestialMovies.hk",
+        "name": "Celestial Movies",
+        "logo": "https://i.imgur.com/Mb5ssnu.png",
+        "category": "Movies",
+        "country": "Hong Kong",
+        "url": "http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8"
+    },
+    {
         "id": "Charge.us",
         "name": "Charge!",
         "logo": "https://i.imgur.com/1rxmu2u.png",
@@ -286,6 +294,14 @@
         "category": "Movies",
         "country": "South Africa",
         "url": "https://streamdot.broadpeak.io/cff02a74da64d1459eeb779df71f0511/afxpstr/CinemaHausa/index.m3u8"
+    },
+    {
+        "id": "CinemaWorld.my",
+        "name": "CinemaWorld",
+        "logo": "https://i.imgur.com/D2qNVZ7.png",
+        "category": "Movies",
+        "country": "Malaysia",
+        "url": "http://103.58.160.157:8278/720-CINEMAWORLD/playlist.m3u8"
     },
     {
         "id": "CineNanar.fr",
@@ -414,14 +430,6 @@
         "category": "Movies",
         "country": "Russian Federation",
         "url": "http://31.148.48.15/Feniks_plus_kino/index.m3u8"
-    },
-    {
-        "id": "Filmax.pk",
-        "name": "Filmax",
-        "logo": "https://i.imgur.com/eLmdZ6k.png",
-        "category": "Movies",
-        "country": "Pakistan",
-        "url": "https://s3.ideationtec.live/Filmax/Filmax.m3u8"
     },
     {
         "id": "FilmBoxArthouse.nl",
@@ -1342,14 +1350,6 @@
         "category": "Movies",
         "country": "India",
         "url": "https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8"
-    },
-    {
-        "id": "RomedyNow.in",
-        "name": "Romedy Now",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/TIMESPLAY/LIVECHANNEL/6904ba3839f3b175376a61d9/images/LOGO_HD/LOGO_HD_pZo0YIZKB_RomedyNow1_1.png",
-        "category": "Movies",
-        "country": "India",
-        "url": "http://103.157.248.140:8000/play/a015/index.m3u8"
     },
     {
         "id": "Runtime.us",

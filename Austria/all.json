@@ -32,12 +32,12 @@
         "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8"
     },
     {
-        "id": "ComedyCentral.at",
-        "name": "Comedy Central",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/3/33/Comedy_Central_Austria_2018.svg",
-        "category": "Comedy",
+        "id": "ATV.at",
+        "name": "ATV",
+        "logo": "https://i.imgur.com/1pA0Tid.png",
+        "category": "General",
         "country": "Austria",
-        "url": "https://jmp2.uk/plu-61c0989431084d0007eab12d.m3u8"
+        "url": "http://212.186.45.34:9981/stream/channelid/692531719?profile=pass"
     },
     {
         "id": "FS1Salzburg.at",
@@ -64,6 +64,14 @@
         "url": "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref="
     },
     {
+        "id": "ComedyCentral.at",
+        "name": "Comedy Central",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/3/33/Comedy_Central_Austria_2018.svg",
+        "category": "Comedy",
+        "country": "Austria",
+        "url": "https://jmp2.uk/plu-61c0989431084d0007eab12d.m3u8"
+    },
+    {
         "id": "KITTV.at",
         "name": "KIT-TV",
         "logo": "https://i.imgur.com/5rDo1Za.png",
@@ -88,6 +96,14 @@
         "url": "https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd"
     },
     {
+        "id": "R9.at",
+        "name": "R9",
+        "logo": "https://i.imgur.com/SVJiXxh.png",
+        "category": "Other",
+        "country": "Austria",
+        "url": "https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8"
+    },
+    {
         "id": "RTV.at",
         "name": "RTV",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/RTV_OOE_Logo.png",
@@ -110,6 +126,14 @@
         "category": "Other",
         "country": "Austria",
         "url": "https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8"
+    },
+    {
+        "id": "W24.at",
+        "name": "W24",
+        "logo": "https://i.imgur.com/FpVNrxk.png",
+        "category": "Other",
+        "country": "Austria",
+        "url": "https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8"
     },
     {
         "id": "SchladmingDachsteinTV.at",

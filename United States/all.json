@@ -2520,14 +2520,6 @@
         "url": "https://jmp2.uk/plu-5e46fba0c43b0d00096e5ac1.m3u8"
     },
     {
-        "id": "CBSNews247.us",
-        "name": "CBS News 24/7",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png",
-        "category": "News",
-        "country": "United States",
-        "url": "https://jmp2.uk/plu-5a6b92f6e22a617379789618.m3u8"
-    },
-    {
         "id": "CBSNewsBaltimore.us",
         "name": "CBS News Baltimore",
         "logo": "https://i.imgur.com/jy3UfCe.png",
@@ -3456,6 +3448,14 @@
         "url": "https://rpn.bozztv.com/gusa/gusa-tvsmusic/index.m3u8"
     },
     {
+        "id": "VallenatoInternacional.us",
+        "name": "Vallenato Internacional",
+        "logo": "https://i.imgur.com/rVKroNW.png",
+        "category": "Music",
+        "country": "United States",
+        "url": "https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8"
+    },
+    {
         "id": "Vevo2K.us",
         "name": "Vevo 2K",
         "logo": "https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg",
@@ -3998,6 +3998,14 @@
         "category": "Movies",
         "country": "United States",
         "url": "https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8"
+    },
+    {
+        "id": "AmericanHorrors.us",
+        "name": "American Horrors",
+        "logo": "https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png",
+        "category": "Movies",
+        "country": "United States",
+        "url": "http://107.167.7.162:8081/playlist/amhor/playlist.m3u8"
     },
     {
         "id": "ARTFLIXMovieClassics.us",
@@ -4768,14 +4776,6 @@
         "url": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8"
     },
     {
-        "id": "AlkarmaTVNorthAmericaCanada.us",
-        "name": "Alkarma TV North America & Canada",
-        "logo": "https://i.imgur.com/pnm60bq.png",
-        "category": "Religious",
-        "country": "United States",
-        "url": "https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8"
-    },
-    {
         "id": "AlkarmaTVPraise.us",
         "name": "Alkarma TV Praise",
         "logo": "https://i.imgur.com/bJLKkou.png",
@@ -5030,14 +5030,6 @@
         "category": "Religious",
         "country": "United States",
         "url": "https://content.uplynk.com/channel/fbc0f835332e476397b12216f9042f78.m3u8"
-    },
-    {
-        "id": "JBS.us",
-        "name": "JBS",
-        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lDWY-W9dD7UvLlp1NuWLJs1wV6t_KjeOT-1iVVIGuLZ8U=s512-c-k-c0x00ffffff-no-rj",
-        "category": "Religious",
-        "country": "United States",
-        "url": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8"
     },
     {
         "id": "KPCBDT171.us",
@@ -5390,14 +5382,6 @@
         "category": "Religious",
         "country": "United States",
         "url": "https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8"
-    },
-    {
-        "id": "WLMB.us",
-        "name": "WLMB",
-        "logo": "https://i.imgur.com/KeELZ1Y.png",
-        "category": "Religious",
-        "country": "United States",
-        "url": "https://rpn.bozztv.com/wlmb/wlmb/wlmb/index.m3u8"
     },
     {
         "id": "3ABNKids.us",
@@ -5768,14 +5752,6 @@
         "url": "https://tg-tg-xumo.otteravision.com/tg/tg/tg.m3u8"
     },
     {
-        "id": "TortuesNinjaTV.us",
-        "name": "Tortues Ninja TV",
-        "logo": "https://i.imgur.com/d2ACbkV.png",
-        "category": "Kids",
-        "country": "United States",
-        "url": "https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8"
-    },
-    {
         "id": "TotallyTurtles.us",
         "name": "Totally Turtles",
         "logo": "https://i.imgur.com/1gIpagY.png",
@@ -5806,6 +5782,54 @@
         "category": "Kids",
         "country": "United States",
         "url": "https://rpn.bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8"
+    },
+    {
+        "id": "6WiseTv.us",
+        "name": "6 Wise Tv",
+        "logo": "https://jrlist70.pages.dev/list/wise.png",
+        "category": "Family",
+        "country": "United States",
+        "url": "https://live.enhdtv.com:8081/8150/index.m3u8"
+    },
+    {
+        "id": "AMGTV.us",
+        "name": "AMG TV",
+        "logo": "https://i.imgur.com/m5Anun9.png",
+        "category": "Family",
+        "country": "United States",
+        "url": "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8"
+    },
+    {
+        "id": "DoveChannel.us",
+        "name": "Dove Channel",
+        "logo": "",
+        "category": "Family",
+        "country": "United States",
+        "url": "https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8"
+    },
+    {
+        "id": "PositivTV.us",
+        "name": "Positiv TV",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/8/82/Positiv_TV_Network_Logo.png",
+        "category": "Family",
+        "country": "United States",
+        "url": "http://trn03.bozztv.com/gin-positiv/index.m3u8"
+    },
+    {
+        "id": "ThePetCollective.us",
+        "name": "The Pet Collective",
+        "logo": "https://i.imgur.com/yH7n2dF.png",
+        "category": "Family",
+        "country": "United States",
+        "url": "https://pb-jc9emctsujawo.akamaized.net/playlist.m3u8"
+    },
+    {
+        "id": "TVSFamilyChannel.us",
+        "name": "TVS Family Channel",
+        "logo": "https://i.imgur.com/Y3EV3DL.png",
+        "category": "Family",
+        "country": "United States",
+        "url": "https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8"
     },
     {
         "id": "ABC.us",
@@ -5894,14 +5918,6 @@
         "category": "General",
         "country": "United States",
         "url": "http://live.albavision.net:1123/live/albdreams.m3u8"
-    },
-    {
-        "id": "AMGATV.us",
-        "name": "AMGA TV",
-        "logo": "https://i.imgur.com/NTlC6e7.png",
-        "category": "General",
-        "country": "United States",
-        "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8"
     },
     {
         "id": "AMP1.us",
@@ -6472,6 +6488,14 @@
         "url": "https://amg01942-amg01942c1-stirr-us-10167.playouts.now.amagi.tv/playlist.m3u8"
     },
     {
+        "id": "KOCTChannel18.us",
+        "name": "KOCT Channel 18",
+        "logo": "https://i.imgur.com/6C71KwP.png",
+        "category": "General",
+        "country": "United States",
+        "url": "https://securestream10.champds.com/LIVE/KOCTCALIVE/KOCTCALIVE.m3u8"
+    },
+    {
         "id": "KOKHTV251.us",
         "name": "KOKH-TV 25.1",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
@@ -6670,14 +6694,6 @@
         "category": "General",
         "country": "United States",
         "url": "https://livestream.telvue.com/leominster1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    },
-    {
-        "id": "LittleGuyanaTV.us",
-        "name": "Little Guyana TV",
-        "logo": "https://i.imgur.com/b475xOT.jpg",
-        "category": "General",
-        "country": "United States",
-        "url": "https://video1.getstreamhosting.com:1936/8122/8122/playlist.m3u8"
     },
     {
         "id": "LPTV.us",
@@ -7928,14 +7944,6 @@
         "url": "https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8"
     },
     {
-        "id": "PlutoTVCocina.us",
-        "name": "Pluto TV Cocina",
-        "logo": "https://i.imgur.com/LRtfQla.png",
-        "category": "Cooking",
-        "country": "United States",
-        "url": "https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8"
-    },
-    {
         "id": "TastemadeBrasil.us",
         "name": "Tastemade Brasil",
         "logo": "https://i.imgur.com/FPy4zF4.png",
@@ -7958,46 +7966,6 @@
         "category": "Cooking",
         "country": "United States",
         "url": "https://tm-tmtar-xumo.amagi.tv/playlist.m3u8"
-    },
-    {
-        "id": "AMGTV.us",
-        "name": "AMG TV",
-        "logo": "https://i.imgur.com/m5Anun9.png",
-        "category": "Family",
-        "country": "United States",
-        "url": "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8"
-    },
-    {
-        "id": "DoveChannel.us",
-        "name": "Dove Channel",
-        "logo": "",
-        "category": "Family",
-        "country": "United States",
-        "url": "https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8"
-    },
-    {
-        "id": "PositivTV.us",
-        "name": "Positiv TV",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/82/Positiv_TV_Network_Logo.png",
-        "category": "Family",
-        "country": "United States",
-        "url": "http://trn03.bozztv.com/gin-positiv/index.m3u8"
-    },
-    {
-        "id": "ThePetCollective.us",
-        "name": "The Pet Collective",
-        "logo": "https://i.imgur.com/yH7n2dF.png",
-        "category": "Family",
-        "country": "United States",
-        "url": "https://pb-jc9emctsujawo.akamaized.net/playlist.m3u8"
-    },
-    {
-        "id": "TVSFamilyChannel.us",
-        "name": "TVS Family Channel",
-        "logo": "https://i.imgur.com/Y3EV3DL.png",
-        "category": "Family",
-        "country": "United States",
-        "url": "https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8"
     },
     {
         "id": "AMP2.us",
@@ -8262,14 +8230,6 @@
         "category": "Animation",
         "country": "United States",
         "url": "https://jmp2.uk/plu-67ed8f7e443f0671bc2b2368.m3u8"
-    },
-    {
-        "id": "PlutoTVPokemon.us",
-        "name": "Pluto TV Pokemon",
-        "logo": "https://i.imgur.com/GEbRABE.png",
-        "category": "Animation",
-        "country": "United States",
-        "url": "https://jmp2.uk/plu-6675c7868768aa0008d7f1c7.m3u8"
     },
     {
         "id": "SouthPark.us",
@@ -8704,6 +8664,206 @@
         "url": "https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8"
     },
     {
+        "id": "BeverlyHillbillies.us",
+        "name": "Beverly Hillbillies",
+        "logo": "https://i.imgur.com/OV9hT93.png",
+        "category": "Classic",
+        "country": "United States",
+        "url": "https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8"
+    },
+    {
+        "id": "ClassicTVDrama.us",
+        "name": "Classic TV Drama",
+        "logo": "https://i.imgur.com/XHQxv0x.png",
+        "category": "Classic",
+        "country": "United States",
+        "url": "https://jmp2.uk/plu-5f15e3cccf49290007053c67.m3u8"
+    },
+    {
+        "id": "ClassicTVFamilies.us",
+        "name": "Classic TV: Families",
+        "logo": "https://i.imgur.com/llAZ49f.png",
+        "category": "Classic",
+        "country": "United States",
+        "url": "https://jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8"
+    },
+    {
+        "id": "PlutoTVSeriesRetro.us",
+        "name": "Pluto TV Series Retro",
+        "logo": "https://i.imgur.com/UpgGZJ1.png",
+        "category": "Classic",
+        "country": "United States",
+        "url": "https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8"
+    },
+    {
+        "id": "PlutoTVTheTwilightZone.us",
+        "name": "Pluto TV The Twilight Zone",
+        "logo": "https://i.imgur.com/FiIRQAR.png",
+        "category": "Classic",
+        "country": "United States",
+        "url": "https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8"
+    },
+    {
+        "id": "RetroCrush.us",
+        "name": "RetroCrush",
+        "logo": "https://i.imgur.com/M40b4YI.png",
+        "category": "Classic",
+        "country": "United States",
+        "url": "https://d2nqmwm1ndpgi2.cloudfront.net/playlist.m3u8"
+    },
+    {
+        "id": "SamuelGoldwynClassics.us",
+        "name": "Samuel Goldwyn Classics",
+        "logo": "https://i.imgur.com/XC30JAF.png",
+        "category": "Classic",
+        "country": "United States",
+        "url": "https://samuelgoldwyn-classics-1-us.roku.wurl.tv/playlist.m3u8"
+    },
+    {
+        "id": "TheAndyGriffithShow.us",
+        "name": "The Andy Griffith Show",
+        "logo": "https://i.imgur.com/1QpMJJT.png",
+        "category": "Classic",
+        "country": "United States",
+        "url": "https://jmp2.uk/plu-60f75178e7f8aa0007e9c259.m3u8"
+    },
+    {
+        "id": "TheArchive.us",
+        "name": "The Archive",
+        "logo": "",
+        "category": "Classic",
+        "country": "United States",
+        "url": "https://linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist.m3u8"
+    },
+    {
+        "id": "TheCarolBurnettShow.us",
+        "name": "The Carol Burnett Show",
+        "logo": "https://i.imgur.com/1a03FlX.png",
+        "category": "Classic",
+        "country": "United States",
+        "url": "https://carolburnett-vizio.amagi.tv/playlist.m3u8"
+    },
+    {
+        "id": "TheLoveBoat.us",
+        "name": "The Love Boat",
+        "logo": "https://i.imgur.com/7ad6NQ8.png",
+        "category": "Classic",
+        "country": "United States",
+        "url": "https://jmp2.uk/plu-5f7794a788d29000079d2f07.m3u8"
+    },
+    {
+        "id": "TVSCipherNetwork.us",
+        "name": "TVS Cipher Network",
+        "logo": "https://i.imgur.com/yyz1S2W.png",
+        "category": "Classic",
+        "country": "United States",
+        "url": "https://rpn.bozztv.com/gusa/gusa-tvsmystery/index.m3u8"
+    },
+    {
+        "id": "TVSClassicMovies.us",
+        "name": "TVS Classic Movies",
+        "logo": "https://i.imgur.com/st1xMsw.png",
+        "category": "Classic",
+        "country": "United States",
+        "url": "https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8"
+    },
+    {
+        "id": "TVSHollywoodHistory.us",
+        "name": "TVS Hollywood History",
+        "logo": "https://i.imgur.com/QtQGyMS.png",
+        "category": "Classic",
+        "country": "United States",
+        "url": "https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8"
+    },
+    {
+        "id": "TVSMainstreet.us",
+        "name": "TVS Mainstreet",
+        "logo": "https://i.imgur.com/N9nQpnP.png",
+        "category": "Classic",
+        "country": "United States",
+        "url": "https://rpn.bozztv.com/gusa/gusa-tvsmainst/index.m3u8"
+    },
+    {
+        "id": "TVSNostalgia.us",
+        "name": "TVS Nostalgia",
+        "logo": "https://i.imgur.com/q72FCCQ.png",
+        "category": "Classic",
+        "country": "United States",
+        "url": "https://rpn.bozztv.com/gusa/gusa-nostalgia/index.m3u8"
+    },
+    {
+        "id": "TVSNostalgiaMovies.us",
+        "name": "TVS Nostalgia Movies",
+        "logo": "https://i.imgur.com/w4fxiKi.png",
+        "category": "Classic",
+        "country": "United States",
+        "url": "https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8"
+    },
+    {
+        "id": "TVSPetParadeNetwork.us",
+        "name": "TVS Pet Parade Network",
+        "logo": "https://i.imgur.com/oGE1MOP.png",
+        "category": "Classic",
+        "country": "United States",
+        "url": "https://rpn.bozztv.com/gusa/gusa-petparadenetwork/index.m3u8"
+    },
+    {
+        "id": "TVSQuizShowNetwork.us",
+        "name": "TVS Quiz Show Network",
+        "logo": "https://i.imgur.com/5ljQwx2.png",
+        "category": "Classic",
+        "country": "United States",
+        "url": "https://rpn.bozztv.com/gusa/gusa-tvsgameshow/index.m3u8"
+    },
+    {
+        "id": "TVSTalkNetwork.us",
+        "name": "TVS Talk Network",
+        "logo": "https://i.imgur.com/WsaVAhx.png",
+        "category": "Classic",
+        "country": "United States",
+        "url": "https://rpn.bozztv.com/gusa/gusa-TVStalk/index.m3u8"
+    },
+    {
+        "id": "TVSTallyHo.us",
+        "name": "TVS Tally Ho",
+        "logo": "https://i.imgur.com/JlFwnDD.png",
+        "category": "Classic",
+        "country": "United States",
+        "url": "https://rpn.bozztv.com/gusa/gusa-tvstallyho/index.m3u8"
+    },
+    {
+        "id": "TVSTavern.us",
+        "name": "TVS Tavern",
+        "logo": "https://i.imgur.com/3GTIs4j.png",
+        "category": "Classic",
+        "country": "United States",
+        "url": "https://rpn.bozztv.com/gusa/gusa-tavern/index.m3u8"
+    },
+    {
+        "id": "TVSWesternMovie.us",
+        "name": "TVS Western Movie",
+        "logo": "https://i.imgur.com/dwr98qb.png",
+        "category": "Classic",
+        "country": "United States",
+        "url": "https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8"
+    },
+    {
+        "id": "WantedDeadorAlive.us",
+        "name": "Wanted: Dead or Alive",
+        "logo": "https://i.imgur.com/vaSXaFp.png",
+        "category": "Classic",
+        "country": "United States",
+        "url": "https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playlist.m3u8"
+    },
+    {
+        "id": "WesternTV.us",
+        "name": "Western TV",
+        "logo": "https://i.imgur.com/nNy9oTx.png",
+        "category": "Classic",
+        "country": "United States",
+        "url": "https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8"
+    },
+    {
         "id": "BeyondBeliefFactorFiction.us",
         "name": "Beyond Belief: Fact or Fiction",
         "logo": "https://i.imgur.com/3uXQg7Y.png",
@@ -9038,14 +9198,6 @@
         "category": "Other",
         "country": "United States",
         "url": "https://livestream.telvue.com/lompoccmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    },
-    {
-        "id": "TBNArmenia.us",
-        "name": "TBN Armenia",
-        "logo": "https://i.imgur.com/U5XsT3j.png",
-        "category": "Other",
-        "country": "United States",
-        "url": "https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8"
     },
     {
         "id": "TBNPacific.us",
@@ -9504,6 +9656,14 @@
         "url": "https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8"
     },
     {
+        "id": "WLIO81.us",
+        "name": "WLIO 8.1",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
+        "category": "Other",
+        "country": "United States",
+        "url": "https://live.field59.com/wlio/wlio1/playlist.m3u8"
+    },
+    {
         "id": "WLNGRadio.us",
         "name": "WLNG Radio",
         "logo": "",
@@ -9856,6 +10016,14 @@
         "url": "https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8"
     },
     {
+        "id": "KOCTChannel19.us",
+        "name": "KOCT Channel 19",
+        "logo": "https://i.imgur.com/6C71KwP.png",
+        "category": "Education",
+        "country": "United States",
+        "url": "https://securestream10.champds.com/LIVE/KOCTCALIVE2/KOCTCALIVE2.m3u8"
+    },
+    {
         "id": "LA36.us",
         "name": "LA36",
         "logo": "https://i.imgur.com/JxTzUEq.png",
@@ -10102,198 +10270,6 @@
         "category": "Education",
         "country": "United States",
         "url": "https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8"
-    },
-    {
-        "id": "ClassicTVDrama.us",
-        "name": "Classic TV Drama",
-        "logo": "https://i.imgur.com/XHQxv0x.png",
-        "category": "Classic",
-        "country": "United States",
-        "url": "https://jmp2.uk/plu-5f15e3cccf49290007053c67.m3u8"
-    },
-    {
-        "id": "ClassicTVFamilies.us",
-        "name": "Classic TV: Families",
-        "logo": "https://i.imgur.com/llAZ49f.png",
-        "category": "Classic",
-        "country": "United States",
-        "url": "https://jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8"
-    },
-    {
-        "id": "PlutoTVSeriesRetro.us",
-        "name": "Pluto TV Series Retro",
-        "logo": "https://i.imgur.com/UpgGZJ1.png",
-        "category": "Classic",
-        "country": "United States",
-        "url": "https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8"
-    },
-    {
-        "id": "PlutoTVTheTwilightZone.us",
-        "name": "Pluto TV The Twilight Zone",
-        "logo": "https://i.imgur.com/FiIRQAR.png",
-        "category": "Classic",
-        "country": "United States",
-        "url": "https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8"
-    },
-    {
-        "id": "RetroCrush.us",
-        "name": "RetroCrush",
-        "logo": "https://i.imgur.com/M40b4YI.png",
-        "category": "Classic",
-        "country": "United States",
-        "url": "https://d2nqmwm1ndpgi2.cloudfront.net/playlist.m3u8"
-    },
-    {
-        "id": "SamuelGoldwynClassics.us",
-        "name": "Samuel Goldwyn Classics",
-        "logo": "https://i.imgur.com/XC30JAF.png",
-        "category": "Classic",
-        "country": "United States",
-        "url": "https://samuelgoldwyn-classics-1-us.roku.wurl.tv/playlist.m3u8"
-    },
-    {
-        "id": "TheAndyGriffithShow.us",
-        "name": "The Andy Griffith Show",
-        "logo": "https://i.imgur.com/1QpMJJT.png",
-        "category": "Classic",
-        "country": "United States",
-        "url": "https://jmp2.uk/plu-60f75178e7f8aa0007e9c259.m3u8"
-    },
-    {
-        "id": "TheArchive.us",
-        "name": "The Archive",
-        "logo": "",
-        "category": "Classic",
-        "country": "United States",
-        "url": "https://linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist.m3u8"
-    },
-    {
-        "id": "TheCarolBurnettShow.us",
-        "name": "The Carol Burnett Show",
-        "logo": "https://i.imgur.com/1a03FlX.png",
-        "category": "Classic",
-        "country": "United States",
-        "url": "https://carolburnett-vizio.amagi.tv/playlist.m3u8"
-    },
-    {
-        "id": "TheLoveBoat.us",
-        "name": "The Love Boat",
-        "logo": "https://i.imgur.com/7ad6NQ8.png",
-        "category": "Classic",
-        "country": "United States",
-        "url": "https://jmp2.uk/plu-5f7794a788d29000079d2f07.m3u8"
-    },
-    {
-        "id": "TVSCipherNetwork.us",
-        "name": "TVS Cipher Network",
-        "logo": "https://i.imgur.com/yyz1S2W.png",
-        "category": "Classic",
-        "country": "United States",
-        "url": "https://rpn.bozztv.com/gusa/gusa-tvsmystery/index.m3u8"
-    },
-    {
-        "id": "TVSClassicMovies.us",
-        "name": "TVS Classic Movies",
-        "logo": "https://i.imgur.com/st1xMsw.png",
-        "category": "Classic",
-        "country": "United States",
-        "url": "https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8"
-    },
-    {
-        "id": "TVSHollywoodHistory.us",
-        "name": "TVS Hollywood History",
-        "logo": "https://i.imgur.com/QtQGyMS.png",
-        "category": "Classic",
-        "country": "United States",
-        "url": "https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8"
-    },
-    {
-        "id": "TVSMainstreet.us",
-        "name": "TVS Mainstreet",
-        "logo": "https://i.imgur.com/N9nQpnP.png",
-        "category": "Classic",
-        "country": "United States",
-        "url": "https://rpn.bozztv.com/gusa/gusa-tvsmainst/index.m3u8"
-    },
-    {
-        "id": "TVSNostalgia.us",
-        "name": "TVS Nostalgia",
-        "logo": "https://i.imgur.com/q72FCCQ.png",
-        "category": "Classic",
-        "country": "United States",
-        "url": "https://rpn.bozztv.com/gusa/gusa-nostalgia/index.m3u8"
-    },
-    {
-        "id": "TVSNostalgiaMovies.us",
-        "name": "TVS Nostalgia Movies",
-        "logo": "https://i.imgur.com/w4fxiKi.png",
-        "category": "Classic",
-        "country": "United States",
-        "url": "https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8"
-    },
-    {
-        "id": "TVSPetParadeNetwork.us",
-        "name": "TVS Pet Parade Network",
-        "logo": "https://i.imgur.com/oGE1MOP.png",
-        "category": "Classic",
-        "country": "United States",
-        "url": "https://rpn.bozztv.com/gusa/gusa-petparadenetwork/index.m3u8"
-    },
-    {
-        "id": "TVSQuizShowNetwork.us",
-        "name": "TVS Quiz Show Network",
-        "logo": "https://i.imgur.com/5ljQwx2.png",
-        "category": "Classic",
-        "country": "United States",
-        "url": "https://rpn.bozztv.com/gusa/gusa-tvsgameshow/index.m3u8"
-    },
-    {
-        "id": "TVSTalkNetwork.us",
-        "name": "TVS Talk Network",
-        "logo": "https://i.imgur.com/WsaVAhx.png",
-        "category": "Classic",
-        "country": "United States",
-        "url": "https://rpn.bozztv.com/gusa/gusa-TVStalk/index.m3u8"
-    },
-    {
-        "id": "TVSTallyHo.us",
-        "name": "TVS Tally Ho",
-        "logo": "https://i.imgur.com/JlFwnDD.png",
-        "category": "Classic",
-        "country": "United States",
-        "url": "https://rpn.bozztv.com/gusa/gusa-tvstallyho/index.m3u8"
-    },
-    {
-        "id": "TVSTavern.us",
-        "name": "TVS Tavern",
-        "logo": "https://i.imgur.com/3GTIs4j.png",
-        "category": "Classic",
-        "country": "United States",
-        "url": "https://rpn.bozztv.com/gusa/gusa-tavern/index.m3u8"
-    },
-    {
-        "id": "TVSWesternMovie.us",
-        "name": "TVS Western Movie",
-        "logo": "https://i.imgur.com/dwr98qb.png",
-        "category": "Classic",
-        "country": "United States",
-        "url": "https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8"
-    },
-    {
-        "id": "WantedDeadorAlive.us",
-        "name": "Wanted: Dead or Alive",
-        "logo": "https://i.imgur.com/vaSXaFp.png",
-        "category": "Classic",
-        "country": "United States",
-        "url": "https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playlist.m3u8"
-    },
-    {
-        "id": "WesternTV.us",
-        "name": "Western TV",
-        "logo": "https://i.imgur.com/nNy9oTx.png",
-        "category": "Classic",
-        "country": "United States",
-        "url": "https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8"
     },
     {
         "id": "PlutoTVScience.us",

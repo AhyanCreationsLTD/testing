@@ -67,12 +67,16 @@ https://cdn1.etbon.eus/etb1/index.m3u8
 https://cdn1.etbon.eus/etb2/index.m3u8
 #EXTINF:-1 tvg-id="ETBEvents1.es" tvg-logo="https://i.imgur.com/bVUEmx9.png" group-title="Spain - General",ETB Events 1
 https://cdn1.etbon.eus/oc1/index.m3u8
+#EXTINF:-1 tvg-id="Fibwi.es" tvg-logo="https://i.imgur.com/4vcGzcC.png" group-title="Spain - General",Fibwi
+https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="FuerteventuraTV.es" tvg-logo="https://i.ibb.co/MpvjCzC/Fuerteventura-tv-service-webtv-488969d1-1.png" group-title="Spain - General",Fuerteventura TV
 https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
 #EXTINF:-1 tvg-id="GaliciaTVEuropa.es" tvg-logo="https://i.imgur.com/dvkzH8n.png" group-title="Spain - General",Galicia TV Europa
 https://crtvg-europa.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 tvg-id="GuadaTV.es" tvg-logo="https://i.imgur.com/YaDNsYN.png" group-title="Spain - General",Guada TV
 https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8
+#EXTINF:-1 tvg-id="ImasTV.es" tvg-logo="https://i.imgur.com/a9hgTmM.png" group-title="Spain - General",Imas TV
+https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 #EXTINF:-1 tvg-id="InteralmeriaTV.es" tvg-logo="https://i.imgur.com/ulSkAjZ.png" group-title="Spain - General",Interalmeria TV
 https://interalmeria.tv/directo/live.m3u8
 #EXTINF:-1 tvg-id="IntercomarcalTV.es" tvg-logo="https://i.imgur.com/KLPSnAT.png" group-title="Spain - General",Intercomarcal TV
@@ -113,8 +117,6 @@ http://92.176.119.180:2095/play/a15y
 https://tvdirecto.teleelx.es/stream/teleelx.m3u8
 #EXTINF:-1 tvg-id="TVBRICSSpanish.es" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="Spain - General",TV BRICS Spanish
 https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
-#EXTINF:-1 tvg-id="TVR.es" tvg-logo="https://i.ibb.co/nRq3YfT/Logo-Rioja-Televisi-n-S-A.png" group-title="Spain - General",TVR
-https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="TVReus.es" tvg-logo="https://i.imgur.com/Ee0C8UH.jpg" group-title="Spain - General",TVReus
 https://eu1.servers10.com:8081/8166/index.m3u8
 #EXTINF:-1 tvg-id="TVSabadellValles.es" tvg-logo="https://i.imgur.com/fSTsGbG.png" group-title="Spain - General",TV Sabadell-Valles
@@ -219,6 +221,8 @@ https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8
 https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
 #EXTINF:-1 tvg-id="SolidariaTV.es" tvg-logo="https://i.imgur.com/Bgm2iZY.png" group-title="Spain - Other",Solidaria TV
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+#EXTINF:-1 tvg-id="Telemotril.es" tvg-logo="https://i.imgur.com/4nspLHb.png" group-title="Spain - Other",Telemotril
+https://5940924978228.streamlock.net/8431/8431/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleSafor.es" tvg-logo="https://i.imgur.com/EowJfr0.png" group-title="Spain - Other",Tele Safor
 https://video.telesafor.com/hls/video.m3u8
 #EXTINF:-1 tvg-id="TeleVigo.es" tvg-logo="https://i.imgur.com/4iVmlFa.png" group-title="Spain - Other",TeleVigo

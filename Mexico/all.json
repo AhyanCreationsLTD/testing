@@ -8,14 +8,6 @@
         "url": "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8"
     },
     {
-        "id": "CaliforniaMediosTV.mx",
-        "name": "California Medios TV",
-        "logo": "https://i.imgur.com/IDvpRNI.png",
-        "category": "General",
-        "country": "Mexico",
-        "url": "https://s5.mexside.net:1936/medios/medios/playlist.m3u8"
-    },
-    {
         "id": "Canal33Tijuana.mx",
         "name": "Canal 33 Tijuana",
         "logo": "https://iili.io/JCt1Nbn.png",
@@ -48,14 +40,6 @@
         "url": "https://stream.crealatv.com/live.m3u8"
     },
     {
-        "id": "DespiertaTV.mx",
-        "name": "Despierta TV",
-        "logo": "https://i.imgur.com/hywjKNo.jpg",
-        "category": "General",
-        "country": "Mexico",
-        "url": "https://video2.lhdserver.es/despiertatv/live.m3u8"
-    },
-    {
         "id": "ExpresaTV.mx",
         "name": "Expresa TV",
         "logo": "https://i.imgur.com/kFVVGrg.png",
@@ -80,14 +64,6 @@
         "url": "https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8"
     },
     {
-        "id": "NayaritComunica.mx",
-        "name": "Nayarit Comunica",
-        "logo": "https://i.imgur.com/aZCTkjU.jpg",
-        "category": "General",
-        "country": "Mexico",
-        "url": "https://live.iplanay.gob.mx/hls/nayarittv.m3u8"
-    },
-    {
         "id": "NueveTV.mx",
         "name": "Nueve TV",
         "logo": "https://i.imgur.com/3fzB7zY.png",
@@ -110,14 +86,6 @@
         "category": "General",
         "country": "Mexico",
         "url": "https://webprod.sipse.com.mx:8080/show/merida.m3u8"
-    },
-    {
-        "id": "SIPSETVCUN81.mx",
-        "name": "SIPSE TVCUN 8.1",
-        "logo": "https://i.imgur.com/uiTgClU.png",
-        "category": "General",
-        "country": "Mexico",
-        "url": "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8"
     },
     {
         "id": "SuperChannel12.mx",
@@ -190,14 +158,6 @@
         "category": "General",
         "country": "Mexico",
         "url": "https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8"
-    },
-    {
-        "id": "XHBZCTDT.mx",
-        "name": "XHBZC-TDT",
-        "logo": "https://i.imgur.com/R3icGuG.png",
-        "category": "General",
-        "country": "Mexico",
-        "url": "https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8"
     },
     {
         "id": "XHFGLTDT.mx",
@@ -288,14 +248,6 @@
         "url": "https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8"
     },
     {
-        "id": "Canal10Durango.mx",
-        "name": "Canal 10 Durango",
-        "logo": "https://i.imgur.com/H34quHQ.png",
-        "category": "Other",
-        "country": "Mexico",
-        "url": "https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8"
-    },
-    {
         "id": "Canal26.mx",
         "name": "Canal 26",
         "logo": "https://i.imgur.com/PAvnVN9.png",
@@ -342,22 +294,6 @@
         "category": "Other",
         "country": "Mexico",
         "url": "https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8"
-    },
-    {
-        "id": "SistemaMichoacanodeTV.mx",
-        "name": "Sistema Michoacano de TV",
-        "logo": "https://i.imgur.com/7MXF4Fd.png",
-        "category": "Other",
-        "country": "Mexico",
-        "url": "https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8"
-    },
-    {
-        "id": "SQCSCanal4.mx",
-        "name": "SQCS Canal 4",
-        "logo": "https://i.imgur.com/qnx8nBP.png",
-        "category": "Other",
-        "country": "Mexico",
-        "url": "https://video0.rogohosting.com:19360/4982/4982.m3u8"
     },
     {
         "id": "TeleFormula.mx",
@@ -440,14 +376,6 @@
         "url": "https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8"
     },
     {
-        "id": "XEWHTDT.mx",
-        "name": "XEWH-TDT",
-        "logo": "https://i.imgur.com/klhTyDU.png",
-        "category": "Other",
-        "country": "Mexico",
-        "url": "https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8"
-    },
-    {
         "id": "XHGVTDT.mx",
         "name": "XHGV-TDT",
         "logo": "https://i.imgur.com/15kcNRb.png",
@@ -486,6 +414,46 @@
         "category": "Legislative",
         "country": "Mexico",
         "url": "https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8"
+    },
+    {
+        "id": "Capital21.mx",
+        "name": "Capital 21",
+        "logo": "https://i.imgur.com/8ign49i.png",
+        "category": "Culture",
+        "country": "Mexico",
+        "url": "https://video.cdmx.gob.mx/redes/stream.m3u8"
+    },
+    {
+        "id": "GikTVMX.mx",
+        "name": "GikTVMX",
+        "logo": "https://i.imgur.com/Gwz78jZ.png",
+        "category": "Culture",
+        "country": "Mexico",
+        "url": "https://pistream.ddns.net/hls/stream.m3u8"
+    },
+    {
+        "id": "JaliscoTV.mx",
+        "name": "Jalisco TV",
+        "logo": "https://i.imgur.com/N4meE8I.png",
+        "category": "Culture",
+        "country": "Mexico",
+        "url": "https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8"
+    },
+    {
+        "id": "PresumiendoMexico.mx",
+        "name": "Presumiendo Mexico",
+        "logo": "https://i.imgur.com/bFG4Rqz.png",
+        "category": "Culture",
+        "country": "Mexico",
+        "url": "https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8"
+    },
+    {
+        "id": "TVCuatro42.mx",
+        "name": "TV Cuatro 4.2",
+        "logo": "https://i.imgur.com/Of044Jx.png",
+        "category": "Culture",
+        "country": "Mexico",
+        "url": "https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8"
     },
     {
         "id": "ConectaTV.mx",
@@ -552,52 +520,52 @@
         "url": "https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8"
     },
     {
-        "id": "ElSonorense.mx",
-        "name": "El Sonorense",
-        "logo": "https://i.imgur.com/aKvPd4g.jpg",
-        "category": "Culture",
+        "id": "ILCECanal15SummaSaberes.mx",
+        "name": "ILCE Canal 15 Summa Saberes",
+        "logo": "https://i.imgur.com/r7czgOc.png",
+        "category": "Education",
         "country": "Mexico",
-        "url": "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8"
+        "url": "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8"
     },
     {
-        "id": "GikTVMX.mx",
-        "name": "GikTVMX",
-        "logo": "https://i.imgur.com/Gwz78jZ.png",
-        "category": "Culture",
+        "id": "TeleUV.mx",
+        "name": "Tele UV",
+        "logo": "https://i.imgur.com/8MdUH69.jpeg",
+        "category": "Education",
         "country": "Mexico",
-        "url": "https://pistream.ddns.net/hls/stream.m3u8"
+        "url": "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8"
     },
     {
-        "id": "JaliscoTV.mx",
-        "name": "Jalisco TV",
-        "logo": "https://i.imgur.com/N4meE8I.png",
-        "category": "Culture",
-        "country": "Mexico",
-        "url": "https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8"
-    },
-    {
-        "id": "PresumiendoMexico.mx",
-        "name": "Presumiendo Mexico",
-        "logo": "https://i.imgur.com/bFG4Rqz.png",
-        "category": "Culture",
-        "country": "Mexico",
-        "url": "https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8"
-    },
-    {
-        "id": "TVCuatro42.mx",
-        "name": "TV Cuatro 4.2",
+        "id": "TVCuatro44.mx",
+        "name": "TV Cuatro 4.4",
         "logo": "https://i.imgur.com/Of044Jx.png",
-        "category": "Culture",
+        "category": "Education",
         "country": "Mexico",
-        "url": "https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8"
+        "url": "https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8"
     },
     {
-        "id": "IERTBCSCanal82.mx",
-        "name": "IERTBCS Canal 8.2",
-        "logo": "https://i.imgur.com/R3icGuG.png",
-        "category": "Entertainment",
+        "id": "TVUG.mx",
+        "name": "TV UG",
+        "logo": "https://i.imgur.com/pxkDpTU.jpeg",
+        "category": "Education",
         "country": "Mexico",
-        "url": "https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8"
+        "url": "https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8"
+    },
+    {
+        "id": "TVUJAT.mx",
+        "name": "TV UJAT",
+        "logo": "https://i.imgur.com/4demWOi.png",
+        "category": "Education",
+        "country": "Mexico",
+        "url": "https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8"
+    },
+    {
+        "id": "XHPBZCTDT2.mx",
+        "name": "XHPBZC-TDT2",
+        "logo": "https://i.imgur.com/dbJKErB.png",
+        "category": "Education",
+        "country": "Mexico",
+        "url": "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8"
     },
     {
         "id": "PSN.mx",
@@ -630,54 +598,6 @@
         "category": "Entertainment",
         "country": "Mexico",
         "url": "https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8"
-    },
-    {
-        "id": "ILCECanal15SummaSaberes.mx",
-        "name": "ILCE Canal 15 Summa Saberes",
-        "logo": "https://i.imgur.com/r7czgOc.png",
-        "category": "Education",
-        "country": "Mexico",
-        "url": "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8"
-    },
-    {
-        "id": "TVCuatro44.mx",
-        "name": "TV Cuatro 4.4",
-        "logo": "https://i.imgur.com/Of044Jx.png",
-        "category": "Education",
-        "country": "Mexico",
-        "url": "https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8"
-    },
-    {
-        "id": "TVUG.mx",
-        "name": "TV UG",
-        "logo": "https://i.imgur.com/pxkDpTU.jpeg",
-        "category": "Education",
-        "country": "Mexico",
-        "url": "https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8"
-    },
-    {
-        "id": "TVUJAT.mx",
-        "name": "TV UJAT",
-        "logo": "https://i.imgur.com/4demWOi.png",
-        "category": "Education",
-        "country": "Mexico",
-        "url": "https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8"
-    },
-    {
-        "id": "XHMNLTDT.mx",
-        "name": "XHMNL-TDT",
-        "logo": "https://i.imgur.com/9qL4LJF.png",
-        "category": "Education",
-        "country": "Mexico",
-        "url": "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8"
-    },
-    {
-        "id": "XHPBZCTDT2.mx",
-        "name": "XHPBZC-TDT2",
-        "logo": "https://i.imgur.com/dbJKErB.png",
-        "category": "Education",
-        "country": "Mexico",
-        "url": "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8"
     },
     {
         "id": "TuristikTV.mx",

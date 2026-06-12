@@ -176,6 +176,22 @@
         "url": "https://rtmp.info/iqtv/envivo/playlist.m3u8"
     },
     {
+        "id": "SOYPlanchaTV.cr",
+        "name": "SOY Plancha TV",
+        "logo": "https://i.ibb.co/P4kpMgk/1689344714578.jpg",
+        "category": "Music",
+        "country": "Costa Rica",
+        "url": "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8"
+    },
+    {
+        "id": "UrbanoTV.cr",
+        "name": "Urbano TV",
+        "logo": "https://i.imgur.com/KVVU9PI.png",
+        "category": "Music",
+        "country": "Costa Rica",
+        "url": "https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8"
+    },
+    {
         "id": "VideoTourChannel.cr",
         "name": "Video Tour Channel",
         "logo": "https://i.imgur.com/zEi8eMC.png",
@@ -206,6 +222,54 @@
         "category": "Music",
         "country": "Costa Rica",
         "url": "https://cloudvideo.servers10.com:8081/8198/index.m3u8"
+    },
+    {
+        "id": "BestClasicosTV.cr",
+        "name": "BestClasicosTV",
+        "logo": "https://i.imgur.com/a/BRb8AVL.png",
+        "category": "Other",
+        "country": "Costa Rica",
+        "url": "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
+    },
+    {
+        "id": "QuinceUCR.cr",
+        "name": "Quince UCR",
+        "logo": "https://i.imgur.com/U7DUlem.png",
+        "category": "Other",
+        "country": "Costa Rica",
+        "url": "https://wowza.ucr.ac.cr/quinceucr/_definst_/quinceucr.stream/playlist.m3u8"
+    },
+    {
+        "id": "TeleSURCostaRica.cr",
+        "name": "TeleSUR Costa Rica",
+        "logo": "https://i.imgur.com/KUpgeOf.png",
+        "category": "Other",
+        "country": "Costa Rica",
+        "url": "https://s1.tvdatta.com:3582/live/telesurlive.m3u8"
+    },
+    {
+        "id": "TVN14.cr",
+        "name": "TVN 14",
+        "logo": "https://i.imgur.com/1aNEo6U.png",
+        "category": "Other",
+        "country": "Costa Rica",
+        "url": "http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8"
+    },
+    {
+        "id": "TVSurCanal14.cr",
+        "name": "TV Sur Canal 14",
+        "logo": "https://i.imgur.com/OpHYYZA.png",
+        "category": "Other",
+        "country": "Costa Rica",
+        "url": "https://k20.usastreams.com:8081/tvsur/index.m3u8"
+    },
+    {
+        "id": "TVSurCanal9.cr",
+        "name": "TV Sur Canal 9",
+        "logo": "https://i.imgur.com/7HbISMV.png",
+        "category": "Other",
+        "country": "Costa Rica",
+        "url": "http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8"
     },
     {
         "id": "ColosalTV.cr",
@@ -286,45 +350,5 @@
         "category": "News",
         "country": "Costa Rica",
         "url": "https://videohd.live:19360/8076/8076.m3u8"
-    },
-    {
-        "id": "QuinceUCR.cr",
-        "name": "Quince UCR",
-        "logo": "https://i.imgur.com/U7DUlem.png",
-        "category": "Other",
-        "country": "Costa Rica",
-        "url": "https://wowza.ucr.ac.cr/quinceucr/_definst_/quinceucr.stream/playlist.m3u8"
-    },
-    {
-        "id": "TeleSURCostaRica.cr",
-        "name": "TeleSUR Costa Rica",
-        "logo": "https://i.imgur.com/KUpgeOf.png",
-        "category": "Other",
-        "country": "Costa Rica",
-        "url": "https://s1.tvdatta.com:3582/live/telesurlive.m3u8"
-    },
-    {
-        "id": "TVN14.cr",
-        "name": "TVN 14",
-        "logo": "https://i.imgur.com/1aNEo6U.png",
-        "category": "Other",
-        "country": "Costa Rica",
-        "url": "http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8"
-    },
-    {
-        "id": "TVSurCanal14.cr",
-        "name": "TV Sur Canal 14",
-        "logo": "https://i.imgur.com/OpHYYZA.png",
-        "category": "Other",
-        "country": "Costa Rica",
-        "url": "https://k20.usastreams.com:8081/tvsur/index.m3u8"
-    },
-    {
-        "id": "TVSurCanal9.cr",
-        "name": "TV Sur Canal 9",
-        "logo": "https://i.imgur.com/7HbISMV.png",
-        "category": "Other",
-        "country": "Costa Rica",
-        "url": "http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8"
     }
 ]

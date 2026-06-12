@@ -352,14 +352,6 @@
         "url": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8"
     },
     {
-        "id": "AlkarmaTVNorthAmericaCanada.us",
-        "name": "Alkarma TV North America & Canada",
-        "logo": "https://i.imgur.com/pnm60bq.png",
-        "category": "Religious",
-        "country": "United States",
-        "url": "https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8"
-    },
-    {
         "id": "AlkarmaTVPraise.us",
         "name": "Alkarma TV Praise",
         "logo": "https://i.imgur.com/bJLKkou.png",
@@ -702,6 +694,14 @@
         "category": "Religious",
         "country": "United States",
         "url": "https://reflect-stream-bronxnet.cablecast.tv/live-18/live/stream-7/live.m3u8"
+    },
+    {
+        "id": "Canal13Jujuy.ar",
+        "name": "Canal 13 Jujuy",
+        "logo": "https://i.imgur.com/lmKLiJ3.jpg",
+        "category": "Religious",
+        "country": "Argentina",
+        "url": "https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8"
     },
     {
         "id": "Canal26TVIAP.sv",
@@ -1152,6 +1152,14 @@
         "url": "https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8"
     },
     {
+        "id": "ElRoiTV.gt",
+        "name": "El-Roi TV",
+        "logo": "https://i.imgur.com/h8S0eA4.png",
+        "category": "Religious",
+        "country": "Guatemala",
+        "url": "https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8"
+    },
+    {
         "id": "Enlace.cr",
         "name": "Enlace",
         "logo": "https://i.imgur.com/YwUVTmS.png",
@@ -1454,14 +1462,6 @@
         "category": "Religious",
         "country": "Pakistan",
         "url": "https://livecdn.live247stream.com/grace/tv/playlist.m3u8"
-    },
-    {
-        "id": "GuadalupeMedia.bz",
-        "name": "Guadalupe Media",
-        "logo": "https://i.imgur.com/EfaOwRE.png",
-        "category": "Religious",
-        "country": "Belize",
-        "url": "https://streamer1.nexgen.bz/GUADALUPE_MEDIA/index.m3u8"
     },
     {
         "id": "GurSikhSabhaTV.ca",
@@ -1790,14 +1790,6 @@
         "category": "Religious",
         "country": "Indonesia",
         "url": "https://streaming.radiosalamjambi.com/izzahtv.m3u8"
-    },
-    {
-        "id": "JBS.us",
-        "name": "JBS",
-        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lDWY-W9dD7UvLlp1NuWLJs1wV6t_KjeOT-1iVVIGuLZ8U=s512-c-k-c0x00ffffff-no-rj",
-        "category": "Religious",
-        "country": "United States",
-        "url": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8"
     },
     {
         "id": "JFVTV.sv",
@@ -2222,14 +2214,6 @@
         "category": "Religious",
         "country": "Indonesia",
         "url": "https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8"
-    },
-    {
-        "id": "MadhaTV.in",
-        "name": "Madha TV",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MADHA_TV/images/LOGO_HD/image.png",
-        "category": "Religious",
-        "country": "India",
-        "url": "https://mumt02.tangotv.in/MADHATV/index.m3u8"
     },
     {
         "id": "MajestadTV.us",
@@ -2664,28 +2648,12 @@
         "url": "https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8"
     },
     {
-        "id": "PeaceTVBangla.ae",
-        "name": "Peace TV Bangla",
-        "logo": "https://i.imgur.com/1ztVXUi.png",
-        "category": "Religious",
-        "country": "United Arab Emirates",
-        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8"
-    },
-    {
         "id": "PeaceTVChinese.ae",
         "name": "Peace TV Chinese",
         "logo": "https://github.com/fawazahmed0/tiger/raw/master/peace/chinese.jpg",
         "category": "Religious",
         "country": "United Arab Emirates",
         "url": "https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8"
-    },
-    {
-        "id": "PeaceTVEnglish.ae",
-        "name": "Peace TV English",
-        "logo": "https://i.imgur.com/rjgCM2B.png",
-        "category": "Religious",
-        "country": "United Arab Emirates",
-        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"
     },
     {
         "id": "PeaceTVUrdu.ae",
@@ -3480,14 +3448,6 @@
         "url": "http://mi1.wz.tv2000.it/tv2000_alfa.m3u8"
     },
     {
-        "id": "TVAlBayane.ci",
-        "name": "TV Al Bayane",
-        "logo": "https://i.imgur.com/Xs9oEG8.png",
-        "category": "Religious",
-        "country": "Côte d'Ivoire",
-        "url": "http://69.64.57.208/albayanetv/index.m3u8"
-    },
-    {
         "id": "TVAparecida.br",
         "name": "TV Aparecida",
         "logo": "https://i.imgur.com/kxrja0X.png",
@@ -3720,20 +3680,20 @@
         "url": "https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8"
     },
     {
+        "id": "WholeWordTV.ng",
+        "name": "Whole Word TV",
+        "logo": "https://i.imgur.com/71MRtuK.png",
+        "category": "Religious",
+        "country": "Nigeria",
+        "url": "https://mn-nl.mncdn.com/wholewordtv/wholewordtv/index.m3u8"
+    },
+    {
         "id": "WiseHumanTv.ir",
         "name": "WiseHumanTv",
         "logo": "https://i.imgur.com/BT7EtfB.png",
         "category": "Religious",
         "country": "Iran, Islamic Republic of",
         "url": "https://avr.host247.net/live/WiseHumanTv/playlist.m3u8"
-    },
-    {
-        "id": "WLMB.us",
-        "name": "WLMB",
-        "logo": "https://i.imgur.com/KeELZ1Y.png",
-        "category": "Religious",
-        "country": "United States",
-        "url": "https://rpn.bozztv.com/wlmb/wlmb/wlmb/index.m3u8"
     },
     {
         "id": "WWXYDT3.pr",
