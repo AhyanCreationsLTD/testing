@@ -1,10 +1,9 @@
-name: Global IPTV Segmented Sync with Live Verification
+name: Global IPTV Segmented Fast Sync with PAT
 
 on:
   schedule:
-    # প্রতি ১ ঘণ্টা পর পর স্বয়ংক্রিয়ভাবে রান হবে (Cron Job)
-    - cron: '0 * * * *'
-  workflow_dispatch: # ম্যানুয়ালি যেকোনো সময় রান করার অপশন
+    - cron: '0 * * * *'  # প্রতি ১ ঘণ্টা পর পর অটো-রান হবে
+  workflow_dispatch:     # ম্যানুয়ালি যেকোনো সময় রান করার অপশন
 
 jobs:
   sync:
@@ -12,6 +11,9 @@ jobs:
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
+        with:
+          # আপনার রেপো সিক্রেটসে সেভ করা কাস্টম PAT টোকেন ব্যবহার করা হচ্ছে
+          token: ${{ secrets.IPTV_TOKEN }}
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -21,7 +23,7 @@ jobs:
       - name: Install Dependencies
         run: pip install requests pycountry
 
-      - name: Run Global Segmented Script
+      - name: Run Global Segmented Fast Script
         run: python update_iptv.py
 
       - name: Commit & Push Changes
@@ -29,9 +31,7 @@ jobs:
           git config --global user.name "Ahyan IPTV Bot"
           git config --global user.email "bot@ahyancreations.top"
           
-          # সব নতুন তৈরি বা আপডেট হওয়া ফোল্ডার ও ফাইল গিটহাবে যোগ করা
           git add -A  
-          
-          # যদি ডাটাতে পরিবর্তন থাকে তবেই কেবল পুশ করবে
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Global IPTV Live-Verified Sync: $(date -u)" && git push)
+          # ফাইল বা ডেটাতে পরিবর্তন আসলেই কেবল পুশ করবে
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Global IPTV Super-Fast Sync: $(date -u)" && git push)
           
