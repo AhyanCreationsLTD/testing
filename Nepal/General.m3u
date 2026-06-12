@@ -1,15 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AP1TV.np" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Nepal - General",AP1 TV
+#EXTINF:-1 tvg-id="AP1TV.np" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/AP1_TV_LOGO.png" group-title="Nepal - General",AP1 TV
 http://103.180.240.141:8080/hls/main1/playlist.m3u8
-#EXTINF:-1 tvg-id="BagmatiTV.np" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Nepal - General",Bagmati TV
+#EXTINF:-1 tvg-id="BagmatiTV.np" tvg-logo="https://i.imgur.com/2K6qEvh.jpg" group-title="Nepal - General",Bagmati TV
 http://maxotts.maxdigitaltv.com/x-media/C167/master.m3u8
-#EXTINF:-1 tvg-id="CapitalTVHD.np" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Nepal - General",Capital TV HD
+#EXTINF:-1 tvg-id="CapitalTVHD.np" tvg-logo="https://i.imgur.com/hb4bq1t.png" group-title="Nepal - General",Capital TV HD
 https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
-#EXTINF:-1 tvg-id="CityOneTelevision.np" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Nepal - General",City One Television
+#EXTINF:-1 tvg-id="CityOneTelevision.np" tvg-logo="https://i.imgur.com/AxBreI5.png" group-title="Nepal - General",City One Television
 http://maxotts.maxdigitaltv.com/x-media/C209/master.m3u8
-#EXTINF:-1 tvg-id="DhaulagiriTelevision.np" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Nepal - General",Dhaulagiri Television
+#EXTINF:-1 tvg-id="DhaulagiriTelevision.np" tvg-logo="https://i.imgur.com/1tTudCH.png" group-title="Nepal - General",Dhaulagiri Television
 http://maxotts.maxdigitaltv.com/x-media/C117/master.m3u8
-#EXTINF:-1 tvg-id="MithilaNepalTV.np" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Nepal - General",Mithila Nepal TV
-http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-id="NationalGoldTV.np" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Nepal - General",National Gold TV
+#EXTINF:-1 tvg-id="NationalGoldTV.np" tvg-logo="https://i.imgur.com/p0Wwf20.jpg" group-title="Nepal - General",National Gold TV
 http://maxotts.maxdigitaltv.com/x-media/C170/master.m3u8
