@@ -456,6 +456,14 @@
         "url": "https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8"
     },
     {
+        "id": "Canal10Durango.mx",
+        "name": "Canal 10 Durango",
+        "logo": "https://i.imgur.com/H34quHQ.png",
+        "category": "Other",
+        "country": "Mexico",
+        "url": "https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8"
+    },
+    {
         "id": "Canal10Emporda.es",
         "name": "Canal 10 Emporda",
         "logo": "https://i.imgur.com/ojQ6wzX.png",
@@ -632,6 +640,14 @@
         "url": "https://videos.canal56.com/directe/stream/index.m3u8"
     },
     {
+        "id": "Canal5SantaFe.ar",
+        "name": "Canal 5 Santa Fe",
+        "logo": "https://i.imgur.com/WX0esjQ.png",
+        "category": "Other",
+        "country": "Argentina",
+        "url": "https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8"
+    },
+    {
         "id": "Canal6Posadas.ar",
         "name": "Canal 6 Posadas",
         "logo": "https://i.imgur.com/OamBiS5.png",
@@ -766,6 +782,14 @@
         "category": "Other",
         "country": "Spain",
         "url": "https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8"
+    },
+    {
+        "id": "CanThoTV3.vn",
+        "name": "Can Tho TV 3",
+        "logo": "https://i.ibb.co/d4G2PD9s/cantho3-2025.png",
+        "category": "Other",
+        "country": "Viet Nam",
+        "url": "https://live.canthotv.vn/cs3/tv/chunklist.m3u8"
     },
     {
         "id": "CarinaTV.it",
@@ -1040,14 +1064,6 @@
         "url": "http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8"
     },
     {
-        "id": "FarosTV2.gr",
-        "name": "Faros TV2",
-        "logo": "https://i.imgur.com/7xtz1Jo.png",
-        "category": "Other",
-        "country": "Greece",
-        "url": "https://s1.cystream.net/live/faros2/playlist.m3u8"
-    },
-    {
         "id": "FastTV.us",
         "name": "Fast TV",
         "logo": "https://us1-prod-images.disco-api.com/2020/7/13/4f26aaf2-a993-480d-9675-0d501fb8d86f.png?bf=0&f=png&p=true&q=85&w=250",
@@ -1174,14 +1190,6 @@
         "category": "Other",
         "country": "Italy",
         "url": "http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8"
-    },
-    {
-        "id": "Italia7.it",
-        "name": "Italia 7",
-        "logo": "https://i.imgur.com/xc0kUHk.png",
-        "category": "Other",
-        "country": "Italy",
-        "url": "https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8"
     },
     {
         "id": "JordanArchive.jo",
@@ -1398,14 +1406,6 @@
         "category": "Other",
         "country": "Cameroon",
         "url": "http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8"
-    },
-    {
-        "id": "NarodnaTV.rs",
-        "name": "Narodna TV",
-        "logo": "https://i.imgur.com/dua57HD.png",
-        "category": "Other",
-        "country": "Serbia",
-        "url": "https://edge8.pink.rs/narodnatv/index.m3u8"
     },
     {
         "id": "NeiMonggolTV.cn",
@@ -1944,6 +1944,14 @@
         "url": "https://radioaalsmeer.nl:4443/live/tv.m3u8"
     },
     {
+        "id": "RadioBirikinaTV.it",
+        "name": "Radio Birikina TV",
+        "logo": "https://i.imgur.com/CFAx6m5.png",
+        "category": "Other",
+        "country": "Italy",
+        "url": "https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8"
+    },
+    {
         "id": "RadioFannJordanStudio.jo",
         "name": "Radio Fann Jordan Studio",
         "logo": "https://cdn-profiles.tunein.com/s142626/images/logod.jpg",
@@ -2480,14 +2488,6 @@
         "url": "https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8"
     },
     {
-        "id": "RTRSTV.ba",
-        "name": "RTRS TV",
-        "logo": "https://i.imgur.com/2Sgs5gM.png",
-        "category": "Other",
-        "country": "Bosnia and Herzegovina",
-        "url": "https://uzivo.rtrs.tv/tv/live/index.m3u8"
-    },
-    {
         "id": "RTTRTrento.it",
         "name": "RTTR Trento",
         "logo": "https://i.imgur.com/6DyzN8M.png",
@@ -2744,20 +2744,12 @@
         "url": "https://ncdn.telewebion.ir/salamat/live/playlist.m3u8"
     },
     {
-        "id": "Salto4.nl",
-        "name": "Salto 4",
-        "logo": "https://i.vimeocdn.com/portrait/31947989_640x640",
+        "id": "SalamTV.id",
+        "name": "Salam TV",
+        "logo": "https://i.imgur.com/00Ifzgo.png",
         "category": "Other",
-        "country": "Netherlands",
-        "url": "https://salto-streams.nl/hls/sotv2.m3u8"
-    },
-    {
-        "id": "SaltoADE.nl",
-        "name": "Salto ADE",
-        "logo": "https://i.vimeocdn.com/portrait/31947989_640x640",
-        "category": "Other",
-        "country": "Netherlands",
-        "url": "https://live.salto.nl/hls/at5.m3u8"
+        "country": "Indonesia",
+        "url": "https://salamtv.siar.us/live/salamtv.m3u8"
     },
     {
         "id": "SalvationTV.ng",
@@ -2918,30 +2910,6 @@
         "category": "Other",
         "country": "Thailand",
         "url": "https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8"
-    },
-    {
-        "id": "SBTNovaMutum.br",
-        "name": "SBT Nova Mutum",
-        "logo": "https://upload.wikimedia.org/wikipedia/pt/d/d0/Logotipo_do_SBT_Nova_Mutum.png",
-        "category": "Other",
-        "country": "Brazil",
-        "url": "https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8"
-    },
-    {
-        "id": "SBTRondonopolis.br",
-        "name": "SBT Rondonopolis",
-        "logo": "https://upload.wikimedia.org/wikipedia/pt/d/d5/Logotipo_do_SBT_Rondon%C3%B3polis.png",
-        "category": "Other",
-        "country": "Brazil",
-        "url": "https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8"
-    },
-    {
-        "id": "SBTSinop.br",
-        "name": "SBT Sinop",
-        "logo": "https://upload.wikimedia.org/wikipedia/pt/8/8b/Logotipo_do_SBT_Sinop.png",
-        "category": "Other",
-        "country": "Brazil",
-        "url": "https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8"
     },
     {
         "id": "SBTTV.th",
@@ -3112,14 +3080,6 @@
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8"
     },
     {
-        "id": "ShemarooMarathiBana.in",
-        "name": "Shemaroo Marathi Bana",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_MARATHIBANA/images/LOGO_HD/image.png",
-        "category": "Other",
-        "country": "India",
-        "url": "https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8]"
-    },
-    {
         "id": "Showtime.us",
         "name": "Showtime",
         "logo": "https://i.imgur.com/Or0LKsu.png",
@@ -3182,6 +3142,14 @@
         "category": "Other",
         "country": "Canada",
         "url": "https://cdn12.henico.net:8443/live/ssct/index.m3u8"
+    },
+    {
+        "id": "SistemaMichoacanodeTV.mx",
+        "name": "Sistema Michoacano de TV",
+        "logo": "https://i.imgur.com/7MXF4Fd.png",
+        "category": "Other",
+        "country": "Mexico",
+        "url": "https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8"
     },
     {
         "id": "sixx.de",
@@ -3294,6 +3262,14 @@
         "category": "Other",
         "country": "Germany",
         "url": "https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8"
+    },
+    {
+        "id": "SQCSCanal4.mx",
+        "name": "SQCS Canal 4",
+        "logo": "https://i.imgur.com/qnx8nBP.png",
+        "category": "Other",
+        "country": "Mexico",
+        "url": "https://video0.rogohosting.com:19360/4982/4982.m3u8"
     },
     {
         "id": "SRFernsehen.de",
@@ -3414,6 +3390,14 @@
         "category": "Other",
         "country": "Mongolia",
         "url": "https://cdn4.skygo.mn/live/disk1/SuldTV/HLSv3-FTA/SuldTV.m3u8"
+    },
+    {
+        "id": "SultraTV.id",
+        "name": "Sultra TV",
+        "logo": "https://i.imgur.com/cmpbNJz.png",
+        "category": "Other",
+        "country": "Indonesia",
+        "url": "http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8"
     },
     {
         "id": "SunnaTV.ng",
@@ -3598,6 +3582,14 @@
         "category": "Other",
         "country": "Türkiye",
         "url": "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8"
+    },
+    {
+        "id": "TBNArmenia.us",
+        "name": "TBN Armenia",
+        "logo": "https://i.imgur.com/U5XsT3j.png",
+        "category": "Other",
+        "country": "United States",
+        "url": "https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8"
     },
     {
         "id": "TBNNejatTV.ir",
@@ -4032,6 +4024,14 @@
         "url": "https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8"
     },
     {
+        "id": "ThaiPBS.th",
+        "name": "Thai PBS",
+        "logo": "https://i.imgur.com/CwalZjr.png",
+        "category": "Other",
+        "country": "Thailand",
+        "url": "https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8"
+    },
+    {
         "id": "TheCowboyChannelCanada.ca",
         "name": "The Cowboy Channel Canada",
         "logo": "https://i.imgur.com/xwntWOP.png",
@@ -4086,6 +4086,14 @@
         "category": "Other",
         "country": "Viet Nam",
         "url": "https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8"
+    },
+    {
+        "id": "TimorTV.id",
+        "name": "Timor TV",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Timor_TV.png",
+        "category": "Other",
+        "country": "Indonesia",
+        "url": "http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8"
     },
     {
         "id": "TirolTV.at",
@@ -4224,14 +4232,6 @@
         "url": "https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8"
     },
     {
-        "id": "TransmediaTelevisionMorelia.mx",
-        "name": "Transmedia Television Morelia",
-        "logo": "https://i.imgur.com/jYMpVQA.png",
-        "category": "Other",
-        "country": "Mexico",
-        "url": "https://5ca3e84a76d30.streamlock.net/tmtv/videotmtv/playlist.m3u8"
-    },
-    {
         "id": "TRCTV.mx",
         "name": "TRC TV",
         "logo": "https://i.imgur.com/W4xwCdl.png",
@@ -4246,14 +4246,6 @@
         "category": "Other",
         "country": "United States",
         "url": "https://amg02507-giantpictures-tribeca-xumo-ey2b7.amagi.tv/playlist.m3u8"
-    },
-    {
-        "id": "TRT1.tr",
-        "name": "TRT 1",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png",
-        "category": "Other",
-        "country": "Türkiye",
-        "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8"
     },
     {
         "id": "TRT3.tr",
@@ -4286,6 +4278,14 @@
         "category": "Other",
         "country": "Türkiye",
         "url": "https://tv-trtturk.medya.trt.com.tr/master.m3u8"
+    },
+    {
+        "id": "TrueAfrican.za",
+        "name": "True African",
+        "logo": "https://i.imgur.com/nDi2br7.png",
+        "category": "Other",
+        "country": "South Africa",
+        "url": "https://streamdot.broadpeak.io/cff02a74da64d1457be50b4b7f746bff/afxpstr/TrueAfrican/index.m3u8"
     },
     {
         "id": "TrueCrimeNow.us",
@@ -4408,6 +4408,14 @@
         "url": "https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8"
     },
     {
+        "id": "TV5QuebecCanada.ca",
+        "name": "TV5 Quebec Canada",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV5_%28logo%29.svg/960px-TV5_%28logo%29.svg.png",
+        "category": "Other",
+        "country": "Canada",
+        "url": "http://23.133.220.149/TV5/index.m3u8"
+    },
+    {
         "id": "TV7Benevento.it",
         "name": "TV7 Benevento",
         "logo": "https://i.imgur.com/VBhVaKB.png",
@@ -4470,14 +4478,6 @@
         "category": "Other",
         "country": "Iran, Islamic Republic of",
         "url": "https://ncdn.telewebion.ir/nava/live/playlist.m3u8"
-    },
-    {
-        "id": "TVAsahiChannel1.jp",
-        "name": "TV Asahi Channel 1",
-        "logo": "https://i.imgur.com/4I61QPs.png",
-        "category": "Other",
-        "country": "Japan",
-        "url": "https://tvasahi.mov3.co/hls/tvasahi.m3u8"
     },
     {
         "id": "TVAVicenza.it",
@@ -4648,14 +4648,6 @@
         "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8"
     },
     {
-        "id": "TVFronteira.br",
-        "name": "TV Fronteira",
-        "logo": "https://i.imgur.com/NtcoW6G.png",
-        "category": "Other",
-        "country": "Brazil",
-        "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
-    },
-    {
         "id": "TVGuara.br",
         "name": "TV Guara",
         "logo": "https://i.imgur.com/8PErNBT.png",
@@ -4782,6 +4774,14 @@
         "category": "Other",
         "country": "Chile",
         "url": "https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8"
+    },
+    {
+        "id": "TVP2.pl",
+        "name": "TVP2",
+        "logo": "https://i.imgur.com/XxCc32B.png",
+        "category": "Other",
+        "country": "Poland",
+        "url": "https://tvpi.travny.workers.dev/tvp2.m3u"
     },
     {
         "id": "TVPantanalMS.br",
@@ -4928,14 +4928,6 @@
         "url": "https://vs2129.vcdn.biz/01c0d67a9f854c6858817f6891f744ec_megogo/live/hls/b/700_2490/u_sid/0/o/157767001/rsid/c6ef76cc-cde3-4b96-8684-3828e229c6d4/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.163.147*asn/u_srvc/81255/u_did/web_13KAuOjcvMvSypM1dvXHzz0O9IIFWwyq/type.live/chunklist-sid2756675719062283008-b2490000.m3u8"
     },
     {
-        "id": "TVSafina.tj",
-        "name": "TV Safina",
-        "logo": "https://i.imgur.com/Ho2vKZJ.png",
-        "category": "Other",
-        "country": "Tajikistan",
-        "url": "https://live.teleradiocom.tj/2/3m.m3u8"
-    },
-    {
         "id": "TVSat.ro",
         "name": "TVSat",
         "logo": "https://i.imgur.com/54GHZMv.png",
@@ -4950,14 +4942,6 @@
         "category": "Other",
         "country": "Romania",
         "url": "http://89.38.8.130:39419"
-    },
-    {
-        "id": "TVSinamo.tj",
-        "name": "TV Sinamo",
-        "logo": "https://i.imgur.com/W2qz5a4.png",
-        "category": "Other",
-        "country": "Tajikistan",
-        "url": "https://live.teleradiocom.tj/6/3m.m3u8"
     },
     {
         "id": "TVSolidaria.ar",
@@ -5374,6 +5358,14 @@
         "category": "Other",
         "country": "Italy",
         "url": "http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8"
+    },
+    {
+        "id": "VitoTVO.ec",
+        "name": "VitoTVO",
+        "logo": "https://i.imgur.com/QoJ2gD0.png",
+        "category": "Other",
+        "country": "Ecuador",
+        "url": "http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8"
     },
     {
         "id": "VivaTVYurimaguas.pe",
@@ -5960,14 +5952,6 @@
         "url": "https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8"
     },
     {
-        "id": "WLIO81.us",
-        "name": "WLIO 8.1",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
-        "category": "Other",
-        "country": "United States",
-        "url": "https://live.field59.com/wlio/wlio1/playlist.m3u8"
-    },
-    {
         "id": "WLNGRadio.us",
         "name": "WLNG Radio",
         "logo": "",
@@ -6254,6 +6238,14 @@
         "category": "Other",
         "country": "United States",
         "url": "https://townnews.g-mana.live/media/c8c354e0-672f-4368-a17d-a862ee98af4a/main.m3u8"
+    },
+    {
+        "id": "XEWHTDT.mx",
+        "name": "XEWH-TDT",
+        "logo": "https://i.imgur.com/klhTyDU.png",
+        "category": "Other",
+        "country": "Mexico",
+        "url": "https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8"
     },
     {
         "id": "XHGVTDT.mx",

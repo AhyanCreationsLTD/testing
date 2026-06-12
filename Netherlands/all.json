@@ -456,6 +456,14 @@
         "url": "https://iptv.prosto.tv/ch141/index.m3u8"
     },
     {
+        "id": "BEATTV.nl",
+        "name": "BEATTV",
+        "logo": "https://i.imgur.com/egK33Dj.png",
+        "category": "Music",
+        "country": "Netherlands",
+        "url": "https://tv.beatfm.nl/live.m3u8"
+    },
+    {
         "id": "FomixTV.nl",
         "name": "FomixTV",
         "logo": "https://i.imgur.com/7SLYEMG.png",
@@ -486,14 +494,6 @@
         "category": "Music",
         "country": "Netherlands",
         "url": "https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8"
-    },
-    {
-        "id": "SaltoBrasaMusic.nl",
-        "name": "Salto Brasa Music",
-        "logo": "https://i.vimeocdn.com/portrait/31947989_640x640",
-        "category": "Music",
-        "country": "Netherlands",
-        "url": "https://salto-streams.nl/hls/sotv1.m3u8"
     },
     {
         "id": "XITE.nl",
@@ -768,22 +768,6 @@
         "url": "https://media.rtvwesterwolde.nl/hls/live/index.m3u8"
     },
     {
-        "id": "Salto4.nl",
-        "name": "Salto 4",
-        "logo": "https://i.vimeocdn.com/portrait/31947989_640x640",
-        "category": "Other",
-        "country": "Netherlands",
-        "url": "https://salto-streams.nl/hls/sotv2.m3u8"
-    },
-    {
-        "id": "SaltoADE.nl",
-        "name": "Salto ADE",
-        "logo": "https://i.vimeocdn.com/portrait/31947989_640x640",
-        "category": "Other",
-        "country": "Netherlands",
-        "url": "https://live.salto.nl/hls/at5.m3u8"
-    },
-    {
         "id": "Samen1TV.nl",
         "name": "Samen1 TV",
         "logo": "https://i.imgur.com/3ivlnLO.png",
@@ -920,14 +904,6 @@
         "url": "https://server-23.stream-server.nl:1936/Magic-PowerRadio/Magic-PowerRadio/playlist.m3u8"
     },
     {
-        "id": "MaLive.nl",
-        "name": "MaLive",
-        "logo": "https://i.imgur.com/0Vzg2OR.png",
-        "category": "Entertainment",
-        "country": "Netherlands",
-        "url": "https://live.salto.nl/hls/malive_high.m3u8"
-    },
-    {
         "id": "RadioToppers.nl",
         "name": "RadioToppers",
         "logo": "https://i.imgur.com/9OMsUd7.png",
@@ -942,14 +918,6 @@
         "category": "Entertainment",
         "country": "Netherlands",
         "url": "https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/2103d417/index.m3u8"
-    },
-    {
-        "id": "SBS6Classics.nl",
-        "name": "SBS6 Classics",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8d/SBS_6_logo_2013.png",
-        "category": "Entertainment",
-        "country": "Netherlands",
-        "url": "https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8"
     },
     {
         "id": "INTRAVEL.nl",

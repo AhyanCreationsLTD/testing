@@ -120,22 +120,6 @@
         "url": "http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8"
     },
     {
-        "id": "LemanBleu.ch",
-        "name": "Leman Bleu",
-        "logo": "https://i.imgur.com/6ijbSTr.png",
-        "category": "News",
-        "country": "Switzerland",
-        "url": "http://livevideo.infomaniak.com/streaming/livecast/naxoo/playlist.m3u8"
-    },
-    {
-        "id": "RTSInfo.ch",
-        "name": "RTS Info",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/rts-info-ch.png",
-        "category": "News",
-        "country": "Switzerland",
-        "url": "https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8"
-    },
-    {
         "id": "MaxTV.ch",
         "name": "Max TV",
         "logo": "https://i.imgur.com/13PjEk8.png",
@@ -158,6 +142,14 @@
         "category": "Lifestyle",
         "country": "Switzerland",
         "url": "https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8"
+    },
+    {
+        "id": "RTSInfo.ch",
+        "name": "RTS Info",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/rts-info-ch.png",
+        "category": "News",
+        "country": "Switzerland",
+        "url": "https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8"
     },
     {
         "id": "WaterBear.ch",

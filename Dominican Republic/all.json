@@ -96,6 +96,14 @@
         "url": "https://edge.essastream.com/televisiondeleste/tracks-v1a1/mono.m3u8"
     },
     {
+        "id": "TRA2.do",
+        "name": "TRA 2",
+        "logo": "https://i.imgur.com/iwJ42rD.png",
+        "category": "News",
+        "country": "Dominican Republic",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/rctvhdtra/playlist.m3u8"
+    },
+    {
         "id": "AdoramTV.do",
         "name": "Adoram TV",
         "logo": "https://i.imgur.com/uU01KHz.png",
@@ -240,14 +248,6 @@
         "url": "https://videostream.shockmedia.com.ar/hls/banivision/banivision.m3u8"
     },
     {
-        "id": "BebetoTV.do",
-        "name": "Bebeto TV",
-        "logo": "",
-        "category": "General",
-        "country": "Dominican Republic",
-        "url": "https://mlb.essastream.com:8081/bebetotelevision/index.m3u8"
-    },
-    {
         "id": "BocaChicaTV.do",
         "name": "Boca Chica TV",
         "logo": "https://i.imgur.com/npiRBPC.png",
@@ -344,14 +344,6 @@
         "url": "https://host.streamingnation.live:3940/live/caobatvlive.m3u8"
     },
     {
-        "id": "CascaraTV.do",
-        "name": "Cascara TV",
-        "logo": "https://i.imgur.com/DEUR7mB.png",
-        "category": "General",
-        "country": "Dominican Republic",
-        "url": "https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8"
-    },
-    {
         "id": "CenovisionHD.do",
         "name": "Cenovision HD",
         "logo": "https://imgur.com/ShPaOvn.jpg",
@@ -374,14 +366,6 @@
         "category": "General",
         "country": "Dominican Republic",
         "url": "https://edge.essastream.com/cntmas/tracks-v1a1/mono.m3u8"
-    },
-    {
-        "id": "CodigoTV.do",
-        "name": "Codigo TV",
-        "logo": "https://imgur.com/DbjywI3.png",
-        "category": "General",
-        "country": "Dominican Republic",
-        "url": "https://edge.essastream.com/codigotv/playlist.m3u8"
     },
     {
         "id": "ColomeTV.do",
@@ -432,14 +416,6 @@
         "url": "https://fox.hostlagarto.com:8081/deltatv50/tracks-v1a1/mono.m3u8"
     },
     {
-        "id": "Digital15.do",
-        "name": "Digital 15",
-        "logo": "https://i.imgur.com/v3mkmZa.png",
-        "category": "General",
-        "country": "Dominican Republic",
-        "url": "https://live4.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8"
-    },
-    {
         "id": "Digital809TV.do",
         "name": "Digital809 TV",
         "logo": "https://i.imgur.com/NKdV8b1.png",
@@ -472,28 +448,12 @@
         "url": "https://cloud2.streaminglivehd.com:1936/8078/8078/playlist.m3u8"
     },
     {
-        "id": "ElPitucoTV.do",
-        "name": "El Pituco TV",
-        "logo": "https://elpituco.com/wp-content/uploads/2021/04/ElPituco.png",
-        "category": "General",
-        "country": "Dominican Republic",
-        "url": "https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8"
-    },
-    {
         "id": "ElSeis6.do",
         "name": "El Seis 6",
         "logo": "https://elseis.do/wp-content/uploads/2025/02/logo-el-seis-horizontal.png",
         "category": "General",
         "country": "Dominican Republic",
         "url": "https://stream.elseis.do/canal6/live_1080.m3u8"
-    },
-    {
-        "id": "Enntivision.do",
-        "name": "Enntivision",
-        "logo": "https://i.imgur.com/nePOFZW.png",
-        "category": "General",
-        "country": "Dominican Republic",
-        "url": "https://edge.essastream.com/enntivision/playlist.m3u8"
     },
     {
         "id": "EnterateRD.do",
@@ -584,44 +544,12 @@
         "url": "https://edge.essastream.com/informetv/tracks-v1a1/mono.m3u8"
     },
     {
-        "id": "JimaniTV.do",
-        "name": "Jimani TV",
-        "logo": "https://imgur.com/EPYHUSc.jpeg",
-        "category": "General",
-        "country": "Dominican Republic",
-        "url": "https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8"
-    },
-    {
-        "id": "JPDTV.do",
-        "name": "JPD TV",
-        "logo": "https://i0.wp.com/juanpabloduartetv.com/wp-content/uploads/2024/08/logo-JPDTV-100-x-100.png",
-        "category": "General",
-        "country": "Dominican Republic",
-        "url": "https://imagenuniversaltv.net:3026/live/juanpabloduartetvlive.m3u8"
-    },
-    {
-        "id": "JuniorTechnologiaTV.do",
-        "name": "Junior Technologia TV",
-        "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3812-294x165-FFFFFF.jpg",
-        "category": "General",
-        "country": "Dominican Republic",
-        "url": "https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8"
-    },
-    {
         "id": "LaDescargaTV.do",
         "name": "La Descarga TV",
         "logo": "https://imgur.com/kq1CrDE.png",
         "category": "General",
         "country": "Dominican Republic",
         "url": "https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8"
-    },
-    {
-        "id": "LagunaTV.do",
-        "name": "Laguna TV",
-        "logo": "https://dominicanchannels.com/wp-content/uploads/lagunatv.jpg",
-        "category": "General",
-        "country": "Dominican Republic",
-        "url": "https://cnn.hostlagarto.com/lagutv/playlist.m3u8"
     },
     {
         "id": "LaHoraTV.do",
@@ -760,14 +688,6 @@
         "url": "https://cnn.hostlagarto.com/musavisiontv/tracks-v1a1/mono.m3u8"
     },
     {
-        "id": "NaranjaTV.do",
-        "name": "Naranja TV",
-        "logo": "https://i.imgur.com/g7iFN3s.png",
-        "category": "General",
-        "country": "Dominican Republic",
-        "url": "https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8"
-    },
-    {
         "id": "NavarreteTelevision.do",
         "name": "Navarrete Television",
         "logo": "https://dominicanchannels.com/wp-content/uploads/navarrete.png",
@@ -872,6 +792,14 @@
         "url": "https://mp.panelchs.com:1936/8040/8040/playlist.m3u8"
     },
     {
+        "id": "ReporteroTV.do",
+        "name": "Reportero TV",
+        "logo": "https://dominicanchannels.com/wp-content/uploads/Reportero-100x75-1.png",
+        "category": "General",
+        "country": "Dominican Republic",
+        "url": "https://streamrd.cloud:5443/LiveApp/streams/J3E3REmLNBzirS9A10575071547538.m3u8"
+    },
+    {
         "id": "RocavisionTV.do",
         "name": "Rocavision TV",
         "logo": "https://imgur.com/FkHqqsi.jpg",
@@ -942,6 +870,14 @@
         "category": "General",
         "country": "Dominican Republic",
         "url": "https://soportedvb.click:3668/live/simavisiontvlive.m3u8"
+    },
+    {
+        "id": "SistesurCanal49.do",
+        "name": "Sistesur Canal 49",
+        "logo": "https://i.imgur.com/AXUGTAy.png",
+        "category": "General",
+        "country": "Dominican Republic",
+        "url": "https://5790d294af2dc.streamlock.net/SISTESUR/SISTESUR/playlist.m3u8"
     },
     {
         "id": "SuperDigitalTV.do",
@@ -1032,20 +968,20 @@
         "url": "http://190.122.104.210:5080/LiveApp/streams/tfuturo.m3u8"
     },
     {
+        "id": "Teleimpacto.do",
+        "name": "Teleimpacto",
+        "logo": "https://i.imgur.com/dBEysOV.png",
+        "category": "General",
+        "country": "Dominican Republic",
+        "url": "https://vpss2003.streamprolive.com/hls/live.m3u8"
+    },
+    {
         "id": "TelemetroTV.do",
         "name": "Telemetro TV",
         "logo": "https://imgur.com/Ck2NL0t.png",
         "category": "General",
         "country": "Dominican Republic",
         "url": "https://streamunoapp.com:3366/live/telemetrolive.m3u8"
-    },
-    {
-        "id": "Telemicro.do",
-        "name": "Telemicro",
-        "logo": "https://i.imgur.com/WhgySAk.png",
-        "category": "General",
-        "country": "Dominican Republic",
-        "url": "https://live4.telemicro.com.do/live/telemicrocast_1080p/playlist.m3u8"
     },
     {
         "id": "Telenord10.do",
@@ -1280,14 +1216,6 @@
         "url": "https://5790d294af2dc.streamlock.net/zincnombretv/live/playlist.m3u8"
     },
     {
-        "id": "ZonavisionTV.do",
-        "name": "Zonavision TV",
-        "logo": "https://imgur.com/B3PrrMH.png",
-        "category": "General",
-        "country": "Dominican Republic",
-        "url": "https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8"
-    },
-    {
         "id": "AlegreTVRD.do",
         "name": "Alegre TV RD",
         "logo": "https://i.imgur.com/O6USO8r.png",
@@ -1326,14 +1254,6 @@
         "category": "Entertainment",
         "country": "Dominican Republic",
         "url": "https://streamunoapp.com:3958/live/cibaenatvlive.m3u8"
-    },
-    {
-        "id": "ClaroVisionTV.do",
-        "name": "Claro Vision TV",
-        "logo": "https://i.imgur.com/MpTgJMJ.png",
-        "category": "Entertainment",
-        "country": "Dominican Republic",
-        "url": "https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8"
     },
     {
         "id": "GalaxiATeVe.do",
@@ -1376,28 +1296,12 @@
         "url": "https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8"
     },
     {
-        "id": "PronemsTV.do",
-        "name": "Pronems TV",
-        "logo": "https://i.imgur.com/a9ORO1G.png",
-        "category": "Entertainment",
-        "country": "Dominican Republic",
-        "url": "https://fox.hostlagarto.com:8081/pronemstv/playlist.m3u8"
-    },
-    {
         "id": "PulaTV.do",
         "name": "Pula TV",
         "logo": "https://i.imgur.com/8gSLJ2f.png",
         "category": "Entertainment",
         "country": "Dominican Republic",
         "url": "https://fox.hostlagarto.com:8081/pulatv/index.m3u8"
-    },
-    {
-        "id": "RETV.do",
-        "name": "R&E TV",
-        "logo": "https://i.imgur.com/HpKQYp3.png",
-        "category": "Entertainment",
-        "country": "Dominican Republic",
-        "url": "https://cloud2.streaminglivehd.com:1936/8072/8072/playlist.m3u8"
     },
     {
         "id": "Telemax.do",

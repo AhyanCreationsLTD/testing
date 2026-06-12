@@ -456,14 +456,6 @@
         "url": "https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8"
     },
     {
-        "id": "Futbol.tj",
-        "name": "Futbol",
-        "logo": "https://i.imgur.com/RngmCDn.png",
-        "category": "Sports",
-        "country": "Tajikistan",
-        "url": "https://live.teleradiocom.tj/8/3m.m3u8"
-    },
-    {
         "id": "GamePlus.ca",
         "name": "Game+",
         "logo": "https://i.imgur.com/Lj69WbR.png",
@@ -718,6 +710,14 @@
         "category": "Sports",
         "country": "Germany",
         "url": "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8"
+    },
+    {
+        "id": "MultivisionSports.gt",
+        "name": "Multivision Sports",
+        "logo": "https://i.imgur.com/wLjSSo2.jpg",
+        "category": "Sports",
+        "country": "Guatemala",
+        "url": "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8"
     },
     {
         "id": "NauticalChannel.it",
@@ -976,6 +976,14 @@
         "url": "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8"
     },
     {
+        "id": "SportsConnect.za",
+        "name": "Sports Connect",
+        "logo": "https://i.imgur.com/0sNWg54.png",
+        "category": "Sports",
+        "country": "South Africa",
+        "url": "https://streamdot.broadpeak.io/cff02a74da64d1459391ce1f72d58f1a/afxpstr/SportsConnect/index.m3u8"
+    },
+    {
         "id": "SportsGrid.us",
         "name": "SportsGrid",
         "logo": "https://i.imgur.com/ulGKX30.png",
@@ -1014,6 +1022,14 @@
         "category": "Sports",
         "country": "India",
         "url": "http://103.253.18.58:8000/play/a03o"
+    },
+    {
+        "id": "StarSports2Hindi.in",
+        "name": "Star Sports 2 Hindi",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SPORTS18_SYMHYP_1_HD/images/LOGO_HD/image.png",
+        "category": "Sports",
+        "country": "India",
+        "url": "http://103.157.248.140:8000/play/a01m/index.m3u8"
     },
     {
         "id": "Strongman.us",

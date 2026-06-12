@@ -88,6 +88,14 @@
         "url": "https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8"
     },
     {
+        "id": "GrandeTV.ve",
+        "name": "Grande TV",
+        "logo": "https://i.imgur.com/jxCirrP.png",
+        "category": "General",
+        "country": "Venezuela, Bolivarian Republic of",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8"
+    },
+    {
         "id": "IslaTV.ve",
         "name": "Isla TV",
         "logo": "https://i.imgur.com/l11Ixhi.jpeg",
@@ -102,14 +110,6 @@
         "category": "General",
         "country": "Venezuela, Bolivarian Republic of",
         "url": "https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8"
-    },
-    {
-        "id": "PortuguesaTelevision.ve",
-        "name": "Portuguesa Television",
-        "logo": "https://intervenhosting.net/roku/portutv/portutv.jpg",
-        "category": "General",
-        "country": "Venezuela, Bolivarian Republic of",
-        "url": "https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8"
     },
     {
         "id": "PromarTV.ve",
@@ -184,6 +184,14 @@
         "url": "https://us.streaminghd.cl/torococotelevision/video.m3u8"
     },
     {
+        "id": "TRT.ve",
+        "name": "TRT",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/67/Canal_trt_logo.PNG",
+        "category": "General",
+        "country": "Venezuela, Bolivarian Republic of",
+        "url": "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8"
+    },
+    {
         "id": "TVMparati.ve",
         "name": "TVM para ti",
         "logo": "https://intervenhosting.net/imagenes/tvmparati.jpg",
@@ -240,12 +248,20 @@
         "url": "https://streamtv.as3sport.online:3394/hybrid/play.m3u8"
     },
     {
-        "id": "AudazTV.ve",
-        "name": "Audaz TV",
-        "logo": "https://i.imgur.com/QtCgtZq.jpg",
-        "category": "Religious",
+        "id": "BTATV.ve",
+        "name": "BTA TV",
+        "logo": "https://i.imgur.com/vygOosC.png",
+        "category": "Music",
         "country": "Venezuela, Bolivarian Republic of",
-        "url": "https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8"
+        "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8"
+    },
+    {
+        "id": "KandelaTV.ve",
+        "name": "KandelaTV",
+        "logo": "https://i.imgur.com/cCFxyIp.jpg",
+        "category": "Music",
+        "country": "Venezuela, Bolivarian Republic of",
+        "url": "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8"
     },
     {
         "id": "LGDTelevision.ve",
@@ -262,22 +278,6 @@
         "category": "Religious",
         "country": "Venezuela, Bolivarian Republic of",
         "url": "https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8"
-    },
-    {
-        "id": "BTATV.ve",
-        "name": "BTA TV",
-        "logo": "https://i.imgur.com/vygOosC.png",
-        "category": "Music",
-        "country": "Venezuela, Bolivarian Republic of",
-        "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8"
-    },
-    {
-        "id": "KandelaTV.ve",
-        "name": "KandelaTV",
-        "logo": "https://i.imgur.com/cCFxyIp.jpg",
-        "category": "Music",
-        "country": "Venezuela, Bolivarian Republic of",
-        "url": "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8"
     },
     {
         "id": "PlousTV.ve",

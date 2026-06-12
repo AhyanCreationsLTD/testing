@@ -113,6 +113,8 @@ https://d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.m3u8
 https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="360TuneBox.nl" tvg-logo="https://i.imgur.com/1Fyezng.png" group-title="Netherlands - Music",360TuneBox
 https://iptv.prosto.tv/ch141/index.m3u8
+#EXTINF:-1 tvg-id="BEATTV.nl" tvg-logo="https://i.imgur.com/egK33Dj.png" group-title="Netherlands - Music",BEATTV
+https://tv.beatfm.nl/live.m3u8
 #EXTINF:-1 tvg-id="FomixTV.nl" tvg-logo="https://i.imgur.com/7SLYEMG.png" group-title="Netherlands - Music",FomixTV
 https://stream.fomixmedia.nl/FomixTV/video.m3u8
 #EXTINF:-1 tvg-id="GigantFM.nl" tvg-logo="https://i.imgur.com/LwEHfjD.png" group-title="Netherlands - Music",Gigant FM
@@ -121,8 +123,6 @@ https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8
 https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioJND.nl" tvg-logo="https://i.imgur.com/nyVlZeL.png" group-title="Netherlands - Music",Radio JND
 https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8
-#EXTINF:-1 tvg-id="SaltoBrasaMusic.nl" tvg-logo="https://i.vimeocdn.com/portrait/31947989_640x640" group-title="Netherlands - Music",Salto Brasa Music
-https://salto-streams.nl/hls/sotv1.m3u8
 #EXTINF:-1 tvg-id="XITE.nl" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="Netherlands - Music",XITE
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="XITEClassicCountry.nl" tvg-logo="https://provider-static.plex.tv/epg/cms/production/511ebc88-a7f7-4f6d-85ff-38c849bbb4a3/xiteclassiccountry_logo_light_-_Arlette_FiranRDX.png" group-title="Netherlands - Music",XITE Classic Country
@@ -191,10 +191,6 @@ https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
 https://dt4pogjgi3q8s.cloudfront.net/nlpo/clr-nlpo/rtvveluwezoom/index.m3u8
 #EXTINF:-1 tvg-id="RTVWesterwolde.nl" tvg-logo="https://i.imgur.com/002YXP6.png" group-title="Netherlands - Other",RTV Westerwolde
 https://media.rtvwesterwolde.nl/hls/live/index.m3u8
-#EXTINF:-1 tvg-id="Salto4.nl" tvg-logo="https://i.vimeocdn.com/portrait/31947989_640x640" group-title="Netherlands - Other",Salto 4
-https://salto-streams.nl/hls/sotv2.m3u8
-#EXTINF:-1 tvg-id="SaltoADE.nl" tvg-logo="https://i.vimeocdn.com/portrait/31947989_640x640" group-title="Netherlands - Other",Salto ADE
-https://live.salto.nl/hls/at5.m3u8
 #EXTINF:-1 tvg-id="Samen1TV.nl" tvg-logo="https://i.imgur.com/3ivlnLO.png" group-title="Netherlands - Other",Samen1 TV
 https://server-67.stream-server.nl:1936/Samen1TV/Samen1TV/playlist.m3u8
 #EXTINF:-1 tvg-id="SchieTV.nl" tvg-logo="https://i.imgur.com/kt4Aqvq.png" group-title="Netherlands - Other",Schie TV
@@ -229,14 +225,10 @@ https://iptv.prosto.tv/ch64/index.m3u8
 https://iptv.prosto.tv/ch256/index.m3u8
 #EXTINF:-1 tvg-id="MagicPowerRadio.nl" tvg-logo="https://i.imgur.com/sWcwIte.png" group-title="Netherlands - Entertainment",Magic PowerRadio
 https://server-23.stream-server.nl:1936/Magic-PowerRadio/Magic-PowerRadio/playlist.m3u8
-#EXTINF:-1 tvg-id="MaLive.nl" tvg-logo="https://i.imgur.com/0Vzg2OR.png" group-title="Netherlands - Entertainment",MaLive
-https://live.salto.nl/hls/malive_high.m3u8
 #EXTINF:-1 tvg-id="RadioToppers.nl" tvg-logo="https://i.imgur.com/9OMsUd7.png" group-title="Netherlands - Entertainment",RadioToppers
 https://server-67.stream-server.nl:1936/RadioToppers/RadioToppers/playlist.m3u8
 #EXTINF:-1 tvg-id="Salto1.nl" tvg-logo="https://i.imgur.com/hyubvS5.png" group-title="Netherlands - Entertainment",Salto 1
 https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/2103d417/index.m3u8
-#EXTINF:-1 tvg-id="SBS6Classics.nl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/SBS_6_logo_2013.png" group-title="Netherlands - Entertainment",SBS6 Classics
-https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8
 #EXTINF:-1 tvg-id="INTRAVEL.nl" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Intravel.png" group-title="Netherlands - Travel",INTRAVEL
 https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="InTrouble.nl" tvg-logo="https://i.imgur.com/a40chFI.png" group-title="Netherlands - Auto",InTrouble
