@@ -56,11 +56,13 @@ def fetch_and_generate_dynamic_data():
     channels = requests.get(CHANNELS_API).json()
     streams = requests.get(STREAMS_API).json()
     
-    # 🤖 লোগো ডাটাবেজ মেমরিতে লোড করে আইডি ভিত্তিক ম্যাপ তৈরি করা (শতভাগ সঠিক ছবির জন্য)
+    # 🎯 [FIXED] লোগো ডাটাবেজের সঠিক কি 'channel' দিয়ে মেমরিতে আইডি ম্যাপ তৈরি করা হলো
     try:
         logos_list = requests.get(LOGOS_API).json()
-        logo_map = {logo['id']: logo['url'] for logo in logos_list if 'id' in logo and 'url' in logo}
-    except Exception:
+        logo_map = {logo['channel']: logo['url'] for logo in logos_list if 'channel' in logo and 'url' in logo}
+        print("Logo database mapped successfully.")
+    except Exception as e:
+        print(f"Logo mapping failed: {e}")
         logo_map = {}
 
     stream_map = {stream['channel']: stream['url'] for stream in streams if 'channel' in stream and 'url' in stream}
@@ -102,14 +104,14 @@ def fetch_and_generate_dynamic_data():
                 
             category = ch.get('categories')[0].title() if ch.get('categories') else 'Other'
             
-            # 🎯 [PERFECT LOGO MATCH] সোর্সে লোগো না থাকলে গ্লোবাল ডাটাবেজ থেকে আইডি মিলিয়ে অরিজিনাল ছবি বসাবে
+            # 🎯 প্রথমে চ্যানেলের নিজস্ব লোগো দেখবে, না থাকলে গ্লোবাল ডাটাবেজ থেকে আইডি মিলিয়ে অরিジナাল ছবি বসাবে
             logo_url = ch.get('logo')
             if not logo_url or logo_url.strip() == "":
                 logo_url = logo_map.get(ch_id, "")
             
-            # যদি তাও না পাওয়া যায়, তবে একটি চমৎকার গ্লোবাল ডিফল্ট প্রিমিয়াম টিভি লোগো প্লেসহোল্ডার
+            # [FIXED] লোগো একদম না থাকলে খালি স্ট্রিং রাখবে, ফ্রন্টএন্ডের জাভাস্ক্রিপ্ট চমৎকার কাস্টম বক্স বানাবে
             if not logo_url:
-                logo_url = "https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png"
+                logo_url = ""
 
             channel_info = {
                 "id": ch_id,
