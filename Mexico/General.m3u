@@ -1,55 +1,59 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="8NTV.mx" tvg-logo="None" group-title="Mexico - General",8NTV
+#EXTINF:-1 tvg-id="8NTV.mx" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Mexico - General",8NTV
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal33Tijuana.mx" tvg-logo="None" group-title="Mexico - General",Canal 33 Tijuana
+#EXTINF:-1 tvg-id="CaliforniaMediosTV.mx" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Mexico - General",California Medios TV
+https://s5.mexside.net:1936/medios/medios/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal33Tijuana.mx" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Mexico - General",Canal 33 Tijuana
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="None" group-title="Mexico - General",Canal 5
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Mexico - General",Canal 5
 http://45.5.119.43:4000/play/a05o/index.m3u8
-#EXTINF:-1 tvg-id="Canal5TVCozumel.mx" tvg-logo="None" group-title="Mexico - General",Canal 5 TV Cozumel
+#EXTINF:-1 tvg-id="Canal5TVCozumel.mx" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Mexico - General",Canal 5 TV Cozumel
 https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
-#EXTINF:-1 tvg-id="CreaLaTV.mx" tvg-logo="None" group-title="Mexico - General",CreaLaTV
+#EXTINF:-1 tvg-id="CreaLaTV.mx" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Mexico - General",CreaLaTV
 https://stream.crealatv.com/live.m3u8
-#EXTINF:-1 tvg-id="ExpresaTV.mx" tvg-logo="None" group-title="Mexico - General",Expresa TV
+#EXTINF:-1 tvg-id="DespiertaTV.mx" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Mexico - General",Despierta TV
+https://video2.lhdserver.es/despiertatv/live.m3u8
+#EXTINF:-1 tvg-id="ExpresaTV.mx" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Mexico - General",Expresa TV
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="None" group-title="Mexico - General",Imagen TV
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Mexico - General",Imagen TV
 https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8
-#EXTINF:-1 tvg-id="MexiquenseTV.mx" tvg-logo="None" group-title="Mexico - General",Mexiquense TV
+#EXTINF:-1 tvg-id="MexiquenseTV.mx" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Mexico - General",Mexiquense TV
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1 tvg-id="NayaritComunica.mx" tvg-logo="None" group-title="Mexico - General",Nayarit Comunica
+#EXTINF:-1 tvg-id="NayaritComunica.mx" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Mexico - General",Nayarit Comunica
 https://live.iplanay.gob.mx/hls/nayarittv.m3u8
-#EXTINF:-1 tvg-id="NueveTV.mx" tvg-logo="None" group-title="Mexico - General",Nueve TV
+#EXTINF:-1 tvg-id="NueveTV.mx" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Mexico - General",Nueve TV
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
-#EXTINF:-1 tvg-id="RalyTV.mx" tvg-logo="None" group-title="Mexico - General",Raly TV
+#EXTINF:-1 tvg-id="RalyTV.mx" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Mexico - General",Raly TV
 https://cloudvideo.servers10.com:8081/8072/index.m3u8
-#EXTINF:-1 tvg-id="SIPSETV81.mx" tvg-logo="None" group-title="Mexico - General",SIPSE TV 8.1
+#EXTINF:-1 tvg-id="SIPSETV81.mx" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Mexico - General",SIPSE TV 8.1
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
-#EXTINF:-1 tvg-id="SIPSETVCUN81.mx" tvg-logo="None" group-title="Mexico - General",SIPSE TVCUN 8.1
+#EXTINF:-1 tvg-id="SIPSETVCUN81.mx" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Mexico - General",SIPSE TVCUN 8.1
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
-#EXTINF:-1 tvg-id="SuperChannel12.mx" tvg-logo="None" group-title="Mexico - General",Super Channel 12
+#EXTINF:-1 tvg-id="SuperChannel12.mx" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Mexico - General",Super Channel 12
 https://servilive.com:3263/live/channel12live.m3u8
-#EXTINF:-1 tvg-id="TVCuatro41.mx" tvg-logo="None" group-title="Mexico - General",TV Cuatro 4.1
+#EXTINF:-1 tvg-id="TVCuatro41.mx" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Mexico - General",TV Cuatro 4.1
 https://5ca3e84a76d30.streamlock.net/tv4gto/tv4gto.smil/.m3u8
-#EXTINF:-1 tvg-id="TVMarLaPaz.mx" tvg-logo="None" group-title="Mexico - General",TV Mar La Paz
+#EXTINF:-1 tvg-id="TVMarLaPaz.mx" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Mexico - General",TV Mar La Paz
 https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMarLosCabos.mx" tvg-logo="None" group-title="Mexico - General",TV Mar Los Cabos
+#EXTINF:-1 tvg-id="TVMarLosCabos.mx" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Mexico - General",TV Mar Los Cabos
 https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMarPuertoVallarta.mx" tvg-logo="None" group-title="Mexico - General",TV Mar Puerto Vallarta
+#EXTINF:-1 tvg-id="TVMarPuertoVallarta.mx" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Mexico - General",TV Mar Puerto Vallarta
 https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPCuliacan.mx" tvg-logo="None" group-title="Mexico - General",TVP Culiacan
+#EXTINF:-1 tvg-id="TVPCuliacan.mx" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Mexico - General",TVP Culiacan
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPLosMochis.mx" tvg-logo="None" group-title="Mexico - General",TVP Los Mochis
+#EXTINF:-1 tvg-id="TVPLosMochis.mx" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Mexico - General",TVP Los Mochis
 https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPMazatlan.mx" tvg-logo="None" group-title="Mexico - General",TVP Mazatlan
+#EXTINF:-1 tvg-id="TVPMazatlan.mx" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Mexico - General",TVP Mazatlan
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPObregon.mx" tvg-logo="None" group-title="Mexico - General",TVP Obregon
+#EXTINF:-1 tvg-id="TVPObregon.mx" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Mexico - General",TVP Obregon
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="XHBZCTDT.mx" tvg-logo="None" group-title="Mexico - General",XHBZC-TDT
+#EXTINF:-1 tvg-id="XHBZCTDT.mx" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Mexico - General",XHBZC-TDT
 https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8
-#EXTINF:-1 tvg-id="XHFGLTDT.mx" tvg-logo="None" group-title="Mexico - General",XHFGL-TDT
+#EXTINF:-1 tvg-id="XHFGLTDT.mx" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Mexico - General",XHFGL-TDT
 https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8
-#EXTINF:-1 tvg-id="XHIJTDT.mx" tvg-logo="None" group-title="Mexico - General",XHIJ-TDT
+#EXTINF:-1 tvg-id="XHIJTDT.mx" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Mexico - General",XHIJ-TDT
 https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
-#EXTINF:-1 tvg-id="XHTTGTDT.mx" tvg-logo="None" group-title="Mexico - General",XHTTG-TDT
+#EXTINF:-1 tvg-id="XHTTGTDT.mx" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Mexico - General",XHTTG-TDT
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
-#EXTINF:-1 tvg-id="XHZHZTDT.mx" tvg-logo="None" group-title="Mexico - General",XHZHZ-TDT
+#EXTINF:-1 tvg-id="XHZHZTDT.mx" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png" group-title="Mexico - General",XHZHZ-TDT
 https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8

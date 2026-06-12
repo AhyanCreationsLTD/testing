@@ -2,7 +2,7 @@
     {
         "id": "BravoKidsTV.hr",
         "name": "Bravo! Kids TV",
-        "logo": null,
+        "logo": "https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png",
         "category": "Kids",
         "country": "Croatia",
         "url": "https://streaming.social3.hr/play/r3CK_tdsFIFL3bN7w4NW1plrwsCToUBsRFjhxM68sZY/m3u8"
@@ -10,7 +10,7 @@
     {
         "id": "BravoTV.hr",
         "name": "Bravo! TV",
-        "logo": null,
+        "logo": "https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png",
         "category": "Music",
         "country": "Croatia",
         "url": "https://streaming.social3.hr/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8"
@@ -18,7 +18,7 @@
     {
         "id": "CMCTV.hr",
         "name": "CMC TV",
-        "logo": null,
+        "logo": "https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png",
         "category": "Music",
         "country": "Croatia",
         "url": "https://stream.cmctv.hr:49998/cmc/live.m3u8"
@@ -26,7 +26,7 @@
     {
         "id": "ExtraTV.hr",
         "name": "Extra TV",
-        "logo": null,
+        "logo": "https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png",
         "category": "Music",
         "country": "Croatia",
         "url": "https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8"
@@ -34,7 +34,7 @@
     {
         "id": "KlapeiTambureTV.hr",
         "name": "Klape i Tambure TV",
-        "logo": null,
+        "logo": "https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png",
         "category": "Music",
         "country": "Croatia",
         "url": "https://stream.cmctv.hr:49998/kit/live.m3u8"
@@ -42,7 +42,7 @@
     {
         "id": "DiadoraTV.hr",
         "name": "Diadora TV",
-        "logo": null,
+        "logo": "https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png",
         "category": "General",
         "country": "Croatia",
         "url": "https://diadoratv.stream/live/diadora/playlist.m3u8"
@@ -50,7 +50,7 @@
     {
         "id": "LibertasTV.hr",
         "name": "Libertas TV",
-        "logo": null,
+        "logo": "https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png",
         "category": "General",
         "country": "Croatia",
         "url": "https://stream.luci.xyz/hls/LTV.m3u8"
@@ -58,7 +58,7 @@
     {
         "id": "SBTV.hr",
         "name": "SBTV",
-        "logo": null,
+        "logo": "https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png",
         "category": "General",
         "country": "Croatia",
         "url": "https://live.leveex.hr/hls/live.m3u8"
@@ -66,7 +66,7 @@
     {
         "id": "STV.hr",
         "name": "STV",
-        "logo": null,
+        "logo": "https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png",
         "category": "General",
         "country": "Croatia",
         "url": "http://89.201.163.244:8080/hls/hdmi.m3u8"
@@ -74,15 +74,23 @@
     {
         "id": "RadioTelevizijaBanovina.hr",
         "name": "Radio Televizija Banovina",
-        "logo": null,
+        "logo": "https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png",
         "category": "Other",
         "country": "Croatia",
         "url": "https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR="
     },
     {
+        "id": "TVJadran.hr",
+        "name": "TV Jadran",
+        "logo": "https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png",
+        "category": "News",
+        "country": "Croatia",
+        "url": "https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8"
+    },
+    {
         "id": "TVNova.hr",
         "name": "TV Nova",
-        "logo": null,
+        "logo": "https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png",
         "category": "Entertainment",
         "country": "Croatia",
         "url": "https://stream.agatin.hr:3727/live/tvnovalive.m3u8"
