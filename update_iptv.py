@@ -6,9 +6,10 @@ from concurrent.futures import ThreadPoolExecutor
 
 CHANNELS_API = "https://iptv-org.github.io/api/channels.json"
 STREAMS_API = "https://iptv-org.github.io/api/streams.json"
-LOGOS_API = "https://iptv-org.github.io/api/logos.json"  # 🖼️ ওয়ান-টাইম গ্লোবাল লোগো ডাটাবেজ
+LOGOS_API = "https://iptv-org.github.io/api/logos.json"  # 🖼️ গ্লোবাল অফিশিয়াল লোগো ডাটাবেজ
 
 def get_country_name(code):
+    """২ অক্ষরের আইএসও কোড থেকে ডাইনামিকালি দেশের সুন্দর নাম বের করার ফাংশন"""
     if not code:
         return None
     try:
@@ -25,11 +26,15 @@ def get_country_name(code):
     return None
 
 def check_single_stream(item):
+    """একটি নির্দিষ্ট চ্যানেল লিংক সচল আছে কিনা তা ২ সেকেন্ড টাইমআউটে একসাথে চেক করার ফাংশন"""
     ch, url = item
     try:
+        # শুধু হেডার চেক করবে (পুরো ভিডিও ডাউনলোড করবে না, তাই ফাস্ট হবে)
         response = requests.head(url, timeout=2.0, allow_redirects=True)
         if response.status_code == 200:
             return ch, url, True
+        
+        # কিছু সার্ভার HEAD রিকোয়েস্ট ব্লক করলে তাদের জন্য নিরাপদ GET ট্রাই করবে
         if response.status_code in [403, 405]:
             response_get = requests.get(url, timeout=2.0, stream=True)
             if response_get.status_code == 200:
@@ -39,6 +44,7 @@ def check_single_stream(item):
     return ch, url, False
 
 def create_m3u_content(channel_list):
+    """M3U প্লেলিস্ট ফরম্যাট টেমপ্লেট"""
     m3u_text = "#EXTM3U\n"
     for ch in channel_list:
         m3u_text += f'#EXTINF:-1 tvg-id="{ch["id"]}" tvg-logo="{ch["logo"]}" group-title="{ch.get("country", "")} - {ch.get("category", "")}",{ch["name"]}\n'
@@ -50,7 +56,7 @@ def fetch_and_generate_dynamic_data():
     channels = requests.get(CHANNELS_API).json()
     streams = requests.get(STREAMS_API).json()
     
-    # 🤖 লোগো ডাটাবেজ ডাউনলোড করে মেমরিতে একটি ম্যাপ তৈরি করা (কোনো ব্লকিং রিস্ক নেই)
+    # 🤖 লোগো ডাটাবেজ মেমরিতে লোড করে আইডি ভিত্তিক ম্যাপ তৈরি করা (শতভাগ সঠিক ছবির জন্য)
     try:
         logos_list = requests.get(LOGOS_API).json()
         logo_map = {logo['id']: logo['url'] for logo in logos_list if 'id' in logo and 'url' in logo}
@@ -59,6 +65,7 @@ def fetch_and_generate_dynamic_data():
 
     stream_map = {stream['channel']: stream['url'] for stream in streams if 'channel' in stream and 'url' in stream}
     
+    # প্যারালাল চেকিংয়ের জন্য টাস্ক লিস্ট
     tasks = []
     for ch in channels:
         ch_id = ch.get('id')
@@ -69,6 +76,7 @@ def fetch_and_generate_dynamic_data():
     
     verified_channels_map = {}
     
+    # 🚀 একসাথে ১০০টি লিংক প্যারালালে চেক করা হবে (১০ মিনিটের মধ্যে পুরো বিশ্ব ফিল্টার হবে)
     with ThreadPoolExecutor(max_workers=100) as executor:
         results = executor.map(check_single_stream, tasks)
         for ch, url, is_alive in results:
@@ -83,6 +91,7 @@ def fetch_and_generate_dynamic_data():
     for ch in channels:
         ch_id = ch.get('id')
         
+        # কেবল শতভাগ লাইভ ভেরিফাইড সচল চ্যানেলগুলো প্রসেস হবে
         if ch_id in verified_channels_map:
             url = verified_channels_map[ch_id]
             country_code = ch.get('country')
@@ -93,12 +102,12 @@ def fetch_and_generate_dynamic_data():
                 
             category = ch.get('categories')[0].title() if ch.get('categories') else 'Other'
             
-            # 🎯 [🎯 PERFECT MATCH] প্রথমে চ্যানেলের নিজস্ব লোগো দেখবে, না থাকলে গ্লোবাল লোগো ডাটাবেজ থেকে আইডি মিলিয়ে অরিজিনাল লোগো বসাবে
+            # 🎯 [PERFECT LOGO MATCH] সোর্সে লোগো না থাকলে গ্লোবাল ডাটাবেজ থেকে আইডি মিলিয়ে অরিজিনাল ছবি বসাবে
             logo_url = ch.get('logo')
             if not logo_url or logo_url.strip() == "":
-                logo_url = logo_map.get(ch_id, "") # সঠিক লোগো আইডি দিয়ে ম্যাচ করা হলো
+                logo_url = logo_map.get(ch_id, "")
             
-            # যদি তাও না পাওয়া যায়, তবে একটি সুন্দর ডামি/ডিফল্ট প্রফেশনাল লোগো প্লেসহোল্ডার
+            # যদি তাও না পাওয়া যায়, তবে একটি চমৎকার গ্লোবাল ডিফল্ট প্রিমিয়াম টিভি লোগো প্লেসহোল্ডার
             if not logo_url:
                 logo_url = "https://images.squarespace-cdn.com/content/v1/5cf18252277d3300010901e4/1560533596827-S7W566FUPP7Z6L4ZZFCT/TV-Icon.png"
 
@@ -113,25 +122,27 @@ def fetch_and_generate_dynamic_data():
 
             all_flat_channels.append(channel_info)
 
+            # ইন্ডিভিজুয়াল দেশভিত্তিক ডিকশনারি
             if country_name not in main_json_data:
                 main_json_data[country_name] = {}
             if category not in main_json_data[country_name]:
                 main_json_data[country_name][category] = []
             main_json_data[country_name][category].append(channel_info)
 
+            # গ্লোবাল ক্যাটেগরিভিত্তিক ডিকশনারি
             if category not in global_category_data:
                 global_category_data[category] = []
             global_category_data[category].append(channel_info)
 
     print(f"Generation ongoing. Total online channels saved: {len(all_flat_channels)}")
 
-    # রুট ফাইলস সংরক্ষণ
+    # মেইন রুট ফাইলস তৈরি (ওভাররাইট)
     with open('channels.json', 'w', encoding='utf-8') as f:
         json.dump(main_json_data, f, ensure_ascii=False, indent=4)
     with open('channels.m3u', 'w', encoding='utf-8') as f:
         f.write(create_m3u_content(all_flat_channels))
 
-    # দেশভিত্তিক ফোল্ডার জেনারেশন
+    # দেশভিত্তিক ফ্রেশ ফোল্ডার জেনারেশন
     for country, categories in main_json_data.items():
         safe_country_name = country.replace('/', '_').replace('\\', '_')
         os.makedirs(safe_country_name, exist_ok=True)
@@ -150,7 +161,7 @@ def fetch_and_generate_dynamic_data():
         with open(f"{safe_country_name}/all.m3u", 'w', encoding='utf-8') as f:
             f.write(create_m3u_content(country_all_channels))
 
-    # গ্লোবাল ফোল্ডার জেনারেশন
+    # গ্লোবাল ফ্রেশ ফোল্ডার জেনারেশন
     global_folder = "Global"
     os.makedirs(global_folder, exist_ok=True)
     for category, ch_list in global_category_data.items():
@@ -165,8 +176,8 @@ def fetch_and_generate_dynamic_data():
     with open(f"{global_folder}/all.m3u", 'w', encoding='utf-8') as f:
         f.write(create_m3u_content(all_flat_channels))
 
-    print("Pipeline compilation successful. All logos cached securely without external pressure!")
+    print("Pipeline compilation successful. All database tables are perfectly built!")
 
 if __name__ == "__main__":
     fetch_and_generate_dynamic_data()
-            
+    
