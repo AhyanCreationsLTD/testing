@@ -2,8 +2,8 @@ name: Global IPTV Auto-Clean Super-Fast Sync
 
 on:
   schedule:
-    - cron: '0 * * * *'  # ঘড়ির কাঁটা ধরে ঠিক প্রতি এক ঘণ্টা পর পর অটোমেটিক চালু হবে
-  workflow_dispatch:     # আপনার প্রয়োজনে যেকোনো সময় টেস্ট বা ম্যানুয়ালি রান করার জন্য
+    - cron: '0 * * * *'  # ঠিক প্রতি এক ঘণ্টা পর পর অটোমেটিক চালু হবে
+  workflow_dispatch:     # যেকোনো সময় ম্যানুয়ালি রান করার জন্য বোতাম
 
 jobs:
   sync:
@@ -24,11 +24,10 @@ jobs:
 
       - name: Clean Old Scrapped Files
         run: |
-          # 🪠 প্রথমে আগের রানের সব দেশের ডাইনামিক ফোল্ডার এবং মেইন ফাইলগুলো পারফেক্টলি ডিলিট করবে
+          # 🪠 প্রথমে আগের রানের সব দেশের ডাইনামিক ফোল্ডার এবং মেইন ফাইলগুলো পারфেক্টলি ডিলিট করবে
           find . -maxdepth 1 -type d ! -name ".*" ! -name "Global" ! -name ".github" -exec rm -rf {} + 2>/dev/null || true
           rm -rf Global
           rm -f channels.json channels.m3u
-          printenv
           echo "আগের সব ফাইল ও ডেড ফোল্ডার সফলভাবে ডিলিট করা হয়েছে।"
 
       - name: Run Global Segmented Fast Script
