@@ -1,9 +1,9 @@
-name: Global IPTV Segmented Fast Sync with PAT
+name: Global IPTV Auto-Clean Super-Fast Sync
 
 on:
   schedule:
-    - cron: '0 * * * *'  # প্রতি ১ ঘণ্টা পর পর অটো-রান হবে
-  workflow_dispatch:     # ম্যানুয়ালি যেকোনো সময় রান করার অপশন
+    - cron: '0 * * * *'  # ঘড়ির কাঁটা ধরে ঠিক প্রতি এক ঘণ্টা পর পর অটোমেটিক চালু হবে
+  workflow_dispatch:     # আপনার প্রয়োজনে যেকোনো সময় টেস্ট বা ম্যানুয়ালি রান করার জন্য
 
 jobs:
   sync:
@@ -12,8 +12,7 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
         with:
-          # আপনার রেপো সিক্রেটসে সেভ করা কাস্টম PAT টোকেন ব্যবহার করা হচ্ছে
-          token: ${{ secrets.IPTV_TOKEN }}
+          token: ${{ secrets.IPTV_TOKEN }} # আপনার রেপো সিক্রেটসের PAT টোকেন
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -22,6 +21,15 @@ jobs:
 
       - name: Install Dependencies
         run: pip install requests pycountry
+
+      - name: Clean Old Scrapped Files
+        run: |
+          # 🪠 প্রথমে আগের রানের সব দেশের ডাইনামিক ফোল্ডার এবং মেইন ফাইলগুলো পারফেক্টলি ডিলিট করবে
+          find . -maxdepth 1 -type d ! -name ".*" ! -name "Global" ! -name ".github" -exec rm -rf {} + 2>/dev/null || true
+          rm -rf Global
+          rm -f channels.json channels.m3u
+          printenv
+          echo "আগের সব ফাইল ও ডেড ফোল্ডার সফলভাবে ডিলিট করা হয়েছে।"
 
       - name: Run Global Segmented Fast Script
         run: python update_iptv.py
@@ -32,6 +40,6 @@ jobs:
           git config --global user.email "bot@ahyancreations.top"
           
           git add -A  
-          # ফাইল বা ডেটাতে পরিবর্তন আসলেই কেবল পুশ করবে
+          # নতুন ও সচল ফাইলগুলো ফ্রেশভাবে গিটহাবে পুশ করে আপডেট করে দেবে
           git diff --quiet && git diff --staged --quiet || (git commit -m "Global IPTV Super-Fast Sync: $(date -u)" && git push)
           
