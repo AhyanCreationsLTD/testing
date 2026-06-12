@@ -1,0 +1,37 @@
+name: Global IPTV Segmented Sync with Live Verification
+
+on:
+  schedule:
+    # প্রতি ১ ঘণ্টা পর পর স্বয়ংক্রিয়ভাবে রান হবে (Cron Job)
+    - cron: '0 * * * *'
+  workflow_dispatch: # ম্যানুয়ালি যেকোনো সময় রান করার অপশন
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: pip install requests pycountry
+
+      - name: Run Global Segmented Script
+        run: python update_iptv.py
+
+      - name: Commit & Push Changes
+        run: |
+          git config --global user.name "Ahyan IPTV Bot"
+          git config --global user.email "bot@ahyancreations.top"
+          
+          # সব নতুন তৈরি বা আপডেট হওয়া ফোল্ডার ও ফাইল গিটহাবে যোগ করা
+          git add -A  
+          
+          # যদি ডাটাতে পরিবর্তন থাকে তবেই কেবল পুশ করবে
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Global IPTV Live-Verified Sync: $(date -u)" && git push)
+          
