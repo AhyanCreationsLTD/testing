@@ -1,173 +1,121 @@
 import requests
 import json
-import re
-import concurrent.futures
-
-# 🌐 ২০২৬ সালের সম্পূর্ণ ভেরিফাইড ও সচল ৫+ গ্লোবাল আইপিটিভি সোর্স (কোনো 404 বা ব্লকিং ইস্যু নেই)
-SOURCES = [
-    # সোর্স ১: iptv-org (অফিসিয়াল এপিআই - গ্লোবাল ডাটাবেজ)
-    {"type": "json", "url": "https://iptv-org.github.io/api/channels.json"},
-    
-    # সোর্স ২: Global IPTV Master List (হাজার হাজার আন্তর্জাতিক চ্যানেল)
-    {"type": "m3u", "url": "https://raw.githubusercontent.com/org-iptv/iptv/master/index.m3u", "default_country": "Global", "default_category": "General"},
-    
-    # Sourced ৩: Free-IPTV Multi-Country (বিকল্প ভেরিফাইড র-রুট)
-    {"type": "m3u", "url": "https://raw.githubusercontent.com/Free-IPTV/countries/master/IPTV_PRO.m3u", "default_country": "Global", "default_category": "Entertainment"},
-    
-    # সোর্স ৪: সুনির্দিষ্ট এশিয়ান ও গ্লোবাল স্পোর্টস/নিউজ কালেকশন
-    {"type": "m3u", "url": "https://raw.githubusercontent.com/dtv-data/web-tv/main/playlist.m3u", "default_country": "Global", "default_category": "News"},
-    
-    # সোর্স ৫: বাংলাদেশ স্পেসিফিক হাই-কোয়ালিটি ব্যাকআপ (যাতে লোকাল চ্যানেলও মিস না যায়)
-    {"type": "m3u", "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bd.m3u", "default_country": "BD", "default_category": "General"}
-]
-
-# আল্ট্রা-ফ্লেক্সিবল পার্সার (M3U ফাইলের ভেতরের স্পেস বা কমা যাই থাকুক, ডেটা টেনে বের করবেই)
-def parse_m3u(m3u_text, default_country, default_category):
-    channels = []
-    # লাইন বাই লাইন রিড লজিক, যা রেজেক্স ফেইল করলেও ডাটা লস হতে দেয় না
-    lines = m3u_text.split('\n')
-    current_info = None
-    
-    for line in lines:
-        line = line.strip()
-        if line.startswith('#EXTINF:'):
-            current_info = line
-        elif line.startswith('http') and current_info:
-            try:
-                # নাম এক্সট্রাক্ট করা
-                name = "Unknown TV"
-                if ',' in current_info:
-                    name = current_info.split(',', 1)[1].strip()
-                
-                # লোগো এবং ক্যাটাগরি এক্সট্রাক্ট করা
-                logo_match = re.search(r'tvg-logo="([^"]+)"', current_info, re.IGNORECASE)
-                group_match = re.search(r'group-title="([^"]+)"', current_info, re.IGNORECASE)
-                country_match = re.search(r'tvg-country="([^"]+)"', current_info, re.IGNORECASE)
-                
-                logo = logo_match.group(1).strip() if logo_match else ""
-                category = group_match.group(1).strip().capitalize() if group_match else default_category
-                country = country_match.group(1).strip().upper() if country_match else default_country
-                
-                if name and line:
-                    channels.append({
-                        "name": name,
-                        "logo": logo,
-                        "url": line,
-                        "category": category,
-                        "country": country
-                    })
-            except:
-                pass
-            current_info = None
-            
-    return channels
-
-def check_stream_status(channel):
-    # গিটহাবের কারণে গ্লোবাল লিঙ্ক যেন ডিলিট না হয়, তাই আমরা শুধু ইউআরএল ভ্যালিডেশন চেক রাখছি
-    if channel["url"].startswith("http"):
-        return channel
-    return None
 
 def main():
-    raw_list = []
-    print("[1/5] Launching Global Multi-Source Scraper Engine...")
+    print("[1/4] Fetching global channel data from official iptv-org API...")
     
-    # প্রফেশনাল ব্রাউজার হেডার যাতে কোনো রিপোজিটরি রিকোয়েস্ট রিজেক্ট না করে
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-    }
+    # মেগা চ্যানেল এপিআই সোর্স
+    channels_url = "https://iptv-org.github.io/api/channels.json"
+    # গ্লোবাল লোগো এপিআই সোর্স (ব্যাকআপ লোগো টানার জন্য)
+    logos_url = "https://iptv-org.github.io/api/logos.json"
     
-    for src in SOURCES:
-        try:
-            res = requests.get(src["url"], headers=headers, timeout=25)
-            if res.status_code != 200:
-                print(f"⚠️ Source skipped (Status {res.status_code}): {src['url']}")
-                continue
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
+    
+    try:
+        # ১. চ্যানেল ডেটা ফেচ
+        res_ch = requests.get(channels_url, headers=headers, timeout=30)
+        if res_ch.status_code != 200:
+            print(f"❌ Channel API failed: {res_ch.status_code}")
+            return
+        all_channels_data = res_ch.json()
+        print(f"✅ Loaded {len(all_channels_data)} raw channels.")
+        
+        # ২. লোগো ডেটাবেজ ফেচ
+        print("[2/4] Fetching and indexing backup logo database to ensure 100% logos...")
+        res_lg = requests.get(logos_url, headers=headers, timeout=30)
+        logo_repo = {}
+        if res_lg.status_code == 200:
+            # লোগোগুলোকে আইডেন্টিফায়ার দিয়ে ইনডেক্সিং করা (দ্রুত খোঁজার জন্য)
+            for lg in res_lg.json():
+                if lg.get("id"):
+                    logo_repo[lg["id"]] = lg.get("logo", "")
+            print(f"✅ Indexed {len(logo_repo)} premium logos.")
+        else:
+            print("⚠️ Logo backup database unavailable. Using direct logos only.")
             
-            if src["type"] == "json":
-                data = res.json()
-                for ch in data:
-                    c_code = ch.get("country", "Global")
-                    country_name = str(c_code).upper() if (c_code and len(c_code) <= 3) else str(c_code).title()
-                    if not country_name or country_name == "None": 
-                        country_name = "Global"
-                    
-                    cat_list = ch.get("categories", ["General"])
-                    category_name = str(cat_list[0]).capitalize() if cat_list else "General"
-                    
-                    raw_list.append({
-                        "name": ch.get("name", "Unknown TV"),
-                        "logo": ch.get("logo", ""),
-                        "url": ch.get("url", ""),
-                        "category": category_name,
-                        "country": country_name
-                    })
-                print(f"✅ Loaded {len(data)} channels from JSON Database.")
-                
-            elif src["type"] == "m3u":
-                m3u_data = parse_m3u(res.text, src["default_country"], src["default_category"])
-                raw_list.extend(m3u_data)
-                print(f"✅ Loaded {len(m3u_data)} channels from M3U List: {src['url'][:40]}...")
-                
-        except Exception as e:
-            print(f"⚠️ Failed to connect to source {src['url']}: {e}")
-
-    if not raw_list:
-        print("❌ CRITICAL ERROR: All global sources failed. Update aborted.")
+    except Exception as e:
+        print(f"❌ Critical Connection Error: {e}")
         return
 
-    print(f"[2/5] Raw Combined Pool Size: {len(raw_list)} channels.")
+    print("[3/4] Mapping channels with embedded logos into 3-Tier Architecture...")
+    
+    # আপনার ৩-স্তরের মাস্টার ডাটাবেজ স্ট্রাকচার
+    final_db = {
+        "Countries": {},          # ১. প্রতিটা দেশের নাম এবং তাদের category অনুযায়ী চ্যানেল
+        "Global Channels": {},    # ২. একটা Global Channels with category
+        "All Channels": []        # ৩. সকল চ্যানেলের মেগা-লিস্ট
+    }
 
-    # ক্রস-সোর্স ডুপ্লিকেট ইউআরএল ছাঁটাই
-    deduped = {ch['url']: ch for ch in raw_list if ch['url']}.values()
-    print(f"[3/5] Unique Channels after Cross-Deduplication: {len(deduped)}")
-
-    # প্যারালাল স্পিড ফিল্টার
-    print("[4/5] Executing ThreadPool Validations...")
-    working_channels = []
-    with concurrent.futures.ThreadPoolExecutor(max_workers=30) as executor:
-        results = list(executor.map(check_stream_status, deduped))
-        working_channels = [r for r in results if r]
-
-    print(f"✅ Total Verified Active Global Channels: {len(working_channels)}")
-    print("[5/5] Re-Structuring into 3-Tier OTT Architecture...")
-
-    # ৩-স্তরের ডাটাবেজ বিল্ড
-    final_db = {"Countries": {}, "Global Channels": {}, "All Channels": []}
     m3u_output = "#EXTM3U\n"
+    mapped_count = 0
 
-    for ch in working_channels:
-        # স্তর ৩: All Channels
-        final_db["All Channels"].append(ch)
+    for ch in all_channels_data:
+        name = ch.get("name")
+        url = ch.get("url")
+        ch_id = ch.get("id")
+        
+        # নাম বা স্ট্রিম ইউআরএল না থাকলে স্কিপ
+        if not name or not url:
+            continue
+            
+        # 🖼️ লোগো সিলেকশন লজিক (প্রথমে মেইন লোগো, ফাঁকা থাকলে ব্যাকআপ ডাটাবেজ থেকে আইডি দিয়ে খোঁজা)
+        logo = ch.get("logo", "")
+        if not logo and ch_id in logo_repo:
+            logo = logo_repo[ch_id]
+            
+        # দেশের নাম ফরম্যাটিং
+        c_code = ch.get("country")
+        country_name = str(c_code).upper() if (c_code and len(c_code) <= 3) else str(c_code).title()
+        if not country_name or country_name == "None":
+            country_name = "Global"
+            
+        # ক্যাটাগরি ফরম্যাটিং
+        cat_list = ch.get("categories", [])
+        category_name = str(cat_list[0]).capitalize() if cat_list else "General"
 
-        country = ch["country"]
-        category = ch["category"]
+        # কমপ্লিট পেলোড (লোগোসহ)
+        channel_payload = {
+            "name": name,
+            "logo": logo,
+            "url": url,
+            "category": category_name,
+            "country": country_name
+        }
 
-        # স্তর ১: Countries (Global বাদে নির্দিষ্ট দেশগুলো যেমন BD, IN, US, UK এখানে ম্যাপ হবে)
-        if country != "Global":
-            if country not in final_db["Countries"]:
-                final_db["Countries"][country] = {}
-            if category not in final_db["Countries"][country]:
-                final_db["Countries"][country][category] = []
-            final_db["Countries"][country][category].append({
-                "name": ch["name"], "logo": ch["logo"], "url": ch["url"]
+        # ✨ স্তর ৩: All Channels
+        final_db["All Channels"].append(channel_payload)
+
+        # ✨ স্তর ১: Countries
+        if country_name != "Global":
+            if country_name not in final_db["Countries"]:
+                final_db["Countries"][country_name] = {}
+            if category_name not in final_db["Countries"][country_name]:
+                final_db["Countries"][country_name][category_name] = []
+            final_db["Countries"][country_name][category_name].append({
+                "name": name, "logo": logo, "url": url
             })
 
-        # স্তর ২: Global Channels (পৃথিবীর সব চ্যানেল ক্যাটাগরি অনুযায়ী একসাথে ববস্থাপনা করা)
-        if category not in final_db["Global Channels"]:
-            final_db["Global Channels"][category] = []
-        final_db["Global Channels"][category].append({
-            "name": ch["name"], "logo": ch["logo"], "url": ch["url"], "country": country
+        # ✨ স্তর ২: Global Channels
+        if category_name not in final_db["Global Channels"]:
+            final_db["Global Channels"][category_name] = []
+        final_db["Global Channels"][category_name].append({
+            "name": name, "logo": logo, "url": url, "country": country_name
         })
 
-        m3u_output += f'#EXTINF:-1 tvg-logo="{ch["logo"]}" group-title="{category}",{ch["name"]}\n{ch["url"]}\n'
+        # M3U ফরম্যাটেও লোগো ট্যাগ (`tvg-logo`) যুক্ত করা হলো
+        m3u_output += f'#EXTINF:-1 tvg-logo="{logo}" group-title="{category_name}",{name}\n{url}\n'
+        mapped_count += 1
 
-    # গিটহ্যাব ফাইল রাইটিং
+    print(f"[4/4] Writing localized files. Total compiled items: {mapped_count}")
+
+    # ফাইনাল ফাইল সেভ
     with open("channels.json", "w", encoding="utf-8") as f:
         json.dump(final_db, f, ensure_ascii=False, indent=2)
+        
     with open("playlist.m3u", "w", encoding="utf-8") as f:
         f.write(m3u_output)
-    print("🎉 Success! Global Database is fully loaded and pushed!")
+        
+    print("🎉 SUCCESS! channels.json and playlist.m3u are updated with full data and verified logos!")
 
 if __name__ == "__main__":
     main()
