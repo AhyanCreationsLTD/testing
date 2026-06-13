@@ -2,12 +2,9 @@ name: Ultimate Multi-Source IPTV Auto Update Engine
 
 on:
   schedule:
-    # ⏰ প্রতিদিন বাংলাদেশ সময় সকাল ৬টায় অটোমেটিক রান হবে (UTC 00:00)
-    - cron: '0 0 * * *'
+    # ⏰ প্রতি ১ ঘণ্টা পর পর স্বয়ংক্রিয়ভাবে ব্যাকএন্ডে রান হবে
+    - cron: '0 * * * *'
   workflow_dispatch: # গিটহাব ড্যাশবোর্ড থেকে যখন খুশি ম্যানুয়ালি রান করার বাটন
-
-permissions:
-  contents: write  # channels.json ফাইলে নতুন ডাটা পুশ করার পারমিশন লকড
 
 jobs:
   build-and-sync:
@@ -16,12 +13,14 @@ jobs:
     steps:
     - name: Checkout Repository Contents
       uses: actions/checkout@v4
+      with:
+        # টোকেন দিয়ে চেকআউট করলে পরবর্তী পুশ অ্যাকশনটি ফুল রাইট পারমিশন পায়
+        token: ${{ secrets.IPTV_TOKEN }}
 
     - name: Set up Python Environment
       uses: actions/setup-python@v5
       with:
-        python-version: '3.x'
-        cache: 'pip' # দ্রুত ডিপেন্ডেন্সি বিল্ড করার ক্যাশ মেমোরি
+        python-version: '3.x' # ক্যাশ অপশন রিমুভড, তাই কোনো এরর আসবে না
 
     - name: Install High-Performance HTTP Request Library
       run: |
@@ -29,14 +28,23 @@ jobs:
         pip install requests
 
     - name: Run Master Aggregator and Dead Link Cleaner Script
-      run: python update_iptv.py  # 👈 আপনার ফাইলের নাম অনুযায়ী পারফেক্টলি ট্যাগড
+      run: python update_iptv.py
 
     - name: Commit and Push Cleaned Premium channels.json
+      env:
+        # এনভায়রনমেন্ট ভ্যারিয়েবল হিসেবে টোকেন ইনজেক্ট করা হলো
+        GITHUB_TOKEN: ${{ secrets.IPTV_TOKEN }}
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action Bot"
         git add channels.json
-        # যদি নতুন কোনো চ্যানেল আপডেট না থাকে, তবে ক্র্যাশ না করে স্কিপ করবে
-        git diff-index --quiet HEAD || git commit -m "⚡ Sync & Cleaned: Multi-Source Master Channels Database [Auto]"
-        git push
+        
+        # কোনো চেঞ্জ না থাকলে যেন ওয়ার্কফ্লো এরর না খায়, সে জন্য কন্ডিশনাল পুশ করা হয়েছে
+        if ! git diff-index --quiet HEAD; then
+          git commit -m "⚡ Hourly Sync & Cleaned: Multi-Source Master Channels [Auto]"
+          # আপনার টোকেন ব্যবহার করে সিকিউরলি রিমোট ইউআরএল আপডেট করে পুশ করা হচ্ছে
+          git push https://x-access-token:${{ secrets.IPTV_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref_name }}
+        else
+          echo "No new stream updates found this hour. Skipping push to avoid redundancy."
+        fi
         
