@@ -456,6 +456,14 @@
         "url": "http://live.greektv.ca/hls1/greektv.m3u8"
     },
     {
+        "id": "MRTVNRC.mm",
+        "name": "MRTV NRC",
+        "logo": "https://i.imgur.com/5aLFslk.jpg",
+        "category": "Culture",
+        "country": "Myanmar",
+        "url": "https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8"
+    },
+    {
         "id": "NaturalTV.tr",
         "name": "Natural TV",
         "logo": "https://i.imgur.com/rfcJ674.png",
@@ -680,12 +688,12 @@
         "url": "http://31.148.48.15/Sochi_HD/video.m3u8"
     },
     {
-        "id": "TraVinhTV.vn",
-        "name": "Tra Vinh TV",
-        "logo": "https://i.imgur.com/F12VdKO.png",
+        "id": "TheIndonesiaChannel.id",
+        "name": "The Indonesia Channel",
+        "logo": "https://i.imgur.com/jAAPgpV.png",
         "category": "Culture",
-        "country": "Viet Nam",
-        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8"
+        "country": "Indonesia",
+        "url": "https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8"
     },
     {
         "id": "TrishulBroadcastingNetwork.sr",
@@ -718,6 +726,14 @@
         "category": "Culture",
         "country": "Brazil",
         "url": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8"
+    },
+    {
+        "id": "TVRCultural.ro",
+        "name": "TVR Cultural",
+        "logo": "https://i.imgur.com/U9i70C9.png",
+        "category": "Culture",
+        "country": "Romania",
+        "url": "https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/chunklist_b5160000.m3u8"
     },
     {
         "id": "TVVita.sk",

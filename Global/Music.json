@@ -88,14 +88,6 @@
         "url": "https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8"
     },
     {
-        "id": "7SMusic.in",
-        "name": "7S Music",
-        "logo": "https://i.imgur.com/zDiIhdN.png",
-        "category": "Music",
-        "country": "India",
-        "url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8"
-    },
-    {
         "id": "7YOUME.it",
         "name": "7 YOU & ME",
         "logo": "https://i.imgur.com/Rte2K3x.png",
@@ -414,6 +406,14 @@
         "category": "Music",
         "country": "Venezuela, Bolivarian Republic of",
         "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8"
+    },
+    {
+        "id": "BTBMusic.pl",
+        "name": "BTB Music",
+        "logo": "https://btb.j00r.us/images/logo_BTBMusic.webp",
+        "category": "Music",
+        "country": "Poland",
+        "url": "https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8"
     },
     {
         "id": "CadenaElite.es",
@@ -784,12 +784,12 @@
         "url": "https://stream.farra.com.py/live/farra_low.m3u8"
     },
     {
-        "id": "FlexStudioRadioTV.bz",
-        "name": "Flex Studio Radio TV",
-        "logo": "https://i.imgur.com/tZjqtxd.png",
+        "id": "FMMundo.ec",
+        "name": "FM Mundo",
+        "logo": "https://i.imgur.com/1nNnYQO.png",
         "category": "Music",
-        "country": "Belize",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/fsradiotv/playlist.m3u8"
+        "country": "Ecuador",
+        "url": "https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8"
     },
     {
         "id": "FolkKlubTV.au",
@@ -1152,6 +1152,14 @@
         "url": "http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8"
     },
     {
+        "id": "LaCantinaMemorias.co",
+        "name": "La Cantina Memorias",
+        "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/34751741_ico.png",
+        "category": "Music",
+        "country": "Colombia",
+        "url": "https://video.xtrematv.com:3208/live/memoriaslacantinalive.m3u8"
+    },
+    {
         "id": "LaHermandadSalsera.co",
         "name": "La Hermandad Salsera",
         "logo": "https://i.imgur.com/7Wlt6bc.png",
@@ -1456,6 +1464,38 @@
         "url": "http://54.36.110.140/live3/live3.m3u8"
     },
     {
+        "id": "MemoriasdelCorazon.co",
+        "name": "Memorias del Corazon",
+        "logo": "https://i.imgur.com/sVLDzzM.png",
+        "category": "Music",
+        "country": "Colombia",
+        "url": "https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8"
+    },
+    {
+        "id": "MemoriasFMPopLatino.co",
+        "name": "Memorias FM Pop Latino",
+        "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/34751581_ico.png",
+        "category": "Music",
+        "country": "Colombia",
+        "url": "https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8"
+    },
+    {
+        "id": "MemoriasTVClassic.co",
+        "name": "Memorias TV Classic",
+        "logo": "https://i.imgur.com/tLTQLnv.png",
+        "category": "Music",
+        "country": "Colombia",
+        "url": "https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8"
+    },
+    {
+        "id": "MemoriasTVTropical.co",
+        "name": "Memorias TV Tropical",
+        "logo": "https://i.imgur.com/Y9GFDcV.png",
+        "category": "Music",
+        "country": "Colombia",
+        "url": "https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8"
+    },
+    {
         "id": "MetaleitorTV.us",
         "name": "Metaleitor TV",
         "logo": "https://new.opencaster.com/uploads/logos/logo_14_1752798826.png",
@@ -1616,6 +1656,14 @@
         "url": "https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8"
     },
     {
+        "id": "NogoumFMTV.eg",
+        "name": "NogoumFMTV",
+        "logo": "https://i.imgur.com/krp3kgv.png",
+        "category": "Music",
+        "country": "Egypt",
+        "url": "https://nogoumtv.nrpstream.com/hls/stream.m3u8"
+    },
+    {
         "id": "NPCRadioeTV.pt",
         "name": "NPC Radio e TV",
         "logo": "https://i.imgur.com/mw1lYWE.png",
@@ -1726,6 +1774,14 @@
         "category": "Music",
         "country": "Germany",
         "url": "https://cdne.folxplay.tv/folx-trz/streams/ch-6/master.m3u8"
+    },
+    {
+        "id": "OneFM.lb",
+        "name": "OneFM",
+        "logo": "https://i.ibb.co/Vp2G9wTz/onefmlb.png",
+        "category": "Music",
+        "country": "Lebanon",
+        "url": "https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8"
     },
     {
         "id": "OneMusicTelevision.de",
@@ -2398,6 +2454,14 @@
         "category": "Music",
         "country": "Colombia",
         "url": "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8"
+    },
+    {
+        "id": "SaltoBrasaMusic.nl",
+        "name": "Salto Brasa Music",
+        "logo": "https://i.vimeocdn.com/portrait/31947989_640x640",
+        "category": "Music",
+        "country": "Netherlands",
+        "url": "https://salto-streams.nl/hls/sotv1.m3u8"
     },
     {
         "id": "SanaPlus.in",

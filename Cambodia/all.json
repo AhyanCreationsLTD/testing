@@ -1,11 +1,19 @@
 [
     {
-        "id": "ARDBTV.kh",
-        "name": "ARDB TV",
-        "logo": "https://i.imgur.com/yOncWla.png",
-        "category": "Outdoor",
+        "id": "BTVNews.kh",
+        "name": "BTV News",
+        "logo": "https://i.imgur.com/sUHiRj3.png",
+        "category": "News",
         "country": "Cambodia",
-        "url": "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8"
+        "url": "https://server.dtvhd.com/memfs/cf0911cf-4ccc-47b1-8996-e5d705442b89.m3u8"
+    },
+    {
+        "id": "FreshNews.kh",
+        "name": "Fresh News",
+        "logo": "https://i.imgur.com/bV6sawt.png",
+        "category": "News",
+        "country": "Cambodia",
+        "url": "http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8"
     },
     {
         "id": "CTV9.kh",
@@ -32,6 +40,14 @@
         "url": "https://iptv.ebc.edu.kh/iptv/channel/1.m3u8"
     },
     {
+        "id": "OneTVESchoolCambodia.kh",
+        "name": "One TV E-School Cambodia",
+        "logo": "https://i.imgur.com/wLzVdeT.png",
+        "category": "Education",
+        "country": "Cambodia",
+        "url": "http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8"
+    },
+    {
         "id": "TVK2.kh",
         "name": "TVK 2",
         "logo": "https://i.imgur.com/L36ptO2.png",
@@ -46,14 +62,6 @@
         "category": "Education",
         "country": "Cambodia",
         "url": "https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8"
-    },
-    {
-        "id": "FreshNews.kh",
-        "name": "Fresh News",
-        "logo": "https://i.imgur.com/bV6sawt.png",
-        "category": "News",
-        "country": "Cambodia",
-        "url": "http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8"
     },
     {
         "id": "HangMeasHDTV.kh",

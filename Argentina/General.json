@@ -8,6 +8,14 @@
         "url": "https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8"
     },
     {
+        "id": "ABTVBariloche.ar",
+        "name": "ABTV Bariloche",
+        "logo": "https://i.imgur.com/l4TSfDr.png",
+        "category": "General",
+        "country": "Argentina",
+        "url": "https://videostream.shockmedia.com.ar/hls/abtvbariloche/abtvbariloche.m3u8"
+    },
+    {
         "id": "AiredeSantaFe.ar",
         "name": "Aire de Santa Fe",
         "logo": "https://i.imgur.com/60vSWW0.png",
@@ -32,20 +40,20 @@
         "url": "https://stream1.sersat.com/hls/argentinisima.m3u8"
     },
     {
+        "id": "BragadoTV.ar",
+        "name": "Bragado TV",
+        "logo": "https://i.imgur.com/xP88fKG.png",
+        "category": "General",
+        "country": "Argentina",
+        "url": "https://mp.panelchs.com:1936/8028/ngrp:8028_all/playlist.m3u8"
+    },
+    {
         "id": "BravoTV.ar",
         "name": "Bravo TV",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png",
         "category": "General",
         "country": "Argentina",
         "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef"
-    },
-    {
-        "id": "Canal2deUshuaia.ar",
-        "name": "Canal 2 de Ushuaia",
-        "logo": "https://i.ibb.co/q5NPdK2/canal2-logo.png",
-        "category": "General",
-        "country": "Argentina",
-        "url": "https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8"
     },
     {
         "id": "Canal2Gualeguay.ar",
@@ -166,5 +174,13 @@
         "category": "General",
         "country": "Argentina",
         "url": "http://204.199.3.2/.m3u8"
+    },
+    {
+        "id": "RadioUP.ar",
+        "name": "Radio UP",
+        "logo": "https://radioup.com.ar/wp-content/uploads/2025/06/logo-radioup-footer.png",
+        "category": "General",
+        "country": "Argentina",
+        "url": "https://iptv.ixfo.com.ar:30443/live/RadioUpTvStreaming/playlist.m3u8"
     }
 ]

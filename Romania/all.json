@@ -144,12 +144,36 @@
         "url": "https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/chunklist_b5160000.m3u8"
     },
     {
+        "id": "TVRFolclor.ro",
+        "name": "TVR Folclor",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVR_Folclor_Logo_2023.svg/960px-TVR_Folclor_Logo_2023.svg.png",
+        "category": "General",
+        "country": "Romania",
+        "url": "https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8"
+    },
+    {
         "id": "TVRIasi.ro",
         "name": "TVR Iasi",
         "logo": "https://i.imgur.com/Kxkihds.png",
         "category": "General",
         "country": "Romania",
         "url": "https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/chunklist_b5160000.m3u8"
+    },
+    {
+        "id": "TVRInternational.ro",
+        "name": "TVR International",
+        "logo": "https://i.imgur.com/w28wcHs.png",
+        "category": "General",
+        "country": "Romania",
+        "url": "https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist_b5160000.m3u8"
+    },
+    {
+        "id": "TVRSport.ro",
+        "name": "TVR Sport",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/960px-TVR_Sport_Logo_2023.svg.png",
+        "category": "General",
+        "country": "Romania",
+        "url": "https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8"
     },
     {
         "id": "TVRTarguMures.ro",
@@ -246,6 +270,14 @@
         "category": "News",
         "country": "Romania",
         "url": "https://vdo.ssl-stream.com:3247/stream/play.m3u8"
+    },
+    {
+        "id": "TVRInfo.ro",
+        "name": "TVR Info",
+        "logo": "https://i.imgur.com/7oE7ThR.png",
+        "category": "News",
+        "country": "Romania",
+        "url": "https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/chunklist_b5160000.m3u8"
     },
     {
         "id": "AntenaMonden.ro",
@@ -440,14 +472,6 @@
         "url": "https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8"
     },
     {
-        "id": "HelloTaste.ro",
-        "name": "Hello Taste",
-        "logo": "https://i.imgur.com/TdKO0er.png",
-        "category": "Cooking",
-        "country": "Romania",
-        "url": "https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8"
-    },
-    {
         "id": "Mireasa.ro",
         "name": "Mireasa",
         "logo": "https://i.imgur.com/k0VO0LH.png",
@@ -470,5 +494,13 @@
         "category": "Religious",
         "country": "Romania",
         "url": "https://jstre.am/live/jsl:2gNjpghXRLE.m3u8"
+    },
+    {
+        "id": "TVRCultural.ro",
+        "name": "TVR Cultural",
+        "logo": "https://i.imgur.com/U9i70C9.png",
+        "category": "Culture",
+        "country": "Romania",
+        "url": "https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/chunklist_b5160000.m3u8"
     }
 ]

@@ -32,6 +32,14 @@
         "url": "http://88.212.15.27/live/test_trojka_25p/playlist.m3u8"
     },
     {
+        "id": "247CanaldeNoticias.ar",
+        "name": "24/7 Canal de Noticias",
+        "logo": "https://i.imgur.com/4hDCB1M.png",
+        "category": "News",
+        "country": "Argentina",
+        "url": "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8"
+    },
+    {
         "id": "24Horas.es",
         "name": "24 Horas",
         "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
@@ -126,14 +134,6 @@
         "category": "News",
         "country": "Spain",
         "url": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8"
-    },
-    {
-        "id": "4DmasNoticiasTV.py",
-        "name": "4Dmas Noticias TV",
-        "logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
-        "category": "News",
-        "country": "Paraguay",
-        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8"
     },
     {
         "id": "4TVNews.in",
@@ -624,14 +624,6 @@
         "url": "https://server.gointernet.gr/live/livestream.m3u8"
     },
     {
-        "id": "AtacamaNoticias.cl",
-        "name": "Atacama Noticias",
-        "logo": "https://i.imgur.com/Avx4Ecf.png",
-        "category": "News",
-        "country": "Chile",
-        "url": "https://v2.tustreaming.cl/atacamanoticias/index.m3u8"
-    },
-    {
         "id": "ATNNews.bd",
         "name": "ATN News",
         "logo": "https://i.imgur.com/4qZQKjo.png",
@@ -766,6 +758,14 @@
         "category": "News",
         "country": "India",
         "url": "https://feeds.intoday.in/bttv/itgd.m3u8"
+    },
+    {
+        "id": "BTVNews.kh",
+        "name": "BTV News",
+        "logo": "https://i.imgur.com/sUHiRj3.png",
+        "category": "News",
+        "country": "Cambodia",
+        "url": "https://server.dtvhd.com/memfs/cf0911cf-4ccc-47b1-8996-e5d705442b89.m3u8"
     },
     {
         "id": "C9N.py",
@@ -958,14 +958,6 @@
         "category": "News",
         "country": "China",
         "url": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8"
-    },
-    {
-        "id": "CEACOMTV.bo",
-        "name": "CEACOM TV",
-        "logo": "https://i.imgur.com/hutdRfk.png",
-        "category": "News",
-        "country": "Bolivia, Plurinational State of",
-        "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8"
     },
     {
         "id": "CGTN.cn",
@@ -1488,6 +1480,14 @@
         "url": "https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8"
     },
     {
+        "id": "FilinfoTV.bf",
+        "name": "Filinfo TV",
+        "logo": "https://i.imgur.com/KG93Tvn.png",
+        "category": "News",
+        "country": "Burkina Faso",
+        "url": "https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8"
+    },
+    {
         "id": "FinansTurkTV.tr",
         "name": "Finans Turk TV",
         "logo": "https://i.ibb.co/wBwmB1T/iY0osc7.png",
@@ -1600,14 +1600,6 @@
         "url": "https://cdn-edge1.streamcomedia.com/abr_tngr969fm/abr-tngr969fm_streams/playlist.m3u8"
     },
     {
-        "id": "GugbangTV.kr",
-        "name": "Gugbang TV",
-        "logo": "https://i.imgur.com/f1tz5fg.png",
-        "category": "News",
-        "country": "Korea, Republic of",
-        "url": "http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8"
-    },
-    {
         "id": "GulistanNews.in",
         "name": "Gulistan News",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GULISTAN_NEWS/images/LOGO_HD/image.png",
@@ -1688,14 +1680,6 @@
         "url": "https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8"
     },
     {
-        "id": "HirTV.hu",
-        "name": "Hir TV",
-        "logo": "https://i.imgur.com/xmIUDRN.png",
-        "category": "News",
-        "country": "Hungary",
-        "url": "https://video11.videa.hu/static/live/8.2966061.2530409.1.5.590.590/index.m3u8"
-    },
-    {
         "id": "HNN24x7.in",
         "name": "HNN 24x7",
         "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/HNN_2000_X_1125_Transpharent.png",
@@ -1712,14 +1696,6 @@
         "url": "https://cdn-2.pishow.tv/live/1463/master.m3u8"
     },
     {
-        "id": "HTV9.vn",
-        "name": "HTV9",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bf/HTV9_logo.webp",
-        "category": "News",
-        "country": "Viet Nam",
-        "url": "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8"
-    },
-    {
         "id": "i24NEWSEnglishUSA.il",
         "name": "i24NEWS English USA",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
@@ -1734,6 +1710,14 @@
         "category": "News",
         "country": "Canada",
         "url": "https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8"
+    },
+    {
+        "id": "ICNDigital.hn",
+        "name": "ICN Digital",
+        "logo": "https://i.imgur.com/UCZVQgj.png",
+        "category": "News",
+        "country": "Honduras",
+        "url": "https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8"
     },
     {
         "id": "Ind24.in",
@@ -1824,14 +1808,6 @@
         "url": "http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8"
     },
     {
-        "id": "JovemPanNews.br",
-        "name": "Jovem Pan News",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png",
-        "category": "News",
-        "country": "Brazil",
-        "url": "https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8"
-    },
-    {
         "id": "KalaignarSeithigal.in",
         "name": "Kalaignar Seithigal",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SEITHIGAL_24X7/images/LOGO_HD/image.png",
@@ -1862,14 +1838,6 @@
         "category": "News",
         "country": "United States",
         "url": "https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8"
-    },
-    {
-        "id": "KNewsIndia.in",
-        "name": "K News India",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/K_News_India.png",
-        "category": "News",
-        "country": "India",
-        "url": "https://mumt02.tangotv.in/KNEWSINDIA/index.m3u8"
     },
     {
         "id": "KrikTV.ru",
@@ -2040,20 +2008,20 @@
         "url": "https://cdn-3.pishow.tv/live/1606/master.m3u8"
     },
     {
-        "id": "MantavyaNews.in",
-        "name": "Mantavya News",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Mantavya_News.png",
-        "category": "News",
-        "country": "India",
-        "url": "https://mumt02.tangotv.in/MANTAVYA24X7NEWS/index.m3u8"
-    },
-    {
         "id": "MathrubhumiNews.in",
         "name": "Mathrubhumi News",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MATHRUBHUMI_NEWS/images/LOGO_HD/image.png",
         "category": "News",
         "country": "India",
         "url": "https://mumt02.tangotv.in/MATHRUBHUMINEWS/index.m3u8"
+    },
+    {
+        "id": "MayaTV.hn",
+        "name": "Maya TV",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Maya_TV_logo.png/960px-Maya_TV_logo.png",
+        "category": "News",
+        "country": "Honduras",
+        "url": "https://media.streambrothers.com:19360/8036/8036.m3u8"
     },
     {
         "id": "Medi1TVAfrique.ma",
@@ -2094,6 +2062,14 @@
         "category": "News",
         "country": "Paraguay",
         "url": "https://www.desde-paraguay.com/mega.m3u8"
+    },
+    {
+        "id": "MekameleenTV.tr",
+        "name": "Mekameleen TV",
+        "logo": "https://i.imgur.com/q7iVchl.png",
+        "category": "News",
+        "country": "Türkiye",
+        "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8"
     },
     {
         "id": "MetroTV.id",
@@ -2792,6 +2768,14 @@
         "url": "https://oneamericanews-vizio.amagi.tv/playlist.m3u8"
     },
     {
+        "id": "OnkarOnlyTruthTV.in",
+        "name": "Onkar Only Truth TV",
+        "logo": "https://i.imgur.com/wu7aQRg.png",
+        "category": "News",
+        "country": "India",
+        "url": "https://5dd3981940faa.streamlock.net/onkarentertainment/onkarentertainment/playlist.m3u8"
+    },
+    {
         "id": "OraNews.al",
         "name": "Ora News",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ora_News_%28Albania%29.svg/960px-Ora_News_%28Albania%29.svg.png",
@@ -2862,14 +2846,6 @@
         "category": "News",
         "country": "India",
         "url": "https://cdn-3.pishow.tv/live/1245/master.m3u8"
-    },
-    {
-        "id": "PowerTV.in",
-        "name": "Power TV",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POWER_TV/images/LOGO_HD/image.png",
-        "category": "News",
-        "country": "India",
-        "url": "https://powertvkannada.com/hls/stream.m3u8"
     },
     {
         "id": "PratidinTime.in",
@@ -3352,14 +3328,6 @@
         "url": "http://103.253.18.58:8000/play/a00u"
     },
     {
-        "id": "StartTV.gr",
-        "name": "Start TV",
-        "logo": "https://i.ibb.co/4PrPG5j/Start-TV-Corfu-Radio-100-1-www-startmedia-gr-1.jpg",
-        "category": "News",
-        "country": "Greece",
-        "url": "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8"
-    },
-    {
         "id": "STZTV.br",
         "name": "STZ TV",
         "logo": "https://i.imgur.com/SeF2I7q.png",
@@ -3680,14 +3648,6 @@
         "url": "https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8"
     },
     {
-        "id": "TVJadran.hr",
-        "name": "TV Jadran",
-        "logo": "https://i.imgur.com/UWMHnOG.png",
-        "category": "News",
-        "country": "Croatia",
-        "url": "https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8"
-    },
-    {
         "id": "TVLaCapitale.ci",
         "name": "TV La Capitale",
         "logo": "https://i.imgur.com/zZJzNjM.jpeg",
@@ -3718,6 +3678,14 @@
         "category": "News",
         "country": "Poland",
         "url": "https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8"
+    },
+    {
+        "id": "TVRInfo.ro",
+        "name": "TVR Info",
+        "logo": "https://i.imgur.com/7oE7ThR.png",
+        "category": "News",
+        "country": "Romania",
+        "url": "https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/chunklist_b5160000.m3u8"
     },
     {
         "id": "TVSimCachoeiro.br",
@@ -3814,14 +3782,6 @@
         "category": "News",
         "country": "Russian Federation",
         "url": "https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173"
-    },
-    {
-        "id": "VinhLongTV1.vn",
-        "name": "Vinh Long TV 1",
-        "logo": "https://i.imgur.com/5YFsqPx.png",
-        "category": "News",
-        "country": "Viet Nam",
-        "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8"
     },
     {
         "id": "VIPNews.in",
@@ -4126,6 +4086,14 @@
         "category": "News",
         "country": "India",
         "url": "https://duw35ict5q7th.cloudfront.net/index_3.m3u8"
+    },
+    {
+        "id": "ZillarBartaNews.in",
+        "name": "ZillarBarta News",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/zillarbarta.png",
+        "category": "News",
+        "country": "India",
+        "url": "https://server.zillarbarta.com/zillarbarta/index.m3u8"
     },
     {
         "id": "ZoomNews.us",

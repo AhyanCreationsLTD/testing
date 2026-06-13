@@ -27,6 +27,8 @@ http://canal.mediaserver.com.co/live/telemorisco.m3u8
 https://video.ejeserver.com/live/canal8tv.m3u8
 #EXTINF:-1 tvg-id="CanalCalimaTV.co" tvg-logo="https://i.imgur.com/6YxtyUR.jpeg" group-title="Colombia - General",Canal Calima TV
 https://movil.ejeserver.com/live/calimatv.m3u8
+#EXTINF:-1 tvg-id="CanalCHD.co" tvg-logo="https://i.imgur.com/cNv1MPs.jpeg" group-title="Colombia - General",Canal CHD
+https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
 #EXTINF:-1 tvg-id="CanalMasTelevision.co" tvg-logo="https://i.imgur.com/ODMa27W.jpg" group-title="Colombia - General",Canal Mas Television
 https://video.ejeserver.com/live/teledoradahd.m3u8
 #EXTINF:-1 tvg-id="CanalMundoVision.co" tvg-logo="https://i.imgur.com/zRqfJuj.png" group-title="Colombia - General",Canal Mundo Vision
@@ -85,10 +87,14 @@ https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
 https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8
 #EXTINF:-1 tvg-id="CucutaRetroTV.co" tvg-logo="https://i.imgur.com/GltIfWW.jpeg" group-title="Colombia - Classic",Cucuta Retro TV
 https://mist01.homestream.fun/hls/ntvlive/0_1/index.m3u8
+#EXTINF:-1 tvg-id="Eduvision.co" tvg-logo="https://i.imgur.com/ppBdqel.png" group-title="Colombia - Education",Eduvision
+https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
 #EXTINF:-1 tvg-id="ElMundodelCampo.co" tvg-logo="https://i.imgur.com/xG2apUG.jpeg" group-title="Colombia - Outdoor",El Mundo del Campo
 https://movil.ejeserver.com/live/elmundodelcampo.m3u8
 #EXTINF:-1 tvg-id="UMCTV.co" tvg-logo="https://i.imgur.com/YQUK4wO.png" group-title="Colombia - Outdoor",UMC TV
 https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
+#EXTINF:-1 tvg-id="LaCantinaMemorias.co" tvg-logo="https://imgs1.e-droid.net/srv/imgs/seccs/34751741_ico.png" group-title="Colombia - Music",La Cantina Memorias
+https://video.xtrematv.com:3208/live/memoriaslacantinalive.m3u8
 #EXTINF:-1 tvg-id="LaHermandadSalsera.co" tvg-logo="https://i.imgur.com/7Wlt6bc.png" group-title="Colombia - Music",La Hermandad Salsera
 https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
 #EXTINF:-1 tvg-id="LaKalle.co" tvg-logo="https://www.tdtparatodos.tv/sites/default/files/la_kalle.png" group-title="Colombia - Music",La Kalle
@@ -97,6 +103,14 @@ https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 https://movil.ejeserver.com/live/lamoradatv.m3u8
 #EXTINF:-1 tvg-id="MasMusicaFM.co" tvg-logo="https://i.imgur.com/tCg7owd.png" group-title="Colombia - Music",MasMusica FM
 https://video.ejeserver.com/live/masmusica.m3u8
+#EXTINF:-1 tvg-id="MemoriasdelCorazon.co" tvg-logo="https://i.imgur.com/sVLDzzM.png" group-title="Colombia - Music",Memorias del Corazon
+https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8
+#EXTINF:-1 tvg-id="MemoriasFMPopLatino.co" tvg-logo="https://imgs1.e-droid.net/srv/imgs/seccs/34751581_ico.png" group-title="Colombia - Music",Memorias FM Pop Latino
+https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8
+#EXTINF:-1 tvg-id="MemoriasTVClassic.co" tvg-logo="https://i.imgur.com/tLTQLnv.png" group-title="Colombia - Music",Memorias TV Classic
+https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8
+#EXTINF:-1 tvg-id="MemoriasTVTropical.co" tvg-logo="https://i.imgur.com/Y9GFDcV.png" group-title="Colombia - Music",Memorias TV Tropical
+https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8
 #EXTINF:-1 tvg-id="OndambientalTV.co" tvg-logo="https://i.imgur.com/u5804Au.jpg" group-title="Colombia - Music",Ondambiental TV
 https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
 #EXTINF:-1 tvg-id="ParrandaVallenata.co" tvg-logo="https://i.imgur.com/BzBX7Qx.jpeg" group-title="Colombia - Music",Parranda Vallenata
@@ -109,5 +123,11 @@ https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
 https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
 #EXTINF:-1 tvg-id="MCITelevision.co" tvg-logo="https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg" group-title="Colombia - Movies",MCI Television
 https://video.ejeserver.com/live/mcitelevision.m3u8
+#EXTINF:-1 tvg-id="MemoriasTVFilm.co" tvg-logo="https://i.imgur.com/vNfjW6Y.png" group-title="Colombia - Movies",Memorias TV Film
+https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
+#EXTINF:-1 tvg-id="MemoriasTVSeries.co" tvg-logo="https://i.imgur.com/ohCSMhY.png" group-title="Colombia - Series",Memorias TV Series
+https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
+#EXTINF:-1 tvg-id="MemoriasTVToons.co" tvg-logo="https://i.imgur.com/2fiiNCz.png" group-title="Colombia - Kids",Memorias TV Toons
+https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
 #EXTINF:-1 tvg-id="ViveTV.co" tvg-logo="https://i.imgur.com/25CFHpB.png" group-title="Colombia - Other",Vive TV
 http://192.144.113.132:1935/live/ViveTV/playlist.m3u8

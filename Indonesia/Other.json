@@ -64,14 +64,6 @@
         "url": "https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8"
     },
     {
-        "id": "MatrixTVYogyakarta.id",
-        "name": "Matrix TV Yogyakarta",
-        "logo": "https://stream.matrixtv.id/logo",
-        "category": "Other",
-        "country": "Indonesia",
-        "url": "https://stream.matrixtv.id/hls/0/stream.m3u8"
-    },
-    {
         "id": "PKTV.id",
         "name": "PKTV",
         "logo": "https://i.imgur.com/mldv8Sf.png",
@@ -86,6 +78,14 @@
         "category": "Other",
         "country": "Indonesia",
         "url": "http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8"
+    },
+    {
+        "id": "RadarLampungTV.id",
+        "name": "Radar Lampung TV",
+        "logo": "https://upload.wikimedia.org/wikipedia/id/4/42/Logo_RadarTV_Lampung.png",
+        "category": "Other",
+        "country": "Indonesia",
+        "url": "https://www.streaming.radartv.co.id/hls/test.m3u8"
     },
     {
         "id": "RadarTasikmalayaTV.id",
@@ -142,6 +142,14 @@
         "category": "Other",
         "country": "Indonesia",
         "url": "https://e.siar.us/live/smtv.m3u8"
+    },
+    {
+        "id": "SriwijayaTV.id",
+        "name": "Sriwijaya TV",
+        "logo": "https://upload.wikimedia.org/wikipedia/id/7/75/SriwijayaTV_2014.png",
+        "category": "Other",
+        "country": "Indonesia",
+        "url": "https://sriwijayatv.siar.us/live/sriwijayatv.m3u8"
     },
     {
         "id": "StaraTV.id",

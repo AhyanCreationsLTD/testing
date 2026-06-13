@@ -8,14 +8,6 @@
         "url": "https://vodcdn.bamboo-cloud.com/livehls/68c525e1063044539b09c253/master.m3u8"
     },
     {
-        "id": "ANTV.id",
-        "name": "ANTV",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png",
-        "category": "General",
-        "country": "Indonesia",
-        "url": "http://103.58.160.157:8278/720-ANTV/playlist.m3u8"
-    },
-    {
         "id": "AstroBlitarTV.id",
         "name": "Astro Blitar TV",
         "logo": "https://i.imgur.com/rORKbGw.png",
@@ -104,12 +96,28 @@
         "url": "http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8"
     },
     {
+        "id": "JekTV.id",
+        "name": "Jek TV",
+        "logo": "https://i.imgur.com/wh75d1f.png",
+        "category": "General",
+        "country": "Indonesia",
+        "url": "http://27.124.81.245:1935/jektv/myStream/playlist.m3u8"
+    },
+    {
         "id": "JogjaIstimewaTV.id",
         "name": "Jogja Istimewa TV",
         "logo": "https://i.imgur.com/VEqQfTu.png",
         "category": "General",
         "country": "Indonesia",
         "url": "http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8"
+    },
+    {
+        "id": "JogjaTV.id",
+        "name": "Jogja TV",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/40/Jogjatvnew.png",
+        "category": "General",
+        "country": "Indonesia",
+        "url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8"
     },
     {
         "id": "JTV.id",
@@ -128,6 +136,14 @@
         "url": "http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8"
     },
     {
+        "id": "KilisuciTV.id",
+        "name": "Kilisuci TV",
+        "logo": "https://upload.wikimedia.org/wikipedia/id/e/e4/Kilisuci_TV_NEW_LOGO_2016.png",
+        "category": "General",
+        "country": "Indonesia",
+        "url": "https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8"
+    },
+    {
         "id": "MaduTV.id",
         "name": "Madu TV",
         "logo": "https://i.imgur.com/cKpgbgW.png",
@@ -142,6 +158,14 @@
         "category": "General",
         "country": "Indonesia",
         "url": "http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8"
+    },
+    {
+        "id": "SampitTV.id",
+        "name": "Sampit TV",
+        "logo": "https://i.imgur.com/8cFJa8G.png",
+        "category": "General",
+        "country": "Indonesia",
+        "url": "https://sampit-tv.siar.us/live/sampit-tv.m3u8"
     },
     {
         "id": "Trans7.id",

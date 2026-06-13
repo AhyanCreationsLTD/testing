@@ -1,5 +1,13 @@
 [
     {
+        "id": "4E.gr",
+        "name": "4E",
+        "logo": "https://i.imgur.com/Na0UCV7.png",
+        "category": "Religious",
+        "country": "Greece",
+        "url": "http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8"
+    },
+    {
         "id": "AcheloosTV.gr",
         "name": "Acheloos TV",
         "logo": "https://i.imgur.com/5SVMxcu.png",
@@ -240,14 +248,6 @@
         "url": "https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8"
     },
     {
-        "id": "StartTV.gr",
-        "name": "Start TV",
-        "logo": "https://i.ibb.co/4PrPG5j/Start-TV-Corfu-Radio-100-1-www-startmedia-gr-1.jpg",
-        "category": "News",
-        "country": "Greece",
-        "url": "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8"
-    },
-    {
         "id": "VerginaTV.gr",
         "name": "Vergina TV",
         "logo": "https://i.imgur.com/abQmFoH.png",
@@ -334,6 +334,14 @@
         "category": "Other",
         "country": "Greece",
         "url": "https://183.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8"
+    },
+    {
+        "id": "FarosTV2.gr",
+        "name": "Faros TV2",
+        "logo": "https://i.imgur.com/7xtz1Jo.png",
+        "category": "Other",
+        "country": "Greece",
+        "url": "https://s1.cystream.net/live/faros2/playlist.m3u8"
     },
     {
         "id": "ReloadPlay.gr",

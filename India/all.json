@@ -312,14 +312,6 @@
         "url": "https://stream.logichost.in/kannurvision/live/playlist.m3u8"
     },
     {
-        "id": "KNewsIndia.in",
-        "name": "K News India",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/K_News_India.png",
-        "category": "News",
-        "country": "India",
-        "url": "https://mumt02.tangotv.in/KNEWSINDIA/index.m3u8"
-    },
-    {
         "id": "MadhimugamTV.in",
         "name": "Madhimugam TV",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Madhimugam_TV.png",
@@ -342,14 +334,6 @@
         "category": "News",
         "country": "India",
         "url": "https://cdn-3.pishow.tv/live/1606/master.m3u8"
-    },
-    {
-        "id": "MantavyaNews.in",
-        "name": "Mantavya News",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Mantavya_News.png",
-        "category": "News",
-        "country": "India",
-        "url": "https://mumt02.tangotv.in/MANTAVYA24X7NEWS/index.m3u8"
     },
     {
         "id": "MathrubhumiNews.in",
@@ -640,20 +624,20 @@
         "url": "https://cdn-1.pishow.tv/live/383/master.m3u8"
     },
     {
+        "id": "OnkarOnlyTruthTV.in",
+        "name": "Onkar Only Truth TV",
+        "logo": "https://i.imgur.com/wu7aQRg.png",
+        "category": "News",
+        "country": "India",
+        "url": "https://5dd3981940faa.streamlock.net/onkarentertainment/onkarentertainment/playlist.m3u8"
+    },
+    {
         "id": "PolimerNews.in",
         "name": "Polimer News",
         "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Polimer%20News.png",
         "category": "News",
         "country": "India",
         "url": "https://cdn-3.pishow.tv/live/1245/master.m3u8"
-    },
-    {
-        "id": "PowerTV.in",
-        "name": "Power TV",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POWER_TV/images/LOGO_HD/image.png",
-        "category": "News",
-        "country": "India",
-        "url": "https://powertvkannada.com/hls/stream.m3u8"
     },
     {
         "id": "PratidinTime.in",
@@ -1040,12 +1024,12 @@
         "url": "https://duw35ict5q7th.cloudfront.net/index_3.m3u8"
     },
     {
-        "id": "7SMusic.in",
-        "name": "7S Music",
-        "logo": "https://i.imgur.com/zDiIhdN.png",
-        "category": "Music",
+        "id": "ZillarBartaNews.in",
+        "name": "ZillarBarta News",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/zillarbarta.png",
+        "category": "News",
         "country": "India",
-        "url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8"
+        "url": "https://server.zillarbarta.com/zillarbarta/index.m3u8"
     },
     {
         "id": "9XJhakaas.in",
@@ -1512,6 +1496,22 @@
         "url": "https://cdn-3.pishow.tv/live/230/master.m3u8"
     },
     {
+        "id": "SiriKannada.in",
+        "name": "Siri Kannada",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sirikannada.png",
+        "category": "Entertainment",
+        "country": "India",
+        "url": "https://mumt02.tangotv.in/SIRIKANNADAALLTIME/index.m3u8"
+    },
+    {
+        "id": "SubinTV.in",
+        "name": "Subin TV",
+        "logo": "https://www.subintv.in/SUBINLOGO.png",
+        "category": "Entertainment",
+        "country": "India",
+        "url": "https://stream.galaxyott.live/live/subintv/index.m3u8"
+    },
+    {
         "id": "SuriyaTV.in",
         "name": "Suriya TV",
         "logo": "https://play-lh.googleusercontent.com/izaQp_W1pZqa_fKqG0fGcWv9ls74BpIE-W1yOZBiw-gG0bSrcBNIvw3EY9SR4RyQYAlT=w480-h960-rw",
@@ -1558,6 +1558,14 @@
         "category": "Entertainment",
         "country": "India",
         "url": "https://cdn-3.pishow.tv/live/1271/master.m3u8"
+    },
+    {
+        "id": "VissaTV.in",
+        "name": "Vissa TV",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VISSA_TV/images/LOGO_HD/image.png",
+        "category": "Entertainment",
+        "country": "India",
+        "url": "https://mumt02.tangotv.in/VISSATV/index.m3u8"
     },
     {
         "id": "AaseervathamTV.in",
@@ -1688,12 +1696,12 @@
         "url": "https://cdn-1.pishow.tv/live/957/master.m3u8"
     },
     {
-        "id": "DheeranTV.in",
-        "name": "Dheeran TV",
-        "logo": "https://i.imgur.com/jSedjXf.png",
+        "id": "GospelTVIndia.in",
+        "name": "Gospel TV India",
+        "logo": "https://i.ibb.co/xhbZvzt/cropped-final-logo-300x127.png",
         "category": "Religious",
         "country": "India",
-        "url": "https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8"
+        "url": "https://server.livelegitpro.in:9899/gospeltv/index.m3u8"
     },
     {
         "id": "HarvestTV.in",
@@ -1942,6 +1950,14 @@
         "category": "Religious",
         "country": "India",
         "url": "https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8"
+    },
+    {
+        "id": "ZBBhakti.in",
+        "name": "ZB Bhakti",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/zbbhakti.png",
+        "category": "Religious",
+        "country": "India",
+        "url": "https://server.zillarbarta.com/zbbhakti/index.m3u8"
     },
     {
         "id": "AlankarTV.in",
@@ -2224,6 +2240,14 @@
         "url": "https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8"
     },
     {
+        "id": "ShemarooMarathiBana.in",
+        "name": "Shemaroo Marathi Bana",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_MARATHIBANA/images/LOGO_HD/image.png",
+        "category": "Other",
+        "country": "India",
+        "url": "https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8]"
+    },
+    {
         "id": "ShubhTV.in",
         "name": "Shubh TV",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHUBH_TV/images/LOGO_HD/image.png",
@@ -2464,20 +2488,20 @@
         "url": "https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8"
     },
     {
-        "id": "VCV.in",
-        "name": "VCV",
-        "logo": "https://i.imgur.com/KbU36xI.png",
-        "category": "General",
-        "country": "India",
-        "url": "https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8"
-    },
-    {
         "id": "Chithiram.in",
         "name": "Chithiram",
         "logo": "https://i.imgur.com/xv9cWSh.png",
         "category": "Kids",
         "country": "India",
         "url": "https://cdn-6.pishow.tv/live/1243/master.m3u8"
+    },
+    {
+        "id": "ZBCartoon.in",
+        "name": "ZB Cartoon",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/zbcatun.png",
+        "category": "Kids",
+        "country": "India",
+        "url": "https://server.zillarbarta.com/zbcatun/video.m3u8"
     },
     {
         "id": "CNBCAwaaz.in",

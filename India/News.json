@@ -312,14 +312,6 @@
         "url": "https://stream.logichost.in/kannurvision/live/playlist.m3u8"
     },
     {
-        "id": "KNewsIndia.in",
-        "name": "K News India",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/K_News_India.png",
-        "category": "News",
-        "country": "India",
-        "url": "https://mumt02.tangotv.in/KNEWSINDIA/index.m3u8"
-    },
-    {
         "id": "MadhimugamTV.in",
         "name": "Madhimugam TV",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Madhimugam_TV.png",
@@ -342,14 +334,6 @@
         "category": "News",
         "country": "India",
         "url": "https://cdn-3.pishow.tv/live/1606/master.m3u8"
-    },
-    {
-        "id": "MantavyaNews.in",
-        "name": "Mantavya News",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Mantavya_News.png",
-        "category": "News",
-        "country": "India",
-        "url": "https://mumt02.tangotv.in/MANTAVYA24X7NEWS/index.m3u8"
     },
     {
         "id": "MathrubhumiNews.in",
@@ -640,20 +624,20 @@
         "url": "https://cdn-1.pishow.tv/live/383/master.m3u8"
     },
     {
+        "id": "OnkarOnlyTruthTV.in",
+        "name": "Onkar Only Truth TV",
+        "logo": "https://i.imgur.com/wu7aQRg.png",
+        "category": "News",
+        "country": "India",
+        "url": "https://5dd3981940faa.streamlock.net/onkarentertainment/onkarentertainment/playlist.m3u8"
+    },
+    {
         "id": "PolimerNews.in",
         "name": "Polimer News",
         "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Polimer%20News.png",
         "category": "News",
         "country": "India",
         "url": "https://cdn-3.pishow.tv/live/1245/master.m3u8"
-    },
-    {
-        "id": "PowerTV.in",
-        "name": "Power TV",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POWER_TV/images/LOGO_HD/image.png",
-        "category": "News",
-        "country": "India",
-        "url": "https://powertvkannada.com/hls/stream.m3u8"
     },
     {
         "id": "PratidinTime.in",
@@ -1038,5 +1022,13 @@
         "category": "News",
         "country": "India",
         "url": "https://duw35ict5q7th.cloudfront.net/index_3.m3u8"
+    },
+    {
+        "id": "ZillarBartaNews.in",
+        "name": "ZillarBarta News",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/zillarbarta.png",
+        "category": "News",
+        "country": "India",
+        "url": "https://server.zillarbarta.com/zillarbarta/index.m3u8"
     }
 ]

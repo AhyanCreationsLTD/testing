@@ -8,6 +8,14 @@
         "url": "https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8"
     },
     {
+        "id": "COMBrasil.br",
+        "name": "COM Brasil",
+        "logo": "https://i.imgur.com/GrjGwKM.png",
+        "category": "General",
+        "country": "Brazil",
+        "url": "https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8"
+    },
+    {
         "id": "ConecTVBrasil.br",
         "name": "ConecTV Brasil",
         "logo": "https://i.imgur.com/XN6jjMR.png",
@@ -112,6 +120,14 @@
         "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8"
     },
     {
+        "id": "SBTInterior.br",
+        "name": "SBT Interior",
+        "logo": "https://i.imgur.com/IkZfa4j.png",
+        "category": "General",
+        "country": "Brazil",
+        "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
+    },
+    {
         "id": "TVAldeia.br",
         "name": "TV Aldeia",
         "logo": "https://i.imgur.com/rsfnv4Z.png",
@@ -134,6 +150,14 @@
         "category": "General",
         "country": "Brazil",
         "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
+    },
+    {
+        "id": "TVBrasilOeste.br",
+        "name": "TV Brasil Oeste",
+        "logo": "https://i.imgur.com/noqGfuy.png",
+        "category": "General",
+        "country": "Brazil",
+        "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     },
     {
         "id": "TVBRICSPortuguese.br",
@@ -278,14 +302,6 @@
         "category": "Other",
         "country": "Brazil",
         "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
-    },
-    {
-        "id": "BoasNovas.br",
-        "name": "Boas Novas",
-        "logo": "https://i.imgur.com/ZqhizdP.png",
-        "category": "Other",
-        "country": "Brazil",
-        "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
     },
     {
         "id": "Canal25Jundiai.br",
@@ -464,14 +480,6 @@
         "url": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8"
     },
     {
-        "id": "JovemPanNews.br",
-        "name": "Jovem Pan News",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png",
-        "category": "News",
-        "country": "Brazil",
-        "url": "https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8"
-    },
-    {
         "id": "PlenaTV.br",
         "name": "Plena TV",
         "logo": "https://i.imgur.com/lH4RT7b.png",
@@ -574,14 +582,6 @@
         "category": "Legislative",
         "country": "Brazil",
         "url": "https://canalgov-stream.ebc.com.br/index.m3u8"
-    },
-    {
-        "id": "TVCamara.br",
-        "name": "TV Camara",
-        "logo": "https://i.imgur.com/Sdou1Ab.png",
-        "category": "Legislative",
-        "country": "Brazil",
-        "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8"
     },
     {
         "id": "CazeTV.br",
@@ -854,13 +854,5 @@
         "category": "Series",
         "country": "Brazil",
         "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
-    },
-    {
-        "id": "TVUFOP.br",
-        "name": "TV UFOP",
-        "logo": "https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png",
-        "category": "Public",
-        "country": "Brazil",
-        "url": "https://app.tvufop.com.br/hls/tvufop.m3u8"
     }
 ]
