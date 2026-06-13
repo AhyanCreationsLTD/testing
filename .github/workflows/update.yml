@@ -30,19 +30,20 @@ jobs:
     - name: Run Master Aggregator and Dead Link Cleaner Script
       run: python update_iptv.py
 
-    - name: Commit and Push Cleaned Premium channels.json
+    - name: Commit and Push Cleaned Premium Data Formats
       env:
-        # এনভায়রনমেন্ট ভ্যারিয়েবল হিসেবে টোকেন ইনজেক্ট করা হলো
         GITHUB_TOKEN: ${{ secrets.IPTV_TOKEN }}
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action Bot"
-        git add channels.json
         
-        # কোনো চেঞ্জ না থাকলে যেন ওয়ার্কফ্লো এরর না খায়, সে জন্য কন্ডিশনাল পুশ করা হয়েছে
+        # 📂 নতুন তৈরি হওয়া দুটি ফাইলই ট্র্যাকিংয়ে অ্যাড করা হলো
+        git add channels.json
+        git add playlist.m3u
+        
+        # ফাইলে কোনো রিয়েল চেঞ্জ থাকলেই শুধু পুশ হবে, নয়তো স্কিপ করবে (এরর প্রোটেকশন)
         if ! git diff-index --quiet HEAD; then
-          git commit -m "⚡ Hourly Sync & Cleaned: Multi-Source Master Channels [Auto]"
-          # আপনার টোকেন ব্যবহার করে সিকিউরলি রিমোট ইউআরএল আপডেট করে পুশ করা হচ্ছে
+          git commit -m "⚡ Hourly Sync: Channels JSON & M3U Playlist Compiled [Auto]"
           git push https://x-access-token:${{ secrets.IPTV_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref_name }}
         else
           echo "No new stream updates found this hour. Skipping push to avoid redundancy."
