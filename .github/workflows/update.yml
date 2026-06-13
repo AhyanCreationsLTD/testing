@@ -1,44 +1,42 @@
-name: Global IPTV Auto-Clean Super-Fast Sync
+name: Ultimate Multi-Source IPTV Auto Update Engine
 
 on:
   schedule:
-    - cron: '0 * * * *'  # ঠিক প্রতি এক ঘণ্টা পর পর অটোমেটিক চালু হবে
-  workflow_dispatch:     # যেকোনো সময় ম্যানুয়ালি রান করার জন্য বোতাম
+    # ⏰ প্রতিদিন বাংলাদেশ সময় সকাল ৬টায় অটোমেটিক রান হবে (UTC 00:00)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # গিটহাব ড্যাশবোর্ড থেকে যখন খুশি ম্যানুয়ালি রান করার বাটন
+
+permissions:
+  contents: write  # channels.json ফাইলে নতুন ডাটা পুশ করার পারমিশন লকড
 
 jobs:
-  sync:
+  build-and-sync:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout Code
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.IPTV_TOKEN }} # আপনার রেপো সিক্রেটসের PAT টোকেন
+    - name: Checkout Repository Contents
+      uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
+    - name: Set up Python Environment
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+        cache: 'pip' # দ্রুত ডিপেন্ডেন্সি বিল্ড করার ক্যাশ মেমোরি
 
-      - name: Install Dependencies
-        run: pip install requests pycountry
+    - name: Install High-Performance HTTP Request Library
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
 
-      - name: Clean Old Scrapped Files
-        run: |
-          # 🪠 প্রথমে আগের রানের সব দেশের ডাইনামিক ফোল্ডার এবং মেইন ফাইলগুলো পারфেক্টলি ডিলিট করবে
-          find . -maxdepth 1 -type d ! -name ".*" ! -name "Global" ! -name ".github" -exec rm -rf {} + 2>/dev/null || true
-          rm -rf Global
-          rm -f channels.json channels.m3u
-          echo "আগের সব ফাইল ও ডেড ফোল্ডার সফলভাবে ডিলিট করা হয়েছে।"
+    - name: Run Master Aggregator and Dead Link Cleaner Script
+      run: python update_iptv.py  # 👈 আপনার ফাইলের নাম অনুযায়ী পারফেক্টলি ট্যাগড
 
-      - name: Run Global Segmented Fast Script
-        run: python update_iptv.py
-
-      - name: Commit & Push Changes
-        run: |
-          git config --global user.name "Ahyan IPTV Bot"
-          git config --global user.email "bot@ahyancreations.top"
-          
-          git add -A  
-          # নতুন ও সচল ফাইলগুলো ফ্রেশভাবে গিটহাবে পুশ করে আপডেট করে দেবে
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Global IPTV Super-Fast Sync: $(date -u)" && git push)
-          
+    - name: Commit and Push Cleaned Premium channels.json
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action Bot"
+        git add channels.json
+        # যদি নতুন কোনো চ্যানেল আপডেট না থাকে, তবে ক্র্যাশ না করে স্কিপ করবে
+        git diff-index --quiet HEAD || git commit -m "⚡ Sync & Cleaned: Multi-Source Master Channels Database [Auto]"
+        git push
+        
