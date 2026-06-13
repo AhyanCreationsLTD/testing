@@ -3,7 +3,7 @@ import json
 import re
 import concurrent.futures
 
-# 🌐 ৫/৬টি বড় এবং পপুলার ওপেন সোর্স আইপিটিভি রিপোজিটরির সোর্স লিস্ট
+# 🌐 ৫/৬টি প্রীমিয়াম ওপেন সোর্স সোর্স লিস্ট
 SOURCES = [
     {"type": "json", "url": "https://iptv-org.github.io/api/channels.json"},
     {"type": "m3u", "url": "https://raw.githubusercontent.com/Free-IPTV/countries/master/IPTV_PRO.m3u", "default_country": "Global", "default_category": "General"},
@@ -11,6 +11,7 @@ SOURCES = [
     {"type": "m3u", "url": "https://raw.githubusercontent.com/Clearve/iptv/main/iptv.m3u", "default_country": "Global", "default_category": "Entertainment"}
 ]
 
+# M3U পার্সার ইঞ্জিন
 def parse_m3u(m3u_text, default_country, default_category):
     channels = []
     pattern = r'#EXTINF:-1\s*(?:tvg-name="([^"]+)")?(?:.*?tvg-logo="([^"]+)")?(?:.*?group-title="([^"]+)")?,(.*)\n(https?://[^\s]+)'
@@ -25,11 +26,12 @@ def parse_m3u(m3u_text, default_country, default_category):
             "name": name,
             "logo": tvg_logo.strip() if tvg_logo else "",
             "url": stream_url.strip(),
-            "category": category,
+            "category": category.capitalize(),
             "country": default_country
         })
     return channels
 
+# হাই-স্পীড লাইভ লিঙ্ক ভেরিফায়ার (HEAD + GET fallback)
 def check_stream_status(channel):
     try:
         response = requests.head(channel["url"], timeout=2.0, allow_redirects=True)
@@ -46,7 +48,7 @@ def check_stream_status(channel):
 
 def main():
     raw_list = []
-    print("[1/4] Gathering streams from 5+ premium open-source repos...")
+    print("[1/5] Extracting multidimensional data from 5+ repos...")
     
     for src in SOURCES:
         try:
@@ -58,26 +60,28 @@ def main():
                 for ch in data:
                     country_name = ch.get("country", "Global")
                     if not country_name: country_name = "Global"
+                    country_name = country_name.replace("_", " ").title()
                     
                     categories = ch.get("categories", ["General"])
-                    category_name = categories[0] if categories else "General"
+                    category_name = categories[0].capitalize() if categories else "General"
                     
                     raw_list.append({
                         "name": ch.get("name", "Unknown TV"),
                         "logo": ch.get("logo", ""),
                         "url": ch.get("url", ""),
-                        "category": category_name.capitalize(),
-                        "country": country_name.replace("_", " ").title()
+                        "category": category_name,
+                        "country": country_name
                     })
             elif src["type"] == "m3u":
                 m3u_channels = parse_m3u(res.text, src["default_country"], src["default_category"])
                 raw_list.extend(m3u_channels)
                 
         except Exception as e:
-            print(f"⚠️ Error reading source {src['url']}: {e}")
+            print(f"⚠️ Error parsing {src['url']}: {e}")
 
-    print(f"[2/4] Total raw channels fetched: {len(raw_list)}")
+    print(f"[2/5] Raw pool size: {len(raw_list)}")
 
+    # ডুপ্লিকেট ইউআরএল ফিল্টার
     unique_urls = set()
     deduped_list = []
     for ch in raw_list:
@@ -85,8 +89,8 @@ def main():
             unique_urls.add(ch["url"])
             deduped_list.append(ch)
             
-    print(f"[3/4] Deduplicated list size: {len(deduped_list)}")
-    print("[4/4] Mass-testing dead links using high-speed Multi-Threading...")
+    print(f"[3/5] Cleaned pool size: {len(deduped_list)}")
+    print("[4/5] Running massive parallel thread verification...")
 
     working_channels = []
     with concurrent.futures.ThreadPoolExecutor(max_workers=50) as executor:
@@ -95,29 +99,56 @@ def main():
             if result:
                 working_channels.append(result)
 
-    print(f"✅ Live Verification Complete! Active Channels: {len(working_channels)}")
+    print(f"✅ Verified Active Channels: {len(working_channels)}")
+    print("[5/5] Re-architecting 3-tier structure & multi-format export...")
 
-    final_database = {}
+    # 💎 আপনার নতুন ৩-স্তরের ডাটাবেজ স্ট্রাকচার জেনারেশন
+    final_database = {
+        "Countries": {},          # ১. প্রতিটা দেশের নাম এবং তাদের category অনুযায়ী চ্যানেল
+        "Global Channels": {},    # ২. একটা Global Channels with category
+        "All Channels": []        # ৩. একটা সকল চ্যানেলের মেগা-লিস্ট
+    }
+
+    # কাস্টম M3U রাইটার স্ট্রিং বাফার
+    m3u_content = "#EXTM3U\n"
+
     for ch in working_channels:
-        country = ch["country"]
+        name = ch["name"]
+        logo = ch["logo"]
+        url = ch["url"]
         category = ch["category"]
-        
-        if country not in final_database:
-            box = final_database[country] = {}
-        if category not in final_database[country]:
-            final_database[country][category] = []
-            
-        final_database[country][category].append({
-            "name": ch["name"],
-            "logo": ch["logo"],
-            "url": ch["url"]
-        })
+        country = ch["country"]
 
+        # ৩. অল চ্যানেল মেগা-লিস্টে পুশ
+        channel_min_payload = {"name": name, "logo": logo, "url": url, "category": category, "country": country}
+        final_database["All Channels"].append(channel_min_payload)
+
+        # ১. দেশের নাম ও ক্যাটাগরি অনুযায়ী সাজানো
+        if country != "Global":
+            if country not in final_database["Countries"]:
+                final_database["Countries"][country] = {}
+            if category not in final_database["Countries"][country]:
+                final_database["Countries"][country][category] = []
+            final_database["Countries"][country][category].append({"name": name, "logo": logo, "url": url})
+
+        # ২. গ্লোবাল চ্যানেল ক্যাটাগরি অনুযায়ী সাজানো (সব দেশের চ্যানেলই এখানে ক্যাটাগরি অনুযায়ী মার্জ হবে)
+        if category not in final_database["Global Channels"]:
+            final_database["Global Channels"][category] = []
+        final_database["Global Channels"][category].append({"name": name, "logo": logo, "url": url, "country": country})
+
+        # 📄 একই সাথে আপনার নির্দেশিত .m3u ফরম্যাট বাফার তৈরি
+        m3u_content += f'#EXTINF:-1 tvg-name="{name}" tvg-logo="{logo}" group-title="{category}",{name}\n{url}\n'
+
+    # 💾 JSON ফাইল সেভ
     with open("channels.json", "w", encoding="utf-8") as f:
         json.dump(final_database, f, ensure_ascii=False, indent=2)
+
+    # 💾 M3U ফাইল সেভ
+    with open("playlist.m3u", "w", encoding="utf-8") as f:
+        f.write(m3u_content)
         
-    print("🎉 Master database successfully generated and saved to channels.json!")
+    print("🎉 System Optimized! channels.json & playlist.m3u compiled in 3-Tier Luxury Architecture!")
 
 if __name__ == "__main__":
     main()
-                                    
+    
