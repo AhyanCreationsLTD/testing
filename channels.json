@@ -5313,11 +5313,6 @@
           "url": "https://streamer.metronethn.com/FX/index.m3u8"
         },
         {
-          "name": "Fxmoviechannel",
-          "logo": "https://iptv-org.github.io/images/channels/FXMovieChannel.us.png",
-          "url": "https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8"
-        },
-        {
           "name": "G10Tv",
           "logo": "https://iptv-org.github.io/images/channels/G10TV.us.png",
           "url": "https://reflect-jacksonville.cablecast.tv/live-8/live/live.m3u8"
@@ -8810,17 +8805,7 @@
         {
           "name": "Nickelodeon",
           "logo": "https://iptv-org.github.io/images/channels/Nickelodeon.us.png",
-          "url": "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8"
-        },
-        {
-          "name": "Nickelodeon",
-          "logo": "https://iptv-org.github.io/images/channels/Nickelodeon.us.png",
           "url": "http://198.58.104.90:8989/nickelodeon/index.m3u8"
-        },
-        {
-          "name": "Nickelodeon",
-          "logo": "https://iptv-org.github.io/images/channels/Nickelodeon.us.png",
-          "url": "https://sra72yz.s.gy/NICKELODEON_EAST_US.m3u8"
         },
         {
           "name": "Nickelodeonclasico",
@@ -8895,11 +8880,6 @@
         {
           "name": "Nickjr",
           "logo": "https://iptv-org.github.io/images/channels/NickJr.us.png",
-          "url": "https://sra72yz.s.gy/NICK_JR_US.m3u8"
-        },
-        {
-          "name": "Nickjr",
-          "logo": "https://iptv-org.github.io/images/channels/NickJr.us.png",
           "url": "http://tvsen7.aynascope.net/nickjr/index.m3u8"
         },
         {
@@ -8956,11 +8936,6 @@
           "name": "Nicktoons",
           "logo": "https://iptv-org.github.io/images/channels/Nicktoons.us.png",
           "url": "http://41.205.93.154/NICKTOONS/index.m3u8"
-        },
-        {
-          "name": "Nicktoons",
-          "logo": "https://iptv-org.github.io/images/channels/Nicktoons.us.png",
-          "url": "https://sra72yz.s.gy/NICKTOONS_US.m3u8"
         },
         {
           "name": "Nicktoons",
@@ -11946,11 +11921,6 @@
           "name": "Startrekvoyager",
           "logo": "https://iptv-org.github.io/images/channels/StarTrekVoyager.us.png",
           "url": "https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8"
-        },
-        {
-          "name": "Starz",
-          "logo": "https://iptv-org.github.io/images/channels/Starz.us.png",
-          "url": "http://23.237.104.106:8080/USA_STARZ/index.m3u8"
         },
         {
           "name": "Starzcinema",
@@ -40816,6 +40786,11 @@
           "url": "https://stream.arcast.com.ar/envivo/castv/playlist.m3u8"
         },
         {
+          "name": "Canal8Mardelplata",
+          "logo": "https://iptv-org.github.io/images/channels/Canal8MardelPlata.ar.png",
+          "url": "https://canal8mdq.unpocodeawita.workers.dev/"
+        },
+        {
           "name": "Canal8Sanjuan",
           "logo": "https://iptv-org.github.io/images/channels/Canal8SanJuan.ar.png",
           "url": "https://live20.bozztv.com/akamaissh101/ssh101/canal8sanjuan/playlist.m3u8"
@@ -41494,6 +41469,11 @@
           "name": "Teleferosario",
           "logo": "https://iptv-org.github.io/images/channels/TelefeRosario.ar.png",
           "url": "https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8"
+        },
+        {
+          "name": "Telefesalta",
+          "logo": "https://iptv-org.github.io/images/channels/TelefeSalta.ar.png",
+          "url": "https://canal11saltatv.unpocodeawita.workers.dev/"
         },
         {
           "name": "Telefetucuman",
@@ -56401,6 +56381,16 @@
           "url": "https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8"
         },
         {
+          "name": "Acasa",
+          "logo": "https://iptv-org.github.io/images/channels/Acasa.ro.png",
+          "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6988/index.m3u8"
+        },
+        {
+          "name": "Acasagold",
+          "logo": "https://iptv-org.github.io/images/channels/AcasaGold.ro.png",
+          "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6945/index.m3u8"
+        },
+        {
           "name": "Agrotv",
           "logo": "https://iptv-org.github.io/images/channels/AgroTV.ro.png",
           "url": "https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8"
@@ -56716,9 +56706,24 @@
           "url": "https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8"
         },
         {
+          "name": "Primanews",
+          "logo": "https://iptv-org.github.io/images/channels/PrimaNews.ro.png",
+          "url": "https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8"
+        },
+        {
           "name": "Primatv",
           "logo": "https://iptv-org.github.io/images/channels/PrimaTV.ro.png",
           "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6995/index.m3u8"
+        },
+        {
+          "name": "Proarena",
+          "logo": "https://iptv-org.github.io/images/channels/ProArena.ro.png",
+          "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6990/index.m3u8"
+        },
+        {
+          "name": "Procinema",
+          "logo": "https://iptv-org.github.io/images/channels/ProCinema.ro.png",
+          "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6951/index.m3u8"
         },
         {
           "name": "Profi24Tv",
@@ -58728,6 +58733,11 @@
           "name": "Mutv",
           "logo": "https://iptv-org.github.io/images/channels/MUTV.uk.png",
           "url": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8"
+        },
+        {
+          "name": "Mutv",
+          "logo": "https://iptv-org.github.io/images/channels/MUTV.uk.png",
+          "url": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8"
         },
         {
           "name": "Mytimemovienetwork",
@@ -63673,6 +63683,11 @@
           "name": "Stv",
           "logo": "https://iptv-org.github.io/images/channels/STV.id.png",
           "url": "http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8"
+        },
+        {
+          "name": "Suarasurabayavisualradio",
+          "logo": "https://iptv-org.github.io/images/channels/SuaraSurabayaVisualRadio.id.png",
+          "url": "https://ssfm.siar.us/ssfm/live/playlist.m3u8"
         },
         {
           "name": "Sultratv",
@@ -79417,6 +79432,18 @@
         "country": "United States"
       },
       {
+        "name": "Acasa",
+        "logo": "https://iptv-org.github.io/images/channels/Acasa.ro.png",
+        "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6988/index.m3u8",
+        "country": "RO"
+      },
+      {
+        "name": "Acasagold",
+        "logo": "https://iptv-org.github.io/images/channels/AcasaGold.ro.png",
+        "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6945/index.m3u8",
+        "country": "RO"
+      },
+      {
         "name": "Accdigitalnetwork",
         "logo": "https://iptv-org.github.io/images/channels/ACCDigitalNetwork.us.png",
         "url": "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8",
@@ -90407,6 +90434,12 @@
         "logo": "https://iptv-org.github.io/images/channels/Canal8CCProducciones.py.png",
         "url": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
         "country": "PY"
+      },
+      {
+        "name": "Canal8Mardelplata",
+        "logo": "https://iptv-org.github.io/images/channels/Canal8MardelPlata.ar.png",
+        "url": "https://canal8mdq.unpocodeawita.workers.dev/",
+        "country": "AR"
       },
       {
         "name": "Canal8Sanjuan",
@@ -106168,12 +106201,6 @@
         "name": "Fxlatinamerica",
         "logo": "https://iptv-org.github.io/images/channels/FXLatinAmerica.us.png",
         "url": "https://streamer.metronethn.com/FX/index.m3u8",
-        "country": "United States"
-      },
-      {
-        "name": "Fxmoviechannel",
-        "logo": "https://iptv-org.github.io/images/channels/FXMovieChannel.us.png",
-        "url": "https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8",
         "country": "United States"
       },
       {
@@ -123397,6 +123424,12 @@
         "country": "United Kingdom"
       },
       {
+        "name": "Mutv",
+        "logo": "https://iptv-org.github.io/images/channels/MUTV.uk.png",
+        "url": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8",
+        "country": "United Kingdom"
+      },
+      {
         "name": "Muugitv",
         "logo": "https://iptv-org.github.io/images/channels/MuugiTV.ke.png",
         "url": "https://goliveafrica.media:9998/live/62b3ffb71a3d6/index.m3u8",
@@ -126333,19 +126366,7 @@
       {
         "name": "Nickelodeon",
         "logo": "https://iptv-org.github.io/images/channels/Nickelodeon.us.png",
-        "url": "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8",
-        "country": "United States"
-      },
-      {
-        "name": "Nickelodeon",
-        "logo": "https://iptv-org.github.io/images/channels/Nickelodeon.us.png",
         "url": "http://198.58.104.90:8989/nickelodeon/index.m3u8",
-        "country": "United States"
-      },
-      {
-        "name": "Nickelodeon",
-        "logo": "https://iptv-org.github.io/images/channels/Nickelodeon.us.png",
-        "url": "https://sra72yz.s.gy/NICKELODEON_EAST_US.m3u8",
         "country": "United States"
       },
       {
@@ -126519,12 +126540,6 @@
       {
         "name": "Nickjr",
         "logo": "https://iptv-org.github.io/images/channels/NickJr.us.png",
-        "url": "https://sra72yz.s.gy/NICK_JR_US.m3u8",
-        "country": "United States"
-      },
-      {
-        "name": "Nickjr",
-        "logo": "https://iptv-org.github.io/images/channels/NickJr.us.png",
         "url": "http://tvsen7.aynascope.net/nickjr/index.m3u8",
         "country": "United States"
       },
@@ -126640,12 +126655,6 @@
         "name": "Nicktoons",
         "logo": "https://iptv-org.github.io/images/channels/Nicktoons.us.png",
         "url": "http://41.205.93.154/NICKTOONS/index.m3u8",
-        "country": "United States"
-      },
-      {
-        "name": "Nicktoons",
-        "logo": "https://iptv-org.github.io/images/channels/Nicktoons.us.png",
-        "url": "https://sra72yz.s.gy/NICKTOONS_US.m3u8",
         "country": "United States"
       },
       {
@@ -135151,6 +135160,12 @@
         "country": "CZ"
       },
       {
+        "name": "Primanews",
+        "logo": "https://iptv-org.github.io/images/channels/PrimaNews.ro.png",
+        "url": "https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8",
+        "country": "RO"
+      },
+      {
         "name": "Primantennatv",
         "logo": "https://iptv-org.github.io/images/channels/PrimAntennaTV.it.png",
         "url": "https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8",
@@ -135277,6 +135292,12 @@
         "country": "Russia"
       },
       {
+        "name": "Proarena",
+        "logo": "https://iptv-org.github.io/images/channels/ProArena.ro.png",
+        "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6990/index.m3u8",
+        "country": "RO"
+      },
+      {
         "name": "Probashitvnews",
         "logo": "https://iptv-org.github.io/images/channels/ProbashiTVNews.ca.png",
         "url": "http://158.69.24.53:8080/probashi_tv/index.m3u8",
@@ -135287,6 +135308,12 @@
         "logo": "https://iptv-org.github.io/images/channels/ProBusiness.ru.png",
         "url": "https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8",
         "country": "Russia"
+      },
+      {
+        "name": "Procinema",
+        "logo": "https://iptv-org.github.io/images/channels/ProCinema.ro.png",
+        "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6951/index.m3u8",
+        "country": "RO"
       },
       {
         "name": "Proclamaciontv",
@@ -148999,12 +149026,6 @@
         "country": "India"
       },
       {
-        "name": "Starz",
-        "logo": "https://iptv-org.github.io/images/channels/Starz.us.png",
-        "url": "http://23.237.104.106:8080/USA_STARZ/index.m3u8",
-        "country": "United States"
-      },
-      {
         "name": "Starzcinema",
         "logo": "https://iptv-org.github.io/images/channels/StarzCinema.us.png",
         "url": "http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8",
@@ -149753,6 +149774,12 @@
         "logo": "https://iptv-org.github.io/images/channels/STZTV.br.png",
         "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8",
         "country": "Brazil"
+      },
+      {
+        "name": "Suarasurabayavisualradio",
+        "logo": "https://iptv-org.github.io/images/channels/SuaraSurabayaVisualRadio.id.png",
+        "url": "https://ssfm.siar.us/ssfm/live/playlist.m3u8",
+        "country": "ID"
       },
       {
         "name": "Subbota",
@@ -152086,6 +152113,12 @@
         "name": "Teleferosario",
         "logo": "https://iptv-org.github.io/images/channels/TelefeRosario.ar.png",
         "url": "https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8",
+        "country": "AR"
+      },
+      {
+        "name": "Telefesalta",
+        "logo": "https://iptv-org.github.io/images/channels/TelefeSalta.ar.png",
+        "url": "https://canal11saltatv.unpocodeawita.workers.dev/",
         "country": "AR"
       },
       {
@@ -171561,6 +171594,20 @@
       "country": "United States"
     },
     {
+      "name": "Acasa",
+      "logo": "https://iptv-org.github.io/images/channels/Acasa.ro.png",
+      "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6988/index.m3u8",
+      "category": "General",
+      "country": "RO"
+    },
+    {
+      "name": "Acasagold",
+      "logo": "https://iptv-org.github.io/images/channels/AcasaGold.ro.png",
+      "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6945/index.m3u8",
+      "category": "General",
+      "country": "RO"
+    },
+    {
       "name": "Accdigitalnetwork",
       "logo": "https://iptv-org.github.io/images/channels/ACCDigitalNetwork.us.png",
       "url": "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8",
@@ -184383,6 +184430,13 @@
       "url": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
       "category": "General",
       "country": "PY"
+    },
+    {
+      "name": "Canal8Mardelplata",
+      "logo": "https://iptv-org.github.io/images/channels/Canal8MardelPlata.ar.png",
+      "url": "https://canal8mdq.unpocodeawita.workers.dev/",
+      "category": "General",
+      "country": "AR"
     },
     {
       "name": "Canal8Sanjuan",
@@ -202770,13 +202824,6 @@
       "name": "Fxlatinamerica",
       "logo": "https://iptv-org.github.io/images/channels/FXLatinAmerica.us.png",
       "url": "https://streamer.metronethn.com/FX/index.m3u8",
-      "category": "General",
-      "country": "United States"
-    },
-    {
-      "name": "Fxmoviechannel",
-      "logo": "https://iptv-org.github.io/images/channels/FXMovieChannel.us.png",
-      "url": "https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8",
       "category": "General",
       "country": "United States"
     },
@@ -222871,6 +222918,13 @@
       "country": "United Kingdom"
     },
     {
+      "name": "Mutv",
+      "logo": "https://iptv-org.github.io/images/channels/MUTV.uk.png",
+      "url": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8",
+      "category": "General",
+      "country": "United Kingdom"
+    },
+    {
       "name": "Muugitv",
       "logo": "https://iptv-org.github.io/images/channels/MuugiTV.ke.png",
       "url": "https://goliveafrica.media:9998/live/62b3ffb71a3d6/index.m3u8",
@@ -226296,21 +226350,7 @@
     {
       "name": "Nickelodeon",
       "logo": "https://iptv-org.github.io/images/channels/Nickelodeon.us.png",
-      "url": "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8",
-      "category": "General",
-      "country": "United States"
-    },
-    {
-      "name": "Nickelodeon",
-      "logo": "https://iptv-org.github.io/images/channels/Nickelodeon.us.png",
       "url": "http://198.58.104.90:8989/nickelodeon/index.m3u8",
-      "category": "General",
-      "country": "United States"
-    },
-    {
-      "name": "Nickelodeon",
-      "logo": "https://iptv-org.github.io/images/channels/Nickelodeon.us.png",
-      "url": "https://sra72yz.s.gy/NICKELODEON_EAST_US.m3u8",
       "category": "General",
       "country": "United States"
     },
@@ -226513,13 +226553,6 @@
     {
       "name": "Nickjr",
       "logo": "https://iptv-org.github.io/images/channels/NickJr.us.png",
-      "url": "https://sra72yz.s.gy/NICK_JR_US.m3u8",
-      "category": "General",
-      "country": "United States"
-    },
-    {
-      "name": "Nickjr",
-      "logo": "https://iptv-org.github.io/images/channels/NickJr.us.png",
       "url": "http://tvsen7.aynascope.net/nickjr/index.m3u8",
       "category": "General",
       "country": "United States"
@@ -226654,13 +226687,6 @@
       "name": "Nicktoons",
       "logo": "https://iptv-org.github.io/images/channels/Nicktoons.us.png",
       "url": "http://41.205.93.154/NICKTOONS/index.m3u8",
-      "category": "General",
-      "country": "United States"
-    },
-    {
-      "name": "Nicktoons",
-      "logo": "https://iptv-org.github.io/images/channels/Nicktoons.us.png",
-      "url": "https://sra72yz.s.gy/NICKTOONS_US.m3u8",
       "category": "General",
       "country": "United States"
     },
@@ -236584,6 +236610,13 @@
       "country": "CZ"
     },
     {
+      "name": "Primanews",
+      "logo": "https://iptv-org.github.io/images/channels/PrimaNews.ro.png",
+      "url": "https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8",
+      "category": "General",
+      "country": "RO"
+    },
+    {
       "name": "Primantennatv",
       "logo": "https://iptv-org.github.io/images/channels/PrimAntennaTV.it.png",
       "url": "https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8",
@@ -236731,6 +236764,13 @@
       "country": "Russia"
     },
     {
+      "name": "Proarena",
+      "logo": "https://iptv-org.github.io/images/channels/ProArena.ro.png",
+      "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6990/index.m3u8",
+      "category": "General",
+      "country": "RO"
+    },
+    {
       "name": "Probashitvnews",
       "logo": "https://iptv-org.github.io/images/channels/ProbashiTVNews.ca.png",
       "url": "http://158.69.24.53:8080/probashi_tv/index.m3u8",
@@ -236743,6 +236783,13 @@
       "url": "https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8",
       "category": "General",
       "country": "Russia"
+    },
+    {
+      "name": "Procinema",
+      "logo": "https://iptv-org.github.io/images/channels/ProCinema.ro.png",
+      "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6951/index.m3u8",
+      "category": "General",
+      "country": "RO"
     },
     {
       "name": "Proclamaciontv",
@@ -252740,13 +252787,6 @@
       "country": "India"
     },
     {
-      "name": "Starz",
-      "logo": "https://iptv-org.github.io/images/channels/Starz.us.png",
-      "url": "http://23.237.104.106:8080/USA_STARZ/index.m3u8",
-      "category": "General",
-      "country": "United States"
-    },
-    {
       "name": "Starzcinema",
       "logo": "https://iptv-org.github.io/images/channels/StarzCinema.us.png",
       "url": "http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8",
@@ -253620,6 +253660,13 @@
       "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8",
       "category": "General",
       "country": "Brazil"
+    },
+    {
+      "name": "Suarasurabayavisualradio",
+      "logo": "https://iptv-org.github.io/images/channels/SuaraSurabayaVisualRadio.id.png",
+      "url": "https://ssfm.siar.us/ssfm/live/playlist.m3u8",
+      "category": "General",
+      "country": "ID"
     },
     {
       "name": "Subbota",
@@ -256341,6 +256388,13 @@
       "name": "Teleferosario",
       "logo": "https://iptv-org.github.io/images/channels/TelefeRosario.ar.png",
       "url": "https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8",
+      "category": "General",
+      "country": "AR"
+    },
+    {
+      "name": "Telefesalta",
+      "logo": "https://iptv-org.github.io/images/channels/TelefeSalta.ar.png",
+      "url": "https://canal11saltatv.unpocodeawita.workers.dev/",
       "category": "General",
       "country": "AR"
     },
