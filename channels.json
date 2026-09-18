@@ -33286,11 +33286,6 @@
           "url": "https://emisja3.btb.j00r.us/iptv/session/3/hls.m3u8"
         },
         {
-          "name": "Btb",
-          "logo": "https://iptv-org.github.io/images/channels/BTB.pl.png",
-          "url": "https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8"
-        },
-        {
           "name": "Btbinfo",
           "logo": "https://iptv-org.github.io/images/channels/BTBInfo.pl.png",
           "url": "https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8"
@@ -36385,6 +36380,11 @@
           "url": "https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8"
         },
         {
+          "name": "Hstv",
+          "logo": "https://iptv-org.github.io/images/channels/HSTV.in.png",
+          "url": "https://live.castmaxcloud.com/live/hstv.m3u8"
+        },
+        {
           "name": "Hungamatv",
           "logo": "https://iptv-org.github.io/images/channels/HungamaTV.in.png",
           "url": "http://103.185.24.134:3001/HUNGAMA/index.m3u8"
@@ -39143,6 +39143,11 @@
           "name": "Sarvdharamsangam",
           "logo": "https://iptv-org.github.io/images/channels/SarvDharamSangam.in.png",
           "url": "http://103.72.101.252:8080/live/972.m3u8"
+        },
+        {
+          "name": "Sarvdharamsangam",
+          "logo": "https://iptv-org.github.io/images/channels/SarvDharamSangam.in.png",
+          "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8"
         },
         {
           "name": "Sarvdharmsangam",
@@ -68534,6 +68539,11 @@
           "name": "Rotanatarabjordancityview",
           "logo": "https://iptv-org.github.io/images/channels/RotanaTarabJordanCityView.jo.png",
           "url": "http://45.63.116.205/hls3/stream1.m3u8"
+        },
+        {
+          "name": "Royatv",
+          "logo": "https://iptv-org.github.io/images/channels/RoyaTV.jo.png",
+          "url": "https://live.kwikmotion.com/royatvpublic/royatv.smil/playlist.m3u8"
         }
       ]
     },
@@ -91788,12 +91798,6 @@
         "country": "PL"
       },
       {
-        "name": "Btb",
-        "logo": "https://iptv-org.github.io/images/channels/BTB.pl.png",
-        "url": "https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8",
-        "country": "PL"
-      },
-      {
         "name": "Btbinfo",
         "logo": "https://iptv-org.github.io/images/channels/BTBInfo.pl.png",
         "url": "https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8",
@@ -113194,6 +113198,12 @@
         "logo": "https://iptv-org.github.io/images/channels/HSN.us.png",
         "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8",
         "country": "United States"
+      },
+      {
+        "name": "Hstv",
+        "logo": "https://iptv-org.github.io/images/channels/HSTV.in.png",
+        "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
+        "country": "India"
       },
       {
         "name": "Htmusicchannel",
@@ -144240,6 +144250,12 @@
         "country": "IR"
       },
       {
+        "name": "Royatv",
+        "logo": "https://iptv-org.github.io/images/channels/RoyaTV.jo.png",
+        "url": "https://live.kwikmotion.com/royatvpublic/royatv.smil/playlist.m3u8",
+        "country": "JO"
+      },
+      {
         "name": "Rozanaspokesman",
         "logo": "https://iptv-org.github.io/images/channels/RozanaSpokesman.in.png",
         "url": "https://live1.ottlive.co.in/spokesman/spokesman/index.m3u8",
@@ -148443,6 +148459,12 @@
         "name": "Sarvdharamsangam",
         "logo": "https://iptv-org.github.io/images/channels/SarvDharamSangam.in.png",
         "url": "http://103.72.101.252:8080/live/972.m3u8",
+        "country": "India"
+      },
+      {
+        "name": "Sarvdharamsangam",
+        "logo": "https://iptv-org.github.io/images/channels/SarvDharamSangam.in.png",
+        "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
         "country": "India"
       },
       {
@@ -188138,13 +188160,6 @@
       "country": "PL"
     },
     {
-      "name": "Btb",
-      "logo": "https://iptv-org.github.io/images/channels/BTB.pl.png",
-      "url": "https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8",
-      "category": "General",
-      "country": "PL"
-    },
-    {
       "name": "Btbinfo",
       "logo": "https://iptv-org.github.io/images/channels/BTBInfo.pl.png",
       "url": "https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8",
@@ -213112,6 +213127,13 @@
       "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8",
       "category": "General",
       "country": "United States"
+    },
+    {
+      "name": "Hstv",
+      "logo": "https://iptv-org.github.io/images/channels/HSTV.in.png",
+      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
+      "category": "General",
+      "country": "India"
     },
     {
       "name": "Htmusicchannel",
@@ -249332,6 +249354,13 @@
       "country": "IR"
     },
     {
+      "name": "Royatv",
+      "logo": "https://iptv-org.github.io/images/channels/RoyaTV.jo.png",
+      "url": "https://live.kwikmotion.com/royatvpublic/royatv.smil/playlist.m3u8",
+      "category": "General",
+      "country": "JO"
+    },
+    {
       "name": "Rozanaspokesman",
       "logo": "https://iptv-org.github.io/images/channels/RozanaSpokesman.in.png",
       "url": "https://live1.ottlive.co.in/spokesman/spokesman/index.m3u8",
@@ -254235,6 +254264,13 @@
       "name": "Sarvdharamsangam",
       "logo": "https://iptv-org.github.io/images/channels/SarvDharamSangam.in.png",
       "url": "http://103.72.101.252:8080/live/972.m3u8",
+      "category": "General",
+      "country": "India"
+    },
+    {
+      "name": "Sarvdharamsangam",
+      "logo": "https://iptv-org.github.io/images/channels/SarvDharamSangam.in.png",
+      "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "category": "General",
       "country": "India"
     },
