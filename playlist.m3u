@@ -163,6 +163,8 @@ https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
 http://stream.mcquack.net/405/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/6ter.fr.png" group-title="General",6Ter
 http://145.239.5.177/314/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/6TVGorlovka.ru.png" group-title="General",6Tvgorlovka
+http://91.214.48.158:4022/udp/224.2.2.4:10000
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/6TVTelugu.in.png" group-title="General",6Tvtelugu
 https://yuppparoriglin.akamaized.net/181224/smil:6tv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/6TVTelugu.in.png" group-title="General",6Tvtelugu
@@ -223,16 +225,12 @@ https://stream.ottlive.co.in/9plusnews/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/9XJalwa.in.png" group-title="General",9Xjalwa
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/9XJalwa.in.png" group-title="General",9Xjalwa
-https://tvsen6.aynaott.com/CiPT1VTG8bVekeAZiibd/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/9XJhakaas.in.png" group-title="General",9Xjhakaas
 https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/9XJhakaas.in.png" group-title="General",9Xjhakaas
 https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/9XJhakaas.in.png" group-title="General",9Xjhakaas
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/9XJhakaas.in.png" group-title="General",9Xjhakaas
-https://tvsen3.aynaott.com/zmcc2Yy4/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/9XJhakaas.in.png" group-title="General",9Xjhakaas
 https://cdn.pishow.tv/ott/live/6/master.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/9XM.in.png" group-title="General",9Xm
@@ -243,8 +241,6 @@ https://epiconvh.akamaized.net/live/9XM/master.m3u8
 https://wiselp.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/9XM.in.png" group-title="General",9Xm
 https://streams.tangotv.in/9XM/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/9XM.in.png" group-title="General",9Xm
-https://tvsen3.aynaott.com/qCrLpS9v/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/9XTashan.in.png" group-title="General",9Xtashan
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/9XTashan.in.png" group-title="General",9Xtashan
@@ -421,6 +417,8 @@ https://cdn.pishow.tv/ott/live/1211/master.m3u8
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/100NEWS.ua.png" group-title="General",100News
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/101tvAntequera.es.png" group-title="General",101Tvantequera
+https://liveingesta318.cdnmedia.tv/101weblive/smil:antequera.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/101tvCadiz.es.png" group-title="General",101Tvcadiz
 https://streaming101tv.es:19360/cadiz/cadiz.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/101tvMalaga.es.png" group-title="General",101Tvmalaga
@@ -3441,6 +3439,8 @@ https://fox.hostlagarto.com:8081/bellavision8hd/tracks-v1a1/mono.m3u8
 http://92.60.238.10:1935/live/belleamie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/BelRTL.be.png" group-title="General",Belrtl
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/BemMaisTV.br.png" group-title="General",Bemmaistv
+https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/BemMelhor.br.png" group-title="General",Bemmelhor
 https://cdn-tiva-video01-logicahost-com-br.smartbit.co/bemmelhor/bemmelhor/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/BendicionChannel.co.png" group-title="General",Bendicionchannel
@@ -3765,6 +3765,8 @@ https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/BloombergHT.tr.png" group-title="General",Bloomberght
 https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/BloombergHT.tr.png" group-title="General",Bloomberght
+http://193.123.61.120:3000/kanal/bloomberght
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/BloombergOriginals.us.png" group-title="General",Bloombergoriginals
 https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/BloombergOriginals.us.png" group-title="General",Bloombergoriginals
@@ -5734,8 +5736,6 @@ http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ChannelDivya.in.png" group-title="General",Channeldivya
 https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ChannelDivya.in.png" group-title="General",Channeldivya
-https://streams.tangotv.in/DIVYA/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ChannelDivya.in.png" group-title="General",Channeldivya
 https://mumbai-edge.smartplaytv.in/channeldivya/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ChannelDivya.in.png" group-title="General",Channeldivya
 https://mumt05.tangotv.in/87NeALx2DIVYA/index.m3u8
@@ -7398,8 +7398,6 @@ https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/DhohoTV.id.png" group-title="General",Dhohotv
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/DhoolTV.in.png" group-title="General",Dhooltv
-https://mumt04.tangotv.in/m18aqlK4SUBHARTITV/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/DhoolTV.in.png" group-title="General",Dhooltv
 https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/DhoomMusic.in.png" group-title="General",Dhoommusic
 https://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/index.m3u8
@@ -7483,6 +7481,8 @@ https://s.emisoras.tv:8081/diostevetv/index.m3u8
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/DiosTvTalanga.hn.png" group-title="General",Diostvtalanga
 https://tv.webmedialive.com/unciontv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/DiscoPoloMusic.pl.png" group-title="General",Discopolomusic
+http://185.227.34.179:8080/disco-polo-music/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/DiscoveringChina.cn.png" group-title="General",Discoveringchina
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/DiscoveringChina.cn.png" group-title="General",Discoveringchina
@@ -9089,8 +9089,6 @@ http://str2.iptvhd.ru:8080/FastFunBoxHD/index.m3u8
 https://live-manifest.production-public.tubi.io/live/e7be5ad5-9044-4151-95d4-a9aae10ab0a5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/FatehTV.in.png" group-title="General",Fatehtv
 https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/FatehTV.in.png" group-title="General",Fatehtv
-http://180.188.254.253/live/FATEHTVHD.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/Fauna.ua.png" group-title="General",Fauna
 http://stream.mcquack.net/401/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/FazalTV.pk.png" group-title="General",Fazaltv
@@ -11601,8 +11599,6 @@ https://jmp2.uk/plu-612375086abc84000738fc03.m3u8
 https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/rewind-1800.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/INCTV.ph.png" group-title="General",Inctv
 https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/Ind24.in.png" group-title="General",Ind24
-https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/India.ru.png" group-title="General",India
 https://fs.uplink.kz/india/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/India.ru.png" group-title="General",India
@@ -14183,6 +14179,8 @@ https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8
 https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/Mango.in.png" group-title="General",Mango
 https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/Mango.pl.png" group-title="General",Mango
+https://lb2.pluscdn.pl/ch/1580235/3496/hls/a149fc4b/masterlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/MangoMobileTV.in.png" group-title="General",Mangomobiletv
 https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/Mangorn.th.png" group-title="General",Mangorn
@@ -14585,6 +14583,8 @@ https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/mediatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/MediBizTV.in.png" group-title="General",Medibiztv
 https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/MediCOOLTV.ro.png" group-title="General",Medicooltv
+https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/MediterraniaTV.it.png" group-title="General",Mediterraniatv
 https://59bb40cf810aa.streamlock.net:4443/streamingvincente/streamingvincente/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/Medium.de.png" group-title="General",Medium
@@ -15001,8 +15001,6 @@ https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/MKKWebTV.br.png" group-title="General",Mkkwebtv
 https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/MKNMarathi.in.png" group-title="General",Mknmarathi
-https://mumt04.tangotv.in/m18aqlK4MKNNEWSHINDI/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/MKSix.in.png" group-title="General",Mksix
 https://mumt06.tangotv.in/qYyB8fXVMKSIX/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/MKSix.in.png" group-title="General",Mksix
@@ -17105,6 +17103,8 @@ http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/Novoetelevidenie.kz.png" group-title="General",Novoetelevidenie
 https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/NovorossiyaTV.ru.png" group-title="General",Novorossiyatv
+http://31.131.139.253:9002/novoros/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/NovoTempo.br.png" group-title="General",Novotempo
 http://45.162.64.114/NOVO_TEMPO/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/NovoTempo.br.png" group-title="General",Novotempo
@@ -17847,6 +17847,8 @@ https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8
 https://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/Opinionsur.cl.png" group-title="General",Opinionsur
 https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/OplotTV.ru.png" group-title="General",Oplottv
+http://31.131.139.253:9002/oplot_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/OraNews.al.png" group-title="General",Oranews
 https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/OrangeBanglaTV.in.png" group-title="General",Orangebanglatv
@@ -19537,10 +19539,26 @@ https://mumt05.tangotv.in/87NeALx2POLIMERNEWS/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4POLIMERTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/PolimerTV.in.png" group-title="General",Polimertv
 https://cdn.pishow.tv/ott/live/1241/master.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/Polsat1.pl.png" group-title="General",Polsat1
+https://cdn-s-lb2.pluscdn.pl/lv/1517829/348/hls/816eca15/masterlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/Polsat.pl.png" group-title="General",Polsat
+https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/PolsatGames.pl.png" group-title="General",Polsatgames
 http://92.63.196.180:8080/live/74173747597177/7vfxky4rjx3j/10209.m3u8?token=Q0FaWEpZFFsXAwNWUFMEBwJXAwMDVlpTBgVTVwEHAQNeWgoACVVXVQAVGEZGFUdTUl9qWwIVAlBSAQBdGENHQ10RbVBdEwxDAgANUAJVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRjfhceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/PolsatJimJam.pl.png" group-title="General",Polsatjimjam
 http://185.227.34.179:8080/jimjam/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/PolsatNews2.pl.png" group-title="General",Polsatnews2
+https://cdn-s-lb2.pluscdn.pl/lv/1533809/392/dash/3de17d4a/live.mpd
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/PolsatNews.pl.png" group-title="General",Polsatnews
+https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/PolsatNews.pl.png" group-title="General",Polsatnews
+https://cdn-s-playnow-live.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/PolsatNewsPolityka.pl.png" group-title="General",Polsatnewspolityka
+https://cdn-s-lb2.pluscdn.pl/lv/1511888/322/hls/bd3b0bfe/masterlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/PolsatNewsPolityka.pl.png" group-title="General",Polsatnewspolityka
+https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/PolsatSport1.pl.png" group-title="General",Polsatsport1
+http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/PolsatViasatHistory.pl.png" group-title="General",Polsatviasathistory
 http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/PomonaInternetStreamingChannel.us.png" group-title="General",Pomonainternetstreamingchannel
@@ -19919,8 +19937,6 @@ http://103.250.28.74:8000/play/a019/index.m3u8
 https://tvsen7.aynascope.net/Sports1/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/Public4KTV.np.png" group-title="General",Public4Ktv
 http://103.180.240.141:8080/hls/main1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/PublicFirst.in.png" group-title="General",Publicfirst
-https://mumt06.tangotv.in/qYyB8fXVPUBLICFIRST/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/PublicMovies.in.png" group-title="General",Publicmovies
 https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/PublicMusic.in.png" group-title="General",Publicmusic
@@ -22680,8 +22696,6 @@ https://account31.livebox.co.in/saitvhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SaiTV.in.png" group-title="General",Saitv
 https://cdn.pishow.tv/ott/live/1235/master.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SaiTV.in.png" group-title="General",Saitv
-https://mumt03.tangotv.in/Dsly5z3HSAITV/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SaiTV.in.png" group-title="General",Saitv
 https://mumbai-edge.smartplaytv.in/SaiTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SakshiTV.in.png" group-title="General",Sakshitv
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sakshi_nim_https/240122/sakshi/playlist.m3u8
@@ -23832,8 +23846,6 @@ https://cloudplay-sonyliv.pages.dev/sethd.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SonyKALHindi.us.png" group-title="General",Sonykalhindi
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SonyMarathi.in.png" group-title="General",Sonymarathi
-https://sl.vodep39240327.workers.dev/channel/SONY+MARATHI.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SonyMarathi.in.png" group-title="General",Sonymarathi
 https://cloudplay-sonyliv.pages.dev/marathi.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SonyMarathi.in.png" group-title="General",Sonymarathi
 http://107.167.16.138/sonymarathi/index.m3u8?token=test
@@ -24197,8 +24209,6 @@ https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
 https://sportsgrid-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SportsGrid.us.png" group-title="General",Sportsgrid
 https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SportsSquadHaryana.in.png" group-title="General",Sportssquadharyana
-http://180.188.254.253/live/SPORTSSQUADHARYANA.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SportsTelevision.kp.png" group-title="General",Sportstelevision
 https://kctv.koryofront.org/stream/sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SportTV1.pt.png" group-title="General",Sporttv1
@@ -24355,16 +24365,12 @@ http://66.102.126.10:8000/play/a008/index.m3u8
 https://live.muzickatv.mk/live/StarMusic2.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/StarPravah.in.png" group-title="General",Starpravah
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/StarSports1Hindi.in.png" group-title="General",Starsports1Hindi
-http://103.253.18.58:8000/play/a03o
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/StarSports2.in.png" group-title="General",Starsports2
 http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/StarSports2Hindi.in.png" group-title="General",Starsports2Hindi
-http://103.157.248.140:8000/play/a01m/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/StarSports2Hindi.in.png" group-title="General",Starsports2Hindi
 https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/StarSportsKhel.in.png" group-title="General",Starsportskhel
-http://103.175.73.12:8080/live/151/151_0.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/StarSports2Telugu.in.png" group-title="General",Starsports2Telugu
+https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/StarSportsSelect2.in.png" group-title="General",Starsportsselect2
 http://tvsen7.aynascope.net/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/STARTAir.ru.png" group-title="General",Startair
@@ -24966,8 +24972,6 @@ https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SwamijiTVEuropean.at.png" group-title="General",Swamijitveuropean
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SwarajExpressSMBC.in.png" group-title="General",Swarajexpresssmbc
-https://mumt04.tangotv.in/m18aqlK4SWARAJEXPRESS/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SwarajExpressSMBC.in.png" group-title="General",Swarajexpresssmbc
 https://d1msejlow1t3l4.cloudfront.net/fta/swarajexpresssmbc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SwarajExpressSMBC.in.png" group-title="General",Swarajexpresssmbc
 https://cdn.pishow.tv/ott/live/477/master.m3u8
@@ -24977,48 +24981,6 @@ https://teledrama.ebc.lk/TTT/proxy.php
 https://server.playontv.in/swastiktv/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SwatantraTV.in.png" group-title="General",Swatantratv
 https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SwayamPrabha1.in.png" group-title="General",Swayamprabha1
-http://103.72.101.252:8080/live/980.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SwayamPrabha3.in.png" group-title="General",Swayamprabha3
-http://103.72.101.252:8080/live/982.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SwayamPrabha4.in.png" group-title="General",Swayamprabha4
-http://103.72.101.252:8080/live/984.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SwayamPrabha5.in.png" group-title="General",Swayamprabha5
-http://103.72.101.252:8080/live/986.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SwayamPrabha6.in.png" group-title="General",Swayamprabha6
-http://103.72.101.252:8080/live/987.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SwayamPrabha7.in.png" group-title="General",Swayamprabha7
-http://103.72.101.252:8080/live/985.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SwayamPrabha8.in.png" group-title="General",Swayamprabha8
-http://103.72.101.252:8080/live/983.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SwayamPrabha9.in.png" group-title="General",Swayamprabha9
-http://103.72.101.252:8080/live/988.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SwayamPrabha10.in.png" group-title="General",Swayamprabha10
-http://103.72.101.252:8080/live/989.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SwayamPrabha11.in.png" group-title="General",Swayamprabha11
-http://103.72.101.252:8080/live/990.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SwayamPrabha12.in.png" group-title="General",Swayamprabha12
-http://103.72.101.252:8080/live/991.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SwayamPrabha13.in.png" group-title="General",Swayamprabha13
-http://103.72.101.252:8080/live/992.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SwayamPrabha14.in.png" group-title="General",Swayamprabha14
-http://103.72.101.252:8080/live/993.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SwayamPrabha15.in.png" group-title="General",Swayamprabha15
-http://103.72.101.252:8080/live/995.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SwayamPrabha16.in.png" group-title="General",Swayamprabha16
-http://103.72.101.252:8080/live/994.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SwayamPrabha17.in.png" group-title="General",Swayamprabha17
-http://103.72.101.252:8080/live/996.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SwayamPrabha18.in.png" group-title="General",Swayamprabha18
-http://103.72.101.252:8080/live/999.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SwayamPrabha19.in.png" group-title="General",Swayamprabha19
-http://103.72.101.252:8080/live/401.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SwayamPrabha20.in.png" group-title="General",Swayamprabha20
-http://103.72.101.252:8080/live/403.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SwayamPrabha21.in.png" group-title="General",Swayamprabha21
-http://103.72.101.252:8080/live/997.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SwayamPrabha22.in.png" group-title="General",Swayamprabha22
-http://103.72.101.252:8080/live/998.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SwerveCombat.us.png" group-title="General",Swervecombat
 https://a-cdn.klowdtv.com/live3/swervecombat_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SwerveCombat.us.png" group-title="General",Swervecombat
@@ -26455,24 +26417,16 @@ https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/TimesNow.in.png" group-title="General",Timesnow
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/TimesNow.in.png" group-title="General",Timesnow
-https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/TimesNowNavbharat.in.png" group-title="General",Timesnownavbharat
 https://yupprestreamliveus.akamaized.net/v1/vglive-sk-717514/main.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/TimesNowNavbharat.in.png" group-title="General",Timesnownavbharat
-https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/TimesNowNavbharat.in.png" group-title="General",Timesnownavbharat
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/navbharat/navbharat_master.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/TimesNowNavbharat.in.png" group-title="General",Timesnownavbharat
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/TimesNowNavbharat.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/TimesNowNavbharat.in.png" group-title="General",Timesnownavbharat
-http://103.175.73.12:8080/live/295/master.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/TimesNowNavbharat.in.png" group-title="General",Timesnownavbharat
 https://streams.tangotv.in/TIMESNOWNAVBHARAT/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/TimesNowNavbharat.in.png" group-title="General",Timesnownavbharat
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a5ee7c4e7a2a4b15a22a3bcf523b9776/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/TimesNowWorld.in.png" group-title="General",Timesnowworld
-http://103.72.101.252:8080/live/876.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/TinTV.us.png" group-title="General",Tintv
 https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/TinTV.us.png" group-title="General",Tintv
@@ -26633,6 +26587,8 @@ https://streaming.televizor-24-tochka.ru/live/38.m3u8
 http://31.148.48.15/TNT/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/TNT.ru.png" group-title="General",Tnt
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/TNTInternational.ru.png" group-title="General",Tntinternational
+http://05cea6e8.ucomist.net/iptv/VK7YCHHWNDD8XC/15230/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/TNTInternational.ru.png" group-title="General",Tntinternational
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/TNTKidsTV.ba.png" group-title="General",Tntkidstv
@@ -26993,8 +26949,6 @@ https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/Travelxp.in.png" group-title="General",Travelxp
 http://stream.mcquack.net/451/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/TravelxpTamil.in.png" group-title="General",Travelxptamil
-http://103.72.101.252:8080/live/814.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/TraVinhTV.vn.png" group-title="General",Travinhtv
 https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/TraVinhTV.vn.png" group-title="General",Travinhtv
@@ -27181,8 +27135,6 @@ https://streaming.alwaysdata.net/tudn.php
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/TUDN.us.png" group-title="General",Tudn
 http://45.190.13.8/TUDNHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/Tunes6.in.png" group-title="General",Tunes6
-https://stream.d6-pro.com/tunes6music/live/video.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/Tunevision.gt.png" group-title="General",Tunevision
 https://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/TuranTV.kz.png" group-title="General",Turantv
@@ -28327,6 +28279,8 @@ https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8
 https://streamnorge.com:8088/hls/tvo.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/TvoyeTVYumor.ru.png" group-title="General",Tvoyetvyumor
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/TVP1.pl.png" group-title="General",Tvp1
+https://cdn-s-lb2.pluscdn.pl/ch/1565219/2356/dash/312c7bf8/live.mpd
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/TVPadreCicero.br.png" group-title="General",Tvpadrecicero
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/TVPaiEterno.br.png" group-title="General",Tvpaieterno
@@ -29058,8 +29012,6 @@ https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/UniquelyThai.vn.png" group-title="General",Uniquelythai
 https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/UniqueTV.in.png" group-title="General",Uniquetv
-http://103.175.73.12:8080/live/688/master.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/UniqueTV.in.png" group-title="General",Uniquetv
 https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/UniRadioTV.py.png" group-title="General",Uniradiotv
 https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
@@ -29287,38 +29239,6 @@ https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
 https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/Van65TV.tr.png" group-title="General",Van65Tv
 https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/VandeGujarat1.in.png" group-title="General",Vandegujarat1
-http://103.72.101.252:8080/live/1069.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/VandeGujarat2.in.png" group-title="General",Vandegujarat2
-http://103.72.101.252:8080/live/1070.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/VandeGujarat3.in.png" group-title="General",Vandegujarat3
-http://103.72.101.252:8080/live/1082.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/VandeGujarat4.in.png" group-title="General",Vandegujarat4
-http://103.72.101.252:8080/live/1071.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/VandeGujarat5.in.png" group-title="General",Vandegujarat5
-http://103.72.101.252:8080/live/1083.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/VandeGujarat6.in.png" group-title="General",Vandegujarat6
-http://103.72.101.252:8080/live/1084.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/VandeGujarat7.in.png" group-title="General",Vandegujarat7
-http://103.72.101.252:8080/live/1085.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/VandeGujarat8.in.png" group-title="General",Vandegujarat8
-http://103.72.101.252:8080/live/1086.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/VandeGujarat9.in.png" group-title="General",Vandegujarat9
-http://103.72.101.252:8080/live/1087.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/VandeGujarat10.in.png" group-title="General",Vandegujarat10
-http://103.72.101.252:8080/live/1088.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/VandeGujarat11.in.png" group-title="General",Vandegujarat11
-http://103.72.101.252:8080/live/1089.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/VandeGujarat12.in.png" group-title="General",Vandegujarat12
-http://103.72.101.252:8080/live/1090.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/VandeGujarat13.in.png" group-title="General",Vandegujarat13
-http://103.72.101.252:8080/live/1091.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/VandeGujarat14.in.png" group-title="General",Vandegujarat14
-http://103.72.101.252:8080/live/1092.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/VandeGujarat15.in.png" group-title="General",Vandegujarat15
-http://103.72.101.252:8080/live/1093.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/VandeGujarat16.in.png" group-title="General",Vandegujarat16
-http://103.72.101.252:8080/live/1094.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/VanithaTV.in.png" group-title="General",Vanithatv
 https://mumt01.tangotv.in/O5aw8Zn3VANITHA/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/VanithaTV.in.png" group-title="General",Vanithatv
@@ -30081,8 +30001,6 @@ https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/VyasChannel.in.png" group-title="General",Vyaschannel
 https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/VyasChannel.in.png" group-title="General",Vyaschannel
-https://hls.media.nic.in/hls/live/vyas/vyas.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/VychodoceskaTV.cz.png" group-title="General",Vychodoceskatv
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/W9.fr.png" group-title="General",W9
@@ -30161,8 +30079,6 @@ https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg
 https://htvmada.mada.ps:4443/wattan/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/WavezFM.aw.png" group-title="General",Wavezfm
 https://media.streambrothers.com:1936/uszqnhpjpa/uszqnhpjpa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/WayanadVision.in.png" group-title="General",Wayanadvision
-https://cloudsavre.in.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/WaypointTV.us.png" group-title="General",Waypointtv
 https://waypoint-waypointtv-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/WaypointTV.us.png" group-title="General",Waypointtv
@@ -30259,8 +30175,6 @@ https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/WELU81.pr.png" group-title="General",Welu81
 https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/WeOneKerala.in.png" group-title="General",Weonekerala
-http://kl.logicwebs.in:1935/sreemedia/sreemedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/WeSportTV.md.png" group-title="General",Wesporttv
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2471/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/WEST.pe.png" group-title="General",West
@@ -30902,8 +30816,6 @@ http://31.148.48.15/Zdorovoe_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ZedTV.ir.png" group-title="General",Zedtv
 https://zedhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/Zee24Ghanta.in.png" group-title="General",Zee24Ghanta
-http://45.148.145.57/IN_Zee24Ghanta/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/Zee24Ghanta.in.png" group-title="General",Zee24Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/Zee24Ghanta.in.png" group-title="General",Zee24Ghanta
 https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8
@@ -30915,8 +30827,6 @@ https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
 https://streams.tangotv.in/ZEE24TAAS/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ZeeAction.in.png" group-title="General",Zeeaction
 http://107.167.16.138/zeeaction/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ZeeAlwan.ae.png" group-title="General",Zeealwan
-https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ZeeBangla.in.png" group-title="General",Zeebangla
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ZeeBangla.in.png" group-title="General",Zeebangla
@@ -30933,8 +30843,6 @@ https://mumt03.tangotv.in/Dsly5z3HZEEBHARAT/index.m3u8
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBiharJharkhand.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ZeeBiharJharkhand.in.png" group-title="General",Zeebiharjharkhand
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeebiharjharkhand/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28077955-07d7-4ae2-8b11-9f318cd69420/main.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ZeeBiskope.in.png" group-title="General",Zeebiskope
-http://103.175.73.12:8080/live/347/master.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ZeeBusiness.in.png" group-title="General",Zeebusiness
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ZeeBusiness.in.png" group-title="General",Zeebusiness
@@ -30944,13 +30852,9 @@ https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ZeeCinema.in.png" group-title="General",Zeecinema
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ZeeCinema.in.png" group-title="General",Zeecinema
-https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ZeeCinema.in.png" group-title="General",Zeecinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ZeeCinemalu.in.png" group-title="General",Zeecinemalu
 https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ZeeClassic.in.png" group-title="General",Zeeclassic
-http://103.72.101.252:8080/live/1691.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ZeeClassic.in.png" group-title="General",Zeeclassic
 http://107.167.16.138/zeeclassic/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ZeeComedyNation.in.png" group-title="General",Zeecomedynation
@@ -30967,8 +30871,6 @@ https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u
 https://d3vzwoqcbpfm8p.cloudfront.net/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ZeeMadhyaPradeshChhattisgarh.in.png" group-title="General",Zeemadhyapradeshchhattisgarh
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ZeeMalayalamNews.in.png" group-title="General",Zeemalayalamnews
-https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ZeeMarathi.in.png" group-title="General",Zeemarathi
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ZeeNews.in.png" group-title="General",Zeenews
@@ -30977,8 +30879,6 @@ https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 https://dt3lrqnyx3dks.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ZeeNews.in.png" group-title="General",Zeenews
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeenews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8744f9fb-d696-4204-9795-5215ad930c39/main.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ZeeNews.in.png" group-title="General",Zeenews
-http://103.175.73.12:8080/live/294/master.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ZeeNews.in.png" group-title="General",Zeenews
 https://mumt07.tangotv.in/zHjX9OFlZEENEWS/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ZeeNung.th.png" group-title="General",Zeenung
@@ -31019,12 +30919,8 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://duw35ict5q7th.cloudfront.net/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ZeeUttarPradeshUttarakhand.in.png" group-title="General",Zeeuttarpradeshuttarakhand
 https://mumt07.tangotv.in/zHjX9OFlZEEUPUK/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ZeeYuva.in.png" group-title="General",Zeeyuva
-http://103.72.101.252:8080/live/414.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ZeeZest.in.png" group-title="General",Zeezest
 http://103.72.101.252:8080/live/2757.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ZeeZest.in.png" group-title="General",Zeezest
-http://107.167.16.138/zeezesthd/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ZeleveTV.pe.png" group-title="General",Zelevetv
 https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ZeleveTV.pe.png" group-title="General",Zelevetv
@@ -31104,8 +31000,6 @@ https://5790d294af2dc.streamlock.net/zincnombretv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ZindagiTV.pk.png" group-title="General",Zindagitv
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/Zing.in.png" group-title="General",Zing
-http://103.72.101.252:8080/live/585.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/Zing.in.png" group-title="General",Zing
 http://107.167.16.138/zing/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/ZitataTV.mq.png" group-title="General",Zitatatv
 https://live.zitata.tv/direct-hls/playlist.m3u8
@@ -31147,8 +31041,6 @@ http://138.121.15.230:9002/ZOOM/index.m3u8
 http://stream.mcquack.net/377/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/Zoom.il.png" group-title="General",Zoom
 http://str2.iptvhd.ru:8080/zoom/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/Zoom.in.png" group-title="General",Zoom
-https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/Zoom.in.png" group-title="General",Zoom
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/Zoom.in.png" group-title="General",Zoom

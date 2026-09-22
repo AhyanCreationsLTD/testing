@@ -15751,6 +15751,11 @@
           "url": "https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8"
         },
         {
+          "name": "6Tvgorlovka",
+          "logo": "https://iptv-org.github.io/images/channels/6TVGorlovka.ru.png",
+          "url": "http://91.214.48.158:4022/udp/224.2.2.4:10000"
+        },
+        {
           "name": "15Plusmusic",
           "logo": "https://iptv-org.github.io/images/channels/15PlusMusic.ru.png",
           "url": "https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8"
@@ -18406,6 +18411,11 @@
           "url": "https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8"
         },
         {
+          "name": "Novorossiyatv",
+          "logo": "https://iptv-org.github.io/images/channels/NovorossiyaTV.ru.png",
+          "url": "http://31.131.139.253:9002/novoros/index.m3u8"
+        },
+        {
           "name": "Novyirusskii",
           "logo": "https://iptv-org.github.io/images/channels/NovyiRusskii.ru.png",
           "url": "https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8"
@@ -18689,6 +18699,11 @@
           "name": "Okkosport",
           "logo": "https://iptv-org.github.io/images/channels/OkkoSport.ru.png",
           "url": "http://stream.mcquack.net/492/index.m3u8"
+        },
+        {
+          "name": "Oplottv",
+          "logo": "https://iptv-org.github.io/images/channels/OplotTV.ru.png",
+          "url": "http://31.131.139.253:9002/oplot_hd/index.m3u8"
         },
         {
           "name": "Oruzhie",
@@ -21639,6 +21654,11 @@
           "name": "Tnt",
           "logo": "https://iptv-org.github.io/images/channels/TNT.ru.png",
           "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8"
+        },
+        {
+          "name": "Tntinternational",
+          "logo": "https://iptv-org.github.io/images/channels/TNTInternational.ru.png",
+          "url": "http://05cea6e8.ucomist.net/iptv/VK7YCHHWNDD8XC/15230/index.m3u8"
         },
         {
           "name": "Tntinternational",
@@ -25686,6 +25706,11 @@
           "name": "28Kanala",
           "logo": "https://iptv-org.github.io/images/channels/28kanala.es.png",
           "url": "https://streaming.28kanala.eus/hls/z.m3u8"
+        },
+        {
+          "name": "101Tvantequera",
+          "logo": "https://iptv-org.github.io/images/channels/101tvAntequera.es.png",
+          "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:antequera.smil/playlist.m3u8"
         },
         {
           "name": "101Tvcadiz",
@@ -33301,6 +33326,11 @@
           "url": "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
         },
         {
+          "name": "Discopolomusic",
+          "logo": "https://iptv-org.github.io/images/channels/DiscoPoloMusic.pl.png",
+          "url": "http://185.227.34.179:8080/disco-polo-music/index.m3u8"
+        },
+        {
           "name": "Disneychannel",
           "logo": "https://iptv-org.github.io/images/channels/DisneyChannel.pl.png",
           "url": "http://185.227.34.179:8080/disney-channel-hd/index.m3u8"
@@ -33491,6 +33521,11 @@
           "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883037"
         },
         {
+          "name": "Mango",
+          "logo": "https://iptv-org.github.io/images/channels/Mango.pl.png",
+          "url": "https://lb2.pluscdn.pl/ch/1580235/3496/hls/a149fc4b/masterlist.m3u8"
+        },
+        {
           "name": "Moconomy",
           "logo": "https://iptv-org.github.io/images/channels/Moconomy.pl.png",
           "url": "https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8"
@@ -33526,6 +33561,16 @@
           "url": "https://jmp2.uk/plu-66bb36e03a4ad200082bb8fe.m3u8"
         },
         {
+          "name": "Polsat1",
+          "logo": "https://iptv-org.github.io/images/channels/Polsat1.pl.png",
+          "url": "https://cdn-s-lb2.pluscdn.pl/lv/1517829/348/hls/816eca15/masterlist.m3u8"
+        },
+        {
+          "name": "Polsat",
+          "logo": "https://iptv-org.github.io/images/channels/Polsat.pl.png",
+          "url": "https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd"
+        },
+        {
           "name": "Polsatgames",
           "logo": "https://iptv-org.github.io/images/channels/PolsatGames.pl.png",
           "url": "http://92.63.196.180:8080/live/74173747597177/7vfxky4rjx3j/10209.m3u8?token=Q0FaWEpZFFsXAwNWUFMEBwJXAwMDVlpTBgVTVwEHAQNeWgoACVVXVQAVGEZGFUdTUl9qWwIVAlBSAQBdGENHQ10RbVBdEwxDAgANUAJVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRjfhceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ="
@@ -33534,6 +33579,36 @@
           "name": "Polsatjimjam",
           "logo": "https://iptv-org.github.io/images/channels/PolsatJimJam.pl.png",
           "url": "http://185.227.34.179:8080/jimjam/index.m3u8"
+        },
+        {
+          "name": "Polsatnews2",
+          "logo": "https://iptv-org.github.io/images/channels/PolsatNews2.pl.png",
+          "url": "https://cdn-s-lb2.pluscdn.pl/lv/1533809/392/dash/3de17d4a/live.mpd"
+        },
+        {
+          "name": "Polsatnews",
+          "logo": "https://iptv-org.github.io/images/channels/PolsatNews.pl.png",
+          "url": "https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8"
+        },
+        {
+          "name": "Polsatnews",
+          "logo": "https://iptv-org.github.io/images/channels/PolsatNews.pl.png",
+          "url": "https://cdn-s-playnow-live.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd"
+        },
+        {
+          "name": "Polsatnewspolityka",
+          "logo": "https://iptv-org.github.io/images/channels/PolsatNewsPolityka.pl.png",
+          "url": "https://cdn-s-lb2.pluscdn.pl/lv/1511888/322/hls/bd3b0bfe/masterlist.m3u8"
+        },
+        {
+          "name": "Polsatnewspolityka",
+          "logo": "https://iptv-org.github.io/images/channels/PolsatNewsPolityka.pl.png",
+          "url": "https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd"
+        },
+        {
+          "name": "Polsatsport1",
+          "logo": "https://iptv-org.github.io/images/channels/PolsatSport1.pl.png",
+          "url": "http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd"
         },
         {
           "name": "Polsatviasathistory",
@@ -33686,6 +33761,11 @@
           "url": "https://lb2-e3-20.pluscdn.pl/ch/1523532/366/dash/2cf383bb/live.mpd"
         },
         {
+          "name": "Tvp1",
+          "logo": "https://iptv-org.github.io/images/channels/TVP1.pl.png",
+          "url": "https://cdn-s-lb2.pluscdn.pl/ch/1565219/2356/dash/312c7bf8/live.mpd"
+        },
+        {
           "name": "Tvpinfo",
           "logo": "https://iptv-org.github.io/images/channels/TVPInfo.pl.png",
           "url": "https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8"
@@ -33835,11 +33915,6 @@
           "url": "https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8"
         },
         {
-          "name": "9Xjalwa",
-          "logo": "https://iptv-org.github.io/images/channels/9XJalwa.in.png",
-          "url": "https://tvsen6.aynaott.com/CiPT1VTG8bVekeAZiibd/index.m3u8"
-        },
-        {
           "name": "9Xjhakaas",
           "logo": "https://iptv-org.github.io/images/channels/9XJhakaas.in.png",
           "url": "https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8"
@@ -33853,11 +33928,6 @@
           "name": "9Xjhakaas",
           "logo": "https://iptv-org.github.io/images/channels/9XJhakaas.in.png",
           "url": "https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8"
-        },
-        {
-          "name": "9Xjhakaas",
-          "logo": "https://iptv-org.github.io/images/channels/9XJhakaas.in.png",
-          "url": "https://tvsen3.aynaott.com/zmcc2Yy4/index.m3u8"
         },
         {
           "name": "9Xjhakaas",
@@ -33883,11 +33953,6 @@
           "name": "9Xm",
           "logo": "https://iptv-org.github.io/images/channels/9XM.in.png",
           "url": "https://streams.tangotv.in/9XM/ORIGIN/index.m3u8"
-        },
-        {
-          "name": "9Xm",
-          "logo": "https://iptv-org.github.io/images/channels/9XM.in.png",
-          "url": "https://tvsen3.aynaott.com/qCrLpS9v/index.m3u8"
         },
         {
           "name": "9Xtashan",
@@ -34812,11 +34877,6 @@
         {
           "name": "Channeldivya",
           "logo": "https://iptv-org.github.io/images/channels/ChannelDivya.in.png",
-          "url": "https://streams.tangotv.in/DIVYA/ORIGIN/index.m3u8"
-        },
-        {
-          "name": "Channeldivya",
-          "logo": "https://iptv-org.github.io/images/channels/ChannelDivya.in.png",
           "url": "https://mumbai-edge.smartplaytv.in/channeldivya/index.m3u8"
         },
         {
@@ -35462,11 +35522,6 @@
         {
           "name": "Dhooltv",
           "logo": "https://iptv-org.github.io/images/channels/DhoolTV.in.png",
-          "url": "https://mumt04.tangotv.in/m18aqlK4SUBHARTITV/index.m3u8"
-        },
-        {
-          "name": "Dhooltv",
-          "logo": "https://iptv-org.github.io/images/channels/DhoolTV.in.png",
           "url": "https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8"
         },
         {
@@ -35773,11 +35828,6 @@
           "name": "Fatehtv",
           "logo": "https://iptv-org.github.io/images/channels/FatehTV.in.png",
           "url": "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8"
-        },
-        {
-          "name": "Fatehtv",
-          "logo": "https://iptv-org.github.io/images/channels/FatehTV.in.png",
-          "url": "http://180.188.254.253/live/FATEHTVHD.m3u8"
         },
         {
           "name": "Firstindianews",
@@ -36178,11 +36228,6 @@
           "name": "Ibc24",
           "logo": "https://iptv-org.github.io/images/channels/IBC24.in.png",
           "url": "https://mumt03.tangotv.in/Dsly5z3HC10/index.m3u8"
-        },
-        {
-          "name": "Ind24",
-          "logo": "https://iptv-org.github.io/images/channels/Ind24.in.png",
-          "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8"
         },
         {
           "name": "Indiaahead",
@@ -37038,11 +37083,6 @@
           "name": "Mirrornow",
           "logo": "https://iptv-org.github.io/images/channels/MirrorNow.in.png",
           "url": "https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8"
-        },
-        {
-          "name": "Mknmarathi",
-          "logo": "https://iptv-org.github.io/images/channels/MKNMarathi.in.png",
-          "url": "https://mumt04.tangotv.in/m18aqlK4MKNNEWSHINDI/index.m3u8"
         },
         {
           "name": "Mksix",
@@ -38025,11 +38065,6 @@
           "url": "https://mumt05.tangotv.in/87NeALx2PTCSIMRAN/index.m3u8"
         },
         {
-          "name": "Publicfirst",
-          "logo": "https://iptv-org.github.io/images/channels/PublicFirst.in.png",
-          "url": "https://mumt06.tangotv.in/qYyB8fXVPUBLICFIRST/index.m3u8"
-        },
-        {
           "name": "Publicmovies",
           "logo": "https://iptv-org.github.io/images/channels/PublicMovies.in.png",
           "url": "https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8"
@@ -38487,11 +38522,6 @@
         {
           "name": "Saitv",
           "logo": "https://iptv-org.github.io/images/channels/SaiTV.in.png",
-          "url": "https://mumt03.tangotv.in/Dsly5z3HSAITV/index.m3u8"
-        },
-        {
-          "name": "Saitv",
-          "logo": "https://iptv-org.github.io/images/channels/SaiTV.in.png",
           "url": "https://mumbai-edge.smartplaytv.in/SaiTV/index.m3u8"
         },
         {
@@ -38907,11 +38937,6 @@
         {
           "name": "Sonymarathi",
           "logo": "https://iptv-org.github.io/images/channels/SonyMarathi.in.png",
-          "url": "https://sl.vodep39240327.workers.dev/channel/SONY+MARATHI.m3u8"
-        },
-        {
-          "name": "Sonymarathi",
-          "logo": "https://iptv-org.github.io/images/channels/SonyMarathi.in.png",
           "url": "https://cloudplay-sonyliv.pages.dev/marathi.m3u8"
         },
         {
@@ -39060,11 +39085,6 @@
           "url": "https://mumt05.tangotv.in/87NeALx2SPONDON/index.m3u8"
         },
         {
-          "name": "Sportssquadharyana",
-          "logo": "https://iptv-org.github.io/images/channels/SportsSquadHaryana.in.png",
-          "url": "http://180.188.254.253/live/SPORTSSQUADHARYANA.m3u8"
-        },
-        {
           "name": "Stargold2",
           "logo": "https://iptv-org.github.io/images/channels/StarGold2.in.png",
           "url": "http://107.167.16.138/stargold2/index.m3u8?token=test"
@@ -39115,11 +39135,6 @@
           "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8"
         },
         {
-          "name": "Starsports1Hindi",
-          "logo": "https://iptv-org.github.io/images/channels/StarSports1Hindi.in.png",
-          "url": "http://103.253.18.58:8000/play/a03o"
-        },
-        {
           "name": "Starsports2",
           "logo": "https://iptv-org.github.io/images/channels/StarSports2.in.png",
           "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8"
@@ -39127,17 +39142,12 @@
         {
           "name": "Starsports2Hindi",
           "logo": "https://iptv-org.github.io/images/channels/StarSports2Hindi.in.png",
-          "url": "http://103.157.248.140:8000/play/a01m/index.m3u8"
-        },
-        {
-          "name": "Starsports2Hindi",
-          "logo": "https://iptv-org.github.io/images/channels/StarSports2Hindi.in.png",
           "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8"
         },
         {
-          "name": "Starsportskhel",
-          "logo": "https://iptv-org.github.io/images/channels/StarSportsKhel.in.png",
-          "url": "http://103.175.73.12:8080/live/151/151_0.m3u8"
+          "name": "Starsports2Telugu",
+          "logo": "https://iptv-org.github.io/images/channels/StarSports2Telugu.in.png",
+          "url": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8"
         },
         {
           "name": "Starsportsselect2",
@@ -39312,11 +39322,6 @@
         {
           "name": "Swarajexpresssmbc",
           "logo": "https://iptv-org.github.io/images/channels/SwarajExpressSMBC.in.png",
-          "url": "https://mumt04.tangotv.in/m18aqlK4SWARAJEXPRESS/index.m3u8"
-        },
-        {
-          "name": "Swarajexpresssmbc",
-          "logo": "https://iptv-org.github.io/images/channels/SwarajExpressSMBC.in.png",
           "url": "https://d1msejlow1t3l4.cloudfront.net/fta/swarajexpresssmbc/playlist.m3u8"
         },
         {
@@ -39333,111 +39338,6 @@
           "name": "Swatantratv",
           "logo": "https://iptv-org.github.io/images/channels/SwatantraTV.in.png",
           "url": "https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8"
-        },
-        {
-          "name": "Swayamprabha1",
-          "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha1.in.png",
-          "url": "http://103.72.101.252:8080/live/980.m3u8"
-        },
-        {
-          "name": "Swayamprabha3",
-          "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha3.in.png",
-          "url": "http://103.72.101.252:8080/live/982.m3u8"
-        },
-        {
-          "name": "Swayamprabha4",
-          "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha4.in.png",
-          "url": "http://103.72.101.252:8080/live/984.m3u8"
-        },
-        {
-          "name": "Swayamprabha5",
-          "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha5.in.png",
-          "url": "http://103.72.101.252:8080/live/986.m3u8"
-        },
-        {
-          "name": "Swayamprabha6",
-          "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha6.in.png",
-          "url": "http://103.72.101.252:8080/live/987.m3u8"
-        },
-        {
-          "name": "Swayamprabha7",
-          "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha7.in.png",
-          "url": "http://103.72.101.252:8080/live/985.m3u8"
-        },
-        {
-          "name": "Swayamprabha8",
-          "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha8.in.png",
-          "url": "http://103.72.101.252:8080/live/983.m3u8"
-        },
-        {
-          "name": "Swayamprabha9",
-          "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha9.in.png",
-          "url": "http://103.72.101.252:8080/live/988.m3u8"
-        },
-        {
-          "name": "Swayamprabha10",
-          "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha10.in.png",
-          "url": "http://103.72.101.252:8080/live/989.m3u8"
-        },
-        {
-          "name": "Swayamprabha11",
-          "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha11.in.png",
-          "url": "http://103.72.101.252:8080/live/990.m3u8"
-        },
-        {
-          "name": "Swayamprabha12",
-          "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha12.in.png",
-          "url": "http://103.72.101.252:8080/live/991.m3u8"
-        },
-        {
-          "name": "Swayamprabha13",
-          "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha13.in.png",
-          "url": "http://103.72.101.252:8080/live/992.m3u8"
-        },
-        {
-          "name": "Swayamprabha14",
-          "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha14.in.png",
-          "url": "http://103.72.101.252:8080/live/993.m3u8"
-        },
-        {
-          "name": "Swayamprabha15",
-          "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha15.in.png",
-          "url": "http://103.72.101.252:8080/live/995.m3u8"
-        },
-        {
-          "name": "Swayamprabha16",
-          "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha16.in.png",
-          "url": "http://103.72.101.252:8080/live/994.m3u8"
-        },
-        {
-          "name": "Swayamprabha17",
-          "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha17.in.png",
-          "url": "http://103.72.101.252:8080/live/996.m3u8"
-        },
-        {
-          "name": "Swayamprabha18",
-          "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha18.in.png",
-          "url": "http://103.72.101.252:8080/live/999.m3u8"
-        },
-        {
-          "name": "Swayamprabha19",
-          "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha19.in.png",
-          "url": "http://103.72.101.252:8080/live/401.m3u8"
-        },
-        {
-          "name": "Swayamprabha20",
-          "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha20.in.png",
-          "url": "http://103.72.101.252:8080/live/403.m3u8"
-        },
-        {
-          "name": "Swayamprabha21",
-          "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha21.in.png",
-          "url": "http://103.72.101.252:8080/live/997.m3u8"
-        },
-        {
-          "name": "Swayamprabha22",
-          "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha22.in.png",
-          "url": "http://103.72.101.252:8080/live/998.m3u8"
         },
         {
           "name": "Taazatv",
@@ -39575,19 +39475,9 @@
           "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8"
         },
         {
-          "name": "Timesnow",
-          "logo": "https://iptv-org.github.io/images/channels/TimesNow.in.png",
-          "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8"
-        },
-        {
           "name": "Timesnownavbharat",
           "logo": "https://iptv-org.github.io/images/channels/TimesNowNavbharat.in.png",
           "url": "https://yupprestreamliveus.akamaized.net/v1/vglive-sk-717514/main.m3u8"
-        },
-        {
-          "name": "Timesnownavbharat",
-          "logo": "https://iptv-org.github.io/images/channels/TimesNowNavbharat.in.png",
-          "url": "https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8"
         },
         {
           "name": "Timesnownavbharat",
@@ -39602,22 +39492,12 @@
         {
           "name": "Timesnownavbharat",
           "logo": "https://iptv-org.github.io/images/channels/TimesNowNavbharat.in.png",
-          "url": "http://103.175.73.12:8080/live/295/master.m3u8"
-        },
-        {
-          "name": "Timesnownavbharat",
-          "logo": "https://iptv-org.github.io/images/channels/TimesNowNavbharat.in.png",
           "url": "https://streams.tangotv.in/TIMESNOWNAVBHARAT/ORIGIN/index.m3u8"
         },
         {
           "name": "Timesnownavbharat",
           "logo": "https://iptv-org.github.io/images/channels/TimesNowNavbharat.in.png",
           "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a5ee7c4e7a2a4b15a22a3bcf523b9776/index.m3u8"
-        },
-        {
-          "name": "Timesnowworld",
-          "logo": "https://iptv-org.github.io/images/channels/TimesNowWorld.in.png",
-          "url": "http://103.72.101.252:8080/live/876.m3u8"
         },
         {
           "name": "Tnews",
@@ -39688,16 +39568,6 @@
           "name": "Travelxp",
           "logo": "https://iptv-org.github.io/images/channels/Travelxp.in.png",
           "url": "http://stream.mcquack.net/451/index.m3u8"
-        },
-        {
-          "name": "Travelxptamil",
-          "logo": "https://iptv-org.github.io/images/channels/TravelxpTamil.in.png",
-          "url": "http://103.72.101.252:8080/live/814.m3u8"
-        },
-        {
-          "name": "Tunes6",
-          "logo": "https://iptv-org.github.io/images/channels/Tunes6.in.png",
-          "url": "https://stream.d6-pro.com/tunes6music/live/video.m3u8"
         },
         {
           "name": "Tv5Kannada",
@@ -39867,11 +39737,6 @@
         {
           "name": "Uniquetv",
           "logo": "https://iptv-org.github.io/images/channels/UniqueTV.in.png",
-          "url": "http://103.175.73.12:8080/live/688/master.m3u8"
-        },
-        {
-          "name": "Uniquetv",
-          "logo": "https://iptv-org.github.io/images/channels/UniqueTV.in.png",
           "url": "https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8"
         },
         {
@@ -39923,86 +39788,6 @@
           "name": "Vaanaviltv",
           "logo": "https://iptv-org.github.io/images/channels/VaanavilTV.in.png",
           "url": "https://mumt01.tangotv.in/O5aw8Zn3VAANAVILTV/index.m3u8"
-        },
-        {
-          "name": "Vandegujarat1",
-          "logo": "https://iptv-org.github.io/images/channels/VandeGujarat1.in.png",
-          "url": "http://103.72.101.252:8080/live/1069.m3u8"
-        },
-        {
-          "name": "Vandegujarat2",
-          "logo": "https://iptv-org.github.io/images/channels/VandeGujarat2.in.png",
-          "url": "http://103.72.101.252:8080/live/1070.m3u8"
-        },
-        {
-          "name": "Vandegujarat3",
-          "logo": "https://iptv-org.github.io/images/channels/VandeGujarat3.in.png",
-          "url": "http://103.72.101.252:8080/live/1082.m3u8"
-        },
-        {
-          "name": "Vandegujarat4",
-          "logo": "https://iptv-org.github.io/images/channels/VandeGujarat4.in.png",
-          "url": "http://103.72.101.252:8080/live/1071.m3u8"
-        },
-        {
-          "name": "Vandegujarat5",
-          "logo": "https://iptv-org.github.io/images/channels/VandeGujarat5.in.png",
-          "url": "http://103.72.101.252:8080/live/1083.m3u8"
-        },
-        {
-          "name": "Vandegujarat6",
-          "logo": "https://iptv-org.github.io/images/channels/VandeGujarat6.in.png",
-          "url": "http://103.72.101.252:8080/live/1084.m3u8"
-        },
-        {
-          "name": "Vandegujarat7",
-          "logo": "https://iptv-org.github.io/images/channels/VandeGujarat7.in.png",
-          "url": "http://103.72.101.252:8080/live/1085.m3u8"
-        },
-        {
-          "name": "Vandegujarat8",
-          "logo": "https://iptv-org.github.io/images/channels/VandeGujarat8.in.png",
-          "url": "http://103.72.101.252:8080/live/1086.m3u8"
-        },
-        {
-          "name": "Vandegujarat9",
-          "logo": "https://iptv-org.github.io/images/channels/VandeGujarat9.in.png",
-          "url": "http://103.72.101.252:8080/live/1087.m3u8"
-        },
-        {
-          "name": "Vandegujarat10",
-          "logo": "https://iptv-org.github.io/images/channels/VandeGujarat10.in.png",
-          "url": "http://103.72.101.252:8080/live/1088.m3u8"
-        },
-        {
-          "name": "Vandegujarat11",
-          "logo": "https://iptv-org.github.io/images/channels/VandeGujarat11.in.png",
-          "url": "http://103.72.101.252:8080/live/1089.m3u8"
-        },
-        {
-          "name": "Vandegujarat12",
-          "logo": "https://iptv-org.github.io/images/channels/VandeGujarat12.in.png",
-          "url": "http://103.72.101.252:8080/live/1090.m3u8"
-        },
-        {
-          "name": "Vandegujarat13",
-          "logo": "https://iptv-org.github.io/images/channels/VandeGujarat13.in.png",
-          "url": "http://103.72.101.252:8080/live/1091.m3u8"
-        },
-        {
-          "name": "Vandegujarat14",
-          "logo": "https://iptv-org.github.io/images/channels/VandeGujarat14.in.png",
-          "url": "http://103.72.101.252:8080/live/1092.m3u8"
-        },
-        {
-          "name": "Vandegujarat15",
-          "logo": "https://iptv-org.github.io/images/channels/VandeGujarat15.in.png",
-          "url": "http://103.72.101.252:8080/live/1093.m3u8"
-        },
-        {
-          "name": "Vandegujarat16",
-          "logo": "https://iptv-org.github.io/images/channels/VandeGujarat16.in.png",
-          "url": "http://103.72.101.252:8080/live/1094.m3u8"
         },
         {
           "name": "Vanithatv",
@@ -40130,24 +39915,9 @@
           "url": "https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8"
         },
         {
-          "name": "Vyaschannel",
-          "logo": "https://iptv-org.github.io/images/channels/VyasChannel.in.png",
-          "url": "https://hls.media.nic.in/hls/live/vyas/vyas.m3u8"
-        },
-        {
-          "name": "Wayanadvision",
-          "logo": "https://iptv-org.github.io/images/channels/WayanadVision.in.png",
-          "url": "https://cloudsavre.in.net/hls/stream.m3u8"
-        },
-        {
           "name": "Weatherspy",
           "logo": "https://iptv-org.github.io/images/channels/WeatherSpy.in.png",
           "url": "https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8"
-        },
-        {
-          "name": "Weonekerala",
-          "logo": "https://iptv-org.github.io/images/channels/WeOneKerala.in.png",
-          "url": "http://kl.logicwebs.in:1935/sreemedia/sreemedia/playlist.m3u8"
         },
         {
           "name": "Wintv",
@@ -40272,11 +40042,6 @@
         {
           "name": "Zee24Ghanta",
           "logo": "https://iptv-org.github.io/images/channels/Zee24Ghanta.in.png",
-          "url": "http://45.148.145.57/IN_Zee24Ghanta/index.m3u8"
-        },
-        {
-          "name": "Zee24Ghanta",
-          "logo": "https://iptv-org.github.io/images/channels/Zee24Ghanta.in.png",
           "url": "https://d2dsoyvkr33m05.cloudfront.net/index_4.m3u8"
         },
         {
@@ -40345,11 +40110,6 @@
           "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeebiharjharkhand/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28077955-07d7-4ae2-8b11-9f318cd69420/main.m3u8"
         },
         {
-          "name": "Zeebiskope",
-          "logo": "https://iptv-org.github.io/images/channels/ZeeBiskope.in.png",
-          "url": "http://103.175.73.12:8080/live/347/master.m3u8"
-        },
-        {
           "name": "Zeebusiness",
           "logo": "https://iptv-org.github.io/images/channels/ZeeBusiness.in.png",
           "url": "https://dwby15d04agvq.cloudfront.net/index_5.m3u8"
@@ -40372,22 +40132,12 @@
         {
           "name": "Zeecinema",
           "logo": "https://iptv-org.github.io/images/channels/ZeeCinema.in.png",
-          "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd"
-        },
-        {
-          "name": "Zeecinema",
-          "logo": "https://iptv-org.github.io/images/channels/ZeeCinema.in.png",
           "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8"
         },
         {
           "name": "Zeecinemalu",
           "logo": "https://iptv-org.github.io/images/channels/ZeeCinemalu.in.png",
           "url": "https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8"
-        },
-        {
-          "name": "Zeeclassic",
-          "logo": "https://iptv-org.github.io/images/channels/ZeeClassic.in.png",
-          "url": "http://103.72.101.252:8080/live/1691.m3u8"
         },
         {
           "name": "Zeeclassic",
@@ -40430,11 +40180,6 @@
           "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8"
         },
         {
-          "name": "Zeemalayalamnews",
-          "logo": "https://iptv-org.github.io/images/channels/ZeeMalayalamNews.in.png",
-          "url": "https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8"
-        },
-        {
           "name": "Zeemarathi",
           "logo": "https://iptv-org.github.io/images/channels/ZeeMarathi.in.png",
           "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8"
@@ -40453,11 +40198,6 @@
           "name": "Zeenews",
           "logo": "https://iptv-org.github.io/images/channels/ZeeNews.in.png",
           "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeenews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8744f9fb-d696-4204-9795-5215ad930c39/main.m3u8"
-        },
-        {
-          "name": "Zeenews",
-          "logo": "https://iptv-org.github.io/images/channels/ZeeNews.in.png",
-          "url": "http://103.175.73.12:8080/live/294/master.m3u8"
         },
         {
           "name": "Zeenews",
@@ -40520,29 +40260,14 @@
           "url": "https://mumt07.tangotv.in/zHjX9OFlZEEUPUK/index.m3u8"
         },
         {
-          "name": "Zeeyuva",
-          "logo": "https://iptv-org.github.io/images/channels/ZeeYuva.in.png",
-          "url": "http://103.72.101.252:8080/live/414.m3u8"
-        },
-        {
           "name": "Zeezest",
           "logo": "https://iptv-org.github.io/images/channels/ZeeZest.in.png",
           "url": "http://103.72.101.252:8080/live/2757.m3u8"
         },
         {
-          "name": "Zeezest",
-          "logo": "https://iptv-org.github.io/images/channels/ZeeZest.in.png",
-          "url": "http://107.167.16.138/zeezesthd/index.m3u8?token=test"
-        },
-        {
           "name": "Zillarbartanews",
           "logo": "https://iptv-org.github.io/images/channels/ZillarBartaNews.in.png",
           "url": "https://server.zillarbarta.com/zillarbarta/index.m3u8"
-        },
-        {
-          "name": "Zing",
-          "logo": "https://iptv-org.github.io/images/channels/Zing.in.png",
-          "url": "http://103.72.101.252:8080/live/585.m3u8"
         },
         {
           "name": "Zing",
@@ -40553,11 +40278,6 @@
           "name": "Zodiaktv",
           "logo": "https://iptv-org.github.io/images/channels/ZodiakTV.in.png",
           "url": "https://ranacable.duckdns.org/ZodiakTv/index.m3u8"
-        },
-        {
-          "name": "Zoom",
-          "logo": "https://iptv-org.github.io/images/channels/Zoom.in.png",
-          "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8"
         },
         {
           "name": "Zoom",
@@ -40752,6 +40472,11 @@
           "name": "Bloomberght",
           "logo": "https://iptv-org.github.io/images/channels/BloombergHT.tr.png",
           "url": "https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8"
+        },
+        {
+          "name": "Bloomberght",
+          "logo": "https://iptv-org.github.io/images/channels/BloombergHT.tr.png",
+          "url": "http://193.123.61.120:3000/kanal/bloomberght"
         },
         {
           "name": "Bricvesatranctv",
@@ -54469,6 +54194,11 @@
           "url": "http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8"
         },
         {
+          "name": "Bemmaistv",
+          "logo": "https://iptv-org.github.io/images/channels/BemMaisTV.br.png",
+          "url": "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8"
+        },
+        {
           "name": "Bemmelhor",
           "logo": "https://iptv-org.github.io/images/channels/BemMelhor.br.png",
           "url": "https://cdn-tiva-video01-logicahost-com-br.smartbit.co/bemmelhor/bemmelhor/playlist.m3u8"
@@ -58244,6 +57974,11 @@
           "name": "Magictv",
           "logo": "https://iptv-org.github.io/images/channels/MagicTV.ro.png",
           "url": "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8"
+        },
+        {
+          "name": "Medicooltv",
+          "logo": "https://iptv-org.github.io/images/channels/MediCOOLTV.ro.png",
+          "url": "https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8"
         },
         {
           "name": "Metropolatv",
@@ -66487,11 +66222,6 @@
           "name": "Watarradio",
           "logo": "https://iptv-org.github.io/images/channels/WatarRadio.ae.png",
           "url": "https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8"
-        },
-        {
-          "name": "Zeealwan",
-          "logo": "https://iptv-org.github.io/images/channels/ZeeAlwan.ae.png",
-          "url": "https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8"
         }
       ]
     },
@@ -79248,6 +78978,12 @@
         "country": "France"
       },
       {
+        "name": "6Tvgorlovka",
+        "logo": "https://iptv-org.github.io/images/channels/6TVGorlovka.ru.png",
+        "url": "http://91.214.48.158:4022/udp/224.2.2.4:10000",
+        "country": "Russia"
+      },
+      {
         "name": "6Tvtelugu",
         "logo": "https://iptv-org.github.io/images/channels/6TVTelugu.in.png",
         "url": "https://yuppparoriglin.akamaized.net/181224/smil:6tv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
@@ -79428,12 +79164,6 @@
         "country": "India"
       },
       {
-        "name": "9Xjalwa",
-        "logo": "https://iptv-org.github.io/images/channels/9XJalwa.in.png",
-        "url": "https://tvsen6.aynaott.com/CiPT1VTG8bVekeAZiibd/index.m3u8",
-        "country": "India"
-      },
-      {
         "name": "9Xjhakaas",
         "logo": "https://iptv-org.github.io/images/channels/9XJhakaas.in.png",
         "url": "https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8",
@@ -79449,12 +79179,6 @@
         "name": "9Xjhakaas",
         "logo": "https://iptv-org.github.io/images/channels/9XJhakaas.in.png",
         "url": "https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "9Xjhakaas",
-        "logo": "https://iptv-org.github.io/images/channels/9XJhakaas.in.png",
-        "url": "https://tvsen3.aynaott.com/zmcc2Yy4/index.m3u8",
         "country": "India"
       },
       {
@@ -79485,12 +79209,6 @@
         "name": "9Xm",
         "logo": "https://iptv-org.github.io/images/channels/9XM.in.png",
         "url": "https://streams.tangotv.in/9XM/ORIGIN/index.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "9Xm",
-        "logo": "https://iptv-org.github.io/images/channels/9XM.in.png",
-        "url": "https://tvsen3.aynaott.com/qCrLpS9v/index.m3u8",
         "country": "India"
       },
       {
@@ -80020,6 +79738,12 @@
         "logo": "https://iptv-org.github.io/images/channels/100NEWS.ua.png",
         "url": "http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8",
         "country": "UA"
+      },
+      {
+        "name": "101Tvantequera",
+        "logo": "https://iptv-org.github.io/images/channels/101tvAntequera.es.png",
+        "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:antequera.smil/playlist.m3u8",
+        "country": "ES"
       },
       {
         "name": "101Tvcadiz",
@@ -89082,6 +88806,12 @@
         "country": "BE"
       },
       {
+        "name": "Bemmaistv",
+        "logo": "https://iptv-org.github.io/images/channels/BemMaisTV.br.png",
+        "url": "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8",
+        "country": "Brazil"
+      },
+      {
         "name": "Bemmelhor",
         "logo": "https://iptv-org.github.io/images/channels/BemMelhor.br.png",
         "url": "https://cdn-tiva-video01-logicahost-com-br.smartbit.co/bemmelhor/bemmelhor/playlist.m3u8",
@@ -90051,6 +89781,12 @@
         "name": "Bloomberght",
         "logo": "https://iptv-org.github.io/images/channels/BloombergHT.tr.png",
         "url": "https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8",
+        "country": "TR"
+      },
+      {
+        "name": "Bloomberght",
+        "logo": "https://iptv-org.github.io/images/channels/BloombergHT.tr.png",
+        "url": "http://193.123.61.120:3000/kanal/bloomberght",
         "country": "TR"
       },
       {
@@ -95960,12 +95696,6 @@
       {
         "name": "Channeldivya",
         "logo": "https://iptv-org.github.io/images/channels/ChannelDivya.in.png",
-        "url": "https://streams.tangotv.in/DIVYA/ORIGIN/index.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Channeldivya",
-        "logo": "https://iptv-org.github.io/images/channels/ChannelDivya.in.png",
         "url": "https://mumbai-edge.smartplaytv.in/channeldivya/index.m3u8",
         "country": "India"
       },
@@ -100952,12 +100682,6 @@
       {
         "name": "Dhooltv",
         "logo": "https://iptv-org.github.io/images/channels/DhoolTV.in.png",
-        "url": "https://mumt04.tangotv.in/m18aqlK4SUBHARTITV/index.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Dhooltv",
-        "logo": "https://iptv-org.github.io/images/channels/DhoolTV.in.png",
         "url": "https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8",
         "country": "India"
       },
@@ -101206,6 +100930,12 @@
         "logo": "https://iptv-org.github.io/images/channels/DiosTvTalanga.hn.png",
         "url": "https://tv.webmedialive.com/unciontv/live/playlist.m3u8",
         "country": "HN"
+      },
+      {
+        "name": "Discopolomusic",
+        "logo": "https://iptv-org.github.io/images/channels/DiscoPoloMusic.pl.png",
+        "url": "http://185.227.34.179:8080/disco-polo-music/index.m3u8",
+        "country": "PL"
       },
       {
         "name": "Discoveringchina",
@@ -106023,12 +105753,6 @@
         "name": "Fatehtv",
         "logo": "https://iptv-org.github.io/images/channels/FatehTV.in.png",
         "url": "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Fatehtv",
-        "logo": "https://iptv-org.github.io/images/channels/FatehTV.in.png",
-        "url": "http://180.188.254.253/live/FATEHTVHD.m3u8",
         "country": "India"
       },
       {
@@ -113560,12 +113284,6 @@
         "logo": "https://iptv-org.github.io/images/channels/INCTV.ph.png",
         "url": "https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8",
         "country": "PH"
-      },
-      {
-        "name": "Ind24",
-        "logo": "https://iptv-org.github.io/images/channels/Ind24.in.png",
-        "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
-        "country": "India"
       },
       {
         "name": "India",
@@ -121308,6 +121026,12 @@
         "country": "India"
       },
       {
+        "name": "Mango",
+        "logo": "https://iptv-org.github.io/images/channels/Mango.pl.png",
+        "url": "https://lb2.pluscdn.pl/ch/1580235/3496/hls/a149fc4b/masterlist.m3u8",
+        "country": "PL"
+      },
+      {
         "name": "Mangomobiletv",
         "logo": "https://iptv-org.github.io/images/channels/MangoMobileTV.in.png",
         "url": "https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/playlist.m3u8",
@@ -122512,6 +122236,12 @@
         "logo": "https://iptv-org.github.io/images/channels/MediBizTV.in.png",
         "url": "https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8",
         "country": "India"
+      },
+      {
+        "name": "Medicooltv",
+        "logo": "https://iptv-org.github.io/images/channels/MediCOOLTV.ro.png",
+        "url": "https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8",
+        "country": "RO"
       },
       {
         "name": "Mediterraniatv",
@@ -123760,12 +123490,6 @@
         "logo": "https://iptv-org.github.io/images/channels/MKKWebTV.br.png",
         "url": "https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8",
         "country": "Brazil"
-      },
-      {
-        "name": "Mknmarathi",
-        "logo": "https://iptv-org.github.io/images/channels/MKNMarathi.in.png",
-        "url": "https://mumt04.tangotv.in/m18aqlK4MKNNEWSHINDI/index.m3u8",
-        "country": "India"
       },
       {
         "name": "Mksix",
@@ -130074,6 +129798,12 @@
         "country": "KZ"
       },
       {
+        "name": "Novorossiyatv",
+        "logo": "https://iptv-org.github.io/images/channels/NovorossiyaTV.ru.png",
+        "url": "http://31.131.139.253:9002/novoros/index.m3u8",
+        "country": "Russia"
+      },
+      {
         "name": "Novotempo",
         "logo": "https://iptv-org.github.io/images/channels/NovoTempo.br.png",
         "url": "http://45.162.64.114/NOVO_TEMPO/index.m3u8",
@@ -132298,6 +132028,12 @@
         "logo": "https://iptv-org.github.io/images/channels/Opinionsur.cl.png",
         "url": "https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8",
         "country": "CL"
+      },
+      {
+        "name": "Oplottv",
+        "logo": "https://iptv-org.github.io/images/channels/OplotTV.ru.png",
+        "url": "http://31.131.139.253:9002/oplot_hd/index.m3u8",
+        "country": "Russia"
       },
       {
         "name": "Oranews",
@@ -137370,6 +137106,18 @@
         "country": "India"
       },
       {
+        "name": "Polsat1",
+        "logo": "https://iptv-org.github.io/images/channels/Polsat1.pl.png",
+        "url": "https://cdn-s-lb2.pluscdn.pl/lv/1517829/348/hls/816eca15/masterlist.m3u8",
+        "country": "PL"
+      },
+      {
+        "name": "Polsat",
+        "logo": "https://iptv-org.github.io/images/channels/Polsat.pl.png",
+        "url": "https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd",
+        "country": "PL"
+      },
+      {
         "name": "Polsatgames",
         "logo": "https://iptv-org.github.io/images/channels/PolsatGames.pl.png",
         "url": "http://92.63.196.180:8080/live/74173747597177/7vfxky4rjx3j/10209.m3u8?token=Q0FaWEpZFFsXAwNWUFMEBwJXAwMDVlpTBgVTVwEHAQNeWgoACVVXVQAVGEZGFUdTUl9qWwIVAlBSAQBdGENHQ10RbVBdEwxDAgANUAJVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRjfhceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=",
@@ -137379,6 +137127,42 @@
         "name": "Polsatjimjam",
         "logo": "https://iptv-org.github.io/images/channels/PolsatJimJam.pl.png",
         "url": "http://185.227.34.179:8080/jimjam/index.m3u8",
+        "country": "PL"
+      },
+      {
+        "name": "Polsatnews2",
+        "logo": "https://iptv-org.github.io/images/channels/PolsatNews2.pl.png",
+        "url": "https://cdn-s-lb2.pluscdn.pl/lv/1533809/392/dash/3de17d4a/live.mpd",
+        "country": "PL"
+      },
+      {
+        "name": "Polsatnews",
+        "logo": "https://iptv-org.github.io/images/channels/PolsatNews.pl.png",
+        "url": "https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8",
+        "country": "PL"
+      },
+      {
+        "name": "Polsatnews",
+        "logo": "https://iptv-org.github.io/images/channels/PolsatNews.pl.png",
+        "url": "https://cdn-s-playnow-live.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd",
+        "country": "PL"
+      },
+      {
+        "name": "Polsatnewspolityka",
+        "logo": "https://iptv-org.github.io/images/channels/PolsatNewsPolityka.pl.png",
+        "url": "https://cdn-s-lb2.pluscdn.pl/lv/1511888/322/hls/bd3b0bfe/masterlist.m3u8",
+        "country": "PL"
+      },
+      {
+        "name": "Polsatnewspolityka",
+        "logo": "https://iptv-org.github.io/images/channels/PolsatNewsPolityka.pl.png",
+        "url": "https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd",
+        "country": "PL"
+      },
+      {
+        "name": "Polsatsport1",
+        "logo": "https://iptv-org.github.io/images/channels/PolsatSport1.pl.png",
+        "url": "http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd",
         "country": "PL"
       },
       {
@@ -138514,12 +138298,6 @@
         "logo": "https://iptv-org.github.io/images/channels/Public4KTV.np.png",
         "url": "http://103.180.240.141:8080/hls/main1/playlist.m3u8",
         "country": "NP"
-      },
-      {
-        "name": "Publicfirst",
-        "logo": "https://iptv-org.github.io/images/channels/PublicFirst.in.png",
-        "url": "https://mumt06.tangotv.in/qYyB8fXVPUBLICFIRST/index.m3u8",
-        "country": "India"
       },
       {
         "name": "Publicmovies",
@@ -146798,12 +146576,6 @@
       {
         "name": "Saitv",
         "logo": "https://iptv-org.github.io/images/channels/SaiTV.in.png",
-        "url": "https://mumt03.tangotv.in/Dsly5z3HSAITV/index.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Saitv",
-        "logo": "https://iptv-org.github.io/images/channels/SaiTV.in.png",
         "url": "https://mumbai-edge.smartplaytv.in/SaiTV/index.m3u8",
         "country": "India"
       },
@@ -150254,12 +150026,6 @@
       {
         "name": "Sonymarathi",
         "logo": "https://iptv-org.github.io/images/channels/SonyMarathi.in.png",
-        "url": "https://sl.vodep39240327.workers.dev/channel/SONY+MARATHI.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Sonymarathi",
-        "logo": "https://iptv-org.github.io/images/channels/SonyMarathi.in.png",
         "url": "https://cloudplay-sonyliv.pages.dev/marathi.m3u8",
         "country": "India"
       },
@@ -151350,12 +151116,6 @@
         "country": "United States"
       },
       {
-        "name": "Sportssquadharyana",
-        "logo": "https://iptv-org.github.io/images/channels/SportsSquadHaryana.in.png",
-        "url": "http://180.188.254.253/live/SPORTSSQUADHARYANA.m3u8",
-        "country": "India"
-      },
-      {
         "name": "Sportstelevision",
         "logo": "https://iptv-org.github.io/images/channels/SportsTelevision.kp.png",
         "url": "https://kctv.koryofront.org/stream/sports/index.m3u8",
@@ -151824,21 +151584,9 @@
         "country": "India"
       },
       {
-        "name": "Starsports1Hindi",
-        "logo": "https://iptv-org.github.io/images/channels/StarSports1Hindi.in.png",
-        "url": "http://103.253.18.58:8000/play/a03o",
-        "country": "India"
-      },
-      {
         "name": "Starsports2",
         "logo": "https://iptv-org.github.io/images/channels/StarSports2.in.png",
         "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Starsports2Hindi",
-        "logo": "https://iptv-org.github.io/images/channels/StarSports2Hindi.in.png",
-        "url": "http://103.157.248.140:8000/play/a01m/index.m3u8",
         "country": "India"
       },
       {
@@ -151848,9 +151596,9 @@
         "country": "India"
       },
       {
-        "name": "Starsportskhel",
-        "logo": "https://iptv-org.github.io/images/channels/StarSportsKhel.in.png",
-        "url": "http://103.175.73.12:8080/live/151/151_0.m3u8",
+        "name": "Starsports2Telugu",
+        "logo": "https://iptv-org.github.io/images/channels/StarSports2Telugu.in.png",
+        "url": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8",
         "country": "India"
       },
       {
@@ -153656,12 +153404,6 @@
       {
         "name": "Swarajexpresssmbc",
         "logo": "https://iptv-org.github.io/images/channels/SwarajExpressSMBC.in.png",
-        "url": "https://mumt04.tangotv.in/m18aqlK4SWARAJEXPRESS/index.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Swarajexpresssmbc",
-        "logo": "https://iptv-org.github.io/images/channels/SwarajExpressSMBC.in.png",
         "url": "https://d1msejlow1t3l4.cloudfront.net/fta/swarajexpresssmbc/playlist.m3u8",
         "country": "India"
       },
@@ -153687,132 +153429,6 @@
         "name": "Swatantratv",
         "logo": "https://iptv-org.github.io/images/channels/SwatantraTV.in.png",
         "url": "https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Swayamprabha1",
-        "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha1.in.png",
-        "url": "http://103.72.101.252:8080/live/980.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Swayamprabha3",
-        "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha3.in.png",
-        "url": "http://103.72.101.252:8080/live/982.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Swayamprabha4",
-        "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha4.in.png",
-        "url": "http://103.72.101.252:8080/live/984.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Swayamprabha5",
-        "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha5.in.png",
-        "url": "http://103.72.101.252:8080/live/986.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Swayamprabha6",
-        "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha6.in.png",
-        "url": "http://103.72.101.252:8080/live/987.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Swayamprabha7",
-        "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha7.in.png",
-        "url": "http://103.72.101.252:8080/live/985.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Swayamprabha8",
-        "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha8.in.png",
-        "url": "http://103.72.101.252:8080/live/983.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Swayamprabha9",
-        "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha9.in.png",
-        "url": "http://103.72.101.252:8080/live/988.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Swayamprabha10",
-        "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha10.in.png",
-        "url": "http://103.72.101.252:8080/live/989.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Swayamprabha11",
-        "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha11.in.png",
-        "url": "http://103.72.101.252:8080/live/990.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Swayamprabha12",
-        "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha12.in.png",
-        "url": "http://103.72.101.252:8080/live/991.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Swayamprabha13",
-        "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha13.in.png",
-        "url": "http://103.72.101.252:8080/live/992.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Swayamprabha14",
-        "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha14.in.png",
-        "url": "http://103.72.101.252:8080/live/993.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Swayamprabha15",
-        "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha15.in.png",
-        "url": "http://103.72.101.252:8080/live/995.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Swayamprabha16",
-        "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha16.in.png",
-        "url": "http://103.72.101.252:8080/live/994.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Swayamprabha17",
-        "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha17.in.png",
-        "url": "http://103.72.101.252:8080/live/996.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Swayamprabha18",
-        "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha18.in.png",
-        "url": "http://103.72.101.252:8080/live/999.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Swayamprabha19",
-        "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha19.in.png",
-        "url": "http://103.72.101.252:8080/live/401.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Swayamprabha20",
-        "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha20.in.png",
-        "url": "http://103.72.101.252:8080/live/403.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Swayamprabha21",
-        "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha21.in.png",
-        "url": "http://103.72.101.252:8080/live/997.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Swayamprabha22",
-        "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha22.in.png",
-        "url": "http://103.72.101.252:8080/live/998.m3u8",
         "country": "India"
       },
       {
@@ -158124,21 +157740,9 @@
         "country": "India"
       },
       {
-        "name": "Timesnow",
-        "logo": "https://iptv-org.github.io/images/channels/TimesNow.in.png",
-        "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8",
-        "country": "India"
-      },
-      {
         "name": "Timesnownavbharat",
         "logo": "https://iptv-org.github.io/images/channels/TimesNowNavbharat.in.png",
         "url": "https://yupprestreamliveus.akamaized.net/v1/vglive-sk-717514/main.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Timesnownavbharat",
-        "logo": "https://iptv-org.github.io/images/channels/TimesNowNavbharat.in.png",
-        "url": "https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8",
         "country": "India"
       },
       {
@@ -158156,12 +157760,6 @@
       {
         "name": "Timesnownavbharat",
         "logo": "https://iptv-org.github.io/images/channels/TimesNowNavbharat.in.png",
-        "url": "http://103.175.73.12:8080/live/295/master.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Timesnownavbharat",
-        "logo": "https://iptv-org.github.io/images/channels/TimesNowNavbharat.in.png",
         "url": "https://streams.tangotv.in/TIMESNOWNAVBHARAT/ORIGIN/index.m3u8",
         "country": "India"
       },
@@ -158169,12 +157767,6 @@
         "name": "Timesnownavbharat",
         "logo": "https://iptv-org.github.io/images/channels/TimesNowNavbharat.in.png",
         "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a5ee7c4e7a2a4b15a22a3bcf523b9776/index.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Timesnowworld",
-        "logo": "https://iptv-org.github.io/images/channels/TimesNowWorld.in.png",
-        "url": "http://103.72.101.252:8080/live/876.m3u8",
         "country": "India"
       },
       {
@@ -158655,6 +158247,12 @@
         "name": "Tnt",
         "logo": "https://iptv-org.github.io/images/channels/TNT.ru.png",
         "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8",
+        "country": "Russia"
+      },
+      {
+        "name": "Tntinternational",
+        "logo": "https://iptv-org.github.io/images/channels/TNTInternational.ru.png",
+        "url": "http://05cea6e8.ucomist.net/iptv/VK7YCHHWNDD8XC/15230/index.m3u8",
         "country": "Russia"
       },
       {
@@ -159738,12 +159336,6 @@
         "country": "India"
       },
       {
-        "name": "Travelxptamil",
-        "logo": "https://iptv-org.github.io/images/channels/TravelxpTamil.in.png",
-        "url": "http://103.72.101.252:8080/live/814.m3u8",
-        "country": "India"
-      },
-      {
         "name": "Travinhtv",
         "logo": "https://iptv-org.github.io/images/channels/TraVinhTV.vn.png",
         "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
@@ -160300,12 +159892,6 @@
         "logo": "https://iptv-org.github.io/images/channels/TUDN.us.png",
         "url": "http://45.190.13.8/TUDNHD/index.m3u8",
         "country": "United States"
-      },
-      {
-        "name": "Tunes6",
-        "logo": "https://iptv-org.github.io/images/channels/Tunes6.in.png",
-        "url": "https://stream.d6-pro.com/tunes6music/live/video.m3u8",
-        "country": "India"
       },
       {
         "name": "Tunevision",
@@ -163740,6 +163326,12 @@
         "country": "Russia"
       },
       {
+        "name": "Tvp1",
+        "logo": "https://iptv-org.github.io/images/channels/TVP1.pl.png",
+        "url": "https://cdn-s-lb2.pluscdn.pl/ch/1565219/2356/dash/312c7bf8/live.mpd",
+        "country": "PL"
+      },
+      {
         "name": "Tvpadrecicero",
         "logo": "https://iptv-org.github.io/images/channels/TVPadreCicero.br.png",
         "url": "https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8",
@@ -165932,12 +165524,6 @@
       {
         "name": "Uniquetv",
         "logo": "https://iptv-org.github.io/images/channels/UniqueTV.in.png",
-        "url": "http://103.175.73.12:8080/live/688/master.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Uniquetv",
-        "logo": "https://iptv-org.github.io/images/channels/UniqueTV.in.png",
         "url": "https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8",
         "country": "India"
       },
@@ -166618,102 +166204,6 @@
         "logo": "https://iptv-org.github.io/images/channels/Van65TV.tr.png",
         "url": "https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8",
         "country": "TR"
-      },
-      {
-        "name": "Vandegujarat1",
-        "logo": "https://iptv-org.github.io/images/channels/VandeGujarat1.in.png",
-        "url": "http://103.72.101.252:8080/live/1069.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Vandegujarat2",
-        "logo": "https://iptv-org.github.io/images/channels/VandeGujarat2.in.png",
-        "url": "http://103.72.101.252:8080/live/1070.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Vandegujarat3",
-        "logo": "https://iptv-org.github.io/images/channels/VandeGujarat3.in.png",
-        "url": "http://103.72.101.252:8080/live/1082.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Vandegujarat4",
-        "logo": "https://iptv-org.github.io/images/channels/VandeGujarat4.in.png",
-        "url": "http://103.72.101.252:8080/live/1071.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Vandegujarat5",
-        "logo": "https://iptv-org.github.io/images/channels/VandeGujarat5.in.png",
-        "url": "http://103.72.101.252:8080/live/1083.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Vandegujarat6",
-        "logo": "https://iptv-org.github.io/images/channels/VandeGujarat6.in.png",
-        "url": "http://103.72.101.252:8080/live/1084.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Vandegujarat7",
-        "logo": "https://iptv-org.github.io/images/channels/VandeGujarat7.in.png",
-        "url": "http://103.72.101.252:8080/live/1085.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Vandegujarat8",
-        "logo": "https://iptv-org.github.io/images/channels/VandeGujarat8.in.png",
-        "url": "http://103.72.101.252:8080/live/1086.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Vandegujarat9",
-        "logo": "https://iptv-org.github.io/images/channels/VandeGujarat9.in.png",
-        "url": "http://103.72.101.252:8080/live/1087.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Vandegujarat10",
-        "logo": "https://iptv-org.github.io/images/channels/VandeGujarat10.in.png",
-        "url": "http://103.72.101.252:8080/live/1088.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Vandegujarat11",
-        "logo": "https://iptv-org.github.io/images/channels/VandeGujarat11.in.png",
-        "url": "http://103.72.101.252:8080/live/1089.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Vandegujarat12",
-        "logo": "https://iptv-org.github.io/images/channels/VandeGujarat12.in.png",
-        "url": "http://103.72.101.252:8080/live/1090.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Vandegujarat13",
-        "logo": "https://iptv-org.github.io/images/channels/VandeGujarat13.in.png",
-        "url": "http://103.72.101.252:8080/live/1091.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Vandegujarat14",
-        "logo": "https://iptv-org.github.io/images/channels/VandeGujarat14.in.png",
-        "url": "http://103.72.101.252:8080/live/1092.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Vandegujarat15",
-        "logo": "https://iptv-org.github.io/images/channels/VandeGujarat15.in.png",
-        "url": "http://103.72.101.252:8080/live/1093.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Vandegujarat16",
-        "logo": "https://iptv-org.github.io/images/channels/VandeGujarat16.in.png",
-        "url": "http://103.72.101.252:8080/live/1094.m3u8",
-        "country": "India"
       },
       {
         "name": "Vanithatv",
@@ -169002,12 +168492,6 @@
         "country": "India"
       },
       {
-        "name": "Vyaschannel",
-        "logo": "https://iptv-org.github.io/images/channels/VyasChannel.in.png",
-        "url": "https://hls.media.nic.in/hls/live/vyas/vyas.m3u8",
-        "country": "India"
-      },
-      {
         "name": "Vychodoceskatv",
         "logo": "https://iptv-org.github.io/images/channels/VychodoceskaTV.cz.png",
         "url": "https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8",
@@ -169240,12 +168724,6 @@
         "logo": "https://iptv-org.github.io/images/channels/WavezFM.aw.png",
         "url": "https://media.streambrothers.com:1936/uszqnhpjpa/uszqnhpjpa/playlist.m3u8",
         "country": "AW"
-      },
-      {
-        "name": "Wayanadvision",
-        "logo": "https://iptv-org.github.io/images/channels/WayanadVision.in.png",
-        "url": "https://cloudsavre.in.net/hls/stream.m3u8",
-        "country": "India"
       },
       {
         "name": "Waypointtv",
@@ -169534,12 +169012,6 @@
         "logo": "https://iptv-org.github.io/images/channels/WELU81.pr.png",
         "url": "https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8",
         "country": "PR"
-      },
-      {
-        "name": "Weonekerala",
-        "logo": "https://iptv-org.github.io/images/channels/WeOneKerala.in.png",
-        "url": "http://kl.logicwebs.in:1935/sreemedia/sreemedia/playlist.m3u8",
-        "country": "India"
       },
       {
         "name": "Wesporttv",
@@ -171464,12 +170936,6 @@
       {
         "name": "Zee24Ghanta",
         "logo": "https://iptv-org.github.io/images/channels/Zee24Ghanta.in.png",
-        "url": "http://45.148.145.57/IN_Zee24Ghanta/index.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Zee24Ghanta",
-        "logo": "https://iptv-org.github.io/images/channels/Zee24Ghanta.in.png",
         "url": "https://d2dsoyvkr33m05.cloudfront.net/index_4.m3u8",
         "country": "India"
       },
@@ -171502,12 +170968,6 @@
         "logo": "https://iptv-org.github.io/images/channels/ZeeAction.in.png",
         "url": "http://107.167.16.138/zeeaction/index.m3u8?token=test",
         "country": "India"
-      },
-      {
-        "name": "Zeealwan",
-        "logo": "https://iptv-org.github.io/images/channels/ZeeAlwan.ae.png",
-        "url": "https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8",
-        "country": "UAE"
       },
       {
         "name": "Zeebangla",
@@ -171558,12 +171018,6 @@
         "country": "India"
       },
       {
-        "name": "Zeebiskope",
-        "logo": "https://iptv-org.github.io/images/channels/ZeeBiskope.in.png",
-        "url": "http://103.175.73.12:8080/live/347/master.m3u8",
-        "country": "India"
-      },
-      {
         "name": "Zeebusiness",
         "logo": "https://iptv-org.github.io/images/channels/ZeeBusiness.in.png",
         "url": "https://dwby15d04agvq.cloudfront.net/index_5.m3u8",
@@ -171590,12 +171044,6 @@
       {
         "name": "Zeecinema",
         "logo": "https://iptv-org.github.io/images/channels/ZeeCinema.in.png",
-        "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd",
-        "country": "India"
-      },
-      {
-        "name": "Zeecinema",
-        "logo": "https://iptv-org.github.io/images/channels/ZeeCinema.in.png",
         "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8",
         "country": "India"
       },
@@ -171603,12 +171051,6 @@
         "name": "Zeecinemalu",
         "logo": "https://iptv-org.github.io/images/channels/ZeeCinemalu.in.png",
         "url": "https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Zeeclassic",
-        "logo": "https://iptv-org.github.io/images/channels/ZeeClassic.in.png",
-        "url": "http://103.72.101.252:8080/live/1691.m3u8",
         "country": "India"
       },
       {
@@ -171660,12 +171102,6 @@
         "country": "India"
       },
       {
-        "name": "Zeemalayalamnews",
-        "logo": "https://iptv-org.github.io/images/channels/ZeeMalayalamNews.in.png",
-        "url": "https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8",
-        "country": "India"
-      },
-      {
         "name": "Zeemarathi",
         "logo": "https://iptv-org.github.io/images/channels/ZeeMarathi.in.png",
         "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8",
@@ -171687,12 +171123,6 @@
         "name": "Zeenews",
         "logo": "https://iptv-org.github.io/images/channels/ZeeNews.in.png",
         "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeenews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8744f9fb-d696-4204-9795-5215ad930c39/main.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Zeenews",
-        "logo": "https://iptv-org.github.io/images/channels/ZeeNews.in.png",
-        "url": "http://103.175.73.12:8080/live/294/master.m3u8",
         "country": "India"
       },
       {
@@ -171816,21 +171246,9 @@
         "country": "India"
       },
       {
-        "name": "Zeeyuva",
-        "logo": "https://iptv-org.github.io/images/channels/ZeeYuva.in.png",
-        "url": "http://103.72.101.252:8080/live/414.m3u8",
-        "country": "India"
-      },
-      {
         "name": "Zeezest",
         "logo": "https://iptv-org.github.io/images/channels/ZeeZest.in.png",
         "url": "http://103.72.101.252:8080/live/2757.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Zeezest",
-        "logo": "https://iptv-org.github.io/images/channels/ZeeZest.in.png",
-        "url": "http://107.167.16.138/zeezesthd/index.m3u8?token=test",
         "country": "India"
       },
       {
@@ -172070,12 +171488,6 @@
       {
         "name": "Zing",
         "logo": "https://iptv-org.github.io/images/channels/Zing.in.png",
-        "url": "http://103.72.101.252:8080/live/585.m3u8",
-        "country": "India"
-      },
-      {
-        "name": "Zing",
-        "logo": "https://iptv-org.github.io/images/channels/Zing.in.png",
         "url": "http://107.167.16.138/zing/index.m3u8?token=test",
         "country": "India"
       },
@@ -172198,12 +171610,6 @@
         "logo": "https://iptv-org.github.io/images/channels/Zoom.il.png",
         "url": "http://str2.iptvhd.ru:8080/zoom/index.m3u8",
         "country": "IL"
-      },
-      {
-        "name": "Zoom",
-        "logo": "https://iptv-org.github.io/images/channels/Zoom.in.png",
-        "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8",
-        "country": "India"
       },
       {
         "name": "Zoom",
@@ -172981,6 +172387,13 @@
       "country": "France"
     },
     {
+      "name": "6Tvgorlovka",
+      "logo": "https://iptv-org.github.io/images/channels/6TVGorlovka.ru.png",
+      "url": "http://91.214.48.158:4022/udp/224.2.2.4:10000",
+      "category": "General",
+      "country": "Russia"
+    },
+    {
       "name": "6Tvtelugu",
       "logo": "https://iptv-org.github.io/images/channels/6TVTelugu.in.png",
       "url": "https://yuppparoriglin.akamaized.net/181224/smil:6tv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
@@ -173191,13 +172604,6 @@
       "country": "India"
     },
     {
-      "name": "9Xjalwa",
-      "logo": "https://iptv-org.github.io/images/channels/9XJalwa.in.png",
-      "url": "https://tvsen6.aynaott.com/CiPT1VTG8bVekeAZiibd/index.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
       "name": "9Xjhakaas",
       "logo": "https://iptv-org.github.io/images/channels/9XJhakaas.in.png",
       "url": "https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8",
@@ -173215,13 +172621,6 @@
       "name": "9Xjhakaas",
       "logo": "https://iptv-org.github.io/images/channels/9XJhakaas.in.png",
       "url": "https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "9Xjhakaas",
-      "logo": "https://iptv-org.github.io/images/channels/9XJhakaas.in.png",
-      "url": "https://tvsen3.aynaott.com/zmcc2Yy4/index.m3u8",
       "category": "General",
       "country": "India"
     },
@@ -173257,13 +172656,6 @@
       "name": "9Xm",
       "logo": "https://iptv-org.github.io/images/channels/9XM.in.png",
       "url": "https://streams.tangotv.in/9XM/ORIGIN/index.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "9Xm",
-      "logo": "https://iptv-org.github.io/images/channels/9XM.in.png",
-      "url": "https://tvsen3.aynaott.com/qCrLpS9v/index.m3u8",
       "category": "General",
       "country": "India"
     },
@@ -173882,6 +173274,13 @@
       "url": "http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8",
       "category": "General",
       "country": "UA"
+    },
+    {
+      "name": "101Tvantequera",
+      "logo": "https://iptv-org.github.io/images/channels/101tvAntequera.es.png",
+      "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:antequera.smil/playlist.m3u8",
+      "category": "General",
+      "country": "ES"
     },
     {
       "name": "101Tvcadiz",
@@ -184454,6 +183853,13 @@
       "country": "BE"
     },
     {
+      "name": "Bemmaistv",
+      "logo": "https://iptv-org.github.io/images/channels/BemMaisTV.br.png",
+      "url": "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8",
+      "category": "General",
+      "country": "Brazil"
+    },
+    {
       "name": "Bemmelhor",
       "logo": "https://iptv-org.github.io/images/channels/BemMelhor.br.png",
       "url": "https://cdn-tiva-video01-logicahost-com-br.smartbit.co/bemmelhor/bemmelhor/playlist.m3u8",
@@ -185584,6 +184990,13 @@
       "name": "Bloomberght",
       "logo": "https://iptv-org.github.io/images/channels/BloombergHT.tr.png",
       "url": "https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8",
+      "category": "General",
+      "country": "TR"
+    },
+    {
+      "name": "Bloomberght",
+      "logo": "https://iptv-org.github.io/images/channels/BloombergHT.tr.png",
+      "url": "http://193.123.61.120:3000/kanal/bloomberght",
       "category": "General",
       "country": "TR"
     },
@@ -192478,13 +191891,6 @@
     {
       "name": "Channeldivya",
       "logo": "https://iptv-org.github.io/images/channels/ChannelDivya.in.png",
-      "url": "https://streams.tangotv.in/DIVYA/ORIGIN/index.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Channeldivya",
-      "logo": "https://iptv-org.github.io/images/channels/ChannelDivya.in.png",
       "url": "https://mumbai-edge.smartplaytv.in/channeldivya/index.m3u8",
       "category": "General",
       "country": "India"
@@ -198302,13 +197708,6 @@
     {
       "name": "Dhooltv",
       "logo": "https://iptv-org.github.io/images/channels/DhoolTV.in.png",
-      "url": "https://mumt04.tangotv.in/m18aqlK4SUBHARTITV/index.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Dhooltv",
-      "logo": "https://iptv-org.github.io/images/channels/DhoolTV.in.png",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8",
       "category": "General",
       "country": "India"
@@ -198599,6 +197998,13 @@
       "url": "https://tv.webmedialive.com/unciontv/live/playlist.m3u8",
       "category": "General",
       "country": "HN"
+    },
+    {
+      "name": "Discopolomusic",
+      "logo": "https://iptv-org.github.io/images/channels/DiscoPoloMusic.pl.png",
+      "url": "http://185.227.34.179:8080/disco-polo-music/index.m3u8",
+      "category": "General",
+      "country": "PL"
     },
     {
       "name": "Discoveringchina",
@@ -204218,13 +203624,6 @@
       "name": "Fatehtv",
       "logo": "https://iptv-org.github.io/images/channels/FatehTV.in.png",
       "url": "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Fatehtv",
-      "logo": "https://iptv-org.github.io/images/channels/FatehTV.in.png",
-      "url": "http://180.188.254.253/live/FATEHTVHD.m3u8",
       "category": "General",
       "country": "India"
     },
@@ -213012,13 +212411,6 @@
       "url": "https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8",
       "category": "General",
       "country": "PH"
-    },
-    {
-      "name": "Ind24",
-      "logo": "https://iptv-org.github.io/images/channels/Ind24.in.png",
-      "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
-      "category": "General",
-      "country": "India"
     },
     {
       "name": "India",
@@ -222051,6 +221443,13 @@
       "country": "India"
     },
     {
+      "name": "Mango",
+      "logo": "https://iptv-org.github.io/images/channels/Mango.pl.png",
+      "url": "https://lb2.pluscdn.pl/ch/1580235/3496/hls/a149fc4b/masterlist.m3u8",
+      "category": "General",
+      "country": "PL"
+    },
+    {
       "name": "Mangomobiletv",
       "logo": "https://iptv-org.github.io/images/channels/MangoMobileTV.in.png",
       "url": "https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/playlist.m3u8",
@@ -223456,6 +222855,13 @@
       "url": "https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8",
       "category": "General",
       "country": "India"
+    },
+    {
+      "name": "Medicooltv",
+      "logo": "https://iptv-org.github.io/images/channels/MediCOOLTV.ro.png",
+      "url": "https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8",
+      "category": "General",
+      "country": "RO"
     },
     {
       "name": "Mediterraniatv",
@@ -224912,13 +224318,6 @@
       "url": "https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8",
       "category": "General",
       "country": "Brazil"
-    },
-    {
-      "name": "Mknmarathi",
-      "logo": "https://iptv-org.github.io/images/channels/MKNMarathi.in.png",
-      "url": "https://mumt04.tangotv.in/m18aqlK4MKNNEWSHINDI/index.m3u8",
-      "category": "General",
-      "country": "India"
     },
     {
       "name": "Mksix",
@@ -232278,6 +231677,13 @@
       "country": "KZ"
     },
     {
+      "name": "Novorossiyatv",
+      "logo": "https://iptv-org.github.io/images/channels/NovorossiyaTV.ru.png",
+      "url": "http://31.131.139.253:9002/novoros/index.m3u8",
+      "category": "General",
+      "country": "Russia"
+    },
+    {
       "name": "Novotempo",
       "logo": "https://iptv-org.github.io/images/channels/NovoTempo.br.png",
       "url": "http://45.162.64.114/NOVO_TEMPO/index.m3u8",
@@ -234873,6 +234279,13 @@
       "url": "https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8",
       "category": "General",
       "country": "CL"
+    },
+    {
+      "name": "Oplottv",
+      "logo": "https://iptv-org.github.io/images/channels/OplotTV.ru.png",
+      "url": "http://31.131.139.253:9002/oplot_hd/index.m3u8",
+      "category": "General",
+      "country": "Russia"
     },
     {
       "name": "Oranews",
@@ -240790,6 +240203,20 @@
       "country": "India"
     },
     {
+      "name": "Polsat1",
+      "logo": "https://iptv-org.github.io/images/channels/Polsat1.pl.png",
+      "url": "https://cdn-s-lb2.pluscdn.pl/lv/1517829/348/hls/816eca15/masterlist.m3u8",
+      "category": "General",
+      "country": "PL"
+    },
+    {
+      "name": "Polsat",
+      "logo": "https://iptv-org.github.io/images/channels/Polsat.pl.png",
+      "url": "https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd",
+      "category": "General",
+      "country": "PL"
+    },
+    {
       "name": "Polsatgames",
       "logo": "https://iptv-org.github.io/images/channels/PolsatGames.pl.png",
       "url": "http://92.63.196.180:8080/live/74173747597177/7vfxky4rjx3j/10209.m3u8?token=Q0FaWEpZFFsXAwNWUFMEBwJXAwMDVlpTBgVTVwEHAQNeWgoACVVXVQAVGEZGFUdTUl9qWwIVAlBSAQBdGENHQ10RbVBdEwxDAgANUAJVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRjfhceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=",
@@ -240800,6 +240227,48 @@
       "name": "Polsatjimjam",
       "logo": "https://iptv-org.github.io/images/channels/PolsatJimJam.pl.png",
       "url": "http://185.227.34.179:8080/jimjam/index.m3u8",
+      "category": "General",
+      "country": "PL"
+    },
+    {
+      "name": "Polsatnews2",
+      "logo": "https://iptv-org.github.io/images/channels/PolsatNews2.pl.png",
+      "url": "https://cdn-s-lb2.pluscdn.pl/lv/1533809/392/dash/3de17d4a/live.mpd",
+      "category": "General",
+      "country": "PL"
+    },
+    {
+      "name": "Polsatnews",
+      "logo": "https://iptv-org.github.io/images/channels/PolsatNews.pl.png",
+      "url": "https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8",
+      "category": "General",
+      "country": "PL"
+    },
+    {
+      "name": "Polsatnews",
+      "logo": "https://iptv-org.github.io/images/channels/PolsatNews.pl.png",
+      "url": "https://cdn-s-playnow-live.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd",
+      "category": "General",
+      "country": "PL"
+    },
+    {
+      "name": "Polsatnewspolityka",
+      "logo": "https://iptv-org.github.io/images/channels/PolsatNewsPolityka.pl.png",
+      "url": "https://cdn-s-lb2.pluscdn.pl/lv/1511888/322/hls/bd3b0bfe/masterlist.m3u8",
+      "category": "General",
+      "country": "PL"
+    },
+    {
+      "name": "Polsatnewspolityka",
+      "logo": "https://iptv-org.github.io/images/channels/PolsatNewsPolityka.pl.png",
+      "url": "https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd",
+      "category": "General",
+      "country": "PL"
+    },
+    {
+      "name": "Polsatsport1",
+      "logo": "https://iptv-org.github.io/images/channels/PolsatSport1.pl.png",
+      "url": "http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd",
       "category": "General",
       "country": "PL"
     },
@@ -242125,13 +241594,6 @@
       "url": "http://103.180.240.141:8080/hls/main1/playlist.m3u8",
       "category": "General",
       "country": "NP"
-    },
-    {
-      "name": "Publicfirst",
-      "logo": "https://iptv-org.github.io/images/channels/PublicFirst.in.png",
-      "url": "https://mumt06.tangotv.in/qYyB8fXVPUBLICFIRST/index.m3u8",
-      "category": "General",
-      "country": "India"
     },
     {
       "name": "Publicmovies",
@@ -251789,13 +251251,6 @@
     {
       "name": "Saitv",
       "logo": "https://iptv-org.github.io/images/channels/SaiTV.in.png",
-      "url": "https://mumt03.tangotv.in/Dsly5z3HSAITV/index.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Saitv",
-      "logo": "https://iptv-org.github.io/images/channels/SaiTV.in.png",
       "url": "https://mumbai-edge.smartplaytv.in/SaiTV/index.m3u8",
       "category": "General",
       "country": "India"
@@ -255821,13 +255276,6 @@
     {
       "name": "Sonymarathi",
       "logo": "https://iptv-org.github.io/images/channels/SonyMarathi.in.png",
-      "url": "https://sl.vodep39240327.workers.dev/channel/SONY+MARATHI.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Sonymarathi",
-      "logo": "https://iptv-org.github.io/images/channels/SonyMarathi.in.png",
       "url": "https://cloudplay-sonyliv.pages.dev/marathi.m3u8",
       "category": "General",
       "country": "India"
@@ -257100,13 +256548,6 @@
       "country": "United States"
     },
     {
-      "name": "Sportssquadharyana",
-      "logo": "https://iptv-org.github.io/images/channels/SportsSquadHaryana.in.png",
-      "url": "http://180.188.254.253/live/SPORTSSQUADHARYANA.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
       "name": "Sportstelevision",
       "logo": "https://iptv-org.github.io/images/channels/SportsTelevision.kp.png",
       "url": "https://kctv.koryofront.org/stream/sports/index.m3u8",
@@ -257653,23 +257094,9 @@
       "country": "India"
     },
     {
-      "name": "Starsports1Hindi",
-      "logo": "https://iptv-org.github.io/images/channels/StarSports1Hindi.in.png",
-      "url": "http://103.253.18.58:8000/play/a03o",
-      "category": "General",
-      "country": "India"
-    },
-    {
       "name": "Starsports2",
       "logo": "https://iptv-org.github.io/images/channels/StarSports2.in.png",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Starsports2Hindi",
-      "logo": "https://iptv-org.github.io/images/channels/StarSports2Hindi.in.png",
-      "url": "http://103.157.248.140:8000/play/a01m/index.m3u8",
       "category": "General",
       "country": "India"
     },
@@ -257681,9 +257108,9 @@
       "country": "India"
     },
     {
-      "name": "Starsportskhel",
-      "logo": "https://iptv-org.github.io/images/channels/StarSportsKhel.in.png",
-      "url": "http://103.175.73.12:8080/live/151/151_0.m3u8",
+      "name": "Starsports2Telugu",
+      "logo": "https://iptv-org.github.io/images/channels/StarSports2Telugu.in.png",
+      "url": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8",
       "category": "General",
       "country": "India"
     },
@@ -259790,13 +259217,6 @@
     {
       "name": "Swarajexpresssmbc",
       "logo": "https://iptv-org.github.io/images/channels/SwarajExpressSMBC.in.png",
-      "url": "https://mumt04.tangotv.in/m18aqlK4SWARAJEXPRESS/index.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Swarajexpresssmbc",
-      "logo": "https://iptv-org.github.io/images/channels/SwarajExpressSMBC.in.png",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/swarajexpresssmbc/playlist.m3u8",
       "category": "General",
       "country": "India"
@@ -259826,153 +259246,6 @@
       "name": "Swatantratv",
       "logo": "https://iptv-org.github.io/images/channels/SwatantraTV.in.png",
       "url": "https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Swayamprabha1",
-      "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha1.in.png",
-      "url": "http://103.72.101.252:8080/live/980.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Swayamprabha3",
-      "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha3.in.png",
-      "url": "http://103.72.101.252:8080/live/982.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Swayamprabha4",
-      "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha4.in.png",
-      "url": "http://103.72.101.252:8080/live/984.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Swayamprabha5",
-      "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha5.in.png",
-      "url": "http://103.72.101.252:8080/live/986.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Swayamprabha6",
-      "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha6.in.png",
-      "url": "http://103.72.101.252:8080/live/987.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Swayamprabha7",
-      "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha7.in.png",
-      "url": "http://103.72.101.252:8080/live/985.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Swayamprabha8",
-      "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha8.in.png",
-      "url": "http://103.72.101.252:8080/live/983.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Swayamprabha9",
-      "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha9.in.png",
-      "url": "http://103.72.101.252:8080/live/988.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Swayamprabha10",
-      "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha10.in.png",
-      "url": "http://103.72.101.252:8080/live/989.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Swayamprabha11",
-      "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha11.in.png",
-      "url": "http://103.72.101.252:8080/live/990.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Swayamprabha12",
-      "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha12.in.png",
-      "url": "http://103.72.101.252:8080/live/991.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Swayamprabha13",
-      "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha13.in.png",
-      "url": "http://103.72.101.252:8080/live/992.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Swayamprabha14",
-      "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha14.in.png",
-      "url": "http://103.72.101.252:8080/live/993.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Swayamprabha15",
-      "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha15.in.png",
-      "url": "http://103.72.101.252:8080/live/995.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Swayamprabha16",
-      "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha16.in.png",
-      "url": "http://103.72.101.252:8080/live/994.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Swayamprabha17",
-      "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha17.in.png",
-      "url": "http://103.72.101.252:8080/live/996.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Swayamprabha18",
-      "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha18.in.png",
-      "url": "http://103.72.101.252:8080/live/999.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Swayamprabha19",
-      "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha19.in.png",
-      "url": "http://103.72.101.252:8080/live/401.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Swayamprabha20",
-      "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha20.in.png",
-      "url": "http://103.72.101.252:8080/live/403.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Swayamprabha21",
-      "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha21.in.png",
-      "url": "http://103.72.101.252:8080/live/997.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Swayamprabha22",
-      "logo": "https://iptv-org.github.io/images/channels/SwayamPrabha22.in.png",
-      "url": "http://103.72.101.252:8080/live/998.m3u8",
       "category": "General",
       "country": "India"
     },
@@ -265003,23 +264276,9 @@
       "country": "India"
     },
     {
-      "name": "Timesnow",
-      "logo": "https://iptv-org.github.io/images/channels/TimesNow.in.png",
-      "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
       "name": "Timesnownavbharat",
       "logo": "https://iptv-org.github.io/images/channels/TimesNowNavbharat.in.png",
       "url": "https://yupprestreamliveus.akamaized.net/v1/vglive-sk-717514/main.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Timesnownavbharat",
-      "logo": "https://iptv-org.github.io/images/channels/TimesNowNavbharat.in.png",
-      "url": "https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8",
       "category": "General",
       "country": "India"
     },
@@ -265040,13 +264299,6 @@
     {
       "name": "Timesnownavbharat",
       "logo": "https://iptv-org.github.io/images/channels/TimesNowNavbharat.in.png",
-      "url": "http://103.175.73.12:8080/live/295/master.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Timesnownavbharat",
-      "logo": "https://iptv-org.github.io/images/channels/TimesNowNavbharat.in.png",
       "url": "https://streams.tangotv.in/TIMESNOWNAVBHARAT/ORIGIN/index.m3u8",
       "category": "General",
       "country": "India"
@@ -265055,13 +264307,6 @@
       "name": "Timesnownavbharat",
       "logo": "https://iptv-org.github.io/images/channels/TimesNowNavbharat.in.png",
       "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a5ee7c4e7a2a4b15a22a3bcf523b9776/index.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Timesnowworld",
-      "logo": "https://iptv-org.github.io/images/channels/TimesNowWorld.in.png",
-      "url": "http://103.72.101.252:8080/live/876.m3u8",
       "category": "General",
       "country": "India"
     },
@@ -265622,6 +264867,13 @@
       "name": "Tnt",
       "logo": "https://iptv-org.github.io/images/channels/TNT.ru.png",
       "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8",
+      "category": "General",
+      "country": "Russia"
+    },
+    {
+      "name": "Tntinternational",
+      "logo": "https://iptv-org.github.io/images/channels/TNTInternational.ru.png",
+      "url": "http://05cea6e8.ucomist.net/iptv/VK7YCHHWNDD8XC/15230/index.m3u8",
       "category": "General",
       "country": "Russia"
     },
@@ -266886,13 +266138,6 @@
       "country": "India"
     },
     {
-      "name": "Travelxptamil",
-      "logo": "https://iptv-org.github.io/images/channels/TravelxpTamil.in.png",
-      "url": "http://103.72.101.252:8080/live/814.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
       "name": "Travinhtv",
       "logo": "https://iptv-org.github.io/images/channels/TraVinhTV.vn.png",
       "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
@@ -267542,13 +266787,6 @@
       "url": "http://45.190.13.8/TUDNHD/index.m3u8",
       "category": "General",
       "country": "United States"
-    },
-    {
-      "name": "Tunes6",
-      "logo": "https://iptv-org.github.io/images/channels/Tunes6.in.png",
-      "url": "https://stream.d6-pro.com/tunes6music/live/video.m3u8",
-      "category": "General",
-      "country": "India"
     },
     {
       "name": "Tunevision",
@@ -271555,6 +270793,13 @@
       "country": "Russia"
     },
     {
+      "name": "Tvp1",
+      "logo": "https://iptv-org.github.io/images/channels/TVP1.pl.png",
+      "url": "https://cdn-s-lb2.pluscdn.pl/ch/1565219/2356/dash/312c7bf8/live.mpd",
+      "category": "General",
+      "country": "PL"
+    },
+    {
       "name": "Tvpadrecicero",
       "logo": "https://iptv-org.github.io/images/channels/TVPadreCicero.br.png",
       "url": "https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8",
@@ -274112,13 +273357,6 @@
     {
       "name": "Uniquetv",
       "logo": "https://iptv-org.github.io/images/channels/UniqueTV.in.png",
-      "url": "http://103.175.73.12:8080/live/688/master.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Uniquetv",
-      "logo": "https://iptv-org.github.io/images/channels/UniqueTV.in.png",
       "url": "https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8",
       "category": "General",
       "country": "India"
@@ -274913,118 +274151,6 @@
       "url": "https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8",
       "category": "General",
       "country": "TR"
-    },
-    {
-      "name": "Vandegujarat1",
-      "logo": "https://iptv-org.github.io/images/channels/VandeGujarat1.in.png",
-      "url": "http://103.72.101.252:8080/live/1069.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Vandegujarat2",
-      "logo": "https://iptv-org.github.io/images/channels/VandeGujarat2.in.png",
-      "url": "http://103.72.101.252:8080/live/1070.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Vandegujarat3",
-      "logo": "https://iptv-org.github.io/images/channels/VandeGujarat3.in.png",
-      "url": "http://103.72.101.252:8080/live/1082.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Vandegujarat4",
-      "logo": "https://iptv-org.github.io/images/channels/VandeGujarat4.in.png",
-      "url": "http://103.72.101.252:8080/live/1071.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Vandegujarat5",
-      "logo": "https://iptv-org.github.io/images/channels/VandeGujarat5.in.png",
-      "url": "http://103.72.101.252:8080/live/1083.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Vandegujarat6",
-      "logo": "https://iptv-org.github.io/images/channels/VandeGujarat6.in.png",
-      "url": "http://103.72.101.252:8080/live/1084.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Vandegujarat7",
-      "logo": "https://iptv-org.github.io/images/channels/VandeGujarat7.in.png",
-      "url": "http://103.72.101.252:8080/live/1085.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Vandegujarat8",
-      "logo": "https://iptv-org.github.io/images/channels/VandeGujarat8.in.png",
-      "url": "http://103.72.101.252:8080/live/1086.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Vandegujarat9",
-      "logo": "https://iptv-org.github.io/images/channels/VandeGujarat9.in.png",
-      "url": "http://103.72.101.252:8080/live/1087.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Vandegujarat10",
-      "logo": "https://iptv-org.github.io/images/channels/VandeGujarat10.in.png",
-      "url": "http://103.72.101.252:8080/live/1088.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Vandegujarat11",
-      "logo": "https://iptv-org.github.io/images/channels/VandeGujarat11.in.png",
-      "url": "http://103.72.101.252:8080/live/1089.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Vandegujarat12",
-      "logo": "https://iptv-org.github.io/images/channels/VandeGujarat12.in.png",
-      "url": "http://103.72.101.252:8080/live/1090.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Vandegujarat13",
-      "logo": "https://iptv-org.github.io/images/channels/VandeGujarat13.in.png",
-      "url": "http://103.72.101.252:8080/live/1091.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Vandegujarat14",
-      "logo": "https://iptv-org.github.io/images/channels/VandeGujarat14.in.png",
-      "url": "http://103.72.101.252:8080/live/1092.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Vandegujarat15",
-      "logo": "https://iptv-org.github.io/images/channels/VandeGujarat15.in.png",
-      "url": "http://103.72.101.252:8080/live/1093.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Vandegujarat16",
-      "logo": "https://iptv-org.github.io/images/channels/VandeGujarat16.in.png",
-      "url": "http://103.72.101.252:8080/live/1094.m3u8",
-      "category": "General",
-      "country": "India"
     },
     {
       "name": "Vanithatv",
@@ -277694,13 +276820,6 @@
       "country": "India"
     },
     {
-      "name": "Vyaschannel",
-      "logo": "https://iptv-org.github.io/images/channels/VyasChannel.in.png",
-      "url": "https://hls.media.nic.in/hls/live/vyas/vyas.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
       "name": "Vychodoceskatv",
       "logo": "https://iptv-org.github.io/images/channels/VychodoceskaTV.cz.png",
       "url": "https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8",
@@ -277972,13 +277091,6 @@
       "url": "https://media.streambrothers.com:1936/uszqnhpjpa/uszqnhpjpa/playlist.m3u8",
       "category": "General",
       "country": "AW"
-    },
-    {
-      "name": "Wayanadvision",
-      "logo": "https://iptv-org.github.io/images/channels/WayanadVision.in.png",
-      "url": "https://cloudsavre.in.net/hls/stream.m3u8",
-      "category": "General",
-      "country": "India"
     },
     {
       "name": "Waypointtv",
@@ -278315,13 +277427,6 @@
       "url": "https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8",
       "category": "General",
       "country": "PR"
-    },
-    {
-      "name": "Weonekerala",
-      "logo": "https://iptv-org.github.io/images/channels/WeOneKerala.in.png",
-      "url": "http://kl.logicwebs.in:1935/sreemedia/sreemedia/playlist.m3u8",
-      "category": "General",
-      "country": "India"
     },
     {
       "name": "Wesporttv",
@@ -280566,13 +279671,6 @@
     {
       "name": "Zee24Ghanta",
       "logo": "https://iptv-org.github.io/images/channels/Zee24Ghanta.in.png",
-      "url": "http://45.148.145.57/IN_Zee24Ghanta/index.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Zee24Ghanta",
-      "logo": "https://iptv-org.github.io/images/channels/Zee24Ghanta.in.png",
       "url": "https://d2dsoyvkr33m05.cloudfront.net/index_4.m3u8",
       "category": "General",
       "country": "India"
@@ -280611,13 +279709,6 @@
       "url": "http://107.167.16.138/zeeaction/index.m3u8?token=test",
       "category": "General",
       "country": "India"
-    },
-    {
-      "name": "Zeealwan",
-      "logo": "https://iptv-org.github.io/images/channels/ZeeAlwan.ae.png",
-      "url": "https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8",
-      "category": "General",
-      "country": "UAE"
     },
     {
       "name": "Zeebangla",
@@ -280676,13 +279767,6 @@
       "country": "India"
     },
     {
-      "name": "Zeebiskope",
-      "logo": "https://iptv-org.github.io/images/channels/ZeeBiskope.in.png",
-      "url": "http://103.175.73.12:8080/live/347/master.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
       "name": "Zeebusiness",
       "logo": "https://iptv-org.github.io/images/channels/ZeeBusiness.in.png",
       "url": "https://dwby15d04agvq.cloudfront.net/index_5.m3u8",
@@ -280713,13 +279797,6 @@
     {
       "name": "Zeecinema",
       "logo": "https://iptv-org.github.io/images/channels/ZeeCinema.in.png",
-      "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Zeecinema",
-      "logo": "https://iptv-org.github.io/images/channels/ZeeCinema.in.png",
       "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8",
       "category": "General",
       "country": "India"
@@ -280728,13 +279805,6 @@
       "name": "Zeecinemalu",
       "logo": "https://iptv-org.github.io/images/channels/ZeeCinemalu.in.png",
       "url": "https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Zeeclassic",
-      "logo": "https://iptv-org.github.io/images/channels/ZeeClassic.in.png",
-      "url": "http://103.72.101.252:8080/live/1691.m3u8",
       "category": "General",
       "country": "India"
     },
@@ -280795,13 +279865,6 @@
       "country": "India"
     },
     {
-      "name": "Zeemalayalamnews",
-      "logo": "https://iptv-org.github.io/images/channels/ZeeMalayalamNews.in.png",
-      "url": "https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
       "name": "Zeemarathi",
       "logo": "https://iptv-org.github.io/images/channels/ZeeMarathi.in.png",
       "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8",
@@ -280826,13 +279889,6 @@
       "name": "Zeenews",
       "logo": "https://iptv-org.github.io/images/channels/ZeeNews.in.png",
       "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeenews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8744f9fb-d696-4204-9795-5215ad930c39/main.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Zeenews",
-      "logo": "https://iptv-org.github.io/images/channels/ZeeNews.in.png",
-      "url": "http://103.175.73.12:8080/live/294/master.m3u8",
       "category": "General",
       "country": "India"
     },
@@ -280977,23 +280033,9 @@
       "country": "India"
     },
     {
-      "name": "Zeeyuva",
-      "logo": "https://iptv-org.github.io/images/channels/ZeeYuva.in.png",
-      "url": "http://103.72.101.252:8080/live/414.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
       "name": "Zeezest",
       "logo": "https://iptv-org.github.io/images/channels/ZeeZest.in.png",
       "url": "http://103.72.101.252:8080/live/2757.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Zeezest",
-      "logo": "https://iptv-org.github.io/images/channels/ZeeZest.in.png",
-      "url": "http://107.167.16.138/zeezesthd/index.m3u8?token=test",
       "category": "General",
       "country": "India"
     },
@@ -281273,13 +280315,6 @@
     {
       "name": "Zing",
       "logo": "https://iptv-org.github.io/images/channels/Zing.in.png",
-      "url": "http://103.72.101.252:8080/live/585.m3u8",
-      "category": "General",
-      "country": "India"
-    },
-    {
-      "name": "Zing",
-      "logo": "https://iptv-org.github.io/images/channels/Zing.in.png",
       "url": "http://107.167.16.138/zing/index.m3u8?token=test",
       "category": "General",
       "country": "India"
@@ -281423,13 +280458,6 @@
       "url": "http://str2.iptvhd.ru:8080/zoom/index.m3u8",
       "category": "General",
       "country": "IL"
-    },
-    {
-      "name": "Zoom",
-      "logo": "https://iptv-org.github.io/images/channels/Zoom.in.png",
-      "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8",
-      "category": "General",
-      "country": "India"
     },
     {
       "name": "Zoom",
