@@ -250,11 +250,6 @@
         {
           "name": "Abc",
           "logo": "https://iptv-org.github.io/images/channels/ABC.us.png",
-          "url": "https://content.uplynk.com/channel/829a8c85f9e840c6bed963856c231428.m3u8"
-        },
-        {
-          "name": "Abc",
-          "logo": "https://iptv-org.github.io/images/channels/ABC.us.png",
           "url": "https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-live.smil/playlist.m3u8"
         },
         {
@@ -848,11 +843,6 @@
           "url": "http://41.205.93.154/AMC/index.m3u8"
         },
         {
-          "name": "Amc",
-          "logo": "https://iptv-org.github.io/images/channels/AMC.us.png",
-          "url": "http://4.30.180.36:8420/amc/index.m3u8?token=test"
-        },
-        {
           "name": "Amcenespanol",
           "logo": "https://iptv-org.github.io/images/channels/AMCenEspanol.us.png",
           "url": "https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8"
@@ -1336,6 +1326,11 @@
           "name": "Axncrime",
           "logo": "https://iptv-org.github.io/images/channels/AXNCrime.us.png",
           "url": "http://88.212.15.19/live/viasat_film/index.m3u8"
+        },
+        {
+          "name": "Axnlatinamerica",
+          "logo": "https://iptv-org.github.io/images/channels/AXNLatinAmerica.us.png",
+          "url": "http://181.78.8.199:8000/play/a0cu/index.m3u8"
         },
         {
           "name": "Axnlatinamerica",
@@ -2808,6 +2803,11 @@
           "url": "https://iptv2.intersurtv.cl/CINECANAL/index.m3u8"
         },
         {
+          "name": "Cinecanal",
+          "logo": "https://iptv-org.github.io/images/channels/Cinecanal.us.png",
+          "url": "http://190.61.47.54:8000/play/a02z/index.m3u8"
+        },
+        {
           "name": "Cineenespanol",
           "logo": "https://iptv-org.github.io/images/channels/Cineenespanol.us.png",
           "url": "https://jmp2.uk/plu-5cf96b1c4f1ca3f0629f4bf0.m3u8"
@@ -3843,6 +3843,11 @@
           "url": "https://cdn1tlinkgo.tlink.cl/dhehd/index.m3u8"
         },
         {
+          "name": "Dhe",
+          "logo": "https://iptv-org.github.io/images/channels/DHE.us.png",
+          "url": "http://38.252.238.18:8000/play/a01f/index.m3u8"
+        },
+        {
           "name": "Didgahtv",
           "logo": "https://iptv-org.github.io/images/channels/DidgahTV.us.png",
           "url": "https://media.streambrothers.com:1936/8276/8276/playlist.m3u8"
@@ -4138,6 +4143,11 @@
           "url": "http://15.204.146.163:8002/play/a00g/index.m3u8"
         },
         {
+          "name": "Dsports",
+          "logo": "https://iptv-org.github.io/images/channels/DSports.us.png",
+          "url": "http://38.187.7.252:8000/play/a03d/index.m3u8"
+        },
+        {
           "name": "Duckdynasty",
           "logo": "https://iptv-org.github.io/images/channels/DuckDynasty.us.png",
           "url": "https://jmp2.uk/plu-6540fe6fbfbaec0008a583ae.m3u8"
@@ -4343,6 +4353,11 @@
           "url": "https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8"
         },
         {
+          "name": "Esnetv",
+          "logo": "https://iptv-org.github.io/images/channels/ESNETV.us.png",
+          "url": "http://168.196.127.137:6001/play/a071/index.m3u8"
+        },
+        {
           "name": "Espn8Theocho",
           "logo": "https://iptv-org.github.io/images/channels/ESPN8TheOcho.us.png",
           "url": "https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8"
@@ -4521,6 +4536,11 @@
           "name": "Ewtn",
           "logo": "https://iptv-org.github.io/images/channels/EWTN.us.png",
           "url": "http://45.167.1.138:8000/play/a01m"
+        },
+        {
+          "name": "Ewtn",
+          "logo": "https://iptv-org.github.io/images/channels/EWTN.us.png",
+          "url": "http://187.102.208.209:8000/play/a0ac/index.m3u8"
         },
         {
           "name": "Ewtn",
@@ -5210,6 +5230,11 @@
         {
           "name": "Fxlatinamerica",
           "logo": "https://iptv-org.github.io/images/channels/FXLatinAmerica.us.png",
+          "url": "http://38.252.238.18:8000/play/a01c/index.m3u8"
+        },
+        {
+          "name": "Fxlatinamerica",
+          "logo": "https://iptv-org.github.io/images/channels/FXLatinAmerica.us.png",
           "url": "http://72.1.184.5:8089/play/a05i/index.m3u8"
         },
         {
@@ -5461,6 +5486,11 @@
           "name": "Golfchannellatinamerica",
           "logo": "https://iptv-org.github.io/images/channels/GolfChannelLatinAmerica.us.png",
           "url": "http://143.14.178.35/TCM-HD/index.m3u8"
+        },
+        {
+          "name": "Golfchannellatinamerica",
+          "logo": "https://iptv-org.github.io/images/channels/GolfChannelLatinAmerica.us.png",
+          "url": "http://38.252.238.18:8000/play/a01i/index.m3u8"
         },
         {
           "name": "Goodlife45",
@@ -5866,6 +5896,11 @@
           "name": "Holatvlatinamerica",
           "logo": "https://iptv-org.github.io/images/channels/HolaTVLatinAmerica.us.png",
           "url": "https://xyktmobile00.s.gy/PPV901_HOLA_TV"
+        },
+        {
+          "name": "Holatvlatinamerica",
+          "logo": "https://iptv-org.github.io/images/channels/HolaTVLatinAmerica.us.png",
+          "url": "http://168.196.127.137:6001/play/a03q/index.m3u8"
         },
         {
           "name": "Hollywire",
@@ -6876,6 +6911,11 @@
           "name": "Lifetimelatinamerica",
           "logo": "https://iptv-org.github.io/images/channels/LifetimeLatinAmerica.us.png",
           "url": "https://cdn1tlinkgo.tlink.cl/lifetime/index.m3u8"
+        },
+        {
+          "name": "Lifetimelatinamerica",
+          "logo": "https://iptv-org.github.io/images/channels/LifetimeLatinAmerica.us.png",
+          "url": "http://187.102.208.209:8000/play/a0ad/index.m3u8"
         },
         {
           "name": "Lifetimemovies",
@@ -8045,6 +8085,11 @@
         {
           "name": "Nbatv",
           "logo": "https://iptv-org.github.io/images/channels/NBATV.us.png",
+          "url": "http://rezofoot.tv/NBATV/index.m3u8"
+        },
+        {
+          "name": "Nbatv",
+          "logo": "https://iptv-org.github.io/images/channels/NBATV.us.png",
           "url": "https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8"
         },
         {
@@ -8551,16 +8596,6 @@
           "name": "Nflchannel",
           "logo": "https://iptv-org.github.io/images/channels/NFLChannel.us.png",
           "url": "https://pb-we3ltka9xobj6.akamaized.net/master.m3u8"
-        },
-        {
-          "name": "Nflnetwork",
-          "logo": "https://iptv-org.github.io/images/channels/NFLNetwork.us.png",
-          "url": "http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8"
-        },
-        {
-          "name": "Nflnetwork",
-          "logo": "https://iptv-org.github.io/images/channels/NFLNetwork.us.png",
-          "url": "https://tvsen6.aynaott.com/nfl/index.m3u8"
         },
         {
           "name": "Nhlnetwork",
@@ -9173,11 +9208,6 @@
           "url": "https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8"
         },
         {
-          "name": "Paramountnetwork",
-          "logo": "https://iptv-org.github.io/images/channels/ParamountNetwork.us.png",
-          "url": "http://4.30.180.36:8420/paramount/index.m3u8?token=test"
-        },
-        {
           "name": "Paramountpluspicks",
           "logo": "https://iptv-org.github.io/images/channels/ParamountPlusPicks.us.png",
           "url": "https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8"
@@ -9221,6 +9251,11 @@
           "name": "Pasioneslatinamerica",
           "logo": "https://iptv-org.github.io/images/channels/PasionesLatinAmerica.us.png",
           "url": "https://cdn1tlinkgo.tlink.cl/pasioneshd/index.m3u8"
+        },
+        {
+          "name": "Pasioneslatinamerica",
+          "logo": "https://iptv-org.github.io/images/channels/PasionesLatinAmerica.us.png",
+          "url": "http://190.60.55.141:9083/play/a0ni/index.m3u8"
         },
         {
           "name": "Payameafghantv",
@@ -11303,11 +11338,6 @@
           "url": "https://d1s1wrpgemt9re.cloudfront.net/Shout_TV.m3u8"
         },
         {
-          "name": "Showtime",
-          "logo": "https://iptv-org.github.io/images/channels/Showtime.us.png",
-          "url": "http://4.30.180.36:8420/showtime/mono.m3u8?token=test"
-        },
-        {
           "name": "Showtimefamilyzone",
           "logo": "https://iptv-org.github.io/images/channels/ShowtimeFamilyZone.us.png",
           "url": "http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8"
@@ -11371,6 +11401,11 @@
           "name": "Smetrotv",
           "logo": "https://iptv-org.github.io/images/channels/SMetroTV.us.png",
           "url": "https://vodcdn.bamboo-cloud.com/livehls/6a9f8b4606304461c50dfe93/master.m3u8"
+        },
+        {
+          "name": "Smithsonianchannelasia",
+          "logo": "https://iptv-org.github.io/images/channels/SmithsonianChannelAsia.us.png",
+          "url": "https://xyktmobile00.s.gy/PPV940_SMITHSONIAN"
         },
         {
           "name": "Smithsonianchannelplutotv",
@@ -11461,6 +11496,11 @@
           "name": "Sonymovieslatinamerica",
           "logo": "https://iptv-org.github.io/images/channels/SonyMoviesLatinAmerica.us.png",
           "url": "https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8"
+        },
+        {
+          "name": "Sonymovieslatinamerica",
+          "logo": "https://iptv-org.github.io/images/channels/SonyMoviesLatinAmerica.us.png",
+          "url": "http://38.252.238.18:8000/play/a01e/index.m3u8"
         },
         {
           "name": "Soreal",
@@ -11691,11 +11731,6 @@
           "name": "Starzcomedy",
           "logo": "https://iptv-org.github.io/images/channels/StarzComedy.us.png",
           "url": "http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8"
-        },
-        {
-          "name": "Starzedge",
-          "logo": "https://iptv-org.github.io/images/channels/StarzEdge.us.png",
-          "url": "http://168.228.44.241:9998/play/a0e0/index.m3u8"
         },
         {
           "name": "Starzencorespanish",
@@ -12101,6 +12136,11 @@
           "name": "Telemundo",
           "logo": "https://iptv-org.github.io/images/channels/Telemundo.us.png",
           "url": "http://168.228.44.241:9997/play/a07g/index.m3u8"
+        },
+        {
+          "name": "Telemundo",
+          "logo": "https://iptv-org.github.io/images/channels/Telemundo.us.png",
+          "url": "https://xyktmobile00.s.gy/PPV943_CANAL27_ESAL"
         },
         {
           "name": "Telemundo",
@@ -13310,6 +13350,11 @@
         {
           "name": "Univision",
           "logo": "https://iptv-org.github.io/images/channels/Univision.us.png",
+          "url": "http://38.252.238.18:8000/play/a03e/index.m3u8"
+        },
+        {
+          "name": "Univision",
+          "logo": "https://iptv-org.github.io/images/channels/Univision.us.png",
           "url": "http://45.190.13.8/UnivisionHD/index.m3u8"
         },
         {
@@ -13386,21 +13431,6 @@
           "name": "Unwebtv",
           "logo": "https://iptv-org.github.io/images/channels/UNWebTV.us.png",
           "url": "https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8"
-        },
-        {
-          "name": "Usanetwork",
-          "logo": "https://iptv-org.github.io/images/channels/USANetwork.us.png",
-          "url": "http://190.11.225.124:5000/live/usa_hd/playlist.m3u8"
-        },
-        {
-          "name": "Usanetwork",
-          "logo": "https://iptv-org.github.io/images/channels/USANetwork.us.png",
-          "url": "https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8"
-        },
-        {
-          "name": "Usanetwork",
-          "logo": "https://iptv-org.github.io/images/channels/USANetwork.us.png",
-          "url": "http://4.30.180.36:8420/usa/index.m3u8?token=test"
         },
         {
           "name": "Usanetworklatinamerica",
@@ -13641,11 +13671,6 @@
           "name": "Vevotrueschoolhiphop",
           "logo": "https://iptv-org.github.io/images/channels/VevoTrueSchoolHipHop.us.png",
           "url": "https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8"
-        },
-        {
-          "name": "Vh1",
-          "logo": "https://iptv-org.github.io/images/channels/VH1.us.png",
-          "url": "http://4.30.180.36:8420/vh1/index.m3u8?token=test"
         },
         {
           "name": "Vh1Queensofreality",
@@ -18591,6 +18616,16 @@
           "url": "http://stream.mcquack.net/492/index.m3u8"
         },
         {
+          "name": "Oplot2",
+          "logo": "https://iptv-org.github.io/images/channels/Oplot2.ru.png",
+          "url": "http://iptv.mega.net.ru:8888/Oplot_2/index.m3u8"
+        },
+        {
+          "name": "Oplottv",
+          "logo": "https://iptv-org.github.io/images/channels/OplotTV.ru.png",
+          "url": "http://31.131.141.195:8000/play/a006/index.m3u8"
+        },
+        {
           "name": "Oplottv",
           "logo": "https://iptv-org.github.io/images/channels/OplotTV.ru.png",
           "url": "http://31.131.139.253:9002/oplot_hd/index.m3u8"
@@ -19124,6 +19159,11 @@
           "name": "Rtenespanol",
           "logo": "https://iptv-org.github.io/images/channels/RTenEspanol.ru.png",
           "url": "https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8"
+        },
+        {
+          "name": "Rtenespanol",
+          "logo": "https://iptv-org.github.io/images/channels/RTenEspanol.ru.png",
+          "url": "http://168.196.127.137:6001/play/a0a9/index.m3u8"
         },
         {
           "name": "Rtenespanol",
@@ -25698,6 +25738,11 @@
           "url": "https://xyktmobile00.s.gy/091_ANTENA3_INT"
         },
         {
+          "name": "Antena3Internacional",
+          "logo": "https://iptv-org.github.io/images/channels/Antena3Internacional.es.png",
+          "url": "http://38.252.238.18:8000/play/a04a/index.m3u8"
+        },
+        {
           "name": "Apunt",
           "logo": "https://iptv-org.github.io/images/channels/APunt.es.png",
           "url": "https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8"
@@ -27081,6 +27126,11 @@
           "name": "Tvestar",
           "logo": "https://iptv-org.github.io/images/channels/TVEStar.es.png",
           "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8"
+        },
+        {
+          "name": "Tvestar",
+          "logo": "https://iptv-org.github.io/images/channels/TVEStar.es.png",
+          "url": "http://38.252.238.18:8000/play/a01h/index.m3u8"
         },
         {
           "name": "Tvestar",
@@ -32483,6 +32533,11 @@
           "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8"
         },
         {
+          "name": "Abctvparaguay",
+          "logo": "https://iptv-org.github.io/images/channels/ABCTVParaguay.py.png",
+          "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(vig4KUMvzIpvL_0CGgNPG2QFE6DukpwGhRZzGj8aqOyedNaDjlOwv-qe03N1Bk5-7nB-V7Uv8gBwwy2h-0TCL_WRE6IWeUWiVcnYm587YcdKpnqvQZ3tYg9iGdqpySyX)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1a"
+        },
+        {
           "name": "Agrfmtv",
           "logo": "https://iptv-org.github.io/images/channels/AGRFMTV.py.png",
           "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8"
@@ -33551,6 +33606,11 @@
           "url": "https://racitonsen.s.gy/HISTORY_PL"
         },
         {
+          "name": "Kanalzerotv",
+          "logo": "https://iptv-org.github.io/images/channels/KanalZEROTV.pl.png",
+          "url": "https://racitonsen.s.gy/ZERO_PL"
+        },
+        {
           "name": "Kinopolska",
           "logo": "https://iptv-org.github.io/images/channels/KinoPolska.pl.png",
           "url": "https://racitonsen.s.gy/KINO_POLSKA"
@@ -33616,6 +33676,11 @@
           "url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatCafe.stream/playlist.m3u8"
         },
         {
+          "name": "Polsatfilm2",
+          "logo": "https://iptv-org.github.io/images/channels/PolsatFilm2.pl.png",
+          "url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatFilm2.stream/playlist.m3u8"
+        },
+        {
           "name": "Polsatgames",
           "logo": "https://iptv-org.github.io/images/channels/PolsatGames.pl.png",
           "url": "http://92.63.196.180:8080/live/74173747597177/7vfxky4rjx3j/10209.m3u8?token=Q0FaWEpZFFsXAwNWUFMEBwJXAwMDVlpTBgVTVwEHAQNeWgoACVVXVQAVGEZGFUdTUl9qWwIVAlBSAQBdGENHQ10RbVBdEwxDAgANUAJVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRjfhceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ="
@@ -33656,6 +33721,11 @@
           "url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatPlay.stream/playlist.m3u8"
         },
         {
+          "name": "Polsatreality",
+          "logo": "https://iptv-org.github.io/images/channels/PolsatReality.pl.png",
+          "url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatReality.stream/playlist.m3u8"
+        },
+        {
           "name": "Polsatsport1",
           "logo": "https://iptv-org.github.io/images/channels/PolsatSport1.pl.png",
           "url": "http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd"
@@ -33664,6 +33734,11 @@
           "name": "Polsatviasathistory",
           "logo": "https://iptv-org.github.io/images/channels/PolsatViasatHistory.pl.png",
           "url": "http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8"
+        },
+        {
+          "name": "Polsatx",
+          "logo": "https://iptv-org.github.io/images/channels/PolsatX.pl.png",
+          "url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatX.stream/playlist.m3u8"
         },
         {
           "name": "Puls2",
@@ -42596,6 +42671,11 @@
           "url": "http://200.7.99.59:8000/play/a0gm/index.m3u8"
         },
         {
+          "name": "Eltreceinternacionallatinamerica",
+          "logo": "https://iptv-org.github.io/images/channels/ElTreceInternacionalLatinAmerica.ar.png",
+          "url": "http://190.60.55.141:9083/play/a0ph/index.m3u8"
+        },
+        {
           "name": "Europaeuropa",
           "logo": "https://iptv-org.github.io/images/channels/EuropaEuropa.ar.png",
           "url": "https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8"
@@ -42604,6 +42684,11 @@
           "name": "Europaeuropa",
           "logo": "https://iptv-org.github.io/images/channels/EuropaEuropa.ar.png",
           "url": "http://138.121.15.230:9002/EUROPA-EUROPA/index.m3u8"
+        },
+        {
+          "name": "Europaeuropa",
+          "logo": "https://iptv-org.github.io/images/channels/EuropaEuropa.ar.png",
+          "url": "http://38.252.238.18:8000/play/a01d/index.m3u8"
         },
         {
           "name": "Filmarts",
@@ -42746,6 +42831,11 @@
           "url": "http://200.115.120.1:8000/play/ca091/index.m3u8"
         },
         {
+          "name": "Plimplim",
+          "logo": "https://iptv-org.github.io/images/channels/PlimPlim.ar.png",
+          "url": "http://45.70.168.162:1503/play/a02a/index.m3u8"
+        },
+        {
           "name": "Powerhd",
           "logo": "https://iptv-org.github.io/images/channels/PowerHD.ar.png",
           "url": "https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8"
@@ -42886,6 +42976,11 @@
           "url": "http://200.115.120.1:8000/play/ca016/index.m3u8"
         },
         {
+          "name": "Telefeinternacional",
+          "logo": "https://iptv-org.github.io/images/channels/TelefeInternacional.ar.png",
+          "url": "http://190.60.55.141:9083/play/a0pb/index.m3u8"
+        },
+        {
           "name": "Teleferosario",
           "logo": "https://iptv-org.github.io/images/channels/TelefeRosario.ar.png",
           "url": "https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8"
@@ -42989,6 +43084,11 @@
           "name": "Tycsports",
           "logo": "https://iptv-org.github.io/images/channels/TyCSports.ar.png",
           "url": "http://38.44.109.41:8003/play/a02l/index.m3u8"
+        },
+        {
+          "name": "Tycsports",
+          "logo": "https://iptv-org.github.io/images/channels/TyCSports.ar.png",
+          "url": "http://168.228.44.241:9999/play/a02e/index.m3u8"
         },
         {
           "name": "Tycsportsusa",
@@ -43268,6 +43368,11 @@
           "name": "Classcnbc",
           "logo": "https://iptv-org.github.io/images/channels/ClassCNBC.it.png",
           "url": "https://www.dailymotion.com/cdn/live/video/x91c8ww.m3u8?sec=D9OwEfHs-e7O6pQ-qlnROg"
+        },
+        {
+          "name": "Classtvmoda",
+          "logo": "https://iptv-org.github.io/images/channels/ClassTVModa.it.png",
+          "url": "https://racitonsen.s.gy/CLASS_TV_MODA"
         },
         {
           "name": "Companytv",
@@ -44565,6 +44670,11 @@
           "url": "https://stream1.aswifi.it/radioyes/live/index.m3u8"
         },
         {
+          "name": "Twentyseven",
+          "logo": "https://iptv-org.github.io/images/channels/Twentyseven.it.png",
+          "url": "https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd"
+        },
+        {
           "name": "Umbriatv",
           "logo": "https://iptv-org.github.io/images/channels/UmbriaTV.it.png",
           "url": "https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8"
@@ -44735,7 +44845,7 @@
         {
           "name": "8Xm",
           "logo": "https://iptv-org.github.io/images/channels/8XM.pk.png",
-          "url": "http://115.42.65.142:9981/stream/channelid/582886861"
+          "url": "https://cdn4.mjunoon.tv:8087/streamtest/131M/chunks.m3u8"
         },
         {
           "name": "24Newshd",
@@ -48100,9 +48210,19 @@
           "url": "https://stream.oursnetworktv.com/latin/encoder13/playlist.m3u8"
         },
         {
+          "name": "Aymsports",
+          "logo": "https://iptv-org.github.io/images/channels/AyMSports.mx.png",
+          "url": "http://168.196.127.137:6001/play/a06v/index.m3u8"
+        },
+        {
           "name": "Azcinema",
           "logo": "https://iptv-org.github.io/images/channels/AzCinema.mx.png",
           "url": "https://cdn1tlinkgo.tlink.cl/azcinema/index.m3u8"
+        },
+        {
+          "name": "Azclic",
+          "logo": "https://iptv-org.github.io/images/channels/AzClic.mx.png",
+          "url": "http://38.252.238.18:8000/play/a01g/index.m3u8"
         },
         {
           "name": "Azteca7",
@@ -48228,6 +48348,11 @@
           "name": "Canal5",
           "logo": "https://iptv-org.github.io/images/channels/Canal5.mx.png",
           "url": "http://45.189.151.7:8000/play/a05s"
+        },
+        {
+          "name": "Canal5",
+          "logo": "https://iptv-org.github.io/images/channels/Canal5.mx.png",
+          "url": "http://45.5.118.152:8000/play/a03i/index.m3u8"
         },
         {
           "name": "Canal5Tvcozumel",
@@ -48415,6 +48540,11 @@
           "url": "http://181.224.200.5:2277/play/a0d1/index.m3u8"
         },
         {
+          "name": "Depeliculalatinamerica",
+          "logo": "https://iptv-org.github.io/images/channels/DePeliculaLatinAmerica.mx.png",
+          "url": "http://190.60.55.141:9083/play/a0nf/index.m3u8"
+        },
+        {
           "name": "Depeliculaplus",
           "logo": "https://iptv-org.github.io/images/channels/DePeliculaPlus.mx.png",
           "url": "http://200.115.120.1:8000/play/ca030/index.m3u8"
@@ -48525,6 +48655,11 @@
           "url": "http://181.224.200.5:2277/play/a0bd/index.m3u8"
         },
         {
+          "name": "Goldenplus",
+          "logo": "https://iptv-org.github.io/images/channels/GoldenPlus.mx.png",
+          "url": "http://45.5.118.152:8000/play/a03p/index.m3u8"
+        },
+        {
           "name": "Goldenpremier2",
           "logo": "https://iptv-org.github.io/images/channels/GoldenPremier2.mx.png",
           "url": "http://200.229.147.210:9999/play/a00l/index.m3u8"
@@ -48620,6 +48755,16 @@
           "url": "http://209.14.115.253:8081/LAS-ESTRELLAS/index.m3u8"
         },
         {
+          "name": "Lasestrellaslatinamerica",
+          "logo": "https://iptv-org.github.io/images/channels/LasEstrellasLatinAmerica.mx.png",
+          "url": "http://38.44.109.41:8003/play/a0he"
+        },
+        {
+          "name": "Lasestrellaslatinamerica",
+          "logo": "https://iptv-org.github.io/images/channels/LasEstrellasLatinAmerica.mx.png",
+          "url": "http://190.60.55.141:9083/play/a0np/index.m3u8"
+        },
+        {
           "name": "Lobotv",
           "logo": "https://iptv-org.github.io/images/channels/LoboTV.mx.png",
           "url": "https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8"
@@ -48628,6 +48773,16 @@
           "name": "Mariavision",
           "logo": "https://iptv-org.github.io/images/channels/MariaVision.mx.png",
           "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8"
+        },
+        {
+          "name": "Mc",
+          "logo": "https://iptv-org.github.io/images/channels/MC.mx.png",
+          "url": "http://168.196.127.137:6001/play/a070/index.m3u8"
+        },
+        {
+          "name": "Mc",
+          "logo": "https://iptv-org.github.io/images/channels/MC.mx.png",
+          "url": "http://45.5.118.152:8000/play/a03r/index.m3u8"
         },
         {
           "name": "Mexiquensetv",
@@ -48743,6 +48898,11 @@
           "name": "Psncanal452",
           "logo": "https://iptv-org.github.io/images/channels/PSNCanal452.mx.png",
           "url": "https://srspsn2.live/live/livestream.m3u8"
+        },
+        {
+          "name": "Pxsports",
+          "logo": "https://iptv-org.github.io/images/channels/PXSports.mx.png",
+          "url": "http://38.252.238.18:8000/play/a02f/index.m3u8"
         },
         {
           "name": "Radiotele",
@@ -48913,6 +49073,11 @@
           "name": "Tudn",
           "logo": "https://iptv-org.github.io/images/channels/TUDN.mx.png",
           "url": "https://streaming.alwaysdata.net/tudn.php"
+        },
+        {
+          "name": "Tudn",
+          "logo": "https://iptv-org.github.io/images/channels/TUDN.mx.png",
+          "url": "http://45.5.118.152:8000/play/a08n/index.m3u8"
         },
         {
           "name": "Turistiktv",
@@ -49323,6 +49488,11 @@
           "url": "http://cdn1tlinkgo.tlink.cl/24horashd/mono.m3u8"
         },
         {
+          "name": "24Horas",
+          "logo": "https://iptv-org.github.io/images/channels/24Horas.cl.png",
+          "url": "http://187.102.208.209:8000/play/a0a1/index.m3u8"
+        },
+        {
           "name": "151Bpb",
           "logo": "https://iptv-org.github.io/images/channels/151BPB.cl.png",
           "url": "https://v2.tustreaming.cl/enlacebpbtv/index.m3u8"
@@ -49496,6 +49666,11 @@
           "name": "Canal13",
           "logo": "https://iptv-org.github.io/images/channels/Canal13.cl.png",
           "url": "https://xyktmobile00.s.gy/PPV908_TRECE_CHILE"
+        },
+        {
+          "name": "Canal13",
+          "logo": "https://iptv-org.github.io/images/channels/Canal13.cl.png",
+          "url": "http://187.102.208.209:8000/play/a099/index.m3u8"
         },
         {
           "name": "Canal30Loncomilla",
@@ -50526,6 +50701,11 @@
           "name": "Tvchile",
           "logo": "https://iptv-org.github.io/images/channels/TVChile.cl.png",
           "url": "http://168.196.127.137:6001/play/a03n/index.m3u8"
+        },
+        {
+          "name": "Tvchile",
+          "logo": "https://iptv-org.github.io/images/channels/TVChile.cl.png",
+          "url": "http://38.252.238.18:8000/play/a04b/index.m3u8"
         },
         {
           "name": "Tvinet",
@@ -51725,6 +51905,11 @@
           "url": "http://190.108.91.206:9050/play/a0bd/index.m3u8"
         },
         {
+          "name": "Canaln",
+          "logo": "https://iptv-org.github.io/images/channels/CanalN.pe.png",
+          "url": "http://187.102.208.209:8000/play/a0az/index.m3u8"
+        },
+        {
           "name": "Casmatv",
           "logo": "https://iptv-org.github.io/images/channels/CasmaTV.pe.png",
           "url": "https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/playlist.m3u8"
@@ -52550,6 +52735,11 @@
           "url": "http://181.224.200.5:2277/play/a0dx/index.m3u8"
         },
         {
+          "name": "Tvperu",
+          "logo": "https://iptv-org.github.io/images/channels/TVPeru.pe.png",
+          "url": "http://187.102.208.209:8000/play/a0ay/index.m3u8"
+        },
+        {
           "name": "Tvperuanisima",
           "logo": "https://iptv-org.github.io/images/channels/TVPeruanisima.pe.png",
           "url": "https://k20.usastreams.com:8081/tvperuanisima/index.m3u8"
@@ -53311,6 +53501,11 @@
           "name": "Enlace",
           "logo": "https://iptv-org.github.io/images/channels/Enlace.cr.png",
           "url": "http://138.121.15.230:9002/ENLACE/index.m3u8"
+        },
+        {
+          "name": "Enlace",
+          "logo": "https://iptv-org.github.io/images/channels/Enlace.cr.png",
+          "url": "http://187.102.208.209:8000/play/a0ae/index.m3u8"
         },
         {
           "name": "Enlacejuvenil",
@@ -54997,6 +55192,11 @@
           "name": "Globoplaynovelas",
           "logo": "https://iptv-org.github.io/images/channels/GloboplayNovelas.br.png",
           "url": "http://170.82.202.31/Viva/index.m3u8"
+        },
+        {
+          "name": "Globoplaynovelas",
+          "logo": "https://iptv-org.github.io/images/channels/GloboplayNovelas.br.png",
+          "url": "http://79.127.238.228:14455"
         },
         {
           "name": "Gloob",
@@ -58882,6 +59082,11 @@
         {
           "name": "Babytv",
           "logo": "https://iptv-org.github.io/images/channels/BabyTV.uk.png",
+          "url": "http://38.44.109.41:8003/play/a0eh"
+        },
+        {
+          "name": "Babytv",
+          "logo": "https://iptv-org.github.io/images/channels/BabyTV.uk.png",
           "url": "https://saran-live.ercdn.net/babytv/index.m3u8"
         },
         {
@@ -62187,9 +62392,19 @@
           "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8"
         },
         {
+          "name": "Telesur",
+          "logo": "https://iptv-org.github.io/images/channels/Telesur.ve.png",
+          "url": "http://181.78.211.244:8005/play/a0cc/index.m3u8"
+        },
+        {
           "name": "Televen",
           "logo": "https://iptv-org.github.io/images/channels/Televen.ve.png",
           "url": "http://181.78.8.199:8000/play/a09j/index.m3u8"
+        },
+        {
+          "name": "Televen",
+          "logo": "https://iptv-org.github.io/images/channels/Televen.ve.png",
+          "url": "http://38.134.250.110:8000/play/a02i/index.m3u8"
         },
         {
           "name": "Televisoradeoriente",
@@ -62290,6 +62505,11 @@
           "name": "Veplus",
           "logo": "https://iptv-org.github.io/images/channels/VePlus.ve.png",
           "url": "http://190.61.114.186:8000/play/a03i/index.m3u8"
+        },
+        {
+          "name": "Veplus",
+          "logo": "https://iptv-org.github.io/images/channels/VePlus.ve.png",
+          "url": "http://186.148.196.100:8000/play/a01d"
         },
         {
           "name": "Watavision",
@@ -62399,6 +62619,16 @@
           "name": "Bbstv",
           "logo": "https://iptv-org.github.io/images/channels/BBSTV.kr.png",
           "url": "http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8"
+        },
+        {
+          "name": "Billiardstv",
+          "logo": "https://iptv-org.github.io/images/channels/BilliardsTV.kr.png",
+          "url": "https://xyktmobile00.s.gy/PPV942_BILLIARD"
+        },
+        {
+          "name": "Braintv",
+          "logo": "https://iptv-org.github.io/images/channels/BrainTV.kr.png",
+          "url": "https://xyktmobile00.s.gy/PPV941_BRAIN"
         },
         {
           "name": "Btntv",
@@ -63192,6 +63422,11 @@
           "name": "Boliviatv",
           "logo": "https://iptv-org.github.io/images/channels/BoliviaTV.bo.png",
           "url": "https://hls.tvabierta.net/hls/boliviatv.m3u8"
+        },
+        {
+          "name": "Boliviatv",
+          "logo": "https://iptv-org.github.io/images/channels/BoliviaTV.bo.png",
+          "url": "http://190.181.61.93:8000/play/a001/index.m3u8"
         },
         {
           "name": "Bolivision",
@@ -64390,14 +64625,29 @@
           "url": "http://213.7.216.229:8888/udp/239.23.0.1:1234"
         },
         {
+          "name": "Rik1",
+          "logo": "https://iptv-org.github.io/images/channels/RIK1.cy.png",
+          "url": "https://l6.cloudskep.com/rikct/rik1/playlist.m3u8"
+        },
+        {
           "name": "Rik2",
           "logo": "https://iptv-org.github.io/images/channels/RIK2.cy.png",
           "url": "http://213.7.216.229:8888/udp/239.23.0.2:1234"
         },
         {
+          "name": "Rik2",
+          "logo": "https://iptv-org.github.io/images/channels/RIK2.cy.png",
+          "url": "https://l6.cloudskep.com/rikct/rik2/playlist.m3u8"
+        },
+        {
           "name": "Rikhd",
           "logo": "https://iptv-org.github.io/images/channels/RIKHD.cy.png",
           "url": "http://213.7.216.229:8888/udp/239.23.0.5:1234"
+        },
+        {
+          "name": "Rikhd",
+          "logo": "https://iptv-org.github.io/images/channels/RIKHD.cy.png",
+          "url": "https://l6.cloudskep.com/rikct/rikhd/playlist.m3u8"
         },
         {
           "name": "Riksat",
@@ -66107,6 +66357,11 @@
           "url": "http://45.167.2.101:8000/play/a0qs/index.m3u8"
         },
         {
+          "name": "Canal9Launion",
+          "logo": "https://iptv-org.github.io/images/channels/Canal9LaUnion.sv.png",
+          "url": "http://45.167.2.101:8000/play/a0r5/index.m3u8"
+        },
+        {
           "name": "Canal10",
           "logo": "https://iptv-org.github.io/images/channels/Canal10.sv.png",
           "url": "https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8"
@@ -66162,6 +66417,11 @@
           "url": "https://stream.soporteccrtv.xyz/hls/master-dveo.m3u8"
         },
         {
+          "name": "Elimtv",
+          "logo": "https://iptv-org.github.io/images/channels/ElimTV.sv.png",
+          "url": "http://38.252.238.18:8000/play/a01k/index.m3u8"
+        },
+        {
           "name": "Gsgtv",
           "logo": "https://iptv-org.github.io/images/channels/GSGTV.sv.png",
           "url": "https://schurch1.bozztv.com/livecdn69/live/playlist.m3u8"
@@ -66200,6 +66460,11 @@
           "name": "Megavisioncanal21",
           "logo": "https://iptv-org.github.io/images/channels/MegavisionCanal21.sv.png",
           "url": "https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8"
+        },
+        {
+          "name": "Mizpatv",
+          "logo": "https://iptv-org.github.io/images/channels/MizpaTV.sv.png",
+          "url": "http://45.167.2.101:8000/play/a0r7/index.m3u8"
         },
         {
           "name": "Morazantv",
@@ -67577,6 +67842,16 @@
           "url": "http://138.121.15.230:9002/CANAL-UNO/index.m3u8"
         },
         {
+          "name": "Canal1",
+          "logo": "https://iptv-org.github.io/images/channels/Canal1.co.png",
+          "url": "http://38.134.250.110:8000/play/a014/index.m3u8"
+        },
+        {
+          "name": "Canal1",
+          "logo": "https://iptv-org.github.io/images/channels/Canal1.co.png",
+          "url": "http://190.61.47.54:8000/play/a00u/index.m3u8"
+        },
+        {
           "name": "Canal2Alpavisionneiva",
           "logo": "https://iptv-org.github.io/images/channels/Canal2AlpavisionNeiva.co.png",
           "url": "https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8"
@@ -67615,6 +67890,11 @@
           "name": "Canalcapital",
           "logo": "https://iptv-org.github.io/images/channels/CanalCapital.co.png",
           "url": "http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8"
+        },
+        {
+          "name": "Canalcapital",
+          "logo": "https://iptv-org.github.io/images/channels/CanalCapital.co.png",
+          "url": "http://190.61.47.54:8000/play/a00x/index.m3u8"
         },
         {
           "name": "Canalchd",
@@ -67712,6 +67992,11 @@
           "url": "http://209.14.115.253:8081/RCN/index.m3u8"
         },
         {
+          "name": "Canalrcn",
+          "logo": "https://iptv-org.github.io/images/channels/CanalRCN.co.png",
+          "url": "http://190.61.47.54:8000/play/a01f/index.m3u8"
+        },
+        {
           "name": "Canaltelefamilia",
           "logo": "https://iptv-org.github.io/images/channels/CanalTelefamilia.co.png",
           "url": "https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8"
@@ -67720,6 +68005,16 @@
           "name": "Canaltro",
           "logo": "https://iptv-org.github.io/images/channels/CanalTRO.co.png",
           "url": "https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8"
+        },
+        {
+          "name": "Canaltro",
+          "logo": "https://iptv-org.github.io/images/channels/CanalTRO.co.png",
+          "url": "http://190.61.47.54:8000/play/a013/index.m3u8"
+        },
+        {
+          "name": "Canaltro",
+          "logo": "https://iptv-org.github.io/images/channels/CanalTRO.co.png",
+          "url": "http://181.78.211.244:8005/play/a08c/index.m3u8"
         },
         {
           "name": "Canaltroplus",
@@ -67760,11 +68055,6 @@
           "name": "Caracolinternacional",
           "logo": "https://iptv-org.github.io/images/channels/CaracolInternacional.co.png",
           "url": "http://168.196.127.137:6001/play/a09m/index.m3u8"
-        },
-        {
-          "name": "Caracoltv",
-          "logo": "https://iptv-org.github.io/images/channels/CaracolTV.co.png",
-          "url": "http://45.171.108.253:8888/CARACOL/index.m3u8"
         },
         {
           "name": "Caracoltv",
@@ -68017,6 +68307,11 @@
           "url": "http://181.78.8.199:8000/play/a0a8/index.m3u8"
         },
         {
+          "name": "Nuestrateleinternacional",
+          "logo": "https://iptv-org.github.io/images/channels/NuestraTeleInternacional.co.png",
+          "url": "http://190.60.55.141:9083/play/a0hg/index.m3u8"
+        },
+        {
           "name": "Oasistv",
           "logo": "https://iptv-org.github.io/images/channels/OasisTV.co.png",
           "url": "https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8"
@@ -68132,6 +68427,11 @@
           "url": "https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8"
         },
         {
+          "name": "Starchannel",
+          "logo": "https://iptv-org.github.io/images/channels/StarChannel.co.png",
+          "url": "http://190.61.47.54:8000/play/a035/index.m3u8"
+        },
+        {
           "name": "Streamforce360",
           "logo": "https://iptv-org.github.io/images/channels/StreamForce360.co.png",
           "url": "https://sistemastr.tropicalmoonmedia.com:443/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8"
@@ -68202,6 +68502,16 @@
           "url": "https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8"
         },
         {
+          "name": "Teleislas",
+          "logo": "https://iptv-org.github.io/images/channels/Teleislas.co.png",
+          "url": "http://190.61.47.54:8000/play/a015/index.m3u8"
+        },
+        {
+          "name": "Teleislas",
+          "logo": "https://iptv-org.github.io/images/channels/Teleislas.co.png",
+          "url": "http://181.78.211.244:8005/play/a08d/index.m3u8"
+        },
+        {
           "name": "Telemedellin",
           "logo": "https://iptv-org.github.io/images/channels/Telemedellin.co.png",
           "url": "https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8"
@@ -68250,6 +68560,11 @@
           "name": "Trece",
           "logo": "https://iptv-org.github.io/images/channels/Trece.co.png",
           "url": "https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8"
+        },
+        {
+          "name": "Trece",
+          "logo": "https://iptv-org.github.io/images/channels/Trece.co.png",
+          "url": "http://190.60.46.228:8888/play/a030/index.m3u8"
         },
         {
           "name": "Tuuniversotv",
@@ -68688,6 +69003,11 @@
           "name": "Metrotv",
           "logo": "https://iptv-org.github.io/images/channels/MetroTV.hn.png",
           "url": "https://s.emisoras.tv:8081/metrotv/index.m3u8"
+        },
+        {
+          "name": "Picosatv",
+          "logo": "https://iptv-org.github.io/images/channels/PicosaTV.hn.png",
+          "url": "http://45.167.2.101:8000/play/a0sd/index.m3u8"
         },
         {
           "name": "Puringlatv",
@@ -69526,6 +69846,11 @@
           "url": "https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8"
         },
         {
+          "name": "Ecuadortv",
+          "logo": "https://iptv-org.github.io/images/channels/EcuadorTV.ec.png",
+          "url": "http://38.44.109.41:8003/play/a0e9/index.m3u8"
+        },
+        {
           "name": "Ecuamundoradiotv",
           "logo": "https://iptv-org.github.io/images/channels/EcuaMundoRadioTV.ec.png",
           "url": "https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8"
@@ -69574,6 +69899,11 @@
           "name": "Gamavision",
           "logo": "https://iptv-org.github.io/images/channels/Gamavision.ec.png",
           "url": "https://stream.esradioecuador.com/hls/stream.m3u8"
+        },
+        {
+          "name": "Gamavision",
+          "logo": "https://iptv-org.github.io/images/channels/Gamavision.ec.png",
+          "url": "http://181.78.211.244:8000/play/a0a2/index.m3u8"
         },
         {
           "name": "Gaviotatv",
@@ -70080,6 +70410,11 @@
           "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8"
         },
         {
+          "name": "Wkaqtv22",
+          "logo": "https://iptv-org.github.io/images/channels/WKAQTV22.pr.png",
+          "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master_720.m3u8"
+        },
+        {
           "name": "Wruadt1",
           "logo": "https://iptv-org.github.io/images/channels/WRUADT1.pr.png",
           "url": "https://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8"
@@ -70172,6 +70507,11 @@
           "name": "Canal13",
           "logo": "https://iptv-org.github.io/images/channels/Canal13.gt.png",
           "url": "http://190.61.101.11:7050/play/a07f/index.m3u8"
+        },
+        {
+          "name": "Canal13",
+          "logo": "https://iptv-org.github.io/images/channels/Canal13.gt.png",
+          "url": "http://168.196.127.137:6001/play/a064/index.m3u8"
         },
         {
           "name": "Canal13Esquipulas",
@@ -73693,6 +74033,11 @@
           "name": "Seatv",
           "logo": "https://iptv-org.github.io/images/channels/SEATV.kh.png",
           "url": "https://seatv.netlinkbroadcaster.com/hls/test.m3u8"
+        },
+        {
+          "name": "Towntv",
+          "logo": "https://iptv-org.github.io/images/channels/TownTV.kh.png",
+          "url": "https://stream.pdtvhd.com/LiveApp/streams/Townfullhd.m3u8"
         },
         {
           "name": "Tv5Cambodia",
@@ -77593,11 +77938,6 @@
         {
           "name": "Nhkworldjapan",
           "logo": "https://iptv-org.github.io/images/channels/NHKWorldJapan.jp.png",
-          "url": "http://nmk.ioapk.com:5050/4gtv-live168/index.m3u8"
-        },
-        {
-          "name": "Nhkworldjapan",
-          "logo": "https://iptv-org.github.io/images/channels/NHKWorldJapan.jp.png",
           "url": "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8"
         },
         {
@@ -79917,7 +80257,7 @@
       {
         "name": "8Xm",
         "logo": "https://iptv-org.github.io/images/channels/8XM.pk.png",
-        "url": "http://115.42.65.142:9981/stream/channelid/582886861",
+        "url": "https://cdn4.mjunoon.tv:8087/streamtest/131M/chunks.m3u8",
         "country": "Pakistan"
       },
       {
@@ -80194,6 +80534,12 @@
         "name": "24Horas",
         "logo": "https://iptv-org.github.io/images/channels/24Horas.cl.png",
         "url": "http://cdn1tlinkgo.tlink.cl/24horashd/mono.m3u8",
+        "country": "CL"
+      },
+      {
+        "name": "24Horas",
+        "logo": "https://iptv-org.github.io/images/channels/24Horas.cl.png",
+        "url": "http://187.102.208.209:8000/play/a0a1/index.m3u8",
         "country": "CL"
       },
       {
@@ -81111,12 +81457,6 @@
       {
         "name": "Abc",
         "logo": "https://iptv-org.github.io/images/channels/ABC.us.png",
-        "url": "https://content.uplynk.com/channel/829a8c85f9e840c6bed963856c231428.m3u8",
-        "country": "United States"
-      },
-      {
-        "name": "Abc",
-        "logo": "https://iptv-org.github.io/images/channels/ABC.us.png",
         "url": "https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-live.smil/playlist.m3u8",
         "country": "United States"
       },
@@ -81401,6 +81741,12 @@
         "logo": "https://iptv-org.github.io/images/channels/ABCTV.au.png",
         "url": "https://c.mjh.nz/abc-wa.m3u8",
         "country": "Australia"
+      },
+      {
+        "name": "Abctvparaguay",
+        "logo": "https://iptv-org.github.io/images/channels/ABCTVParaguay.py.png",
+        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(vig4KUMvzIpvL_0CGgNPG2QFE6DukpwGhRZzGj8aqOyedNaDjlOwv-qe03N1Bk5-7nB-V7Uv8gBwwy2h-0TCL_WRE6IWeUWiVcnYm587YcdKpnqvQZ3tYg9iGdqpySyX)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1a",
+        "country": "PY"
       },
       {
         "name": "Abctvplus",
@@ -83935,12 +84281,6 @@
         "country": "United States"
       },
       {
-        "name": "Amc",
-        "logo": "https://iptv-org.github.io/images/channels/AMC.us.png",
-        "url": "http://4.30.180.36:8420/amc/index.m3u8?token=test",
-        "country": "United States"
-      },
-      {
         "name": "Amcanal",
         "logo": "https://iptv-org.github.io/images/channels/AMCanal.cl.png",
         "url": "https://streaming.bitsur.cl:3534/live/vdo1102live.m3u8",
@@ -84874,6 +85214,12 @@
         "name": "Antena3Internacional",
         "logo": "https://iptv-org.github.io/images/channels/Antena3Internacional.es.png",
         "url": "https://xyktmobile00.s.gy/091_ANTENA3_INT",
+        "country": "ES"
+      },
+      {
+        "name": "Antena3Internacional",
+        "logo": "https://iptv-org.github.io/images/channels/Antena3Internacional.es.png",
+        "url": "http://38.252.238.18:8000/play/a04a/index.m3u8",
         "country": "ES"
       },
       {
@@ -87015,6 +87361,12 @@
       {
         "name": "Axnlatinamerica",
         "logo": "https://iptv-org.github.io/images/channels/AXNLatinAmerica.us.png",
+        "url": "http://181.78.8.199:8000/play/a0cu/index.m3u8",
+        "country": "United States"
+      },
+      {
+        "name": "Axnlatinamerica",
+        "logo": "https://iptv-org.github.io/images/channels/AXNLatinAmerica.us.png",
         "url": "http://138.121.15.230:9002/AXN/index.m3u8",
         "country": "United States"
       },
@@ -87145,6 +87497,12 @@
         "country": "AZ"
       },
       {
+        "name": "Aymsports",
+        "logo": "https://iptv-org.github.io/images/channels/AyMSports.mx.png",
+        "url": "http://168.196.127.137:6001/play/a06v/index.m3u8",
+        "country": "MX"
+      },
+      {
         "name": "Aynitv",
         "logo": "https://iptv-org.github.io/images/channels/AYNITV.bo.png",
         "url": "http://15.204.246.24:8080/AyniTVHD/index.m3u8",
@@ -87208,6 +87566,12 @@
         "name": "Azcinema",
         "logo": "https://iptv-org.github.io/images/channels/AzCinema.mx.png",
         "url": "https://cdn1tlinkgo.tlink.cl/azcinema/index.m3u8",
+        "country": "MX"
+      },
+      {
+        "name": "Azclic",
+        "logo": "https://iptv-org.github.io/images/channels/AzClic.mx.png",
+        "url": "http://38.252.238.18:8000/play/a01g/index.m3u8",
         "country": "MX"
       },
       {
@@ -87580,6 +87944,12 @@
         "name": "Babytv",
         "logo": "https://iptv-org.github.io/images/channels/BabyTV.uk.png",
         "url": "https://xyktmobile00.s.gy/PPV935_BABY",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Babytv",
+        "logo": "https://iptv-org.github.io/images/channels/BabyTV.uk.png",
+        "url": "http://38.44.109.41:8003/play/a0eh",
         "country": "United Kingdom"
       },
       {
@@ -90457,6 +90827,12 @@
         "country": "KG"
       },
       {
+        "name": "Billiardstv",
+        "logo": "https://iptv-org.github.io/images/channels/BilliardsTV.kr.png",
+        "url": "https://xyktmobile00.s.gy/PPV942_BILLIARD",
+        "country": "KR"
+      },
+      {
         "name": "Billiardtv",
         "logo": "https://iptv-org.github.io/images/channels/BilliardTV.us.png",
         "url": "https://pb-wm04vonaerv0k.akamaized.net/billi.m3u8",
@@ -91207,6 +91583,12 @@
         "country": "BO"
       },
       {
+        "name": "Boliviatv",
+        "logo": "https://iptv-org.github.io/images/channels/BoliviaTV.bo.png",
+        "url": "http://190.181.61.93:8000/play/a001/index.m3u8",
+        "country": "BO"
+      },
+      {
         "name": "Bolivision",
         "logo": "https://iptv-org.github.io/images/channels/Bolivision.bo.png",
         "url": "http://15.204.246.24:8080/BolivisionHD/index.m3u8",
@@ -91499,6 +91881,12 @@
         "logo": "https://iptv-org.github.io/images/channels/BragadoTV.ar.png",
         "url": "https://vivo.solumedia.com:19360/bragadato/bragadato.m3u8",
         "country": "AR"
+      },
+      {
+        "name": "Braintv",
+        "logo": "https://iptv-org.github.io/images/channels/BrainTV.kr.png",
+        "url": "https://xyktmobile00.s.gy/PPV941_BRAIN",
+        "country": "KR"
       },
       {
         "name": "Brattv",
@@ -92486,6 +92874,18 @@
       },
       {
         "name": "Canal1",
+        "logo": "https://iptv-org.github.io/images/channels/Canal1.co.png",
+        "url": "http://38.134.250.110:8000/play/a014/index.m3u8",
+        "country": "CO"
+      },
+      {
+        "name": "Canal1",
+        "logo": "https://iptv-org.github.io/images/channels/Canal1.co.png",
+        "url": "http://190.61.47.54:8000/play/a00u/index.m3u8",
+        "country": "CO"
+      },
+      {
+        "name": "Canal1",
         "logo": "https://iptv-org.github.io/images/channels/Canal1.cr.png",
         "url": "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8",
         "country": "CR"
@@ -92762,6 +93162,12 @@
       },
       {
         "name": "Canal5",
+        "logo": "https://iptv-org.github.io/images/channels/Canal5.mx.png",
+        "url": "http://45.5.118.152:8000/play/a03i/index.m3u8",
+        "country": "MX"
+      },
+      {
+        "name": "Canal5",
         "logo": "https://iptv-org.github.io/images/channels/Canal5.uy.png",
         "url": "https://tinyurl.com/canal5uy",
         "country": "UY"
@@ -93007,6 +93413,12 @@
         "country": "CO"
       },
       {
+        "name": "Canal9Launion",
+        "logo": "https://iptv-org.github.io/images/channels/Canal9LaUnion.sv.png",
+        "url": "http://45.167.2.101:8000/play/a0r5/index.m3u8",
+        "country": "SV"
+      },
+      {
         "name": "Canal9Link",
         "logo": "https://iptv-org.github.io/images/channels/Canal9Link.ar.png",
         "url": "https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8",
@@ -93200,8 +93612,20 @@
       },
       {
         "name": "Canal13",
+        "logo": "https://iptv-org.github.io/images/channels/Canal13.cl.png",
+        "url": "http://187.102.208.209:8000/play/a099/index.m3u8",
+        "country": "CL"
+      },
+      {
+        "name": "Canal13",
         "logo": "https://iptv-org.github.io/images/channels/Canal13.gt.png",
         "url": "http://190.61.101.11:7050/play/a07f/index.m3u8",
+        "country": "GT"
+      },
+      {
+        "name": "Canal13",
+        "logo": "https://iptv-org.github.io/images/channels/Canal13.gt.png",
+        "url": "http://168.196.127.137:6001/play/a064/index.m3u8",
         "country": "GT"
       },
       {
@@ -93580,6 +94004,12 @@
         "name": "Canalcapital",
         "logo": "https://iptv-org.github.io/images/channels/CanalCapital.co.png",
         "url": "http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8",
+        "country": "CO"
+      },
+      {
+        "name": "Canalcapital",
+        "logo": "https://iptv-org.github.io/images/channels/CanalCapital.co.png",
+        "url": "http://190.61.47.54:8000/play/a00x/index.m3u8",
         "country": "CO"
       },
       {
@@ -94093,6 +94523,12 @@
         "country": "PE"
       },
       {
+        "name": "Canaln",
+        "logo": "https://iptv-org.github.io/images/channels/CanalN.pe.png",
+        "url": "http://187.102.208.209:8000/play/a0az/index.m3u8",
+        "country": "PE"
+      },
+      {
         "name": "Canalnets",
         "logo": "https://iptv-org.github.io/images/channels/CanalNets.co.png",
         "url": "https://movil.ejeserver.com/live/nets.m3u8",
@@ -94204,6 +94640,12 @@
         "name": "Canalrcn",
         "logo": "https://iptv-org.github.io/images/channels/CanalRCN.co.png",
         "url": "http://209.14.115.253:8081/RCN/index.m3u8",
+        "country": "CO"
+      },
+      {
+        "name": "Canalrcn",
+        "logo": "https://iptv-org.github.io/images/channels/CanalRCN.co.png",
+        "url": "http://190.61.47.54:8000/play/a01f/index.m3u8",
         "country": "CO"
       },
       {
@@ -94360,6 +94802,18 @@
         "name": "Canaltro",
         "logo": "https://iptv-org.github.io/images/channels/CanalTRO.co.png",
         "url": "https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8",
+        "country": "CO"
+      },
+      {
+        "name": "Canaltro",
+        "logo": "https://iptv-org.github.io/images/channels/CanalTRO.co.png",
+        "url": "http://190.61.47.54:8000/play/a013/index.m3u8",
+        "country": "CO"
+      },
+      {
+        "name": "Canaltro",
+        "logo": "https://iptv-org.github.io/images/channels/CanalTRO.co.png",
+        "url": "http://181.78.211.244:8005/play/a08c/index.m3u8",
         "country": "CO"
       },
       {
@@ -94672,12 +95126,6 @@
         "name": "Caracolinternacional",
         "logo": "https://iptv-org.github.io/images/channels/CaracolInternacional.co.png",
         "url": "http://168.196.127.137:6001/play/a09m/index.m3u8",
-        "country": "CO"
-      },
-      {
-        "name": "Caracoltv",
-        "logo": "https://iptv-org.github.io/images/channels/CaracolTV.co.png",
-        "url": "http://45.171.108.253:8888/CARACOL/index.m3u8",
         "country": "CO"
       },
       {
@@ -97381,6 +97829,12 @@
         "country": "United States"
       },
       {
+        "name": "Cinecanal",
+        "logo": "https://iptv-org.github.io/images/channels/Cinecanal.us.png",
+        "url": "http://190.61.47.54:8000/play/a02z/index.m3u8",
+        "country": "United States"
+      },
+      {
         "name": "Cinecatastrophebyplutotv",
         "logo": "https://iptv-org.github.io/images/channels/CineCatastrophebyPlutoTV.de.png",
         "url": "https://jmp2.uk/plu-65a69ef53af63d000825e0ee.m3u8",
@@ -98261,6 +98715,12 @@
         "logo": "https://iptv-org.github.io/images/channels/ClassiqueTV.br.png",
         "url": "https://stmv1.srvif.com/classique/classique/playlist.m3u8",
         "country": "Brazil"
+      },
+      {
+        "name": "Classtvmoda",
+        "logo": "https://iptv-org.github.io/images/channels/ClassTVModa.it.png",
+        "url": "https://racitonsen.s.gy/CLASS_TV_MODA",
+        "country": "Italy"
       },
       {
         "name": "Clergytv",
@@ -101539,6 +101999,12 @@
         "country": "MX"
       },
       {
+        "name": "Depeliculalatinamerica",
+        "logo": "https://iptv-org.github.io/images/channels/DePeliculaLatinAmerica.mx.png",
+        "url": "http://190.60.55.141:9083/play/a0nf/index.m3u8",
+        "country": "MX"
+      },
+      {
         "name": "Depeliculaplus",
         "logo": "https://iptv-org.github.io/images/channels/DePeliculaPlus.mx.png",
         "url": "http://200.115.120.1:8000/play/ca030/index.m3u8",
@@ -101770,6 +102236,12 @@
         "name": "Dhe",
         "logo": "https://iptv-org.github.io/images/channels/DHE.us.png",
         "url": "https://cdn1tlinkgo.tlink.cl/dhehd/index.m3u8",
+        "country": "United States"
+      },
+      {
+        "name": "Dhe",
+        "logo": "https://iptv-org.github.io/images/channels/DHE.us.png",
+        "url": "http://38.252.238.18:8000/play/a01f/index.m3u8",
         "country": "United States"
       },
       {
@@ -103357,6 +103829,12 @@
         "country": "United States"
       },
       {
+        "name": "Dsports",
+        "logo": "https://iptv-org.github.io/images/channels/DSports.us.png",
+        "url": "http://38.187.7.252:8000/play/a03d/index.m3u8",
+        "country": "United States"
+      },
+      {
         "name": "Dstv",
         "logo": "https://iptv-org.github.io/images/channels/DSTV.bg.png",
         "url": "http://46.249.95.140:8081/hls/data.m3u8",
@@ -104047,6 +104525,12 @@
         "country": "EC"
       },
       {
+        "name": "Ecuadortv",
+        "logo": "https://iptv-org.github.io/images/channels/EcuadorTV.ec.png",
+        "url": "http://38.44.109.41:8003/play/a0e9/index.m3u8",
+        "country": "EC"
+      },
+      {
         "name": "Ecuamundoradiotv",
         "logo": "https://iptv-org.github.io/images/channels/EcuaMundoRadioTV.ec.png",
         "url": "https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8",
@@ -104431,6 +104915,12 @@
         "country": "SV"
       },
       {
+        "name": "Elimtv",
+        "logo": "https://iptv-org.github.io/images/channels/ElimTV.sv.png",
+        "url": "http://38.252.238.18:8000/play/a01k/index.m3u8",
+        "country": "SV"
+      },
+      {
         "name": "Elivetvbrescia",
         "logo": "https://iptv-org.github.io/images/channels/EliveTVBrescia.it.png",
         "url": "https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8",
@@ -104590,6 +105080,12 @@
         "name": "Eltreceinternacionallatinamerica",
         "logo": "https://iptv-org.github.io/images/channels/ElTreceInternacionalLatinAmerica.ar.png",
         "url": "http://200.7.99.59:8000/play/a0gm/index.m3u8",
+        "country": "AR"
+      },
+      {
+        "name": "Eltreceinternacionallatinamerica",
+        "logo": "https://iptv-org.github.io/images/channels/ElTreceInternacionalLatinAmerica.ar.png",
+        "url": "http://190.60.55.141:9083/play/a0ph/index.m3u8",
         "country": "AR"
       },
       {
@@ -104794,6 +105290,12 @@
         "name": "Enlace",
         "logo": "https://iptv-org.github.io/images/channels/Enlace.cr.png",
         "url": "http://138.121.15.230:9002/ENLACE/index.m3u8",
+        "country": "CR"
+      },
+      {
+        "name": "Enlace",
+        "logo": "https://iptv-org.github.io/images/channels/Enlace.cr.png",
+        "url": "http://187.102.208.209:8000/play/a0ae/index.m3u8",
         "country": "CR"
       },
       {
@@ -105161,6 +105663,12 @@
         "logo": "https://iptv-org.github.io/images/channels/EslahTV.af.png",
         "url": "https://eslahtvhls.wns.live/hls/stream.m3u8",
         "country": "AF"
+      },
+      {
+        "name": "Esnetv",
+        "logo": "https://iptv-org.github.io/images/channels/ESNETV.us.png",
+        "url": "http://168.196.127.137:6001/play/a071/index.m3u8",
+        "country": "United States"
       },
       {
         "name": "Espacetv",
@@ -106051,6 +106559,12 @@
         "country": "AR"
       },
       {
+        "name": "Europaeuropa",
+        "logo": "https://iptv-org.github.io/images/channels/EuropaEuropa.ar.png",
+        "url": "http://38.252.238.18:8000/play/a01d/index.m3u8",
+        "country": "AR"
+      },
+      {
         "name": "Europaplustv",
         "logo": "https://iptv-org.github.io/images/channels/EuropaPlusTV.ru.png",
         "url": "http://stream.mcquack.net/184/index.m3u8",
@@ -106300,6 +106814,12 @@
         "name": "Ewtn",
         "logo": "https://iptv-org.github.io/images/channels/EWTN.us.png",
         "url": "http://45.167.1.138:8000/play/a01m",
+        "country": "United States"
+      },
+      {
+        "name": "Ewtn",
+        "logo": "https://iptv-org.github.io/images/channels/EWTN.us.png",
+        "url": "http://187.102.208.209:8000/play/a0ac/index.m3u8",
         "country": "United States"
       },
       {
@@ -109257,6 +109777,12 @@
       {
         "name": "Fxlatinamerica",
         "logo": "https://iptv-org.github.io/images/channels/FXLatinAmerica.us.png",
+        "url": "http://38.252.238.18:8000/play/a01c/index.m3u8",
+        "country": "United States"
+      },
+      {
+        "name": "Fxlatinamerica",
+        "logo": "https://iptv-org.github.io/images/channels/FXLatinAmerica.us.png",
         "url": "http://72.1.184.5:8089/play/a05i/index.m3u8",
         "country": "United States"
       },
@@ -109360,6 +109886,12 @@
         "name": "Gamavision",
         "logo": "https://iptv-org.github.io/images/channels/Gamavision.ec.png",
         "url": "https://stream.esradioecuador.com/hls/stream.m3u8",
+        "country": "EC"
+      },
+      {
+        "name": "Gamavision",
+        "logo": "https://iptv-org.github.io/images/channels/Gamavision.ec.png",
+        "url": "http://181.78.211.244:8000/play/a0a2/index.m3u8",
         "country": "EC"
       },
       {
@@ -110167,6 +110699,12 @@
         "country": "Brazil"
       },
       {
+        "name": "Globoplaynovelas",
+        "logo": "https://iptv-org.github.io/images/channels/GloboplayNovelas.br.png",
+        "url": "http://79.127.238.228:14455",
+        "country": "Brazil"
+      },
+      {
         "name": "Globotv",
         "logo": "https://iptv-org.github.io/images/channels/GloboTV.hn.png",
         "url": "https://panel.dattalive.com/8122/8122/playlist.m3u8",
@@ -110479,6 +111017,12 @@
         "country": "HK"
       },
       {
+        "name": "Goldenplus",
+        "logo": "https://iptv-org.github.io/images/channels/GoldenPlus.mx.png",
+        "url": "http://45.5.118.152:8000/play/a03p/index.m3u8",
+        "country": "MX"
+      },
+      {
         "name": "Goldenpremier2",
         "logo": "https://iptv-org.github.io/images/channels/GoldenPremier2.mx.png",
         "url": "http://200.229.147.210:9999/play/a00l/index.m3u8",
@@ -110632,6 +111176,12 @@
         "name": "Golfchannellatinamerica",
         "logo": "https://iptv-org.github.io/images/channels/GolfChannelLatinAmerica.us.png",
         "url": "http://143.14.178.35/TCM-HD/index.m3u8",
+        "country": "United States"
+      },
+      {
+        "name": "Golfchannellatinamerica",
+        "logo": "https://iptv-org.github.io/images/channels/GolfChannelLatinAmerica.us.png",
+        "url": "http://38.252.238.18:8000/play/a01i/index.m3u8",
         "country": "United States"
       },
       {
@@ -112840,6 +113390,12 @@
         "name": "Holatvlatinamerica",
         "logo": "https://iptv-org.github.io/images/channels/HolaTVLatinAmerica.us.png",
         "url": "https://xyktmobile00.s.gy/PPV901_HOLA_TV",
+        "country": "United States"
+      },
+      {
+        "name": "Holatvlatinamerica",
+        "logo": "https://iptv-org.github.io/images/channels/HolaTVLatinAmerica.us.png",
+        "url": "http://168.196.127.137:6001/play/a03q/index.m3u8",
         "country": "United States"
       },
       {
@@ -117421,6 +117977,12 @@
         "country": "TR"
       },
       {
+        "name": "Kanalzerotv",
+        "logo": "https://iptv-org.github.io/images/channels/KanalZEROTV.pl.png",
+        "url": "https://racitonsen.s.gy/ZERO_PL",
+        "country": "PL"
+      },
+      {
         "name": "Kandelatv",
         "logo": "https://iptv-org.github.io/images/channels/KandelaTV.ve.png",
         "url": "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8",
@@ -119977,6 +120539,18 @@
         "country": "MX"
       },
       {
+        "name": "Lasestrellaslatinamerica",
+        "logo": "https://iptv-org.github.io/images/channels/LasEstrellasLatinAmerica.mx.png",
+        "url": "http://38.44.109.41:8003/play/a0he",
+        "country": "MX"
+      },
+      {
+        "name": "Lasestrellaslatinamerica",
+        "logo": "https://iptv-org.github.io/images/channels/LasEstrellasLatinAmerica.mx.png",
+        "url": "http://190.60.55.141:9083/play/a0np/index.m3u8",
+        "country": "MX"
+      },
+      {
         "name": "Lastortugasninja",
         "logo": "https://iptv-org.github.io/images/channels/LasTortugasNinja.de.png",
         "url": "https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8",
@@ -120664,6 +121238,12 @@
         "name": "Lifetimelatinamerica",
         "logo": "https://iptv-org.github.io/images/channels/LifetimeLatinAmerica.us.png",
         "url": "https://cdn1tlinkgo.tlink.cl/lifetime/index.m3u8",
+        "country": "United States"
+      },
+      {
+        "name": "Lifetimelatinamerica",
+        "logo": "https://iptv-org.github.io/images/channels/LifetimeLatinAmerica.us.png",
+        "url": "http://187.102.208.209:8000/play/a0ad/index.m3u8",
         "country": "United States"
       },
       {
@@ -123277,6 +123857,18 @@
         "country": "United States"
       },
       {
+        "name": "Mc",
+        "logo": "https://iptv-org.github.io/images/channels/MC.mx.png",
+        "url": "http://168.196.127.137:6001/play/a070/index.m3u8",
+        "country": "MX"
+      },
+      {
+        "name": "Mc",
+        "logo": "https://iptv-org.github.io/images/channels/MC.mx.png",
+        "url": "http://45.5.118.152:8000/play/a03r/index.m3u8",
+        "country": "MX"
+      },
+      {
         "name": "Mcitelevision",
         "logo": "https://iptv-org.github.io/images/channels/MCITelevision.co.png",
         "url": "https://video.ejeserver.com/live/mcitelevision.m3u8",
@@ -124781,6 +125373,12 @@
         "logo": "https://iptv-org.github.io/images/channels/Mixkurdy.iq.png",
         "url": "https://avr.host247.net/live/Mix-kurdy/playlist.m3u8",
         "country": "IQ"
+      },
+      {
+        "name": "Mizpatv",
+        "logo": "https://iptv-org.github.io/images/channels/MizpaTV.sv.png",
+        "url": "http://45.167.2.101:8000/play/a0r7/index.m3u8",
+        "country": "SV"
       },
       {
         "name": "Mkkwebtv",
@@ -128331,6 +128929,12 @@
       {
         "name": "Nbatv",
         "logo": "https://iptv-org.github.io/images/channels/NBATV.us.png",
+        "url": "http://rezofoot.tv/NBATV/index.m3u8",
+        "country": "United States"
+      },
+      {
+        "name": "Nbatv",
+        "logo": "https://iptv-org.github.io/images/channels/NBATV.us.png",
         "url": "https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8",
         "country": "United States"
       },
@@ -129889,18 +130493,6 @@
         "country": "United States"
       },
       {
-        "name": "Nflnetwork",
-        "logo": "https://iptv-org.github.io/images/channels/NFLNetwork.us.png",
-        "url": "http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8",
-        "country": "United States"
-      },
-      {
-        "name": "Nflnetwork",
-        "logo": "https://iptv-org.github.io/images/channels/NFLNetwork.us.png",
-        "url": "https://tvsen6.aynaott.com/nfl/index.m3u8",
-        "country": "United States"
-      },
-      {
         "name": "Ngfederal",
         "logo": "https://iptv-org.github.io/images/channels/NGFederal.ar.png",
         "url": "http://www.coninfo.net:1935/tvlink/live/playlist.m3u8",
@@ -129964,12 +130556,6 @@
         "name": "Nhkworldjapan",
         "logo": "https://iptv-org.github.io/images/channels/NHKWorldJapan.jp.png",
         "url": "http://170.83.16.50/NHK_WORLD/index.m3u8",
-        "country": "Japan"
-      },
-      {
-        "name": "Nhkworldjapan",
-        "logo": "https://iptv-org.github.io/images/channels/NHKWorldJapan.jp.png",
-        "url": "http://nmk.ioapk.com:5050/4gtv-live168/index.m3u8",
         "country": "Japan"
       },
       {
@@ -132013,6 +132599,12 @@
         "country": "CO"
       },
       {
+        "name": "Nuestrateleinternacional",
+        "logo": "https://iptv-org.github.io/images/channels/NuestraTeleInternacional.co.png",
+        "url": "http://190.60.55.141:9083/play/a0hg/index.m3u8",
+        "country": "CO"
+      },
+      {
         "name": "Nuevavidafm",
         "logo": "https://iptv-org.github.io/images/channels/NuevaVidaFM.pr.png",
         "url": "https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8",
@@ -133351,6 +133943,18 @@
         "country": "CL"
       },
       {
+        "name": "Oplot2",
+        "logo": "https://iptv-org.github.io/images/channels/Oplot2.ru.png",
+        "url": "http://iptv.mega.net.ru:8888/Oplot_2/index.m3u8",
+        "country": "Russia"
+      },
+      {
+        "name": "Oplottv",
+        "logo": "https://iptv-org.github.io/images/channels/OplotTV.ru.png",
+        "url": "http://31.131.141.195:8000/play/a006/index.m3u8",
+        "country": "Russia"
+      },
+      {
         "name": "Oplottv",
         "logo": "https://iptv-org.github.io/images/channels/OplotTV.ru.png",
         "url": "http://31.131.139.253:9002/oplot_hd/index.m3u8",
@@ -134197,12 +134801,6 @@
         "country": "United States"
       },
       {
-        "name": "Paramountnetwork",
-        "logo": "https://iptv-org.github.io/images/channels/ParamountNetwork.us.png",
-        "url": "http://4.30.180.36:8420/paramount/index.m3u8?token=test",
-        "country": "United States"
-      },
-      {
         "name": "Paramountnetworkdeplutotv",
         "logo": "https://iptv-org.github.io/images/channels/ParamountNetworkdePlutoTV.de.png",
         "url": "https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8",
@@ -134386,6 +134984,12 @@
         "name": "Pasioneslatinamerica",
         "logo": "https://iptv-org.github.io/images/channels/PasionesLatinAmerica.us.png",
         "url": "https://cdn1tlinkgo.tlink.cl/pasioneshd/index.m3u8",
+        "country": "United States"
+      },
+      {
+        "name": "Pasioneslatinamerica",
+        "logo": "https://iptv-org.github.io/images/channels/PasionesLatinAmerica.us.png",
+        "url": "http://190.60.55.141:9083/play/a0ni/index.m3u8",
         "country": "United States"
       },
       {
@@ -135319,6 +135923,12 @@
         "country": "CL"
       },
       {
+        "name": "Picosatv",
+        "logo": "https://iptv-org.github.io/images/channels/PicosaTV.hn.png",
+        "url": "http://45.167.2.101:8000/play/a0sd/index.m3u8",
+        "country": "HN"
+      },
+      {
         "name": "Pieratv",
         "logo": "https://iptv-org.github.io/images/channels/PieraTV.es.png",
         "url": "http://51.254.47.72:1935/piera/smil:piera.smil/master.m3u8",
@@ -135580,6 +136190,12 @@
         "name": "Plimplim",
         "logo": "https://iptv-org.github.io/images/channels/PlimPlim.ar.png",
         "url": "http://200.115.120.1:8000/play/ca091/index.m3u8",
+        "country": "AR"
+      },
+      {
+        "name": "Plimplim",
+        "logo": "https://iptv-org.github.io/images/channels/PlimPlim.ar.png",
+        "url": "http://45.70.168.162:1503/play/a02a/index.m3u8",
         "country": "AR"
       },
       {
@@ -138463,6 +139079,12 @@
         "country": "PL"
       },
       {
+        "name": "Polsatfilm2",
+        "logo": "https://iptv-org.github.io/images/channels/PolsatFilm2.pl.png",
+        "url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatFilm2.stream/playlist.m3u8",
+        "country": "PL"
+      },
+      {
         "name": "Polsatgames",
         "logo": "https://iptv-org.github.io/images/channels/PolsatGames.pl.png",
         "url": "http://92.63.196.180:8080/live/74173747597177/7vfxky4rjx3j/10209.m3u8?token=Q0FaWEpZFFsXAwNWUFMEBwJXAwMDVlpTBgVTVwEHAQNeWgoACVVXVQAVGEZGFUdTUl9qWwIVAlBSAQBdGENHQ10RbVBdEwxDAgANUAJVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRjfhceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=",
@@ -138511,6 +139133,12 @@
         "country": "PL"
       },
       {
+        "name": "Polsatreality",
+        "logo": "https://iptv-org.github.io/images/channels/PolsatReality.pl.png",
+        "url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatReality.stream/playlist.m3u8",
+        "country": "PL"
+      },
+      {
         "name": "Polsatsport1",
         "logo": "https://iptv-org.github.io/images/channels/PolsatSport1.pl.png",
         "url": "http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd",
@@ -138520,6 +139148,12 @@
         "name": "Polsatviasathistory",
         "logo": "https://iptv-org.github.io/images/channels/PolsatViasatHistory.pl.png",
         "url": "http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8",
+        "country": "PL"
+      },
+      {
+        "name": "Polsatx",
+        "logo": "https://iptv-org.github.io/images/channels/PolsatX.pl.png",
+        "url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatX.stream/playlist.m3u8",
         "country": "PL"
       },
       {
@@ -139985,6 +140619,12 @@
         "logo": "https://iptv-org.github.io/images/channels/PVTV.hu.png",
         "url": "http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null",
         "country": "HU"
+      },
+      {
+        "name": "Pxsports",
+        "logo": "https://iptv-org.github.io/images/channels/PXSports.mx.png",
+        "url": "http://38.252.238.18:8000/play/a02f/index.m3u8",
+        "country": "MX"
       },
       {
         "name": "Qaftv",
@@ -143971,9 +144611,21 @@
         "country": "CY"
       },
       {
+        "name": "Rik1",
+        "logo": "https://iptv-org.github.io/images/channels/RIK1.cy.png",
+        "url": "https://l6.cloudskep.com/rikct/rik1/playlist.m3u8",
+        "country": "CY"
+      },
+      {
         "name": "Rik2",
         "logo": "https://iptv-org.github.io/images/channels/RIK2.cy.png",
         "url": "http://213.7.216.229:8888/udp/239.23.0.2:1234",
+        "country": "CY"
+      },
+      {
+        "name": "Rik2",
+        "logo": "https://iptv-org.github.io/images/channels/RIK2.cy.png",
+        "url": "https://l6.cloudskep.com/rikct/rik2/playlist.m3u8",
         "country": "CY"
       },
       {
@@ -143986,6 +144638,12 @@
         "name": "Rikhd",
         "logo": "https://iptv-org.github.io/images/channels/RIKHD.cy.png",
         "url": "http://213.7.216.229:8888/udp/239.23.0.5:1234",
+        "country": "CY"
+      },
+      {
+        "name": "Rikhd",
+        "logo": "https://iptv-org.github.io/images/channels/RIKHD.cy.png",
+        "url": "https://l6.cloudskep.com/rikct/rikhd/playlist.m3u8",
         "country": "CY"
       },
       {
@@ -144754,6 +145412,12 @@
         "name": "Rtenespanol",
         "logo": "https://iptv-org.github.io/images/channels/RTenEspanol.ru.png",
         "url": "https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8",
+        "country": "Russia"
+      },
+      {
+        "name": "Rtenespanol",
+        "logo": "https://iptv-org.github.io/images/channels/RTenEspanol.ru.png",
+        "url": "http://168.196.127.137:6001/play/a0a9/index.m3u8",
         "country": "Russia"
       },
       {
@@ -150199,12 +150863,6 @@
         "country": "Brazil"
       },
       {
-        "name": "Showtime",
-        "logo": "https://iptv-org.github.io/images/channels/Showtime.us.png",
-        "url": "http://4.30.180.36:8420/showtime/mono.m3u8?token=test",
-        "country": "United States"
-      },
-      {
         "name": "Showtimefamilyzone",
         "logo": "https://iptv-org.github.io/images/channels/ShowtimeFamilyZone.us.png",
         "url": "http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8",
@@ -150943,6 +151601,12 @@
         "country": "Russia"
       },
       {
+        "name": "Smithsonianchannelasia",
+        "logo": "https://iptv-org.github.io/images/channels/SmithsonianChannelAsia.us.png",
+        "url": "https://xyktmobile00.s.gy/PPV940_SMITHSONIAN",
+        "country": "United States"
+      },
+      {
         "name": "Smithsonianchannelplutotv",
         "logo": "https://iptv-org.github.io/images/channels/SmithsonianChannelPlutoTV.us.png",
         "url": "https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8",
@@ -151534,6 +152198,12 @@
         "name": "Sonymovieslatinamerica",
         "logo": "https://iptv-org.github.io/images/channels/SonyMoviesLatinAmerica.us.png",
         "url": "https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8",
+        "country": "United States"
+      },
+      {
+        "name": "Sonymovieslatinamerica",
+        "logo": "https://iptv-org.github.io/images/channels/SonyMoviesLatinAmerica.us.png",
+        "url": "http://38.252.238.18:8000/play/a01e/index.m3u8",
         "country": "United States"
       },
       {
@@ -152810,6 +153480,12 @@
       },
       {
         "name": "Starchannel",
+        "logo": "https://iptv-org.github.io/images/channels/StarChannel.co.png",
+        "url": "http://190.61.47.54:8000/play/a035/index.m3u8",
+        "country": "CO"
+      },
+      {
+        "name": "Starchannel",
         "logo": "https://iptv-org.github.io/images/channels/STARChannel.fi.png",
         "url": "https://live-fi.tvkaista.net/star-channel/live.m3u8",
         "country": "FI"
@@ -153244,12 +153920,6 @@
         "name": "Starzcomedy",
         "logo": "https://iptv-org.github.io/images/channels/StarzComedy.us.png",
         "url": "http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8",
-        "country": "United States"
-      },
-      {
-        "name": "Starzedge",
-        "logo": "https://iptv-org.github.io/images/channels/StarzEdge.us.png",
-        "url": "http://168.228.44.241:9998/play/a0e0/index.m3u8",
         "country": "United States"
       },
       {
@@ -156337,6 +157007,12 @@
         "country": "AR"
       },
       {
+        "name": "Telefeinternacional",
+        "logo": "https://iptv-org.github.io/images/channels/TelefeInternacional.ar.png",
+        "url": "http://190.60.55.141:9083/play/a0pb/index.m3u8",
+        "country": "AR"
+      },
+      {
         "name": "Teleferosario",
         "logo": "https://iptv-org.github.io/images/channels/TelefeRosario.ar.png",
         "url": "https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8",
@@ -156454,6 +157130,18 @@
         "name": "Teleislas",
         "logo": "https://iptv-org.github.io/images/channels/Teleislas.co.png",
         "url": "https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8",
+        "country": "CO"
+      },
+      {
+        "name": "Teleislas",
+        "logo": "https://iptv-org.github.io/images/channels/Teleislas.co.png",
+        "url": "http://190.61.47.54:8000/play/a015/index.m3u8",
+        "country": "CO"
+      },
+      {
+        "name": "Teleislas",
+        "logo": "https://iptv-org.github.io/images/channels/Teleislas.co.png",
+        "url": "http://181.78.211.244:8005/play/a08d/index.m3u8",
         "country": "CO"
       },
       {
@@ -156748,6 +157436,12 @@
         "name": "Telemundo",
         "logo": "https://iptv-org.github.io/images/channels/Telemundo.us.png",
         "url": "http://168.228.44.241:9997/play/a07g/index.m3u8",
+        "country": "United States"
+      },
+      {
+        "name": "Telemundo",
+        "logo": "https://iptv-org.github.io/images/channels/Telemundo.us.png",
+        "url": "https://xyktmobile00.s.gy/PPV943_CANAL27_ESAL",
         "country": "United States"
       },
       {
@@ -157249,6 +157943,12 @@
         "country": "VE"
       },
       {
+        "name": "Telesur",
+        "logo": "https://iptv-org.github.io/images/channels/Telesur.ve.png",
+        "url": "http://181.78.211.244:8005/play/a0cc/index.m3u8",
+        "country": "VE"
+      },
+      {
         "name": "Telesurcostarica",
         "logo": "https://iptv-org.github.io/images/channels/TeleSURCostaRica.cr.png",
         "url": "https://s1.tvdatta.com:3582/live/telesurlive.m3u8",
@@ -157396,6 +158096,12 @@
         "name": "Televen",
         "logo": "https://iptv-org.github.io/images/channels/Televen.ve.png",
         "url": "http://181.78.8.199:8000/play/a09j/index.m3u8",
+        "country": "VE"
+      },
+      {
+        "name": "Televen",
+        "logo": "https://iptv-org.github.io/images/channels/Televen.ve.png",
+        "url": "http://38.134.250.110:8000/play/a02i/index.m3u8",
         "country": "VE"
       },
       {
@@ -160429,6 +161135,12 @@
         "country": "Germany"
       },
       {
+        "name": "Towntv",
+        "logo": "https://iptv-org.github.io/images/channels/TownTV.kh.png",
+        "url": "https://stream.pdtvhd.com/LiveApp/streams/Townfullhd.m3u8",
+        "country": "KH"
+      },
+      {
         "name": "Tpluse",
         "logo": "https://iptv-org.github.io/images/channels/TPlusE.ca.png",
         "url": "http://185.246.209.113/T+E/index.m3u8",
@@ -160894,6 +161606,12 @@
         "name": "Trece",
         "logo": "https://iptv-org.github.io/images/channels/Trece.co.png",
         "url": "https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8",
+        "country": "CO"
+      },
+      {
+        "name": "Trece",
+        "logo": "https://iptv-org.github.io/images/channels/Trece.co.png",
+        "url": "http://190.60.46.228:8888/play/a030/index.m3u8",
         "country": "CO"
       },
       {
@@ -161410,6 +162128,12 @@
         "name": "Tudn",
         "logo": "https://iptv-org.github.io/images/channels/TUDN.mx.png",
         "url": "https://streaming.alwaysdata.net/tudn.php",
+        "country": "MX"
+      },
+      {
+        "name": "Tudn",
+        "logo": "https://iptv-org.github.io/images/channels/TUDN.mx.png",
+        "url": "http://45.5.118.152:8000/play/a08n/index.m3u8",
         "country": "MX"
       },
       {
@@ -163231,6 +163955,12 @@
         "country": "CL"
       },
       {
+        "name": "Tvchile",
+        "logo": "https://iptv-org.github.io/images/channels/TVChile.cl.png",
+        "url": "http://38.252.238.18:8000/play/a04b/index.m3u8",
+        "country": "CL"
+      },
+      {
         "name": "Tvchosun2",
         "logo": "https://iptv-org.github.io/images/channels/TVChosun2.kr.png",
         "url": "http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8",
@@ -163666,6 +164396,12 @@
         "name": "Tvestar",
         "logo": "https://iptv-org.github.io/images/channels/TVEStar.es.png",
         "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8",
+        "country": "ES"
+      },
+      {
+        "name": "Tvestar",
+        "logo": "https://iptv-org.github.io/images/channels/TVEStar.es.png",
+        "url": "http://38.252.238.18:8000/play/a01h/index.m3u8",
         "country": "ES"
       },
       {
@@ -165040,6 +165776,12 @@
         "name": "Tvperu",
         "logo": "https://iptv-org.github.io/images/channels/TVPeru.pe.png",
         "url": "http://181.224.200.5:2277/play/a0dx/index.m3u8",
+        "country": "PE"
+      },
+      {
+        "name": "Tvperu",
+        "logo": "https://iptv-org.github.io/images/channels/TVPeru.pe.png",
+        "url": "http://187.102.208.209:8000/play/a0ay/index.m3u8",
         "country": "PE"
       },
       {
@@ -166573,6 +167315,12 @@
         "country": "NL"
       },
       {
+        "name": "Twentyseven",
+        "logo": "https://iptv-org.github.io/images/channels/Twentyseven.it.png",
+        "url": "https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd",
+        "country": "Italy"
+      },
+      {
         "name": "Twojatv",
         "logo": "https://iptv-org.github.io/images/channels/TwojaTV.pl.png",
         "url": "https://stream.twoja.tv/ttv_hls/live.m3u8",
@@ -166606,6 +167354,12 @@
         "name": "Tycsports",
         "logo": "https://iptv-org.github.io/images/channels/TyCSports.ar.png",
         "url": "http://38.44.109.41:8003/play/a02l/index.m3u8",
+        "country": "AR"
+      },
+      {
+        "name": "Tycsports",
+        "logo": "https://iptv-org.github.io/images/channels/TyCSports.ar.png",
+        "url": "http://168.228.44.241:9999/play/a02e/index.m3u8",
         "country": "AR"
       },
       {
@@ -167313,6 +168067,12 @@
       {
         "name": "Univision",
         "logo": "https://iptv-org.github.io/images/channels/Univision.us.png",
+        "url": "http://38.252.238.18:8000/play/a03e/index.m3u8",
+        "country": "United States"
+      },
+      {
+        "name": "Univision",
+        "logo": "https://iptv-org.github.io/images/channels/Univision.us.png",
         "url": "http://45.190.13.8/UnivisionHD/index.m3u8",
         "country": "United States"
       },
@@ -167537,24 +168297,6 @@
         "logo": "https://iptv-org.github.io/images/channels/Usadba.ru.png",
         "url": "http://str2.iptvhd.ru:8080/Usadba/index.m3u8",
         "country": "Russia"
-      },
-      {
-        "name": "Usanetwork",
-        "logo": "https://iptv-org.github.io/images/channels/USANetwork.us.png",
-        "url": "http://190.11.225.124:5000/live/usa_hd/playlist.m3u8",
-        "country": "United States"
-      },
-      {
-        "name": "Usanetwork",
-        "logo": "https://iptv-org.github.io/images/channels/USANetwork.us.png",
-        "url": "https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8",
-        "country": "United States"
-      },
-      {
-        "name": "Usanetwork",
-        "logo": "https://iptv-org.github.io/images/channels/USANetwork.us.png",
-        "url": "http://4.30.180.36:8420/usa/index.m3u8?token=test",
-        "country": "United States"
       },
       {
         "name": "Usanetworklatinamerica",
@@ -168157,6 +168899,12 @@
         "country": "VE"
       },
       {
+        "name": "Veplus",
+        "logo": "https://iptv-org.github.io/images/channels/VePlus.ve.png",
+        "url": "http://186.148.196.100:8000/play/a01d",
+        "country": "VE"
+      },
+      {
         "name": "Vera24",
         "logo": "https://iptv-org.github.io/images/channels/Vera24.ru.png",
         "url": "https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8",
@@ -168443,12 +169191,6 @@
         "logo": "https://iptv-org.github.io/images/channels/Vgostyakhuskazki.ru.png",
         "url": "http://str2.iptvhd.ru:8080/v_gostyax_u_skaski/index.m3u8",
         "country": "Russia"
-      },
-      {
-        "name": "Vh1",
-        "logo": "https://iptv-org.github.io/images/channels/VH1.us.png",
-        "url": "http://4.30.180.36:8420/vh1/index.m3u8?token=test",
-        "country": "United States"
       },
       {
         "name": "Vh1Queensofreality",
@@ -171094,6 +171836,12 @@
         "name": "Wkaqtv22",
         "logo": "https://iptv-org.github.io/images/channels/WKAQTV22.pr.png",
         "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8",
+        "country": "PR"
+      },
+      {
+        "name": "Wkaqtv22",
+        "logo": "https://iptv-org.github.io/images/channels/WKAQTV22.pr.png",
+        "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master_720.m3u8",
         "country": "PR"
       },
       {
@@ -174272,7 +175020,7 @@
     {
       "name": "8Xm",
       "logo": "https://iptv-org.github.io/images/channels/8XM.pk.png",
-      "url": "http://115.42.65.142:9981/stream/channelid/582886861",
+      "url": "https://cdn4.mjunoon.tv:8087/streamtest/131M/chunks.m3u8",
       "category": "General",
       "country": "Pakistan"
     },
@@ -174595,6 +175343,13 @@
       "name": "24Horas",
       "logo": "https://iptv-org.github.io/images/channels/24Horas.cl.png",
       "url": "http://cdn1tlinkgo.tlink.cl/24horashd/mono.m3u8",
+      "category": "General",
+      "country": "CL"
+    },
+    {
+      "name": "24Horas",
+      "logo": "https://iptv-org.github.io/images/channels/24Horas.cl.png",
+      "url": "http://187.102.208.209:8000/play/a0a1/index.m3u8",
       "category": "General",
       "country": "CL"
     },
@@ -175665,13 +176420,6 @@
     {
       "name": "Abc",
       "logo": "https://iptv-org.github.io/images/channels/ABC.us.png",
-      "url": "https://content.uplynk.com/channel/829a8c85f9e840c6bed963856c231428.m3u8",
-      "category": "General",
-      "country": "United States"
-    },
-    {
-      "name": "Abc",
-      "logo": "https://iptv-org.github.io/images/channels/ABC.us.png",
       "url": "https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-live.smil/playlist.m3u8",
       "category": "General",
       "country": "United States"
@@ -176004,6 +176752,13 @@
       "url": "https://c.mjh.nz/abc-wa.m3u8",
       "category": "General",
       "country": "Australia"
+    },
+    {
+      "name": "Abctvparaguay",
+      "logo": "https://iptv-org.github.io/images/channels/ABCTVParaguay.py.png",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(vig4KUMvzIpvL_0CGgNPG2QFE6DukpwGhRZzGj8aqOyedNaDjlOwv-qe03N1Bk5-7nB-V7Uv8gBwwy2h-0TCL_WRE6IWeUWiVcnYm587YcdKpnqvQZ3tYg9iGdqpySyX)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1a",
+      "category": "General",
+      "country": "PY"
     },
     {
       "name": "Abctvplus",
@@ -178960,13 +179715,6 @@
       "country": "United States"
     },
     {
-      "name": "Amc",
-      "logo": "https://iptv-org.github.io/images/channels/AMC.us.png",
-      "url": "http://4.30.180.36:8420/amc/index.m3u8?token=test",
-      "category": "General",
-      "country": "United States"
-    },
-    {
       "name": "Amcanal",
       "logo": "https://iptv-org.github.io/images/channels/AMCanal.cl.png",
       "url": "https://streaming.bitsur.cl:3534/live/vdo1102live.m3u8",
@@ -180055,6 +180803,13 @@
       "name": "Antena3Internacional",
       "logo": "https://iptv-org.github.io/images/channels/Antena3Internacional.es.png",
       "url": "https://xyktmobile00.s.gy/091_ANTENA3_INT",
+      "category": "General",
+      "country": "ES"
+    },
+    {
+      "name": "Antena3Internacional",
+      "logo": "https://iptv-org.github.io/images/channels/Antena3Internacional.es.png",
+      "url": "http://38.252.238.18:8000/play/a04a/index.m3u8",
       "category": "General",
       "country": "ES"
     },
@@ -182553,6 +183308,13 @@
     {
       "name": "Axnlatinamerica",
       "logo": "https://iptv-org.github.io/images/channels/AXNLatinAmerica.us.png",
+      "url": "http://181.78.8.199:8000/play/a0cu/index.m3u8",
+      "category": "General",
+      "country": "United States"
+    },
+    {
+      "name": "Axnlatinamerica",
+      "logo": "https://iptv-org.github.io/images/channels/AXNLatinAmerica.us.png",
       "url": "http://138.121.15.230:9002/AXN/index.m3u8",
       "category": "General",
       "country": "United States"
@@ -182705,6 +183467,13 @@
       "country": "AZ"
     },
     {
+      "name": "Aymsports",
+      "logo": "https://iptv-org.github.io/images/channels/AyMSports.mx.png",
+      "url": "http://168.196.127.137:6001/play/a06v/index.m3u8",
+      "category": "General",
+      "country": "MX"
+    },
+    {
       "name": "Aynitv",
       "logo": "https://iptv-org.github.io/images/channels/AYNITV.bo.png",
       "url": "http://15.204.246.24:8080/AyniTVHD/index.m3u8",
@@ -182778,6 +183547,13 @@
       "name": "Azcinema",
       "logo": "https://iptv-org.github.io/images/channels/AzCinema.mx.png",
       "url": "https://cdn1tlinkgo.tlink.cl/azcinema/index.m3u8",
+      "category": "General",
+      "country": "MX"
+    },
+    {
+      "name": "Azclic",
+      "logo": "https://iptv-org.github.io/images/channels/AzClic.mx.png",
+      "url": "http://38.252.238.18:8000/play/a01g/index.m3u8",
       "category": "General",
       "country": "MX"
     },
@@ -183212,6 +183988,13 @@
       "name": "Babytv",
       "logo": "https://iptv-org.github.io/images/channels/BabyTV.uk.png",
       "url": "https://xyktmobile00.s.gy/PPV935_BABY",
+      "category": "General",
+      "country": "United Kingdom"
+    },
+    {
+      "name": "Babytv",
+      "logo": "https://iptv-org.github.io/images/channels/BabyTV.uk.png",
+      "url": "http://38.44.109.41:8003/play/a0eh",
       "category": "General",
       "country": "United Kingdom"
     },
@@ -186569,6 +187352,13 @@
       "country": "KG"
     },
     {
+      "name": "Billiardstv",
+      "logo": "https://iptv-org.github.io/images/channels/BilliardsTV.kr.png",
+      "url": "https://xyktmobile00.s.gy/PPV942_BILLIARD",
+      "category": "General",
+      "country": "KR"
+    },
+    {
       "name": "Billiardtv",
       "logo": "https://iptv-org.github.io/images/channels/BilliardTV.us.png",
       "url": "https://pb-wm04vonaerv0k.akamaized.net/billi.m3u8",
@@ -187444,6 +188234,13 @@
       "country": "BO"
     },
     {
+      "name": "Boliviatv",
+      "logo": "https://iptv-org.github.io/images/channels/BoliviaTV.bo.png",
+      "url": "http://190.181.61.93:8000/play/a001/index.m3u8",
+      "category": "General",
+      "country": "BO"
+    },
+    {
       "name": "Bolivision",
       "logo": "https://iptv-org.github.io/images/channels/Bolivision.bo.png",
       "url": "http://15.204.246.24:8080/BolivisionHD/index.m3u8",
@@ -187785,6 +188582,13 @@
       "url": "https://vivo.solumedia.com:19360/bragadato/bragadato.m3u8",
       "category": "General",
       "country": "AR"
+    },
+    {
+      "name": "Braintv",
+      "logo": "https://iptv-org.github.io/images/channels/BrainTV.kr.png",
+      "url": "https://xyktmobile00.s.gy/PPV941_BRAIN",
+      "category": "General",
+      "country": "KR"
     },
     {
       "name": "Brattv",
@@ -188936,6 +189740,20 @@
     },
     {
       "name": "Canal1",
+      "logo": "https://iptv-org.github.io/images/channels/Canal1.co.png",
+      "url": "http://38.134.250.110:8000/play/a014/index.m3u8",
+      "category": "General",
+      "country": "CO"
+    },
+    {
+      "name": "Canal1",
+      "logo": "https://iptv-org.github.io/images/channels/Canal1.co.png",
+      "url": "http://190.61.47.54:8000/play/a00u/index.m3u8",
+      "category": "General",
+      "country": "CO"
+    },
+    {
+      "name": "Canal1",
       "logo": "https://iptv-org.github.io/images/channels/Canal1.cr.png",
       "url": "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8",
       "category": "General",
@@ -189258,6 +190076,13 @@
     },
     {
       "name": "Canal5",
+      "logo": "https://iptv-org.github.io/images/channels/Canal5.mx.png",
+      "url": "http://45.5.118.152:8000/play/a03i/index.m3u8",
+      "category": "General",
+      "country": "MX"
+    },
+    {
+      "name": "Canal5",
       "logo": "https://iptv-org.github.io/images/channels/Canal5.uy.png",
       "url": "https://tinyurl.com/canal5uy",
       "category": "General",
@@ -189544,6 +190369,13 @@
       "country": "CO"
     },
     {
+      "name": "Canal9Launion",
+      "logo": "https://iptv-org.github.io/images/channels/Canal9LaUnion.sv.png",
+      "url": "http://45.167.2.101:8000/play/a0r5/index.m3u8",
+      "category": "General",
+      "country": "SV"
+    },
+    {
       "name": "Canal9Link",
       "logo": "https://iptv-org.github.io/images/channels/Canal9Link.ar.png",
       "url": "https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8",
@@ -189769,8 +190601,22 @@
     },
     {
       "name": "Canal13",
+      "logo": "https://iptv-org.github.io/images/channels/Canal13.cl.png",
+      "url": "http://187.102.208.209:8000/play/a099/index.m3u8",
+      "category": "General",
+      "country": "CL"
+    },
+    {
+      "name": "Canal13",
       "logo": "https://iptv-org.github.io/images/channels/Canal13.gt.png",
       "url": "http://190.61.101.11:7050/play/a07f/index.m3u8",
+      "category": "General",
+      "country": "GT"
+    },
+    {
+      "name": "Canal13",
+      "logo": "https://iptv-org.github.io/images/channels/Canal13.gt.png",
+      "url": "http://168.196.127.137:6001/play/a064/index.m3u8",
       "category": "General",
       "country": "GT"
     },
@@ -190212,6 +191058,13 @@
       "name": "Canalcapital",
       "logo": "https://iptv-org.github.io/images/channels/CanalCapital.co.png",
       "url": "http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8",
+      "category": "General",
+      "country": "CO"
+    },
+    {
+      "name": "Canalcapital",
+      "logo": "https://iptv-org.github.io/images/channels/CanalCapital.co.png",
+      "url": "http://190.61.47.54:8000/play/a00x/index.m3u8",
       "category": "General",
       "country": "CO"
     },
@@ -190811,6 +191664,13 @@
       "country": "PE"
     },
     {
+      "name": "Canaln",
+      "logo": "https://iptv-org.github.io/images/channels/CanalN.pe.png",
+      "url": "http://187.102.208.209:8000/play/a0az/index.m3u8",
+      "category": "General",
+      "country": "PE"
+    },
+    {
       "name": "Canalnets",
       "logo": "https://iptv-org.github.io/images/channels/CanalNets.co.png",
       "url": "https://movil.ejeserver.com/live/nets.m3u8",
@@ -190940,6 +191800,13 @@
       "name": "Canalrcn",
       "logo": "https://iptv-org.github.io/images/channels/CanalRCN.co.png",
       "url": "http://209.14.115.253:8081/RCN/index.m3u8",
+      "category": "General",
+      "country": "CO"
+    },
+    {
+      "name": "Canalrcn",
+      "logo": "https://iptv-org.github.io/images/channels/CanalRCN.co.png",
+      "url": "http://190.61.47.54:8000/play/a01f/index.m3u8",
       "category": "General",
       "country": "CO"
     },
@@ -191122,6 +191989,20 @@
       "name": "Canaltro",
       "logo": "https://iptv-org.github.io/images/channels/CanalTRO.co.png",
       "url": "https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8",
+      "category": "General",
+      "country": "CO"
+    },
+    {
+      "name": "Canaltro",
+      "logo": "https://iptv-org.github.io/images/channels/CanalTRO.co.png",
+      "url": "http://190.61.47.54:8000/play/a013/index.m3u8",
+      "category": "General",
+      "country": "CO"
+    },
+    {
+      "name": "Canaltro",
+      "logo": "https://iptv-org.github.io/images/channels/CanalTRO.co.png",
+      "url": "http://181.78.211.244:8005/play/a08c/index.m3u8",
       "category": "General",
       "country": "CO"
     },
@@ -191486,13 +192367,6 @@
       "name": "Caracolinternacional",
       "logo": "https://iptv-org.github.io/images/channels/CaracolInternacional.co.png",
       "url": "http://168.196.127.137:6001/play/a09m/index.m3u8",
-      "category": "General",
-      "country": "CO"
-    },
-    {
-      "name": "Caracoltv",
-      "logo": "https://iptv-org.github.io/images/channels/CaracolTV.co.png",
-      "url": "http://45.171.108.253:8888/CARACOL/index.m3u8",
       "category": "General",
       "country": "CO"
     },
@@ -194647,6 +195521,13 @@
       "country": "United States"
     },
     {
+      "name": "Cinecanal",
+      "logo": "https://iptv-org.github.io/images/channels/Cinecanal.us.png",
+      "url": "http://190.61.47.54:8000/play/a02z/index.m3u8",
+      "category": "General",
+      "country": "United States"
+    },
+    {
       "name": "Cinecatastrophebyplutotv",
       "logo": "https://iptv-org.github.io/images/channels/CineCatastrophebyPlutoTV.de.png",
       "url": "https://jmp2.uk/plu-65a69ef53af63d000825e0ee.m3u8",
@@ -195674,6 +196555,13 @@
       "url": "https://stmv1.srvif.com/classique/classique/playlist.m3u8",
       "category": "General",
       "country": "Brazil"
+    },
+    {
+      "name": "Classtvmoda",
+      "logo": "https://iptv-org.github.io/images/channels/ClassTVModa.it.png",
+      "url": "https://racitonsen.s.gy/CLASS_TV_MODA",
+      "category": "General",
+      "country": "Italy"
     },
     {
       "name": "Clergytv",
@@ -199498,6 +200386,13 @@
       "country": "MX"
     },
     {
+      "name": "Depeliculalatinamerica",
+      "logo": "https://iptv-org.github.io/images/channels/DePeliculaLatinAmerica.mx.png",
+      "url": "http://190.60.55.141:9083/play/a0nf/index.m3u8",
+      "category": "General",
+      "country": "MX"
+    },
+    {
       "name": "Depeliculaplus",
       "logo": "https://iptv-org.github.io/images/channels/DePeliculaPlus.mx.png",
       "url": "http://200.115.120.1:8000/play/ca030/index.m3u8",
@@ -199767,6 +200662,13 @@
       "name": "Dhe",
       "logo": "https://iptv-org.github.io/images/channels/DHE.us.png",
       "url": "https://cdn1tlinkgo.tlink.cl/dhehd/index.m3u8",
+      "category": "General",
+      "country": "United States"
+    },
+    {
+      "name": "Dhe",
+      "logo": "https://iptv-org.github.io/images/channels/DHE.us.png",
+      "url": "http://38.252.238.18:8000/play/a01f/index.m3u8",
       "category": "General",
       "country": "United States"
     },
@@ -201619,6 +202521,13 @@
       "country": "United States"
     },
     {
+      "name": "Dsports",
+      "logo": "https://iptv-org.github.io/images/channels/DSports.us.png",
+      "url": "http://38.187.7.252:8000/play/a03d/index.m3u8",
+      "category": "General",
+      "country": "United States"
+    },
+    {
       "name": "Dstv",
       "logo": "https://iptv-org.github.io/images/channels/DSTV.bg.png",
       "url": "http://46.249.95.140:8081/hls/data.m3u8",
@@ -202424,6 +203333,13 @@
       "country": "EC"
     },
     {
+      "name": "Ecuadortv",
+      "logo": "https://iptv-org.github.io/images/channels/EcuadorTV.ec.png",
+      "url": "http://38.44.109.41:8003/play/a0e9/index.m3u8",
+      "category": "General",
+      "country": "EC"
+    },
+    {
       "name": "Ecuamundoradiotv",
       "logo": "https://iptv-org.github.io/images/channels/EcuaMundoRadioTV.ec.png",
       "url": "https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8",
@@ -202872,6 +203788,13 @@
       "country": "SV"
     },
     {
+      "name": "Elimtv",
+      "logo": "https://iptv-org.github.io/images/channels/ElimTV.sv.png",
+      "url": "http://38.252.238.18:8000/play/a01k/index.m3u8",
+      "category": "General",
+      "country": "SV"
+    },
+    {
       "name": "Elivetvbrescia",
       "logo": "https://iptv-org.github.io/images/channels/EliveTVBrescia.it.png",
       "url": "https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8",
@@ -203057,6 +203980,13 @@
       "name": "Eltreceinternacionallatinamerica",
       "logo": "https://iptv-org.github.io/images/channels/ElTreceInternacionalLatinAmerica.ar.png",
       "url": "http://200.7.99.59:8000/play/a0gm/index.m3u8",
+      "category": "General",
+      "country": "AR"
+    },
+    {
+      "name": "Eltreceinternacionallatinamerica",
+      "logo": "https://iptv-org.github.io/images/channels/ElTreceInternacionalLatinAmerica.ar.png",
+      "url": "http://190.60.55.141:9083/play/a0ph/index.m3u8",
       "category": "General",
       "country": "AR"
     },
@@ -203295,6 +204225,13 @@
       "name": "Enlace",
       "logo": "https://iptv-org.github.io/images/channels/Enlace.cr.png",
       "url": "http://138.121.15.230:9002/ENLACE/index.m3u8",
+      "category": "General",
+      "country": "CR"
+    },
+    {
+      "name": "Enlace",
+      "logo": "https://iptv-org.github.io/images/channels/Enlace.cr.png",
+      "url": "http://187.102.208.209:8000/play/a0ae/index.m3u8",
       "category": "General",
       "country": "CR"
     },
@@ -203724,6 +204661,13 @@
       "url": "https://eslahtvhls.wns.live/hls/stream.m3u8",
       "category": "General",
       "country": "AF"
+    },
+    {
+      "name": "Esnetv",
+      "logo": "https://iptv-org.github.io/images/channels/ESNETV.us.png",
+      "url": "http://168.196.127.137:6001/play/a071/index.m3u8",
+      "category": "General",
+      "country": "United States"
     },
     {
       "name": "Espacetv",
@@ -204762,6 +205706,13 @@
       "country": "AR"
     },
     {
+      "name": "Europaeuropa",
+      "logo": "https://iptv-org.github.io/images/channels/EuropaEuropa.ar.png",
+      "url": "http://38.252.238.18:8000/play/a01d/index.m3u8",
+      "category": "General",
+      "country": "AR"
+    },
+    {
       "name": "Europaplustv",
       "logo": "https://iptv-org.github.io/images/channels/EuropaPlusTV.ru.png",
       "url": "http://stream.mcquack.net/184/index.m3u8",
@@ -205052,6 +206003,13 @@
       "name": "Ewtn",
       "logo": "https://iptv-org.github.io/images/channels/EWTN.us.png",
       "url": "http://45.167.1.138:8000/play/a01m",
+      "category": "General",
+      "country": "United States"
+    },
+    {
+      "name": "Ewtn",
+      "logo": "https://iptv-org.github.io/images/channels/EWTN.us.png",
+      "url": "http://187.102.208.209:8000/play/a0ac/index.m3u8",
       "category": "General",
       "country": "United States"
     },
@@ -208502,6 +209460,13 @@
     {
       "name": "Fxlatinamerica",
       "logo": "https://iptv-org.github.io/images/channels/FXLatinAmerica.us.png",
+      "url": "http://38.252.238.18:8000/play/a01c/index.m3u8",
+      "category": "General",
+      "country": "United States"
+    },
+    {
+      "name": "Fxlatinamerica",
+      "logo": "https://iptv-org.github.io/images/channels/FXLatinAmerica.us.png",
       "url": "http://72.1.184.5:8089/play/a05i/index.m3u8",
       "category": "General",
       "country": "United States"
@@ -208622,6 +209587,13 @@
       "name": "Gamavision",
       "logo": "https://iptv-org.github.io/images/channels/Gamavision.ec.png",
       "url": "https://stream.esradioecuador.com/hls/stream.m3u8",
+      "category": "General",
+      "country": "EC"
+    },
+    {
+      "name": "Gamavision",
+      "logo": "https://iptv-org.github.io/images/channels/Gamavision.ec.png",
+      "url": "http://181.78.211.244:8000/play/a0a2/index.m3u8",
       "category": "General",
       "country": "EC"
     },
@@ -209564,6 +210536,13 @@
       "country": "Brazil"
     },
     {
+      "name": "Globoplaynovelas",
+      "logo": "https://iptv-org.github.io/images/channels/GloboplayNovelas.br.png",
+      "url": "http://79.127.238.228:14455",
+      "category": "General",
+      "country": "Brazil"
+    },
+    {
       "name": "Globotv",
       "logo": "https://iptv-org.github.io/images/channels/GloboTV.hn.png",
       "url": "https://panel.dattalive.com/8122/8122/playlist.m3u8",
@@ -209928,6 +210907,13 @@
       "country": "HK"
     },
     {
+      "name": "Goldenplus",
+      "logo": "https://iptv-org.github.io/images/channels/GoldenPlus.mx.png",
+      "url": "http://45.5.118.152:8000/play/a03p/index.m3u8",
+      "category": "General",
+      "country": "MX"
+    },
+    {
       "name": "Goldenpremier2",
       "logo": "https://iptv-org.github.io/images/channels/GoldenPremier2.mx.png",
       "url": "http://200.229.147.210:9999/play/a00l/index.m3u8",
@@ -210106,6 +211092,13 @@
       "name": "Golfchannellatinamerica",
       "logo": "https://iptv-org.github.io/images/channels/GolfChannelLatinAmerica.us.png",
       "url": "http://143.14.178.35/TCM-HD/index.m3u8",
+      "category": "General",
+      "country": "United States"
+    },
+    {
+      "name": "Golfchannellatinamerica",
+      "logo": "https://iptv-org.github.io/images/channels/GolfChannelLatinAmerica.us.png",
+      "url": "http://38.252.238.18:8000/play/a01i/index.m3u8",
       "category": "General",
       "country": "United States"
     },
@@ -212682,6 +213675,13 @@
       "name": "Holatvlatinamerica",
       "logo": "https://iptv-org.github.io/images/channels/HolaTVLatinAmerica.us.png",
       "url": "https://xyktmobile00.s.gy/PPV901_HOLA_TV",
+      "category": "General",
+      "country": "United States"
+    },
+    {
+      "name": "Holatvlatinamerica",
+      "logo": "https://iptv-org.github.io/images/channels/HolaTVLatinAmerica.us.png",
+      "url": "http://168.196.127.137:6001/play/a03q/index.m3u8",
       "category": "General",
       "country": "United States"
     },
@@ -218027,6 +219027,13 @@
       "country": "TR"
     },
     {
+      "name": "Kanalzerotv",
+      "logo": "https://iptv-org.github.io/images/channels/KanalZEROTV.pl.png",
+      "url": "https://racitonsen.s.gy/ZERO_PL",
+      "category": "General",
+      "country": "PL"
+    },
+    {
       "name": "Kandelatv",
       "logo": "https://iptv-org.github.io/images/channels/KandelaTV.ve.png",
       "url": "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8",
@@ -221009,6 +222016,20 @@
       "country": "MX"
     },
     {
+      "name": "Lasestrellaslatinamerica",
+      "logo": "https://iptv-org.github.io/images/channels/LasEstrellasLatinAmerica.mx.png",
+      "url": "http://38.44.109.41:8003/play/a0he",
+      "category": "General",
+      "country": "MX"
+    },
+    {
+      "name": "Lasestrellaslatinamerica",
+      "logo": "https://iptv-org.github.io/images/channels/LasEstrellasLatinAmerica.mx.png",
+      "url": "http://190.60.55.141:9083/play/a0np/index.m3u8",
+      "category": "General",
+      "country": "MX"
+    },
+    {
       "name": "Lastortugasninja",
       "logo": "https://iptv-org.github.io/images/channels/LasTortugasNinja.de.png",
       "url": "https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8",
@@ -221810,6 +222831,13 @@
       "name": "Lifetimelatinamerica",
       "logo": "https://iptv-org.github.io/images/channels/LifetimeLatinAmerica.us.png",
       "url": "https://cdn1tlinkgo.tlink.cl/lifetime/index.m3u8",
+      "category": "General",
+      "country": "United States"
+    },
+    {
+      "name": "Lifetimelatinamerica",
+      "logo": "https://iptv-org.github.io/images/channels/LifetimeLatinAmerica.us.png",
+      "url": "http://187.102.208.209:8000/play/a0ad/index.m3u8",
       "category": "General",
       "country": "United States"
     },
@@ -224859,6 +225887,20 @@
       "country": "United States"
     },
     {
+      "name": "Mc",
+      "logo": "https://iptv-org.github.io/images/channels/MC.mx.png",
+      "url": "http://168.196.127.137:6001/play/a070/index.m3u8",
+      "category": "General",
+      "country": "MX"
+    },
+    {
+      "name": "Mc",
+      "logo": "https://iptv-org.github.io/images/channels/MC.mx.png",
+      "url": "http://45.5.118.152:8000/play/a03r/index.m3u8",
+      "category": "General",
+      "country": "MX"
+    },
+    {
       "name": "Mcitelevision",
       "logo": "https://iptv-org.github.io/images/channels/MCITelevision.co.png",
       "url": "https://video.ejeserver.com/live/mcitelevision.m3u8",
@@ -226614,6 +227656,13 @@
       "url": "https://avr.host247.net/live/Mix-kurdy/playlist.m3u8",
       "category": "General",
       "country": "IQ"
+    },
+    {
+      "name": "Mizpatv",
+      "logo": "https://iptv-org.github.io/images/channels/MizpaTV.sv.png",
+      "url": "http://45.167.2.101:8000/play/a0r7/index.m3u8",
+      "category": "General",
+      "country": "SV"
     },
     {
       "name": "Mkkwebtv",
@@ -230755,6 +231804,13 @@
     {
       "name": "Nbatv",
       "logo": "https://iptv-org.github.io/images/channels/NBATV.us.png",
+      "url": "http://rezofoot.tv/NBATV/index.m3u8",
+      "category": "General",
+      "country": "United States"
+    },
+    {
+      "name": "Nbatv",
+      "logo": "https://iptv-org.github.io/images/channels/NBATV.us.png",
       "url": "https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8",
       "category": "General",
       "country": "United States"
@@ -232573,20 +233629,6 @@
       "country": "United States"
     },
     {
-      "name": "Nflnetwork",
-      "logo": "https://iptv-org.github.io/images/channels/NFLNetwork.us.png",
-      "url": "http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8",
-      "category": "General",
-      "country": "United States"
-    },
-    {
-      "name": "Nflnetwork",
-      "logo": "https://iptv-org.github.io/images/channels/NFLNetwork.us.png",
-      "url": "https://tvsen6.aynaott.com/nfl/index.m3u8",
-      "category": "General",
-      "country": "United States"
-    },
-    {
       "name": "Ngfederal",
       "logo": "https://iptv-org.github.io/images/channels/NGFederal.ar.png",
       "url": "http://www.coninfo.net:1935/tvlink/live/playlist.m3u8",
@@ -232660,13 +233702,6 @@
       "name": "Nhkworldjapan",
       "logo": "https://iptv-org.github.io/images/channels/NHKWorldJapan.jp.png",
       "url": "http://170.83.16.50/NHK_WORLD/index.m3u8",
-      "category": "General",
-      "country": "Japan"
-    },
-    {
-      "name": "Nhkworldjapan",
-      "logo": "https://iptv-org.github.io/images/channels/NHKWorldJapan.jp.png",
-      "url": "http://nmk.ioapk.com:5050/4gtv-live168/index.m3u8",
       "category": "General",
       "country": "Japan"
     },
@@ -235051,6 +236086,13 @@
       "country": "CO"
     },
     {
+      "name": "Nuestrateleinternacional",
+      "logo": "https://iptv-org.github.io/images/channels/NuestraTeleInternacional.co.png",
+      "url": "http://190.60.55.141:9083/play/a0hg/index.m3u8",
+      "category": "General",
+      "country": "CO"
+    },
+    {
       "name": "Nuevavidafm",
       "logo": "https://iptv-org.github.io/images/channels/NuevaVidaFM.pr.png",
       "url": "https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8",
@@ -236612,6 +237654,20 @@
       "country": "CL"
     },
     {
+      "name": "Oplot2",
+      "logo": "https://iptv-org.github.io/images/channels/Oplot2.ru.png",
+      "url": "http://iptv.mega.net.ru:8888/Oplot_2/index.m3u8",
+      "category": "General",
+      "country": "Russia"
+    },
+    {
+      "name": "Oplottv",
+      "logo": "https://iptv-org.github.io/images/channels/OplotTV.ru.png",
+      "url": "http://31.131.141.195:8000/play/a006/index.m3u8",
+      "category": "General",
+      "country": "Russia"
+    },
+    {
       "name": "Oplottv",
       "logo": "https://iptv-org.github.io/images/channels/OplotTV.ru.png",
       "url": "http://31.131.139.253:9002/oplot_hd/index.m3u8",
@@ -237599,13 +238655,6 @@
       "country": "United States"
     },
     {
-      "name": "Paramountnetwork",
-      "logo": "https://iptv-org.github.io/images/channels/ParamountNetwork.us.png",
-      "url": "http://4.30.180.36:8420/paramount/index.m3u8?token=test",
-      "category": "General",
-      "country": "United States"
-    },
-    {
       "name": "Paramountnetworkdeplutotv",
       "logo": "https://iptv-org.github.io/images/channels/ParamountNetworkdePlutoTV.de.png",
       "url": "https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8",
@@ -237819,6 +238868,13 @@
       "name": "Pasioneslatinamerica",
       "logo": "https://iptv-org.github.io/images/channels/PasionesLatinAmerica.us.png",
       "url": "https://cdn1tlinkgo.tlink.cl/pasioneshd/index.m3u8",
+      "category": "General",
+      "country": "United States"
+    },
+    {
+      "name": "Pasioneslatinamerica",
+      "logo": "https://iptv-org.github.io/images/channels/PasionesLatinAmerica.us.png",
+      "url": "http://190.60.55.141:9083/play/a0ni/index.m3u8",
       "category": "General",
       "country": "United States"
     },
@@ -238908,6 +239964,13 @@
       "country": "CL"
     },
     {
+      "name": "Picosatv",
+      "logo": "https://iptv-org.github.io/images/channels/PicosaTV.hn.png",
+      "url": "http://45.167.2.101:8000/play/a0sd/index.m3u8",
+      "category": "General",
+      "country": "HN"
+    },
+    {
       "name": "Pieratv",
       "logo": "https://iptv-org.github.io/images/channels/PieraTV.es.png",
       "url": "http://51.254.47.72:1935/piera/smil:piera.smil/master.m3u8",
@@ -239212,6 +240275,13 @@
       "name": "Plimplim",
       "logo": "https://iptv-org.github.io/images/channels/PlimPlim.ar.png",
       "url": "http://200.115.120.1:8000/play/ca091/index.m3u8",
+      "category": "General",
+      "country": "AR"
+    },
+    {
+      "name": "Plimplim",
+      "logo": "https://iptv-org.github.io/images/channels/PlimPlim.ar.png",
+      "url": "http://45.70.168.162:1503/play/a02a/index.m3u8",
       "category": "General",
       "country": "AR"
     },
@@ -242576,6 +243646,13 @@
       "country": "PL"
     },
     {
+      "name": "Polsatfilm2",
+      "logo": "https://iptv-org.github.io/images/channels/PolsatFilm2.pl.png",
+      "url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatFilm2.stream/playlist.m3u8",
+      "category": "General",
+      "country": "PL"
+    },
+    {
       "name": "Polsatgames",
       "logo": "https://iptv-org.github.io/images/channels/PolsatGames.pl.png",
       "url": "http://92.63.196.180:8080/live/74173747597177/7vfxky4rjx3j/10209.m3u8?token=Q0FaWEpZFFsXAwNWUFMEBwJXAwMDVlpTBgVTVwEHAQNeWgoACVVXVQAVGEZGFUdTUl9qWwIVAlBSAQBdGENHQ10RbVBdEwxDAgANUAJVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRjfhceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=",
@@ -242632,6 +243709,13 @@
       "country": "PL"
     },
     {
+      "name": "Polsatreality",
+      "logo": "https://iptv-org.github.io/images/channels/PolsatReality.pl.png",
+      "url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatReality.stream/playlist.m3u8",
+      "category": "General",
+      "country": "PL"
+    },
+    {
       "name": "Polsatsport1",
       "logo": "https://iptv-org.github.io/images/channels/PolsatSport1.pl.png",
       "url": "http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd",
@@ -242642,6 +243726,13 @@
       "name": "Polsatviasathistory",
       "logo": "https://iptv-org.github.io/images/channels/PolsatViasatHistory.pl.png",
       "url": "http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8",
+      "category": "General",
+      "country": "PL"
+    },
+    {
+      "name": "Polsatx",
+      "logo": "https://iptv-org.github.io/images/channels/PolsatX.pl.png",
+      "url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatX.stream/playlist.m3u8",
       "category": "General",
       "country": "PL"
     },
@@ -244352,6 +245443,13 @@
       "url": "http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null",
       "category": "General",
       "country": "HU"
+    },
+    {
+      "name": "Pxsports",
+      "logo": "https://iptv-org.github.io/images/channels/PXSports.mx.png",
+      "url": "http://38.252.238.18:8000/play/a02f/index.m3u8",
+      "category": "General",
+      "country": "MX"
     },
     {
       "name": "Qaftv",
@@ -249002,9 +250100,23 @@
       "country": "CY"
     },
     {
+      "name": "Rik1",
+      "logo": "https://iptv-org.github.io/images/channels/RIK1.cy.png",
+      "url": "https://l6.cloudskep.com/rikct/rik1/playlist.m3u8",
+      "category": "General",
+      "country": "CY"
+    },
+    {
       "name": "Rik2",
       "logo": "https://iptv-org.github.io/images/channels/RIK2.cy.png",
       "url": "http://213.7.216.229:8888/udp/239.23.0.2:1234",
+      "category": "General",
+      "country": "CY"
+    },
+    {
+      "name": "Rik2",
+      "logo": "https://iptv-org.github.io/images/channels/RIK2.cy.png",
+      "url": "https://l6.cloudskep.com/rikct/rik2/playlist.m3u8",
       "category": "General",
       "country": "CY"
     },
@@ -249019,6 +250131,13 @@
       "name": "Rikhd",
       "logo": "https://iptv-org.github.io/images/channels/RIKHD.cy.png",
       "url": "http://213.7.216.229:8888/udp/239.23.0.5:1234",
+      "category": "General",
+      "country": "CY"
+    },
+    {
+      "name": "Rikhd",
+      "logo": "https://iptv-org.github.io/images/channels/RIKHD.cy.png",
+      "url": "https://l6.cloudskep.com/rikct/rikhd/playlist.m3u8",
       "category": "General",
       "country": "CY"
     },
@@ -249915,6 +251034,13 @@
       "name": "Rtenespanol",
       "logo": "https://iptv-org.github.io/images/channels/RTenEspanol.ru.png",
       "url": "https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8",
+      "category": "General",
+      "country": "Russia"
+    },
+    {
+      "name": "Rtenespanol",
+      "logo": "https://iptv-org.github.io/images/channels/RTenEspanol.ru.png",
+      "url": "http://168.196.127.137:6001/play/a0a9/index.m3u8",
       "category": "General",
       "country": "Russia"
     },
@@ -256268,13 +257394,6 @@
       "country": "Brazil"
     },
     {
-      "name": "Showtime",
-      "logo": "https://iptv-org.github.io/images/channels/Showtime.us.png",
-      "url": "http://4.30.180.36:8420/showtime/mono.m3u8?token=test",
-      "category": "General",
-      "country": "United States"
-    },
-    {
       "name": "Showtimefamilyzone",
       "logo": "https://iptv-org.github.io/images/channels/ShowtimeFamilyZone.us.png",
       "url": "http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8",
@@ -257136,6 +258255,13 @@
       "country": "Russia"
     },
     {
+      "name": "Smithsonianchannelasia",
+      "logo": "https://iptv-org.github.io/images/channels/SmithsonianChannelAsia.us.png",
+      "url": "https://xyktmobile00.s.gy/PPV940_SMITHSONIAN",
+      "category": "General",
+      "country": "United States"
+    },
+    {
       "name": "Smithsonianchannelplutotv",
       "logo": "https://iptv-org.github.io/images/channels/SmithsonianChannelPlutoTV.us.png",
       "url": "https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8",
@@ -257825,6 +258951,13 @@
       "name": "Sonymovieslatinamerica",
       "logo": "https://iptv-org.github.io/images/channels/SonyMoviesLatinAmerica.us.png",
       "url": "https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8",
+      "category": "General",
+      "country": "United States"
+    },
+    {
+      "name": "Sonymovieslatinamerica",
+      "logo": "https://iptv-org.github.io/images/channels/SonyMoviesLatinAmerica.us.png",
+      "url": "http://38.252.238.18:8000/play/a01e/index.m3u8",
       "category": "General",
       "country": "United States"
     },
@@ -259314,6 +260447,13 @@
     },
     {
       "name": "Starchannel",
+      "logo": "https://iptv-org.github.io/images/channels/StarChannel.co.png",
+      "url": "http://190.61.47.54:8000/play/a035/index.m3u8",
+      "category": "General",
+      "country": "CO"
+    },
+    {
+      "name": "Starchannel",
       "logo": "https://iptv-org.github.io/images/channels/STARChannel.fi.png",
       "url": "https://live-fi.tvkaista.net/star-channel/live.m3u8",
       "category": "General",
@@ -259820,13 +260960,6 @@
       "name": "Starzcomedy",
       "logo": "https://iptv-org.github.io/images/channels/StarzComedy.us.png",
       "url": "http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8",
-      "category": "General",
-      "country": "United States"
-    },
-    {
-      "name": "Starzedge",
-      "logo": "https://iptv-org.github.io/images/channels/StarzEdge.us.png",
-      "url": "http://168.228.44.241:9998/play/a0e0/index.m3u8",
       "category": "General",
       "country": "United States"
     },
@@ -263429,6 +264562,13 @@
       "country": "AR"
     },
     {
+      "name": "Telefeinternacional",
+      "logo": "https://iptv-org.github.io/images/channels/TelefeInternacional.ar.png",
+      "url": "http://190.60.55.141:9083/play/a0pb/index.m3u8",
+      "category": "General",
+      "country": "AR"
+    },
+    {
       "name": "Teleferosario",
       "logo": "https://iptv-org.github.io/images/channels/TelefeRosario.ar.png",
       "url": "https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8",
@@ -263565,6 +264705,20 @@
       "name": "Teleislas",
       "logo": "https://iptv-org.github.io/images/channels/Teleislas.co.png",
       "url": "https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8",
+      "category": "General",
+      "country": "CO"
+    },
+    {
+      "name": "Teleislas",
+      "logo": "https://iptv-org.github.io/images/channels/Teleislas.co.png",
+      "url": "http://190.61.47.54:8000/play/a015/index.m3u8",
+      "category": "General",
+      "country": "CO"
+    },
+    {
+      "name": "Teleislas",
+      "logo": "https://iptv-org.github.io/images/channels/Teleislas.co.png",
+      "url": "http://181.78.211.244:8005/play/a08d/index.m3u8",
       "category": "General",
       "country": "CO"
     },
@@ -263908,6 +265062,13 @@
       "name": "Telemundo",
       "logo": "https://iptv-org.github.io/images/channels/Telemundo.us.png",
       "url": "http://168.228.44.241:9997/play/a07g/index.m3u8",
+      "category": "General",
+      "country": "United States"
+    },
+    {
+      "name": "Telemundo",
+      "logo": "https://iptv-org.github.io/images/channels/Telemundo.us.png",
+      "url": "https://xyktmobile00.s.gy/PPV943_CANAL27_ESAL",
       "category": "General",
       "country": "United States"
     },
@@ -264493,6 +265654,13 @@
       "country": "VE"
     },
     {
+      "name": "Telesur",
+      "logo": "https://iptv-org.github.io/images/channels/Telesur.ve.png",
+      "url": "http://181.78.211.244:8005/play/a0cc/index.m3u8",
+      "category": "General",
+      "country": "VE"
+    },
+    {
       "name": "Telesurcostarica",
       "logo": "https://iptv-org.github.io/images/channels/TeleSURCostaRica.cr.png",
       "url": "https://s1.tvdatta.com:3582/live/telesurlive.m3u8",
@@ -264664,6 +265832,13 @@
       "name": "Televen",
       "logo": "https://iptv-org.github.io/images/channels/Televen.ve.png",
       "url": "http://181.78.8.199:8000/play/a09j/index.m3u8",
+      "category": "General",
+      "country": "VE"
+    },
+    {
+      "name": "Televen",
+      "logo": "https://iptv-org.github.io/images/channels/Televen.ve.png",
+      "url": "http://38.134.250.110:8000/play/a02i/index.m3u8",
       "category": "General",
       "country": "VE"
     },
@@ -268203,6 +269378,13 @@
       "country": "Germany"
     },
     {
+      "name": "Towntv",
+      "logo": "https://iptv-org.github.io/images/channels/TownTV.kh.png",
+      "url": "https://stream.pdtvhd.com/LiveApp/streams/Townfullhd.m3u8",
+      "category": "General",
+      "country": "KH"
+    },
+    {
       "name": "Tpluse",
       "logo": "https://iptv-org.github.io/images/channels/TPlusE.ca.png",
       "url": "http://185.246.209.113/T+E/index.m3u8",
@@ -268745,6 +269927,13 @@
       "name": "Trece",
       "logo": "https://iptv-org.github.io/images/channels/Trece.co.png",
       "url": "https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8",
+      "category": "General",
+      "country": "CO"
+    },
+    {
+      "name": "Trece",
+      "logo": "https://iptv-org.github.io/images/channels/Trece.co.png",
+      "url": "http://190.60.46.228:8888/play/a030/index.m3u8",
       "category": "General",
       "country": "CO"
     },
@@ -269347,6 +270536,13 @@
       "name": "Tudn",
       "logo": "https://iptv-org.github.io/images/channels/TUDN.mx.png",
       "url": "https://streaming.alwaysdata.net/tudn.php",
+      "category": "General",
+      "country": "MX"
+    },
+    {
+      "name": "Tudn",
+      "logo": "https://iptv-org.github.io/images/channels/TUDN.mx.png",
+      "url": "http://45.5.118.152:8000/play/a08n/index.m3u8",
       "category": "General",
       "country": "MX"
     },
@@ -271472,6 +272668,13 @@
       "country": "CL"
     },
     {
+      "name": "Tvchile",
+      "logo": "https://iptv-org.github.io/images/channels/TVChile.cl.png",
+      "url": "http://38.252.238.18:8000/play/a04b/index.m3u8",
+      "category": "General",
+      "country": "CL"
+    },
+    {
       "name": "Tvchosun2",
       "logo": "https://iptv-org.github.io/images/channels/TVChosun2.kr.png",
       "url": "http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8",
@@ -271979,6 +273182,13 @@
       "name": "Tvestar",
       "logo": "https://iptv-org.github.io/images/channels/TVEStar.es.png",
       "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8",
+      "category": "General",
+      "country": "ES"
+    },
+    {
+      "name": "Tvestar",
+      "logo": "https://iptv-org.github.io/images/channels/TVEStar.es.png",
+      "url": "http://38.252.238.18:8000/play/a01h/index.m3u8",
       "category": "General",
       "country": "ES"
     },
@@ -273582,6 +274792,13 @@
       "name": "Tvperu",
       "logo": "https://iptv-org.github.io/images/channels/TVPeru.pe.png",
       "url": "http://181.224.200.5:2277/play/a0dx/index.m3u8",
+      "category": "General",
+      "country": "PE"
+    },
+    {
+      "name": "Tvperu",
+      "logo": "https://iptv-org.github.io/images/channels/TVPeru.pe.png",
+      "url": "http://187.102.208.209:8000/play/a0ay/index.m3u8",
       "category": "General",
       "country": "PE"
     },
@@ -275371,6 +276588,13 @@
       "country": "NL"
     },
     {
+      "name": "Twentyseven",
+      "logo": "https://iptv-org.github.io/images/channels/Twentyseven.it.png",
+      "url": "https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd",
+      "category": "General",
+      "country": "Italy"
+    },
+    {
       "name": "Twojatv",
       "logo": "https://iptv-org.github.io/images/channels/TwojaTV.pl.png",
       "url": "https://stream.twoja.tv/ttv_hls/live.m3u8",
@@ -275409,6 +276633,13 @@
       "name": "Tycsports",
       "logo": "https://iptv-org.github.io/images/channels/TyCSports.ar.png",
       "url": "http://38.44.109.41:8003/play/a02l/index.m3u8",
+      "category": "General",
+      "country": "AR"
+    },
+    {
+      "name": "Tycsports",
+      "logo": "https://iptv-org.github.io/images/channels/TyCSports.ar.png",
+      "url": "http://168.228.44.241:9999/play/a02e/index.m3u8",
       "category": "General",
       "country": "AR"
     },
@@ -276234,6 +277465,13 @@
     {
       "name": "Univision",
       "logo": "https://iptv-org.github.io/images/channels/Univision.us.png",
+      "url": "http://38.252.238.18:8000/play/a03e/index.m3u8",
+      "category": "General",
+      "country": "United States"
+    },
+    {
+      "name": "Univision",
+      "logo": "https://iptv-org.github.io/images/channels/Univision.us.png",
       "url": "http://45.190.13.8/UnivisionHD/index.m3u8",
       "category": "General",
       "country": "United States"
@@ -276496,27 +277734,6 @@
       "url": "http://str2.iptvhd.ru:8080/Usadba/index.m3u8",
       "category": "General",
       "country": "Russia"
-    },
-    {
-      "name": "Usanetwork",
-      "logo": "https://iptv-org.github.io/images/channels/USANetwork.us.png",
-      "url": "http://190.11.225.124:5000/live/usa_hd/playlist.m3u8",
-      "category": "General",
-      "country": "United States"
-    },
-    {
-      "name": "Usanetwork",
-      "logo": "https://iptv-org.github.io/images/channels/USANetwork.us.png",
-      "url": "https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8",
-      "category": "General",
-      "country": "United States"
-    },
-    {
-      "name": "Usanetwork",
-      "logo": "https://iptv-org.github.io/images/channels/USANetwork.us.png",
-      "url": "http://4.30.180.36:8420/usa/index.m3u8?token=test",
-      "category": "General",
-      "country": "United States"
     },
     {
       "name": "Usanetworklatinamerica",
@@ -277219,6 +278436,13 @@
       "country": "VE"
     },
     {
+      "name": "Veplus",
+      "logo": "https://iptv-org.github.io/images/channels/VePlus.ve.png",
+      "url": "http://186.148.196.100:8000/play/a01d",
+      "category": "General",
+      "country": "VE"
+    },
+    {
       "name": "Vera24",
       "logo": "https://iptv-org.github.io/images/channels/Vera24.ru.png",
       "url": "https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8",
@@ -277553,13 +278777,6 @@
       "url": "http://str2.iptvhd.ru:8080/v_gostyax_u_skaski/index.m3u8",
       "category": "General",
       "country": "Russia"
-    },
-    {
-      "name": "Vh1",
-      "logo": "https://iptv-org.github.io/images/channels/VH1.us.png",
-      "url": "http://4.30.180.36:8420/vh1/index.m3u8?token=test",
-      "category": "General",
-      "country": "United States"
     },
     {
       "name": "Vh1Queensofreality",
@@ -280645,6 +281862,13 @@
       "name": "Wkaqtv22",
       "logo": "https://iptv-org.github.io/images/channels/WKAQTV22.pr.png",
       "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8",
+      "category": "General",
+      "country": "PR"
+    },
+    {
+      "name": "Wkaqtv22",
+      "logo": "https://iptv-org.github.io/images/channels/WKAQTV22.pr.png",
+      "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master_720.m3u8",
       "category": "General",
       "country": "PR"
     },
