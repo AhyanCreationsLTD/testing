@@ -15959,7 +15959,7 @@
         {
           "name": "Tmf",
           "logo": "https://iptv-org.github.io/images/channels/TMF.nl.png",
-          "url": "https://tmf-nl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-yourchannels-10-restreaming/bitok/eyJzdGlkIjoiMGMzZGFhOGYtYjNhMC00Njk1LThkZTktZWNmNmVmNzRmMzY4IiwibWt0IjoibmwiLCJjaCI6IjEwIiwicHRmIjo1fQ%3D%3D/mpgmedia/TMF/TMF_NL/TMF_NL.m3u8"
+          "url": "https://raw.githubusercontent.com/racitonsen/RacIPTV/refs/heads/main/streams/TMF.m3u8"
         },
         {
           "name": "Tvellef",
@@ -24132,6 +24132,11 @@
           "url": "http://tv1.intv.mk:1935/live2/folkklub/index.m3u8"
         },
         {
+          "name": "Foxsportsnews",
+          "logo": "https://iptv-org.github.io/images/channels/FoxSportsNews.au.png",
+          "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8"
+        },
+        {
           "name": "Hopechannelaustralia",
           "logo": "https://iptv-org.github.io/images/channels/HopeChannelAustralia.au.png",
           "url": "https://videodelivery.net/9fb3596948ddf463fde0ec4b85625b24/manifest/video.m3u8"
@@ -31466,11 +31471,6 @@
         {
           "name": "France24",
           "logo": "https://iptv-org.github.io/images/channels/France24.fr.png",
-          "url": "https://liveh12.vtvprime.vn/hls/FRANCE24/03.m3u8"
-        },
-        {
-          "name": "France24",
-          "logo": "https://iptv-org.github.io/images/channels/France24.fr.png",
           "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_900.m3u8"
         },
         {
@@ -31712,6 +31712,11 @@
           "name": "Lefigarotviledefrance",
           "logo": "https://iptv-org.github.io/images/channels/LeFigaroTVIledeFrance.fr.png",
           "url": "https://static.lefigaro.fr/secom/tnt.m3u8"
+        },
+        {
+          "name": "Lequipe",
+          "logo": "https://iptv-org.github.io/images/channels/LEquipe.fr.png",
+          "url": "https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8"
         },
         {
           "name": "Littoralfmtv",
@@ -32366,11 +32371,6 @@
         {
           "name": "Tv5Mondeasia",
           "logo": "https://iptv-org.github.io/images/channels/TV5MondeAsia.fr.png",
-          "url": "https://liveh12.vtvprime.vn/hls/TV5/03.m3u8"
-        },
-        {
-          "name": "Tv5Mondeasia",
-          "logo": "https://iptv-org.github.io/images/channels/TV5MondeAsia.fr.png",
           "url": "http://27.131.164.187:8080/TV5_Monde/index.m3u8"
         },
         {
@@ -32397,6 +32397,11 @@
           "name": "Tv5Mondeasia",
           "logo": "https://iptv-org.github.io/images/channels/TV5MondeAsia.fr.png",
           "url": "https://mumt03.tangotv.in/Dsly5z3HTV5MONDEASIA/index.m3u8"
+        },
+        {
+          "name": "Tv5Mondeasia",
+          "logo": "https://iptv-org.github.io/images/channels/TV5MondeAsia.fr.png",
+          "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9852"
         },
         {
           "name": "Tv5Mondeasia",
@@ -34644,11 +34649,6 @@
           "name": "Twojatv",
           "logo": "https://iptv-org.github.io/images/channels/TwojaTV.pl.png",
           "url": "https://stream.twoja.tv/ttv_hls/live_720p/index.m3u8"
-        },
-        {
-          "name": "V90",
-          "logo": "https://iptv-org.github.io/images/channels/V90.pl.png",
-          "url": "http://57.128.231.171:8080/228/index.m3u8"
         },
         {
           "name": "Viasatexploreclassic",
@@ -40235,6 +40235,11 @@
           "url": "http://107.167.16.138/sonymarathi/index.m3u8?token=test"
         },
         {
+          "name": "Sonymax1",
+          "logo": "https://iptv-org.github.io/images/channels/SonyMax1.in.png",
+          "url": "http://27.116.22.53:5001/live/3418.m3u8"
+        },
+        {
           "name": "Sonymax2",
           "logo": "https://iptv-org.github.io/images/channels/SonyMax2.in.png",
           "url": "http://107.167.16.138/sonymax2/index.m3u8?token=test"
@@ -43916,11 +43921,6 @@
           "url": "http://190.108.83.69:8000/play/a01d/index.m3u8"
         },
         {
-          "name": "Eltreceinternacionallatinamerica",
-          "logo": "https://iptv-org.github.io/images/channels/ElTreceInternacionalLatinAmerica.ar.png",
-          "url": "http://200.7.99.59:8000/play/a0gm/index.m3u8"
-        },
-        {
           "name": "Encuentro",
           "logo": "https://iptv-org.github.io/images/channels/Encuentro.ar.png",
           "url": "http://138.59.227.20:8000/play/a05s/index.m3u8"
@@ -45760,6 +45760,11 @@
           "url": "https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8"
         },
         {
+          "name": "Englishclubglobal",
+          "logo": "https://iptv-org.github.io/images/channels/EnglishClubGlobal.uk.png",
+          "url": "https://raw.githubusercontent.com/racitonsen/RacIPTV/refs/heads/main/streams/english-club-global.m3u8"
+        },
+        {
           "name": "Englishclubtv",
           "logo": "https://iptv-org.github.io/images/channels/EnglishClubTV.uk.png",
           "url": "https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8"
@@ -46718,6 +46723,16 @@
           "name": "Skynewsweather",
           "logo": "https://iptv-org.github.io/images/channels/SkyNewsWeather.uk.png",
           "url": "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8"
+        },
+        {
+          "name": "Skysportsf1",
+          "logo": "https://iptv-org.github.io/images/channels/SkySportsF1.uk.png",
+          "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8"
+        },
+        {
+          "name": "Skysportsnfl",
+          "logo": "https://iptv-org.github.io/images/channels/SkySportsNFL.uk.png",
+          "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_ACTION/index.m3u8"
         },
         {
           "name": "Spacelivepoweredbysen",
@@ -64268,11 +64283,6 @@
         {
           "name": "Arirangtv",
           "logo": "https://iptv-org.github.io/images/channels/ArirangTV.kr.png",
-          "url": "https://liveh12.vtvprime.vn/hls/ARIRANG/03.m3u8"
-        },
-        {
-          "name": "Arirangtv",
-          "logo": "https://iptv-org.github.io/images/channels/ArirangTV.kr.png",
           "url": "https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8"
         },
         {
@@ -64514,11 +64524,6 @@
           "name": "Kbsworld",
           "logo": "https://iptv-org.github.io/images/channels/KBSWorld.kr.png",
           "url": "http://31.148.48.15/KBS_World/index.m3u8"
-        },
-        {
-          "name": "Kbsworld",
-          "logo": "https://iptv-org.github.io/images/channels/KBSWorld.kr.png",
-          "url": "https://liveh12.vtvprime.vn/hls/KBS/03.m3u8"
         },
         {
           "name": "Kctv",
@@ -69877,6 +69882,16 @@
           "url": "https://streaming.onnethn.com/CARACOL_INTERNACIONAL/playlist.m3u8"
         },
         {
+          "name": "Caracolinternacional",
+          "logo": "https://iptv-org.github.io/images/channels/CaracolInternacional.co.png",
+          "url": "http://45.238.141.222:8000/play/a0oo/index.m3u8"
+        },
+        {
+          "name": "Caracolinternacional",
+          "logo": "https://iptv-org.github.io/images/channels/CaracolInternacional.co.png",
+          "url": "http://45.5.117.57:8200/play/a0e9/index.m3u8"
+        },
+        {
           "name": "Caracoltv",
           "logo": "https://iptv-org.github.io/images/channels/CaracolTV.co.png",
           "url": "http://138.121.15.230:9002/CARACOL/index.m3u8"
@@ -69985,6 +70000,16 @@
           "name": "Caracoltv",
           "logo": "https://iptv-org.github.io/images/channels/CaracolTV.co.png",
           "url": "https://barinaslive1.boldmss.com/CARACOL/CARACOL.isml/CARACOL.m3u8"
+        },
+        {
+          "name": "Caracoltv",
+          "logo": "https://iptv-org.github.io/images/channels/CaracolTV.co.png",
+          "url": "http://45.173.12.70:8000/play/a0f9"
+        },
+        {
+          "name": "Caracoltv",
+          "logo": "https://iptv-org.github.io/images/channels/CaracolTV.co.png",
+          "url": "http://200.122.223.13:55000/play/canal-caracol-banda-ku/index.m3u8"
         },
         {
           "name": "Citytvbogota",
@@ -71173,6 +71198,11 @@
           "name": "Teleceiba",
           "logo": "https://iptv-org.github.io/images/channels/Teleceiba.hn.png",
           "url": "https://teleceiba.com/stream/tlcb720.m3u8"
+        },
+        {
+          "name": "Teleceiba",
+          "logo": "https://iptv-org.github.io/images/channels/Teleceiba.hn.png",
+          "url": "http://45.238.141.222:8000/play/a0pf/index.m3u8"
         },
         {
           "name": "Teledanli",
@@ -75788,6 +75818,11 @@
           "url": "https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8"
         },
         {
+          "name": "Cnbcasia",
+          "logo": "https://iptv-org.github.io/images/channels/CNBCAsia.sg.png",
+          "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9855"
+        },
+        {
           "name": "Crimeplusinvestigationasia",
           "logo": "https://iptv-org.github.io/images/channels/CrimePlusInvestigationAsia.sg.png",
           "url": "https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8"
@@ -78234,6 +78269,11 @@
           "name": "Powerhitradio",
           "logo": "https://iptv-org.github.io/images/channels/PowerHitRadio.lt.png",
           "url": "https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8"
+        },
+        {
+          "name": "Tv1",
+          "logo": "https://iptv-org.github.io/images/channels/TV1.lt.png",
+          "url": "https://lnk5511.bstrm.net/live/687e3fa8679c8d4d68fab5dd/hd/manifest.mpd"
         },
         {
           "name": "Tv3",
@@ -88009,12 +88049,6 @@
       {
         "name": "Arirangtv",
         "logo": "https://iptv-org.github.io/images/channels/ArirangTV.kr.png",
-        "url": "https://liveh12.vtvprime.vn/hls/ARIRANG/03.m3u8",
-        "country": "KR"
-      },
-      {
-        "name": "Arirangtv",
-        "logo": "https://iptv-org.github.io/images/channels/ArirangTV.kr.png",
         "url": "https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8",
         "country": "KR"
       },
@@ -97565,6 +97599,18 @@
         "country": "CO"
       },
       {
+        "name": "Caracolinternacional",
+        "logo": "https://iptv-org.github.io/images/channels/CaracolInternacional.co.png",
+        "url": "http://45.238.141.222:8000/play/a0oo/index.m3u8",
+        "country": "CO"
+      },
+      {
+        "name": "Caracolinternacional",
+        "logo": "https://iptv-org.github.io/images/channels/CaracolInternacional.co.png",
+        "url": "http://45.5.117.57:8200/play/a0e9/index.m3u8",
+        "country": "CO"
+      },
+      {
         "name": "Caracoltv",
         "logo": "https://iptv-org.github.io/images/channels/CaracolTV.co.png",
         "url": "http://138.121.15.230:9002/CARACOL/index.m3u8",
@@ -97694,6 +97740,18 @@
         "name": "Caracoltv",
         "logo": "https://iptv-org.github.io/images/channels/CaracolTV.co.png",
         "url": "https://barinaslive1.boldmss.com/CARACOL/CARACOL.isml/CARACOL.m3u8",
+        "country": "CO"
+      },
+      {
+        "name": "Caracoltv",
+        "logo": "https://iptv-org.github.io/images/channels/CaracolTV.co.png",
+        "url": "http://45.173.12.70:8000/play/a0f9",
+        "country": "CO"
+      },
+      {
+        "name": "Caracoltv",
+        "logo": "https://iptv-org.github.io/images/channels/CaracolTV.co.png",
+        "url": "http://200.122.223.13:55000/play/canal-caracol-banda-ku/index.m3u8",
         "country": "CO"
       },
       {
@@ -101691,6 +101749,12 @@
         "logo": "https://iptv-org.github.io/images/channels/CNBCArabiya.ae.png",
         "url": "https://cnbc-live.akamaized.net/cnbc/master.m3u8",
         "country": "UAE"
+      },
+      {
+        "name": "Cnbcasia",
+        "logo": "https://iptv-org.github.io/images/channels/CNBCAsia.sg.png",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9855",
+        "country": "SG"
       },
       {
         "name": "Cnbcawaaz",
@@ -108215,12 +108279,6 @@
         "country": "AR"
       },
       {
-        "name": "Eltreceinternacionallatinamerica",
-        "logo": "https://iptv-org.github.io/images/channels/ElTreceInternacionalLatinAmerica.ar.png",
-        "url": "http://200.7.99.59:8000/play/a0gm/index.m3u8",
-        "country": "AR"
-      },
-      {
         "name": "Eltv",
         "logo": "https://iptv-org.github.io/images/channels/ELTV.az.png",
         "url": "http://85.132.53.162:1935/live/eltv/playlist.m3u8",
@@ -108399,6 +108457,12 @@
         "logo": "https://iptv-org.github.io/images/channels/EnglishClass.ru.png",
         "url": "http://31.148.48.15/English_club_TV_HD/index.m3u8",
         "country": "Russia"
+      },
+      {
+        "name": "Englishclubglobal",
+        "logo": "https://iptv-org.github.io/images/channels/EnglishClubGlobal.uk.png",
+        "url": "https://raw.githubusercontent.com/racitonsen/RacIPTV/refs/heads/main/streams/english-club-global.m3u8",
+        "country": "United Kingdom"
       },
       {
         "name": "Englishclubtv",
@@ -112463,6 +112527,12 @@
         "country": "AR"
       },
       {
+        "name": "Foxsportsnews",
+        "logo": "https://iptv-org.github.io/images/channels/FoxSportsNews.au.png",
+        "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8",
+        "country": "Australia"
+      },
+      {
         "name": "Foxweather",
         "logo": "https://iptv-org.github.io/images/channels/FoxWeather.us.png",
         "url": "https://247wlive.foxweather.com/stream/index.m3u8",
@@ -112604,12 +112674,6 @@
         "name": "France24",
         "logo": "https://iptv-org.github.io/images/channels/France24.fr.png",
         "url": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8",
-        "country": "France"
-      },
-      {
-        "name": "France24",
-        "logo": "https://iptv-org.github.io/images/channels/France24.fr.png",
-        "url": "https://liveh12.vtvprime.vn/hls/FRANCE24/03.m3u8",
         "country": "France"
       },
       {
@@ -122027,12 +122091,6 @@
         "country": "KR"
       },
       {
-        "name": "Kbsworld",
-        "logo": "https://iptv-org.github.io/images/channels/KBSWorld.kr.png",
-        "url": "https://liveh12.vtvprime.vn/hls/KBS/03.m3u8",
-        "country": "KR"
-      },
-      {
         "name": "Kc2",
         "logo": "https://iptv-org.github.io/images/channels/KC2.rw.png",
         "url": "http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8",
@@ -124701,6 +124759,12 @@
         "logo": "https://iptv-org.github.io/images/channels/LepantoTV.gr.png",
         "url": "https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8",
         "country": "GR"
+      },
+      {
+        "name": "Lequipe",
+        "logo": "https://iptv-org.github.io/images/channels/LEquipe.fr.png",
+        "url": "https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8",
+        "country": "France"
       },
       {
         "name": "Lesanneesfac",
@@ -155441,6 +155505,18 @@
         "country": "Australia"
       },
       {
+        "name": "Skysportsf1",
+        "logo": "https://iptv-org.github.io/images/channels/SkySportsF1.uk.png",
+        "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Skysportsnfl",
+        "logo": "https://iptv-org.github.io/images/channels/SkySportsNFL.uk.png",
+        "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_ACTION/index.m3u8",
+        "country": "United Kingdom"
+      },
+      {
         "name": "Sl1",
         "logo": "https://iptv-org.github.io/images/channels/SL1.ir.png",
         "url": "https://slonehls.wns.live/hls/stream.m3u8",
@@ -156074,6 +156150,12 @@
         "name": "Sonymarathi",
         "logo": "https://iptv-org.github.io/images/channels/SonyMarathi.in.png",
         "url": "http://107.167.16.138/sonymarathi/index.m3u8?token=test",
+        "country": "India"
+      },
+      {
+        "name": "Sonymax1",
+        "logo": "https://iptv-org.github.io/images/channels/SonyMax1.in.png",
+        "url": "http://27.116.22.53:5001/live/3418.m3u8",
         "country": "India"
       },
       {
@@ -160907,6 +160989,12 @@
         "country": "HN"
       },
       {
+        "name": "Teleceiba",
+        "logo": "https://iptv-org.github.io/images/channels/Teleceiba.hn.png",
+        "url": "http://45.238.141.222:8000/play/a0pf/index.m3u8",
+        "country": "HN"
+      },
+      {
         "name": "Telecentro",
         "logo": "https://iptv-org.github.io/images/channels/Telecentro.do.png",
         "url": "https://live4.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8",
@@ -164407,7 +164495,7 @@
       {
         "name": "Tmf",
         "logo": "https://iptv-org.github.io/images/channels/TMF.nl.png",
-        "url": "https://tmf-nl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-yourchannels-10-restreaming/bitok/eyJzdGlkIjoiMGMzZGFhOGYtYjNhMC00Njk1LThkZTktZWNmNmVmNzRmMzY4IiwibWt0IjoibmwiLCJjaCI6IjEwIiwicHRmIjo1fQ%3D%3D/mpgmedia/TMF/TMF_NL/TMF_NL.m3u8",
+        "url": "https://raw.githubusercontent.com/racitonsen/RacIPTV/refs/heads/main/streams/TMF.m3u8",
         "country": "NL"
       },
       {
@@ -166596,6 +166684,12 @@
       },
       {
         "name": "Tv1",
+        "logo": "https://iptv-org.github.io/images/channels/TV1.lt.png",
+        "url": "https://lnk5511.bstrm.net/live/687e3fa8679c8d4d68fab5dd/hd/manifest.mpd",
+        "country": "LT"
+      },
+      {
+        "name": "Tv1",
         "logo": "https://iptv-org.github.io/images/channels/TV1.my.png",
         "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd",
         "country": "MY"
@@ -166903,12 +166997,6 @@
       {
         "name": "Tv5Mondeasia",
         "logo": "https://iptv-org.github.io/images/channels/TV5MondeAsia.fr.png",
-        "url": "https://liveh12.vtvprime.vn/hls/TV5/03.m3u8",
-        "country": "France"
-      },
-      {
-        "name": "Tv5Mondeasia",
-        "logo": "https://iptv-org.github.io/images/channels/TV5MondeAsia.fr.png",
         "url": "http://27.131.164.187:8080/TV5_Monde/index.m3u8",
         "country": "France"
       },
@@ -166940,6 +167028,12 @@
         "name": "Tv5Mondeasia",
         "logo": "https://iptv-org.github.io/images/channels/TV5MondeAsia.fr.png",
         "url": "https://mumt03.tangotv.in/Dsly5z3HTV5MONDEASIA/index.m3u8",
+        "country": "France"
+      },
+      {
+        "name": "Tv5Mondeasia",
+        "logo": "https://iptv-org.github.io/images/channels/TV5MondeAsia.fr.png",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9852",
         "country": "France"
       },
       {
@@ -172845,12 +172939,6 @@
         "logo": "https://iptv-org.github.io/images/channels/V6News.in.png",
         "url": "https://cdn.pishow.tv/ott/live/389/master.m3u8",
         "country": "India"
-      },
-      {
-        "name": "V90",
-        "logo": "https://iptv-org.github.io/images/channels/V90.pl.png",
-        "url": "http://57.128.231.171:8080/228/index.m3u8",
-        "country": "PL"
       },
       {
         "name": "Vaanaviltv",
@@ -186119,13 +186207,6 @@
     {
       "name": "Arirangtv",
       "logo": "https://iptv-org.github.io/images/channels/ArirangTV.kr.png",
-      "url": "https://liveh12.vtvprime.vn/hls/ARIRANG/03.m3u8",
-      "category": "General",
-      "country": "KR"
-    },
-    {
-      "name": "Arirangtv",
-      "logo": "https://iptv-org.github.io/images/channels/ArirangTV.kr.png",
       "url": "https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8",
       "category": "General",
       "country": "KR"
@@ -197268,6 +197349,20 @@
       "country": "CO"
     },
     {
+      "name": "Caracolinternacional",
+      "logo": "https://iptv-org.github.io/images/channels/CaracolInternacional.co.png",
+      "url": "http://45.238.141.222:8000/play/a0oo/index.m3u8",
+      "category": "General",
+      "country": "CO"
+    },
+    {
+      "name": "Caracolinternacional",
+      "logo": "https://iptv-org.github.io/images/channels/CaracolInternacional.co.png",
+      "url": "http://45.5.117.57:8200/play/a0e9/index.m3u8",
+      "category": "General",
+      "country": "CO"
+    },
+    {
       "name": "Caracoltv",
       "logo": "https://iptv-org.github.io/images/channels/CaracolTV.co.png",
       "url": "http://138.121.15.230:9002/CARACOL/index.m3u8",
@@ -197418,6 +197513,20 @@
       "name": "Caracoltv",
       "logo": "https://iptv-org.github.io/images/channels/CaracolTV.co.png",
       "url": "https://barinaslive1.boldmss.com/CARACOL/CARACOL.isml/CARACOL.m3u8",
+      "category": "General",
+      "country": "CO"
+    },
+    {
+      "name": "Caracoltv",
+      "logo": "https://iptv-org.github.io/images/channels/CaracolTV.co.png",
+      "url": "http://45.173.12.70:8000/play/a0f9",
+      "category": "General",
+      "country": "CO"
+    },
+    {
+      "name": "Caracoltv",
+      "logo": "https://iptv-org.github.io/images/channels/CaracolTV.co.png",
+      "url": "http://200.122.223.13:55000/play/canal-caracol-banda-ku/index.m3u8",
       "category": "General",
       "country": "CO"
     },
@@ -202082,6 +202191,13 @@
       "url": "https://cnbc-live.akamaized.net/cnbc/master.m3u8",
       "category": "General",
       "country": "UAE"
+    },
+    {
+      "name": "Cnbcasia",
+      "logo": "https://iptv-org.github.io/images/channels/CNBCAsia.sg.png",
+      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9855",
+      "category": "General",
+      "country": "SG"
     },
     {
       "name": "Cnbcawaaz",
@@ -209693,13 +209809,6 @@
       "country": "AR"
     },
     {
-      "name": "Eltreceinternacionallatinamerica",
-      "logo": "https://iptv-org.github.io/images/channels/ElTreceInternacionalLatinAmerica.ar.png",
-      "url": "http://200.7.99.59:8000/play/a0gm/index.m3u8",
-      "category": "General",
-      "country": "AR"
-    },
-    {
       "name": "Eltv",
       "logo": "https://iptv-org.github.io/images/channels/ELTV.az.png",
       "url": "http://85.132.53.162:1935/live/eltv/playlist.m3u8",
@@ -209908,6 +210017,13 @@
       "url": "http://31.148.48.15/English_club_TV_HD/index.m3u8",
       "category": "General",
       "country": "Russia"
+    },
+    {
+      "name": "Englishclubglobal",
+      "logo": "https://iptv-org.github.io/images/channels/EnglishClubGlobal.uk.png",
+      "url": "https://raw.githubusercontent.com/racitonsen/RacIPTV/refs/heads/main/streams/english-club-global.m3u8",
+      "category": "General",
+      "country": "United Kingdom"
     },
     {
       "name": "Englishclubtv",
@@ -214649,6 +214765,13 @@
       "country": "AR"
     },
     {
+      "name": "Foxsportsnews",
+      "logo": "https://iptv-org.github.io/images/channels/FoxSportsNews.au.png",
+      "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8",
+      "category": "General",
+      "country": "Australia"
+    },
+    {
       "name": "Foxweather",
       "logo": "https://iptv-org.github.io/images/channels/FoxWeather.us.png",
       "url": "https://247wlive.foxweather.com/stream/index.m3u8",
@@ -214813,13 +214936,6 @@
       "name": "France24",
       "logo": "https://iptv-org.github.io/images/channels/France24.fr.png",
       "url": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8",
-      "category": "General",
-      "country": "France"
-    },
-    {
-      "name": "France24",
-      "logo": "https://iptv-org.github.io/images/channels/France24.fr.png",
-      "url": "https://liveh12.vtvprime.vn/hls/FRANCE24/03.m3u8",
       "category": "General",
       "country": "France"
     },
@@ -225807,13 +225923,6 @@
       "country": "KR"
     },
     {
-      "name": "Kbsworld",
-      "logo": "https://iptv-org.github.io/images/channels/KBSWorld.kr.png",
-      "url": "https://liveh12.vtvprime.vn/hls/KBS/03.m3u8",
-      "category": "General",
-      "country": "KR"
-    },
-    {
       "name": "Kc2",
       "logo": "https://iptv-org.github.io/images/channels/KC2.rw.png",
       "url": "http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8",
@@ -228927,6 +229036,13 @@
       "url": "https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8",
       "category": "General",
       "country": "GR"
+    },
+    {
+      "name": "Lequipe",
+      "logo": "https://iptv-org.github.io/images/channels/LEquipe.fr.png",
+      "url": "https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8",
+      "category": "General",
+      "country": "France"
     },
     {
       "name": "Lesanneesfac",
@@ -264790,6 +264906,20 @@
       "country": "Australia"
     },
     {
+      "name": "Skysportsf1",
+      "logo": "https://iptv-org.github.io/images/channels/SkySportsF1.uk.png",
+      "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8",
+      "category": "General",
+      "country": "United Kingdom"
+    },
+    {
+      "name": "Skysportsnfl",
+      "logo": "https://iptv-org.github.io/images/channels/SkySportsNFL.uk.png",
+      "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_ACTION/index.m3u8",
+      "category": "General",
+      "country": "United Kingdom"
+    },
+    {
       "name": "Sl1",
       "logo": "https://iptv-org.github.io/images/channels/SL1.ir.png",
       "url": "https://slonehls.wns.live/hls/stream.m3u8",
@@ -265528,6 +265658,13 @@
       "name": "Sonymarathi",
       "logo": "https://iptv-org.github.io/images/channels/SonyMarathi.in.png",
       "url": "http://107.167.16.138/sonymarathi/index.m3u8?token=test",
+      "category": "General",
+      "country": "India"
+    },
+    {
+      "name": "Sonymax1",
+      "logo": "https://iptv-org.github.io/images/channels/SonyMax1.in.png",
+      "url": "http://27.116.22.53:5001/live/3418.m3u8",
       "category": "General",
       "country": "India"
     },
@@ -271167,6 +271304,13 @@
       "country": "HN"
     },
     {
+      "name": "Teleceiba",
+      "logo": "https://iptv-org.github.io/images/channels/Teleceiba.hn.png",
+      "url": "http://45.238.141.222:8000/play/a0pf/index.m3u8",
+      "category": "General",
+      "country": "HN"
+    },
+    {
       "name": "Telecentro",
       "logo": "https://iptv-org.github.io/images/channels/Telecentro.do.png",
       "url": "https://live4.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8",
@@ -275250,7 +275394,7 @@
     {
       "name": "Tmf",
       "logo": "https://iptv-org.github.io/images/channels/TMF.nl.png",
-      "url": "https://tmf-nl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-yourchannels-10-restreaming/bitok/eyJzdGlkIjoiMGMzZGFhOGYtYjNhMC00Njk1LThkZTktZWNmNmVmNzRmMzY4IiwibWt0IjoibmwiLCJjaCI6IjEwIiwicHRmIjo1fQ%3D%3D/mpgmedia/TMF/TMF_NL/TMF_NL.m3u8",
+      "url": "https://raw.githubusercontent.com/racitonsen/RacIPTV/refs/heads/main/streams/TMF.m3u8",
       "category": "General",
       "country": "NL"
     },
@@ -277804,6 +277948,13 @@
     },
     {
       "name": "Tv1",
+      "logo": "https://iptv-org.github.io/images/channels/TV1.lt.png",
+      "url": "https://lnk5511.bstrm.net/live/687e3fa8679c8d4d68fab5dd/hd/manifest.mpd",
+      "category": "General",
+      "country": "LT"
+    },
+    {
+      "name": "Tv1",
       "logo": "https://iptv-org.github.io/images/channels/TV1.my.png",
       "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd",
       "category": "General",
@@ -278162,13 +278313,6 @@
     {
       "name": "Tv5Mondeasia",
       "logo": "https://iptv-org.github.io/images/channels/TV5MondeAsia.fr.png",
-      "url": "https://liveh12.vtvprime.vn/hls/TV5/03.m3u8",
-      "category": "General",
-      "country": "France"
-    },
-    {
-      "name": "Tv5Mondeasia",
-      "logo": "https://iptv-org.github.io/images/channels/TV5MondeAsia.fr.png",
       "url": "http://27.131.164.187:8080/TV5_Monde/index.m3u8",
       "category": "General",
       "country": "France"
@@ -278205,6 +278349,13 @@
       "name": "Tv5Mondeasia",
       "logo": "https://iptv-org.github.io/images/channels/TV5MondeAsia.fr.png",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTV5MONDEASIA/index.m3u8",
+      "category": "General",
+      "country": "France"
+    },
+    {
+      "name": "Tv5Mondeasia",
+      "logo": "https://iptv-org.github.io/images/channels/TV5MondeAsia.fr.png",
+      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9852",
       "category": "General",
       "country": "France"
     },
@@ -285095,13 +285246,6 @@
       "url": "https://cdn.pishow.tv/ott/live/389/master.m3u8",
       "category": "General",
       "country": "India"
-    },
-    {
-      "name": "V90",
-      "logo": "https://iptv-org.github.io/images/channels/V90.pl.png",
-      "url": "http://57.128.231.171:8080/228/index.m3u8",
-      "category": "General",
-      "country": "PL"
     },
     {
       "name": "Vaanaviltv",
