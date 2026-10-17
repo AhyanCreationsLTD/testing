@@ -13355,11 +13355,6 @@
         {
           "name": "Tooncast",
           "logo": "https://iptv-org.github.io/images/channels/Tooncast.us.png",
-          "url": "http://170.244.209.30:8000/play/a05t/index.m3u8"
-        },
-        {
-          "name": "Tooncast",
-          "logo": "https://iptv-org.github.io/images/channels/Tooncast.us.png",
           "url": "http://200.62.239.170:830/play/a07n/index.m3u8"
         },
         {
@@ -24192,6 +24187,16 @@
           "url": "https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8"
         },
         {
+          "name": "Skynewsextra",
+          "logo": "https://iptv-org.github.io/images/channels/SkyNewsExtra.au.png",
+          "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8"
+        },
+        {
+          "name": "Skynewsweatherchannel",
+          "logo": "https://iptv-org.github.io/images/channels/SkyNewsWeatherChannel.au.png",
+          "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105305/skynewsweather/live_540p.m3u8"
+        },
+        {
           "name": "Skyracing1",
           "logo": "https://iptv-org.github.io/images/channels/SkyRacing1.au.png",
           "url": "https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8"
@@ -31496,6 +31501,11 @@
         {
           "name": "France24",
           "logo": "https://iptv-org.github.io/images/channels/France24.fr.png",
+          "url": "https://freem3u.xyz/api/live/play.m3u8?vid=96"
+        },
+        {
+          "name": "France24",
+          "logo": "https://iptv-org.github.io/images/channels/France24.fr.png",
           "url": "https://amg00106-amg00106c1-samsung-nz-4151.playouts.now.amagi.tv/playlist.m3u8"
         },
         {
@@ -31557,6 +31567,11 @@
           "name": "France24",
           "logo": "https://iptv-org.github.io/images/channels/France24.fr.png",
           "url": "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_500.m3u8"
+        },
+        {
+          "name": "France24",
+          "logo": "https://iptv-org.github.io/images/channels/France24.fr.png",
+          "url": "https://freem3u.xyz/api/live/play.m3u8?vid=10007"
         },
         {
           "name": "France24",
@@ -64238,6 +64253,11 @@
         {
           "name": "Arirangtv",
           "logo": "https://iptv-org.github.io/images/channels/ArirangTV.kr.png",
+          "url": "https://freem3u.xyz/api/live/play.m3u8?vid=111"
+        },
+        {
+          "name": "Arirangtv",
+          "logo": "https://iptv-org.github.io/images/channels/ArirangTV.kr.png",
           "url": "https://dash3.antik.sk/live/test_arirang/playlist.m3u8"
         },
         {
@@ -69282,6 +69302,46 @@
           "name": "Alrayyantv",
           "logo": "https://iptv-org.github.io/images/channels/AlRayyanTV.qa.png",
           "url": "https://streamer7.qna.org.qa/148136749_live/148136749_296.sdp/playlist.m3u8"
+        },
+        {
+          "name": "Beinsports1",
+          "logo": "https://iptv-org.github.io/images/channels/beINSports1.qa.png",
+          "url": "http://primetv.cc.cd/beinfhd1/tracks-v1a1/mono.tbin.m3u8"
+        },
+        {
+          "name": "Beinsports2",
+          "logo": "https://iptv-org.github.io/images/channels/beINSports2.qa.png",
+          "url": "http://primetv.cc.cd/beinfhd2/index.m3u8"
+        },
+        {
+          "name": "Beinsports3",
+          "logo": "https://iptv-org.github.io/images/channels/beINSports3.qa.png",
+          "url": "http://primetv.cc.cd/beinfhd3/index.m3u8"
+        },
+        {
+          "name": "Beinsports4",
+          "logo": "https://iptv-org.github.io/images/channels/beINSports4.qa.png",
+          "url": "http://primetv.cc.cd/beinfhd4/tracks-v1a1/mono.tbin.m3u8"
+        },
+        {
+          "name": "Beinsports5",
+          "logo": "https://iptv-org.github.io/images/channels/beINSports5.qa.png",
+          "url": "http://primetv.cc.cd/beinfhd5/tracks-v1a1/mono.tbin.m3u8"
+        },
+        {
+          "name": "Beinsports6",
+          "logo": "https://iptv-org.github.io/images/channels/beINSports6.qa.png",
+          "url": "http://primetv.cc.cd/beinfhd6/index.m3u8"
+        },
+        {
+          "name": "Beinsports7",
+          "logo": "https://iptv-org.github.io/images/channels/beINSports7.qa.png",
+          "url": "http://primetv.cc.cd/beinfhd7/index.m3u8"
+        },
+        {
+          "name": "Beinsports8",
+          "logo": "https://iptv-org.github.io/images/channels/beINSports8.qa.png",
+          "url": "http://primetv.cc.cd/beinfhd8/index.m3u8"
         },
         {
           "name": "Libyaalahrartv",
@@ -74783,6 +74843,11 @@
           "name": "Anninhtv",
           "logo": "https://iptv-org.github.io/images/channels/AnNinhTV.vn.png",
           "url": "https://freem3u.xyz/api/live/play.m3u8?vid=20"
+        },
+        {
+          "name": "Binhthuantv",
+          "logo": "https://iptv-org.github.io/images/channels/BinhThuanTV.vn.png",
+          "url": "https://1011154949.vnns.net/CDN-FPT02/BINHTHUAN-SD-720p/playlist.m3u8"
         },
         {
           "name": "Camautv",
@@ -80732,11 +80797,6 @@
           "name": "Taivastv7",
           "logo": "https://iptv-org.github.io/images/channels/TaivasTV7.fi.png",
           "url": "https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8"
-        },
-        {
-          "name": "Viaplaytv",
-          "logo": "https://iptv-org.github.io/images/channels/ViaplayTV.fi.png",
-          "url": "https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true"
         },
         {
           "name": "Yleteemafem",
@@ -87995,6 +88055,12 @@
       {
         "name": "Arirangtv",
         "logo": "https://iptv-org.github.io/images/channels/ArirangTV.kr.png",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=111",
+        "country": "KR"
+      },
+      {
+        "name": "Arirangtv",
+        "logo": "https://iptv-org.github.io/images/channels/ArirangTV.kr.png",
         "url": "https://dash3.antik.sk/live/test_arirang/playlist.m3u8",
         "country": "KR"
       },
@@ -92073,6 +92139,54 @@
         "country": "TR"
       },
       {
+        "name": "Beinsports1",
+        "logo": "https://iptv-org.github.io/images/channels/beINSports1.qa.png",
+        "url": "http://primetv.cc.cd/beinfhd1/tracks-v1a1/mono.tbin.m3u8",
+        "country": "QA"
+      },
+      {
+        "name": "Beinsports2",
+        "logo": "https://iptv-org.github.io/images/channels/beINSports2.qa.png",
+        "url": "http://primetv.cc.cd/beinfhd2/index.m3u8",
+        "country": "QA"
+      },
+      {
+        "name": "Beinsports3",
+        "logo": "https://iptv-org.github.io/images/channels/beINSports3.qa.png",
+        "url": "http://primetv.cc.cd/beinfhd3/index.m3u8",
+        "country": "QA"
+      },
+      {
+        "name": "Beinsports4",
+        "logo": "https://iptv-org.github.io/images/channels/beINSports4.qa.png",
+        "url": "http://primetv.cc.cd/beinfhd4/tracks-v1a1/mono.tbin.m3u8",
+        "country": "QA"
+      },
+      {
+        "name": "Beinsports5",
+        "logo": "https://iptv-org.github.io/images/channels/beINSports5.qa.png",
+        "url": "http://primetv.cc.cd/beinfhd5/tracks-v1a1/mono.tbin.m3u8",
+        "country": "QA"
+      },
+      {
+        "name": "Beinsports6",
+        "logo": "https://iptv-org.github.io/images/channels/beINSports6.qa.png",
+        "url": "http://primetv.cc.cd/beinfhd6/index.m3u8",
+        "country": "QA"
+      },
+      {
+        "name": "Beinsports7",
+        "logo": "https://iptv-org.github.io/images/channels/beINSports7.qa.png",
+        "url": "http://primetv.cc.cd/beinfhd7/index.m3u8",
+        "country": "QA"
+      },
+      {
+        "name": "Beinsports8",
+        "logo": "https://iptv-org.github.io/images/channels/beINSports8.qa.png",
+        "url": "http://primetv.cc.cd/beinfhd8/index.m3u8",
+        "country": "QA"
+      },
+      {
         "name": "Beinsportsxtra",
         "logo": "https://iptv-org.github.io/images/channels/beINSPORTSXTRA.us.png",
         "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
@@ -93049,6 +93163,12 @@
         "logo": "https://iptv-org.github.io/images/channels/BingtuanSatelliteTV.cn.png",
         "url": "http://112.25.48.68/live/program/live/btws/1300000/mnf.m3u8",
         "country": "China"
+      },
+      {
+        "name": "Binhthuantv",
+        "logo": "https://iptv-org.github.io/images/channels/BinhThuanTV.vn.png",
+        "url": "https://1011154949.vnns.net/CDN-FPT02/BINHTHUAN-SD-720p/playlist.m3u8",
+        "country": "VN"
       },
       {
         "name": "Biobiotv",
@@ -112709,6 +112829,12 @@
       {
         "name": "France24",
         "logo": "https://iptv-org.github.io/images/channels/France24.fr.png",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=96",
+        "country": "France"
+      },
+      {
+        "name": "France24",
+        "logo": "https://iptv-org.github.io/images/channels/France24.fr.png",
         "url": "https://amg00106-amg00106c1-samsung-nz-4151.playouts.now.amagi.tv/playlist.m3u8",
         "country": "France"
       },
@@ -112782,6 +112908,12 @@
         "name": "France24",
         "logo": "https://iptv-org.github.io/images/channels/France24.fr.png",
         "url": "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_500.m3u8",
+        "country": "France"
+      },
+      {
+        "name": "France24",
+        "logo": "https://iptv-org.github.io/images/channels/France24.fr.png",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=10007",
         "country": "France"
       },
       {
@@ -155475,6 +155607,12 @@
         "country": "Australia"
       },
       {
+        "name": "Skynewsextra",
+        "logo": "https://iptv-org.github.io/images/channels/SkyNewsExtra.au.png",
+        "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8",
+        "country": "Australia"
+      },
+      {
         "name": "Skynewsurdu",
         "logo": "https://iptv-org.github.io/images/channels/SkyNewsUrdu.pk.png",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8",
@@ -155485,6 +155623,12 @@
         "logo": "https://iptv-org.github.io/images/channels/SkyNewsWeather.uk.png",
         "url": "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8",
         "country": "United Kingdom"
+      },
+      {
+        "name": "Skynewsweatherchannel",
+        "logo": "https://iptv-org.github.io/images/channels/SkyNewsWeatherChannel.au.png",
+        "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105305/skynewsweather/live_540p.m3u8",
+        "country": "Australia"
       },
       {
         "name": "Skyracing1",
@@ -165077,12 +165221,6 @@
       {
         "name": "Tooncast",
         "logo": "https://iptv-org.github.io/images/channels/Tooncast.us.png",
-        "url": "http://170.244.209.30:8000/play/a05t/index.m3u8",
-        "country": "United States"
-      },
-      {
-        "name": "Tooncast",
-        "logo": "https://iptv-org.github.io/images/channels/Tooncast.us.png",
         "url": "http://200.62.239.170:830/play/a07n/index.m3u8",
         "country": "United States"
       },
@@ -173713,12 +173851,6 @@
         "logo": "https://iptv-org.github.io/images/channels/ViaOccitanie.fr.png",
         "url": "https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8",
         "country": "France"
-      },
-      {
-        "name": "Viaplaytv",
-        "logo": "https://iptv-org.github.io/images/channels/ViaplayTV.fi.png",
-        "url": "https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true",
-        "country": "FI"
       },
       {
         "name": "Viasat2",
@@ -186144,6 +186276,13 @@
     {
       "name": "Arirangtv",
       "logo": "https://iptv-org.github.io/images/channels/ArirangTV.kr.png",
+      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=111",
+      "category": "General",
+      "country": "KR"
+    },
+    {
+      "name": "Arirangtv",
+      "logo": "https://iptv-org.github.io/images/channels/ArirangTV.kr.png",
       "url": "https://dash3.antik.sk/live/test_arirang/playlist.m3u8",
       "category": "General",
       "country": "KR"
@@ -190902,6 +191041,62 @@
       "country": "TR"
     },
     {
+      "name": "Beinsports1",
+      "logo": "https://iptv-org.github.io/images/channels/beINSports1.qa.png",
+      "url": "http://primetv.cc.cd/beinfhd1/tracks-v1a1/mono.tbin.m3u8",
+      "category": "General",
+      "country": "QA"
+    },
+    {
+      "name": "Beinsports2",
+      "logo": "https://iptv-org.github.io/images/channels/beINSports2.qa.png",
+      "url": "http://primetv.cc.cd/beinfhd2/index.m3u8",
+      "category": "General",
+      "country": "QA"
+    },
+    {
+      "name": "Beinsports3",
+      "logo": "https://iptv-org.github.io/images/channels/beINSports3.qa.png",
+      "url": "http://primetv.cc.cd/beinfhd3/index.m3u8",
+      "category": "General",
+      "country": "QA"
+    },
+    {
+      "name": "Beinsports4",
+      "logo": "https://iptv-org.github.io/images/channels/beINSports4.qa.png",
+      "url": "http://primetv.cc.cd/beinfhd4/tracks-v1a1/mono.tbin.m3u8",
+      "category": "General",
+      "country": "QA"
+    },
+    {
+      "name": "Beinsports5",
+      "logo": "https://iptv-org.github.io/images/channels/beINSports5.qa.png",
+      "url": "http://primetv.cc.cd/beinfhd5/tracks-v1a1/mono.tbin.m3u8",
+      "category": "General",
+      "country": "QA"
+    },
+    {
+      "name": "Beinsports6",
+      "logo": "https://iptv-org.github.io/images/channels/beINSports6.qa.png",
+      "url": "http://primetv.cc.cd/beinfhd6/index.m3u8",
+      "category": "General",
+      "country": "QA"
+    },
+    {
+      "name": "Beinsports7",
+      "logo": "https://iptv-org.github.io/images/channels/beINSports7.qa.png",
+      "url": "http://primetv.cc.cd/beinfhd7/index.m3u8",
+      "category": "General",
+      "country": "QA"
+    },
+    {
+      "name": "Beinsports8",
+      "logo": "https://iptv-org.github.io/images/channels/beINSports8.qa.png",
+      "url": "http://primetv.cc.cd/beinfhd8/index.m3u8",
+      "category": "General",
+      "country": "QA"
+    },
+    {
       "name": "Beinsportsxtra",
       "logo": "https://iptv-org.github.io/images/channels/beINSPORTSXTRA.us.png",
       "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
@@ -192041,6 +192236,13 @@
       "url": "http://112.25.48.68/live/program/live/btws/1300000/mnf.m3u8",
       "category": "General",
       "country": "China"
+    },
+    {
+      "name": "Binhthuantv",
+      "logo": "https://iptv-org.github.io/images/channels/BinhThuanTV.vn.png",
+      "url": "https://1011154949.vnns.net/CDN-FPT02/BINHTHUAN-SD-720p/playlist.m3u8",
+      "category": "General",
+      "country": "VN"
     },
     {
       "name": "Biobiotv",
@@ -214977,6 +215179,13 @@
     {
       "name": "France24",
       "logo": "https://iptv-org.github.io/images/channels/France24.fr.png",
+      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=96",
+      "category": "General",
+      "country": "France"
+    },
+    {
+      "name": "France24",
+      "logo": "https://iptv-org.github.io/images/channels/France24.fr.png",
       "url": "https://amg00106-amg00106c1-samsung-nz-4151.playouts.now.amagi.tv/playlist.m3u8",
       "category": "General",
       "country": "France"
@@ -215062,6 +215271,13 @@
       "name": "France24",
       "logo": "https://iptv-org.github.io/images/channels/France24.fr.png",
       "url": "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_500.m3u8",
+      "category": "General",
+      "country": "France"
+    },
+    {
+      "name": "France24",
+      "logo": "https://iptv-org.github.io/images/channels/France24.fr.png",
+      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=10007",
       "category": "General",
       "country": "France"
     },
@@ -264871,6 +265087,13 @@
       "country": "Australia"
     },
     {
+      "name": "Skynewsextra",
+      "logo": "https://iptv-org.github.io/images/channels/SkyNewsExtra.au.png",
+      "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8",
+      "category": "General",
+      "country": "Australia"
+    },
+    {
       "name": "Skynewsurdu",
       "logo": "https://iptv-org.github.io/images/channels/SkyNewsUrdu.pk.png",
       "url": "https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8",
@@ -264883,6 +265106,13 @@
       "url": "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8",
       "category": "General",
       "country": "United Kingdom"
+    },
+    {
+      "name": "Skynewsweatherchannel",
+      "logo": "https://iptv-org.github.io/images/channels/SkyNewsWeatherChannel.au.png",
+      "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105305/skynewsweather/live_540p.m3u8",
+      "category": "General",
+      "country": "Australia"
     },
     {
       "name": "Skyracing1",
@@ -276073,13 +276303,6 @@
     {
       "name": "Tooncast",
       "logo": "https://iptv-org.github.io/images/channels/Tooncast.us.png",
-      "url": "http://170.244.209.30:8000/play/a05t/index.m3u8",
-      "category": "General",
-      "country": "United States"
-    },
-    {
-      "name": "Tooncast",
-      "logo": "https://iptv-org.github.io/images/channels/Tooncast.us.png",
       "url": "http://200.62.239.170:830/play/a07n/index.m3u8",
       "category": "General",
       "country": "United States"
@@ -286149,13 +286372,6 @@
       "url": "https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8",
       "category": "General",
       "country": "France"
-    },
-    {
-      "name": "Viaplaytv",
-      "logo": "https://iptv-org.github.io/images/channels/ViaplayTV.fi.png",
-      "url": "https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true",
-      "category": "General",
-      "country": "FI"
     },
     {
       "name": "Viasat2",
