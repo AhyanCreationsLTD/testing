@@ -16671,6 +16671,11 @@
           "url": "https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv"
         },
         {
+          "name": "Cartoonclassics",
+          "logo": "https://iptv-org.github.io/images/channels/CartoonClassics.ru.png",
+          "url": "http://88.218.242.237:8001/Cartoon_Classics"
+        },
+        {
           "name": "Channel5",
           "logo": "https://iptv-org.github.io/images/channels/Channel5.ru.png",
           "url": "http://31.148.5.241/kanal_5/index.m3u8"
@@ -73139,6 +73144,11 @@
           "url": "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8"
         },
         {
+          "name": "Cctv5Plus",
+          "logo": "https://iptv-org.github.io/images/channels/CCTV5Plus.cn.png",
+          "url": "https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p"
+        },
+        {
           "name": "Cctv6",
           "logo": "https://iptv-org.github.io/images/channels/CCTV6.cn.png",
           "url": "http://69.30.245.50/live/cctv6.m3u8"
@@ -74966,11 +74976,6 @@
           "name": "Sctv4",
           "logo": "https://iptv-org.github.io/images/channels/SCTV4.vn.png",
           "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8"
-        },
-        {
-          "name": "Sctv4K",
-          "logo": "https://iptv-org.github.io/images/channels/SCTV4K.vn.png",
-          "url": "https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8"
         },
         {
           "name": "Sctv6",
@@ -97805,6 +97810,12 @@
         "country": "PL"
       },
       {
+        "name": "Cartoonclassics",
+        "logo": "https://iptv-org.github.io/images/channels/CartoonClassics.ru.png",
+        "url": "http://88.218.242.237:8001/Cartoon_Classics",
+        "country": "Russia"
+      },
+      {
         "name": "Cartoonito",
         "logo": "https://iptv-org.github.io/images/channels/Cartoonito.it.png",
         "url": "https://boing.akamaized.net/6380673432112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDY3MzQzMjExMiJ9.WACYETOZxZYmZHRpxwRrATxVZQBdSoeaWdfhtLKx1kI/playlist-hls.m3u8",
@@ -98744,6 +98755,12 @@
         "name": "Cctv5Plus",
         "logo": "https://iptv-org.github.io/images/channels/CCTV5Plus.cn.png",
         "url": "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8",
+        "country": "China"
+      },
+      {
+        "name": "Cctv5Plus",
+        "logo": "https://iptv-org.github.io/images/channels/CCTV5Plus.cn.png",
+        "url": "https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p",
         "country": "China"
       },
       {
@@ -153437,12 +153454,6 @@
         "country": "VN"
       },
       {
-        "name": "Sctv4K",
-        "logo": "https://iptv-org.github.io/images/channels/SCTV4K.vn.png",
-        "url": "https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8",
-        "country": "VN"
-      },
-      {
         "name": "Sctv6",
         "logo": "https://iptv-org.github.io/images/channels/SCTV6.vn.png",
         "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8",
@@ -197300,6 +197311,13 @@
       "country": "PL"
     },
     {
+      "name": "Cartoonclassics",
+      "logo": "https://iptv-org.github.io/images/channels/CartoonClassics.ru.png",
+      "url": "http://88.218.242.237:8001/Cartoon_Classics",
+      "category": "General",
+      "country": "Russia"
+    },
+    {
       "name": "Cartoonito",
       "logo": "https://iptv-org.github.io/images/channels/Cartoonito.it.png",
       "url": "https://boing.akamaized.net/6380673432112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDY3MzQzMjExMiJ9.WACYETOZxZYmZHRpxwRrATxVZQBdSoeaWdfhtLKx1kI/playlist-hls.m3u8",
@@ -198395,6 +198413,13 @@
       "name": "Cctv5Plus",
       "logo": "https://iptv-org.github.io/images/channels/CCTV5Plus.cn.png",
       "url": "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8",
+      "category": "General",
+      "country": "China"
+    },
+    {
+      "name": "Cctv5Plus",
+      "logo": "https://iptv-org.github.io/images/channels/CCTV5Plus.cn.png",
+      "url": "https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p",
       "category": "General",
       "country": "China"
     },
@@ -262200,13 +262225,6 @@
       "name": "Sctv4",
       "logo": "https://iptv-org.github.io/images/channels/SCTV4.vn.png",
       "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8",
-      "category": "General",
-      "country": "VN"
-    },
-    {
-      "name": "Sctv4K",
-      "logo": "https://iptv-org.github.io/images/channels/SCTV4K.vn.png",
-      "url": "https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8",
       "category": "General",
       "country": "VN"
     },

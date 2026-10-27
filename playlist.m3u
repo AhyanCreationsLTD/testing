@@ -5483,6 +5483,8 @@ https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv
 https://acceso.mediosdecostarica.com:3511/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/CartoonClassics.pl.png" group-title="General",Cartoonclassics
 https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/CartoonClassics.ru.png" group-title="General",Cartoonclassics
+http://88.218.242.237:8001/Cartoon_Classics
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/Cartoonito.it.png" group-title="General",Cartoonito
 https://boing.akamaized.net/6380673432112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDY3MzQzMjExMiJ9.WACYETOZxZYmZHRpxwRrATxVZQBdSoeaWdfhtLKx1kI/playlist-hls.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/CartoonitoAsia.sg.png" group-title="General",Cartoonitoasia
@@ -5797,6 +5799,8 @@ https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 http://198.204.240.250:82/live/cctv4k.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/CCTV5Plus.cn.png" group-title="General",Cctv5Plus
 https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/CCTV5Plus.cn.png" group-title="General",Cctv5Plus
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/CCTV6.cn.png" group-title="General",Cctv6
 http://69.30.245.50/live/cctv6.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/CCTV6.cn.png" group-title="General",Cctv6
@@ -24027,8 +24031,6 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/sctv3/master.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SCTV4.vn.png" group-title="General",Sctv4
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SCTV4K.vn.png" group-title="General",Sctv4K
-https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SCTV6.vn.png" group-title="General",Sctv6
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/channels/SCTV7.vn.png" group-title="General",Sctv7
