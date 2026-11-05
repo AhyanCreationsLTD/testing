@@ -1648,6 +1648,11 @@
           "url": "https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8"
         },
         {
+          "name": "Beinsportsusa",
+          "logo": "https://iptv-org.github.io/images/channels/beINSportsUSA.us.png",
+          "url": "https://tvsen6.aynaott.com/beinsports/index.m3u8"
+        },
+        {
           "name": "Beinsportsxtra",
           "logo": "https://iptv-org.github.io/images/channels/beINSPORTSXTRA.us.png",
           "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8"
@@ -64065,6 +64070,11 @@
         {
           "name": "Antena1",
           "logo": "https://iptv-org.github.io/images/channels/Antena1.ro.png",
+          "url": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8"
+        },
+        {
+          "name": "Antena1",
+          "logo": "https://iptv-org.github.io/images/channels/Antena1.ro.png",
           "url": "https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8"
         },
         {
@@ -81603,6 +81613,11 @@
           "url": "https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8"
         },
         {
+          "name": "Nippontv",
+          "logo": "https://iptv-org.github.io/images/channels/NipponTV.jp.png",
+          "url": "https://ntv5.mov3.co/hls/ntv.m3u8"
+        },
+        {
           "name": "Qvc",
           "logo": "https://iptv-org.github.io/images/channels/QVC.jp.png",
           "url": "https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8"
@@ -81611,6 +81626,11 @@
           "name": "Shopchannel",
           "logo": "https://iptv-org.github.io/images/channels/ShopChannel.jp.png",
           "url": "https://stream3.shopch.jp/HLS/master.m3u8"
+        },
+        {
+          "name": "Tvtokyo",
+          "logo": "https://iptv-org.github.io/images/channels/TVTokyo.jp.png",
+          "url": "https://tvtokyo.mov3.co/hls/tvtokyo.m3u8"
         },
         {
           "name": "Weathernews",
@@ -89271,6 +89291,12 @@
       {
         "name": "Antena1",
         "logo": "https://iptv-org.github.io/images/channels/Antena1.ro.png",
+        "url": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8",
+        "country": "RO"
+      },
+      {
+        "name": "Antena1",
+        "logo": "https://iptv-org.github.io/images/channels/Antena1.ro.png",
         "url": "https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8",
         "country": "RO"
       },
@@ -94043,6 +94069,12 @@
         "logo": "https://iptv-org.github.io/images/channels/BeijingSatelliteTV.cn.png",
         "url": "http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8",
         "country": "China"
+      },
+      {
+        "name": "Beinsportsusa",
+        "logo": "https://iptv-org.github.io/images/channels/beINSportsUSA.us.png",
+        "url": "https://tvsen6.aynaott.com/beinsports/index.m3u8",
+        "country": "United States"
       },
       {
         "name": "Beinsportsxtra",
@@ -138175,6 +138207,12 @@
         "country": "United States"
       },
       {
+        "name": "Nippontv",
+        "logo": "https://iptv-org.github.io/images/channels/NipponTV.jp.png",
+        "url": "https://ntv5.mov3.co/hls/ntv.m3u8",
+        "country": "Japan"
+      },
+      {
         "name": "Nireekshanatv",
         "logo": "https://iptv-org.github.io/images/channels/NireekshanaTV.in.png",
         "url": "https://fta.ektv.in/live/706/master.m3u8",
@@ -175075,6 +175113,12 @@
         "country": "NP"
       },
       {
+        "name": "Tvtokyo",
+        "logo": "https://iptv-org.github.io/images/channels/TVTokyo.jp.png",
+        "url": "https://tvtokyo.mov3.co/hls/tvtokyo.m3u8",
+        "country": "Japan"
+      },
+      {
         "name": "Tvtorun",
         "logo": "https://iptv-org.github.io/images/channels/TVTorun.pl.png",
         "url": "http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8",
@@ -189348,6 +189392,13 @@
     {
       "name": "Antena1",
       "logo": "https://iptv-org.github.io/images/channels/Antena1.ro.png",
+      "url": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8",
+      "category": "General",
+      "country": "RO"
+    },
+    {
+      "name": "Antena1",
+      "logo": "https://iptv-org.github.io/images/channels/Antena1.ro.png",
       "url": "https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8",
       "category": "General",
       "country": "RO"
@@ -194916,6 +194967,13 @@
       "url": "http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8",
       "category": "General",
       "country": "China"
+    },
+    {
+      "name": "Beinsportsusa",
+      "logo": "https://iptv-org.github.io/images/channels/beINSportsUSA.us.png",
+      "url": "https://tvsen6.aynaott.com/beinsports/index.m3u8",
+      "category": "General",
+      "country": "United States"
     },
     {
       "name": "Beinsportsxtra",
@@ -246403,6 +246461,13 @@
       "country": "United States"
     },
     {
+      "name": "Nippontv",
+      "logo": "https://iptv-org.github.io/images/channels/NipponTV.jp.png",
+      "url": "https://ntv5.mov3.co/hls/ntv.m3u8",
+      "category": "General",
+      "country": "Japan"
+    },
+    {
       "name": "Nireekshanatv",
       "logo": "https://iptv-org.github.io/images/channels/NireekshanaTV.in.png",
       "url": "https://fta.ektv.in/live/706/master.m3u8",
@@ -289451,6 +289516,13 @@
       "url": "https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8",
       "category": "General",
       "country": "NP"
+    },
+    {
+      "name": "Tvtokyo",
+      "logo": "https://iptv-org.github.io/images/channels/TVTokyo.jp.png",
+      "url": "https://tvtokyo.mov3.co/hls/tvtokyo.m3u8",
+      "category": "General",
+      "country": "Japan"
     },
     {
       "name": "Tvtorun",
